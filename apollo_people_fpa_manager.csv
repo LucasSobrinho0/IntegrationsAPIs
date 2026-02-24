@@ -1,0 +1,67 @@
+organization_name,organization_domain,organization_website,person_id,first_name,last_name_obfuscated,title,has_email,has_direct_phone,last_refreshed_at
+C&A Brasil,cea.com.br,http://www.cea.com.br,57d47781a6da98538e78d89c,Cassio,Sc***i,FP&A Manager,True,Yes,2026-02-20T17:05:50.666+00:00
+C&A Brasil,cea.com.br,http://www.cea.com.br,616fb91ee524e30001739dbd,Veronica,Ma***a,FP&A Manager,True,Yes,2026-02-16T09:54:45.272+00:00
+C&A Brasil,cea.com.br,http://www.cea.com.br,67a88e49812e7900018fb340,Gabriela,Ta***i,FP&A Manager,True,Yes,2026-02-24T13:40:01.744+00:00
+C&A Brasil,cea.com.br,http://www.cea.com.br,54a20a1074686935be485507,Anderson,Ma***a,Gerente de Business Performance e FP&A,True,Yes,2026-02-04T15:16:48.785+00:00
+Dafiti,dafitigroup.com,http://www.dafitigroup.com,6851100a24cf370001ab7604,Simon,Yu***s,Financial Planning and Analysis Manager / FP&A Manager,True,Yes,2026-02-03T20:52:25.000+00:00
+Grupo Malwee,grupomalwee.com.br,http://www.grupomalwee.com.br,54c1606e7468697af76b6d04,Cleiton,Ca***o,FP&A Mananger,True,Yes,2026-02-03T03:21:50.000+00:00
+Mills,mills.com.br,http://www.mills.com.br,57d9a2a0a6da98724a5bf17a,Guilherme,Ma***i,Gerente de Contabilidade e FP&A,True,Yes,2026-01-30T14:12:04.000+00:00
+MOBILE,,,66fd1da9a3a37a0001177838,Yalda,Am***i,"FP&A Manager,",True,Yes,2026-02-14T18:08:02.724+00:00
+MOBILE,,,65e98b4099433e0007fc342d,Christiaan,Uys,FP&A Manager,False,Maybe: please request direct dial via people/bulk_match,2026-01-18T06:34:11.000+00:00
+MOBILE,,,60d0c99265282800014047f0,Klea,Dr***i,FP&A Manager,True,Yes,2026-02-24T12:44:07.455+00:00
+MOBILE,,,5d61cd93f6512534cac925bb,Kat,Da***s,Wireless FP&A - Manager,False,Yes,2026-01-13T03:10:39.000+00:00
+MOBILE,,,54a890f374686930ad74da00,Cale,Sc***r,Manager - FP&A,True,Yes,2026-02-18T03:58:06.000+00:00
+MOBILE,,,66f32bfcadf3d800011d85e6,Edan,Ca***n,"Senior Manager, FP&A",True,Yes,2026-01-29T06:23:22.000+00:00
+MOBILE,,,5ffa0b27ecb7440001c71f01,Bochen,Lu,"Finance Manager, FP&A",False,Yes,2026-01-21T15:44:42.000+00:00
+MOBILE,,,54c258c47468697af733e090,Scott,Ri***s,FP&A Senior Manager,True,Yes,2026-02-18T00:36:12.390+00:00
+MOBILE,,,54faeb40746869790fa63e01,Urmi,Ke***a,"Sr. Manager, FP&A",True,Yes,2026-02-15T07:24:23.282+00:00
+MOBILE,,,61656a49d2ca9d000122f0b6,Brian,Gr***r,"Finance Manager, FP&A",True,Yes,2026-02-09T04:27:45.000+00:00
+MOBILE,,,6690def675a5900001847acf,Selena,Jo***n,Financial Manager - FP&A,True,Maybe: please request direct dial via people/bulk_match,2026-02-12T06:39:11.000+00:00
+MOBILE,,,5f1e923bf7b50500da90d1aa,Shay,Hi***i,Senior FP&A Manager at Mobileye | Co-Founder & CEO,True,Yes,2026-02-20T13:22:50.384+00:00
+MOBILE,,,678f55cfdddeb10001b40a39,Eric,Zh***g,"Sr. Manager, Enterprise FP&A",True,Yes,2026-02-15T18:30:02.301+00:00
+MOBILE,,,67effa024606760001b2c3eb,Miguel,Ca***o,Wireless FP&A - Senior Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T06:08:41.371+00:00
+MOBILE,,,57dd4074a6da987ae490afdf,Jacob,Ma***s,"Sr. Finance Manager, FP&A",True,Yes,2026-02-09T05:23:22.000+00:00
+MOBILE,,,62bd82f90832f800012e3065,Nick,Da***s,Technology FP&A Finance Manager,True,Yes,2026-02-11T06:56:55.880+00:00
+MOBILE,,,54a5139f7468692fa284597b,Vivienne,,Sr. Finance Manager FP&A,True,Yes,2026-02-19T17:48:50.782+00:00
+MOBILE,,,5fe786cb51347e000138e306,Matthew,Th***n,"Sr. Finance Manager, FP&A",True,Yes,2026-02-17T09:15:39.000+00:00
+MOBILE,,,57d71164a6da98060fcaafbd,Aditya,Me***a,"Sr Finance Manager, FP&A",True,Yes,2026-02-20T11:03:43.564+00:00
+MOBILE,,,5e5c62088f05c4000110d9e7,Dalen,Wu***r,"Senior Manager, Finance | Corporate FP&A",True,Yes,2026-02-16T09:26:35.000+00:00
+MOBILE,,,61b487bd5c76c00001f5f295,Pankaj,Ch***k,Senior Manager FP&A,True,Yes,2026-02-14T06:15:25.000+00:00
+MOBILE,,,61181912fb93ee0001e634ff,Rich,Pu***y,Finance Manager - FP&A - Retail Wireless / Commercial Markets / 5G Network Infrastructure,True,Maybe: please request direct dial via people/bulk_match,2026-01-26T04:47:35.000+00:00
+MOBILE,,,54faf4db746869b5f8d43901,Yunhao,Tu,Finance Manager - IT FP&A (Cybersecurity & T-Mobile for Business Growth & Emerging Market),True,Maybe: please request direct dial via people/bulk_match,2026-02-18T12:45:03.728+00:00
+MOBILE,,,68662fce4849d900019f8d1d,Aye,Au***g,I am a Student.,False,Maybe: please request direct dial via people/bulk_match,2026-02-04T03:27:46.000+00:00
+MOBILE,,,54a5ff5f74686936769784b9,Sahad,Ku***l,I am a Tecniton,False,Maybe: please request direct dial via people/bulk_match,2026-01-12T16:49:52.000+00:00
+MOBILE,,,5f55f8f4880a4d000171a7fc,Derrick,As***r,Store Manager (A),True,Maybe: please request direct dial via people/bulk_match,2026-02-07T14:22:03.000+00:00
+MOBILE,,,62ebe7b4e6f20f0001edb3fd,Shakil,Ah***d,I am a Mobile Hardware Ingioner,False,Maybe: please request direct dial via people/bulk_match,2026-02-14T09:24:48.000+00:00
+MOBILE,,,54a226b77468692e71a77311,Myrtle,Ha***s,A/P Manager,False,Yes,2026-02-08T17:18:01.000+00:00
+MOBILE,,,5f0a11671126320001e5b4f7,Aritra,Gh***h,Samsung Accessories Manager a,True,Maybe: please request direct dial via people/bulk_match,2026-01-25T08:24:58.000+00:00
+MOBILE,,,5aabc4f9a6da98286621930b,Tina,Wo***k,Practice Manager for a Physician,False,Maybe: please request direct dial via people/bulk_match,2026-02-08T13:55:13.000+00:00
+MOBILE,,,54aaafbe7468690b759f7912,Michael,Bu***e,Construction/A&E Manager NE,True,Maybe: please request direct dial via people/bulk_match,2026-02-11T07:10:30.083+00:00
+MOBILE,,,62bd8d205b9a6f0001392259,Sandeep,Sh***a,Astt. Manager A&F,False,Maybe: please request direct dial via people/bulk_match,2026-02-16T02:48:11.000+00:00
+MOBILE,,,57d9f092a6da9875f49262ec,Shan,Ma***s,Manager a Nice,False,Maybe: please request direct dial via people/bulk_match,2026-02-11T16:17:56.000+00:00
+MOBILE,,,66a766009f5cea0001fce3c4,Deenanath,Gu***a,I am a Fresher,False,Maybe: please request direct dial via people/bulk_match,2026-01-25T16:50:54.000+00:00
+MOBILE,,,5f0fb0b056e0430001ab01e2,Sriya,Mc***m,Strategy and M&A Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-04T15:45:18.000+00:00
+MOBILE,,,5f0f562f081cae00016f4a78,Syed,Ra***a,"Game Producer @ Game District, A Seasoned Project Manager and UA Analyst With a Hands on Experience on Performance Testing and Publishing",False,Maybe: please request direct dial via people/bulk_match,2026-02-18T10:22:36.000+00:00
+MOBILE,,,54ec3a81746869444c5e4f6a,Dwight,Fr***n,I am a Current MBA Student,True,Yes,2026-01-15T06:04:56.658+00:00
+MOBILE,,,54a8898a746869334acf7f00,Wha,So***g,"Group Project Manager, HR M&A",False,Maybe: please request direct dial via people/bulk_match,2026-01-30T09:30:35.000+00:00
+MOBILE,,,654c733e050d0100016ff8dc,Veronica,Le,M&A Investment Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-10T08:54:01.992+00:00
+MOBILE,,,67ccc7bbe56dc60001b77f5a,Prabhjot,Ka***r,"Sr Manager, Global HR M&A Integration",False,Yes,2026-02-17T20:21:28.000+00:00
+MOBILE,,,57d33f23a6da9865d1569628,Kin,Ccl,I am a Beautiful,True,Maybe: please request direct dial via people/bulk_match,2026-01-18T12:05:50.422+00:00
+MOBILE,,,649d963d7793020001755a8e,Chirag,Gu***a,I am a Businessman and I am a Shopkeeper,False,Maybe: please request direct dial via people/bulk_match,2026-01-31T10:13:07.000+00:00
+MOBILE,,,651887dc6e294b0001e0a0e9,Ryan,Ho***e,Product Manager 5G as a Service for Government,False,Yes,2026-02-03T22:44:34.000+00:00
+MOBILE,,,5636c165a6da9814c000172d,David,Me***h,Regional Activation Manager (B/A),False,Maybe: please request direct dial via people/bulk_match,2026-01-12T02:33:04.000+00:00
+MOBILE,,,54a4cbc57468693442f82f64,Tammy,Ca***r,I am a Mobile Notary and Will Come to YOU for Your Notary Needs,False,Yes,2026-02-06T22:32:37.000+00:00
+MOBILE,,,6784e91b58a4840001938060,Subramonian,Ak,"Sr Technical Product Manager, M&A - Strategic Programs - Supply Chain & Customer Experience",False,Maybe: please request direct dial via people/bulk_match,2025-11-05T20:18:21.067+00:00
+MOBILE,,,62eb3c1cebd83e00016b44d9,Amir,Kh***n,I'm a Store Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-16T01:18:24.000+00:00
+MOBILE,,,5d6a3e7d80f93ea67b6656e8,Jan,Va***a,"B2B, B2C & Indirect Procurement Manager ve Společnosti T-Mobile Czech Republic a.s a Slovak",True,Yes,2026-02-16T20:39:51.578+00:00
+MOBILE,,,54a3b1db7468693b8cc8510b,Brian,Ri***e,SE Regional Product Sales Manager --wsmm/a&m Cold Storage,True,Yes,2026-02-06T20:45:59.000+00:00
+MOBILE,,,6428257fe796bd0001ff59e9,Victor,Eb***i,Am a Chif,False,Maybe: please request direct dial via people/bulk_match,2026-02-18T05:46:02.497+00:00
+MOBILE,,,5fcd815340c12b00011e5a4d,Manoj,Ku***r,Working as a Store Manager,False,Maybe: please request direct dial via people/bulk_match,2026-01-12T07:43:40.000+00:00
+MOBILE,,,6550026804abeb000195a0f7,Tyler,Cr***z,Am a Student,False,Maybe: please request direct dial via people/bulk_match,2026-01-09T17:19:18.703+00:00
+MOBILE,,,6544f74f23819e000103a6da,Sachin,Ka***a,In Vivo Moblile As a Team Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-17T15:02:22.000+00:00
+MOBILE,,,5b5629cb060cd40e5f1c3f71,Krupa,Pa***l,"Senior Manager, Finance - Financial Planning & Analysis",True,Maybe: please request direct dial via people/bulk_match,2026-02-20T12:58:33.338+00:00
+MOBILE,,,5e8635d5b8ce9900011fd4ca,Biplab,Roy,I am Currently Working as a Product & Branding Manager at Tripura,False,Maybe: please request direct dial via people/bulk_match,2026-01-29T00:30:04.000+00:00
+MOBILE,,,64231c131703f80001b96b82,Kreateng,Hub,I am a Research and Project Specialist,False,Maybe: please request direct dial via people/bulk_match,2025-11-19T20:12:59.000+00:00
+MOBILE,,,54a4794d74686938ac74b54a,Lynn,Ac***r,A/P Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-06T12:59:44.000+00:00
+MOBILE,,,66fa71c438c6fc0001f8abed,Andy,Lie,"Operations and Project Manager at Mobile.de, a Adevinta Company",True,Yes,2026-02-11T09:40:28.000+00:00
+MOBILE,,,67a1070d8d465c00017c0acf,Reem,Qa***a,"Looking for a Job, Communications Manager",False,Maybe: please request direct dial via people/bulk_match,2026-02-13T18:25:11.584+00:00

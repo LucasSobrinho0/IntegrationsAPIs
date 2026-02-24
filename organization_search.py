@@ -22,6 +22,9 @@ def organization_search(api_key: str, payload: dict) -> dict:
     if response.status_code == 401:
         raise RuntimeError(f"401 unauthorized. body: {response.text[:500]}")
 
+    if response.status_code == 403:
+        raise RuntimeError(f"403 forbidden. body: {response.text[:800]}")
+
     response.raise_for_status()
     return response.json()
 
@@ -44,7 +47,7 @@ if __name__ == "__main__":
 
     payload = {
         "page": 1,
-        "per_page": 73,
+        "per_page": 100,
         "organization_locations": ["Brazil"],
         "organization_industries": ["apparel & fashion", "architecture & planning", "furniture", "venture capital & private equity", "commercial real estate"],
         "organization_num_employees_ranges": ["1001,2000", "2001,5000", "5001,10000"],
