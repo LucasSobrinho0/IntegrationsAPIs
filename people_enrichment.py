@@ -7,184 +7,298 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+COLUNAS_CSV_SAIDA = [
+    "person_id",
+    "empresa",
+    "nome_pessoa",
+    "cargo",
+    "email",
+    "telefone",
+    "status_api",
+    "erro",
+]
 
-def build_headers(api_key: str) -> dict:
-    dash = chr(45)
+
+def construir_cabecalhos(api_key: str) -> dict:
+    """Monta os cabecalhos de autenticacao para a API da Apollo."""
+    separador = chr(45)
     return {
         "accept": "application/json",
-        "content" + dash + "type": "application/json",
-        "cache" + dash + "control": "no" + dash + "cache",
-        "x" + dash + "api" + dash + "key": api_key,
+        "content" + separador + "type": "application/json",
+        "cache" + separador + "control": "no" + separador + "cache",
+        "x" + separador + "api" + separador + "key": api_key,
     }
 
 
-def post_with_retry(
-    url: str, headers: dict, payload: dict, params: dict | None = None, max_retries: int = 5
+def post_com_tentativas(
+    url: str,
+    cabecalhos: dict,
+    corpo: dict,
+    parametros: dict | None = None,
+    max_tentativas: int = 5,
 ) -> dict:
-    wait_s = 2.0
-    for _ in range(max_retries):
-        response = requests.post(url, headers=headers, params=params, json=payload, timeout=60)
+    """Executa POST com retry exponencial para tratar limitacao 429."""
+    espera_segundos = 2.0
+    for _ in range(max_tentativas):
+        resposta = requests.post(
+            url,
+            headers=cabecalhos,
+            params=parametros,
+            json=corpo,
+            timeout=60,
+        )
 
-        if response.status_code == 429:
-            retry_after = response.headers.get("Retry-After")
-            header_wait = int(retry_after) if (retry_after and retry_after.isdigit()) else None
-            time.sleep(header_wait if header_wait is not None else wait_s)
-            wait_s = min(wait_s * 2, 60)
+        if resposta.status_code == 429:
+            retry_after = resposta.headers.get("Retry-After")
+            espera_header = int(retry_after) if (retry_after and retry_after.isdigit()) else None
+            time.sleep(espera_header if espera_header is not None else espera_segundos)
+            espera_segundos = min(espera_segundos * 2, 60)
             continue
 
-        if response.status_code in (401, 403, 422):
-            raise RuntimeError(f"{response.status_code}. body: {response.text[:2000]}")
+        if resposta.status_code >= 400:
+            raise RuntimeError(f"{resposta.status_code}. body: {resposta.text[:2000]}")
 
-        if response.status_code >= 400:
-            raise RuntimeError(f"{response.status_code}. body: {response.text[:2000]}")
-
-        return response.json()
+        return resposta.json()
 
     raise RuntimeError("429 persistente apos varias tentativas.")
 
 
-def read_people(path: str, n: int | None = None) -> list[dict]:
-    rows = []
-    with open(path, newline="", encoding="utf-8") as f:
-        r = csv.DictReader(f)
-        for i, row in enumerate(r):
-            if n is not None and i >= n:
+def carregar_linhas_csv(caminho_csv: str, limite_linhas: int | None = None) -> list[dict]:
+    """Le o CSV de entrada e devolve as linhas como dicionarios."""
+    linhas = []
+    with open(caminho_csv, newline="", encoding="utf-8") as arquivo:
+        leitor = csv.DictReader(arquivo)
+        for indice, linha in enumerate(leitor):
+            if limite_linhas is not None and indice >= limite_linhas:
                 break
-            rows.append(row)
-    return rows
+            linhas.append(linha)
+    return linhas
 
 
-def chunked(items: list[dict], size: int) -> list[list[dict]]:
-    return [items[i : i + size] for i in range(0, len(items), size)]
+def obter_chave_empresa(linha: dict) -> str:
+    """
+    Define uma chave estavel da empresa para deduplicar.
+    Prioridade: dominio -> website -> nome.
+    """
+    dominio = (linha.get("organization_domain") or "").strip().lower()
+    website = (linha.get("organization_website") or "").strip().lower()
+    nome = (linha.get("organization_name") or "").strip().lower()
 
-
-def pick_email(person: dict) -> str:
-    for key in ("personal_emails", "emails"):
-        v = person.get(key)
-        if isinstance(v, list) and v:
-            e0 = v[0]
-            if isinstance(e0, dict):
-                return e0.get("email") or ""
-            if isinstance(e0, str):
-                return e0
-    for key in ("email", "work_email"):
-        v = person.get(key)
-        if isinstance(v, str) and v:
-            return v
+    if dominio:
+        return f"dominio:{dominio}"
+    if website:
+        return f"website:{website}"
+    if nome:
+        return f"nome:{nome}"
     return ""
 
 
-def pick_phone(person: dict) -> str:
-    for key in ("phone_numbers", "phones"):
-        v = person.get(key)
-        if isinstance(v, list):
-            for ph in v:
-                if not isinstance(ph, dict):
-                    continue
-                num = ph.get("sanitized_number") or ph.get("raw_number") or ph.get("number") or ""
-                if num:
-                    return num
-    for key in ("direct_phone", "mobile_phone", "phone"):
-        v = person.get(key)
-        if isinstance(v, str) and v:
-            return v
-    return ""
+def selecionar_uma_pessoa_por_empresa(linhas: list[dict]) -> list[dict]:
+    """Mantem apenas a primeira pessoa encontrada para cada empresa."""
+    empresas_ja_vistas = set()
+    linhas_filtradas = []
+
+    for linha in linhas:
+        person_id = (linha.get("person_id") or "").strip()
+        if not person_id:
+            continue
+
+        chave_empresa = obter_chave_empresa(linha)
+        if not chave_empresa:
+            continue
+
+        if chave_empresa in empresas_ja_vistas:
+            continue
+
+        empresas_ja_vistas.add(chave_empresa)
+        linhas_filtradas.append(linha)
+
+    return linhas_filtradas
 
 
-def normalize_people(data: dict) -> list[dict]:
-    for key in ("people", "matches", "contacts"):
-        v = data.get(key)
-        if isinstance(v, list):
-            return [p for p in v if isinstance(p, dict)]
-    if isinstance(data.get("person"), dict):
-        return [data["person"]]
-    if isinstance(data, dict) and isinstance(data.get("id"), str):
-        return [data]
+def normalizar_pessoas_resposta(resposta_api: dict) -> list[dict]:
+    """Normaliza formatos possiveis da resposta da Apollo para lista de pessoas."""
+    for chave in ("people", "matches", "contacts"):
+        valor = resposta_api.get(chave)
+        if isinstance(valor, list):
+            return [pessoa for pessoa in valor if isinstance(pessoa, dict)]
+
+    if isinstance(resposta_api.get("person"), dict):
+        return [resposta_api["person"]]
+
+    if isinstance(resposta_api, dict) and isinstance(resposta_api.get("id"), str):
+        return [resposta_api]
+
     return []
 
 
-def save_enriched(rows: list[dict], filename: str) -> None:
-    with open(filename, mode="w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
-        w.writerow(["person_name", "company_name", "title", "email", "phone"])
-        for r in rows:
-            full_name = " ".join(
-                [(r.get("first_name") or "").strip(), (r.get("last_name") or "").strip()]
-            ).strip()
-            w.writerow(
-                [full_name, r.get("organization_name"), r.get("title"), r.get("email"), r.get("phone")]
-            )
+def extrair_email(pessoa_api: dict) -> str:
+    """Extrai o melhor email disponivel na resposta da pessoa."""
+    for chave in ("personal_emails", "emails"):
+        valor = pessoa_api.get(chave)
+        if isinstance(valor, list) and valor:
+            primeiro = valor[0]
+            if isinstance(primeiro, dict):
+                return (primeiro.get("email") or "").strip()
+            if isinstance(primeiro, str):
+                return primeiro.strip()
+
+    for chave in ("email", "work_email"):
+        valor = pessoa_api.get(chave)
+        if isinstance(valor, str) and valor:
+            return valor.strip()
+
+    return ""
 
 
-if __name__ == "__main__":
+def extrair_telefone(pessoa_api: dict) -> str:
+    """Extrai o primeiro telefone disponivel na resposta da pessoa."""
+    for chave in ("phone_numbers", "phones"):
+        valor = pessoa_api.get(chave)
+        if isinstance(valor, list):
+            for telefone in valor:
+                if not isinstance(telefone, dict):
+                    continue
+                numero = (
+                    telefone.get("sanitized_number")
+                    or telefone.get("raw_number")
+                    or telefone.get("number")
+                    or ""
+                )
+                if numero:
+                    return str(numero).strip()
+
+    for chave in ("direct_phone", "mobile_phone", "phone"):
+        valor = pessoa_api.get(chave)
+        if isinstance(valor, str) and valor:
+            return valor.strip()
+
+    return ""
+
+
+def montar_nome_pessoa(pessoa_api: dict, linha_origem: dict) -> str:
+    """Monta o nome da pessoa usando API e fallback do CSV de origem."""
+    primeiro_nome = (pessoa_api.get("first_name") or linha_origem.get("first_name") or "").strip()
+    sobrenome = (
+        pessoa_api.get("last_name")
+        or linha_origem.get("last_name")
+        or linha_origem.get("last_name_obfuscated")
+        or ""
+    ).strip()
+    return " ".join(parte for parte in [primeiro_nome, sobrenome] if parte).strip()
+
+
+def montar_nome_empresa(pessoa_api: dict, linha_origem: dict) -> str:
+    """Retorna o nome da empresa usando API com fallback para CSV."""
+    empresa_api = ""
+    organizacao = pessoa_api.get("organization")
+    if isinstance(organizacao, dict):
+        empresa_api = (organizacao.get("name") or "").strip()
+
+    if empresa_api:
+        return empresa_api
+    return (linha_origem.get("organization_name") or "").strip()
+
+
+def inicializar_csv_saida(caminho_csv_saida: str) -> None:
+    """Cria/reescreve o CSV de saida com cabecalho."""
+    with open(caminho_csv_saida, mode="w", newline="", encoding="utf-8") as arquivo_saida:
+        escritor = csv.DictWriter(arquivo_saida, fieldnames=COLUNAS_CSV_SAIDA)
+        escritor.writeheader()
+
+
+def main() -> None:
     api_key = os.getenv("MASTER_API_KEY")
     if not api_key:
         raise RuntimeError("MASTER_API_KEY nao encontrado no .env")
 
-    input_csv = os.getenv("INPUT_CSV", "apollo_people_fpa_manager.csv")
-    output_csv = os.getenv("OUTPUT_CSV", "apollo_people_fpa_manager_enriched.csv")
-    max_rows_env = (os.getenv("MAX_ROWS") or "").strip()
-    max_rows = int(max_rows_env) if max_rows_env.isdigit() else None
-    delay_s_env = (os.getenv("BATCH_DELAY_SECONDS") or "").strip()
-    delay_s = float(delay_s_env) if delay_s_env else 2.0
+    caminho_csv_entrada = os.getenv("INPUT_CSV", "apollo_people_fpa_manager.csv")
+    caminho_csv_saida = os.getenv(
+        "OUTPUT_CSV",
+        "apollo_people_fpa_manager_um_por_empresa_enriched.csv",
+    )
     webhook_url = (os.getenv("WEBHOOK_URL") or "").strip()
 
-    base = read_people(input_csv, n=max_rows)
-    unique_rows_by_id = {}
-    for row in base:
-        person_id = (row.get("person_id") or "").strip()
-        if person_id and person_id not in unique_rows_by_id:
-            unique_rows_by_id[person_id] = row
-    base = list(unique_rows_by_id.values())
+    max_rows_env = (os.getenv("MAX_ROWS") or "").strip()
+    limite_linhas = int(max_rows_env) if max_rows_env.isdigit() else None
 
-    headers = build_headers(api_key)
-    url_bulk = "https://api.apollo.io/api/v1/people/bulk_match"
-    enriched_rows = []
+    delay_env = (os.getenv("BATCH_DELAY_SECONDS") or "").strip()
+    atraso_entre_requisicoes = float(delay_env) if delay_env else 2.0
 
-    for batch in chunked(base, 10):
-        details = []
-        source_by_id = {}
-        for row in batch:
-            person_id = (row.get("person_id") or "").strip()
-            if not person_id:
-                continue
-            details.append({"id": person_id})
-            source_by_id[person_id] = row
+    linhas_entrada = carregar_linhas_csv(caminho_csv_entrada, limite_linhas)
+    linhas_unicas_empresa = selecionar_uma_pessoa_por_empresa(linhas_entrada)
+    if not linhas_unicas_empresa:
+        raise RuntimeError("Nenhuma linha valida encontrada para processar.")
 
-        if not details:
-            continue
+    inicializar_csv_saida(caminho_csv_saida)
 
-        payload = {"details": details}
-        params = {"reveal_personal_emails": "true"}
-        if webhook_url:
-            params["reveal_phone_number"] = "true"
-            params["webhook_url"] = webhook_url
+    cabecalhos = construir_cabecalhos(api_key)
+    url_bulk_match = "https://api.apollo.io/api/v1/people/bulk_match"
+    total_empresas = len(linhas_unicas_empresa)
 
-        data = post_with_retry(url_bulk, headers, payload, params=params, max_retries=5)
-        people = normalize_people(data)
+    with open(caminho_csv_saida, mode="a", newline="", encoding="utf-8") as arquivo_saida:
+        escritor = csv.DictWriter(arquivo_saida, fieldnames=COLUNAS_CSV_SAIDA)
 
-        for person in people:
-            person_id = (person.get("id") or "").strip()
-            src = source_by_id.get(person_id, {})
+        for indice, linha_origem in enumerate(linhas_unicas_empresa, start=1):
+            person_id = (linha_origem.get("person_id") or "").strip()
 
-            org_name = ""
-            org = person.get("organization")
-            if isinstance(org, dict):
-                org_name = org.get("name") or ""
+            linha_saida = {
+                "person_id": person_id,
+                "empresa": (linha_origem.get("organization_name") or "").strip(),
+                "nome_pessoa": montar_nome_pessoa({}, linha_origem),
+                "cargo": (linha_origem.get("title") or "").strip(),
+                "email": "",
+                "telefone": "",
+                "status_api": "ok",
+                "erro": "",
+            }
 
-            enriched_rows.append(
-                {
-                    "organization_name": src.get("organization_name") or org_name,
-                    "first_name": person.get("first_name") or src.get("first_name") or "",
-                    "last_name": person.get("last_name") or "",
-                    "title": person.get("title") or src.get("title") or "",
-                    "email": pick_email(person),
-                    "phone": pick_phone(person),
-                }
+            corpo = {"details": [{"id": person_id}]}
+            parametros = {"reveal_personal_emails": "true"}
+            if webhook_url:
+                parametros["reveal_phone_number"] = "true"
+                parametros["webhook_url"] = webhook_url
+
+            try:
+                resposta_api = post_com_tentativas(
+                    url=url_bulk_match,
+                    cabecalhos=cabecalhos,
+                    corpo=corpo,
+                    parametros=parametros,
+                    max_tentativas=5,
+                )
+                pessoas_api = normalizar_pessoas_resposta(resposta_api)
+                pessoa_api = pessoas_api[0] if pessoas_api else {}
+
+                if pessoa_api:
+                    linha_saida["empresa"] = montar_nome_empresa(pessoa_api, linha_origem)
+                    linha_saida["nome_pessoa"] = montar_nome_pessoa(pessoa_api, linha_origem)
+                    linha_saida["cargo"] = (
+                        pessoa_api.get("title") or linha_saida["cargo"] or ""
+                    ).strip()
+                    linha_saida["email"] = extrair_email(pessoa_api)
+                    linha_saida["telefone"] = extrair_telefone(pessoa_api)
+                else:
+                    linha_saida["status_api"] = "sem_resultado"
+                    linha_saida["erro"] = "API nao retornou pessoa para o person_id enviado."
+
+            except Exception as erro:
+                linha_saida["status_api"] = "erro"
+                linha_saida["erro"] = str(erro)[:1000]
+
+            # Persistencia por iteracao: grava e sincroniza no disco a cada pessoa.
+            escritor.writerow(linha_saida)
+            arquivo_saida.flush()
+            os.fsync(arquivo_saida.fileno())
+
+            print(
+                f"[{indice}/{total_empresas}] salvo em {caminho_csv_saida} | "
+                f"person_id={person_id} | status={linha_saida['status_api']}"
             )
+            time.sleep(atraso_entre_requisicoes)
 
-        print(f"lote processado: {len(details)} ids | retornados: {len(people)}")
-        time.sleep(delay_s)
+    print(f"ok: {caminho_csv_saida} | empresas processadas: {total_empresas}")
 
-    save_enriched(enriched_rows, output_csv)
-    print(f"ok: {output_csv} | pessoas enriquecidas: {len(enriched_rows)}")
+
+if __name__ == "__main__":
+    main()

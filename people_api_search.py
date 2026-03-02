@@ -7,6 +7,8 @@ import time
 
 load_dotenv()
 
+
+# Pesquisa de usuários
 def people_api_search(api_key: str, payload: dict) -> dict:
     url = "https://api.apollo.io/api/v1/mixed_people/api_search"
 
@@ -116,7 +118,7 @@ if __name__ == "__main__":
     if not api_key:
         raise RuntimeError("MASTER_API_KEY não encontrado no .env")
 
-    person_titles = ["fp&a manager", "fpa manager", "fp and a manager"]
+    person_titles = ["fp&a manager", "fpa manager", "fp and a manager", "Financial Supervisor", "IT Manager", ]
 
     orgs = read_organizations_csv("apollo_organizations.csv")
 
