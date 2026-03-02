@@ -11,17 +11,17 @@ MOBILE,,,65e98b4099433e0007fc342d,Christiaan,Uys,FP&A Manager,False,Maybe: pleas
 MOBILE,,,60d0c99265282800014047f0,Klea,Dr***i,FP&A Manager,True,Yes,2026-02-24T12:44:07.455+00:00
 MOBILE,,,5d61cd93f6512534cac925bb,Kat,Da***s,Wireless FP&A - Manager,False,Yes,2026-01-13T03:10:39.000+00:00
 MOBILE,,,54a890f374686930ad74da00,Cale,Sc***r,Manager - FP&A,True,Yes,2026-02-18T03:58:06.000+00:00
-MOBILE,,,66f32bfcadf3d800011d85e6,Edan,Ca***n,"Senior Manager, FP&A",True,Yes,2026-01-29T06:23:22.000+00:00
+MOBILE,,,66f32bfcadf3d800011d85e6,Edan,Ca***n,"Sr. Manager, FP&A",True,Yes,2026-02-23T12:31:21.176+00:00
+MOBILE,,,54faeb40746869790fa63e01,Urmi,Ke***a,"Sr. Manager, FP&A",True,Yes,2026-02-15T07:24:23.282+00:00
 MOBILE,,,5ffa0b27ecb7440001c71f01,Bochen,Lu,"Finance Manager, FP&A",False,Yes,2026-01-21T15:44:42.000+00:00
 MOBILE,,,54c258c47468697af733e090,Scott,Ri***s,FP&A Senior Manager,True,Yes,2026-02-18T00:36:12.390+00:00
-MOBILE,,,54faeb40746869790fa63e01,Urmi,Ke***a,"Sr. Manager, FP&A",True,Yes,2026-02-15T07:24:23.282+00:00
 MOBILE,,,61656a49d2ca9d000122f0b6,Brian,Gr***r,"Finance Manager, FP&A",True,Yes,2026-02-09T04:27:45.000+00:00
 MOBILE,,,6690def675a5900001847acf,Selena,Jo***n,Financial Manager - FP&A,True,Maybe: please request direct dial via people/bulk_match,2026-02-12T06:39:11.000+00:00
 MOBILE,,,5f1e923bf7b50500da90d1aa,Shay,Hi***i,Senior FP&A Manager at Mobileye | Co-Founder & CEO,True,Yes,2026-02-20T13:22:50.384+00:00
 MOBILE,,,678f55cfdddeb10001b40a39,Eric,Zh***g,"Sr. Manager, Enterprise FP&A",True,Yes,2026-02-15T18:30:02.301+00:00
 MOBILE,,,67effa024606760001b2c3eb,Miguel,Ca***o,Wireless FP&A - Senior Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T06:08:41.371+00:00
-MOBILE,,,57dd4074a6da987ae490afdf,Jacob,Ma***s,"Sr. Finance Manager, FP&A",True,Yes,2026-02-09T05:23:22.000+00:00
 MOBILE,,,62bd82f90832f800012e3065,Nick,Da***s,Technology FP&A Finance Manager,True,Yes,2026-02-11T06:56:55.880+00:00
+MOBILE,,,57dd4074a6da987ae490afdf,Jacob,Ma***s,"Sr. Finance Manager, FP&A",True,Yes,2026-02-09T05:23:22.000+00:00
 MOBILE,,,54a5139f7468692fa284597b,Vivienne,,Sr. Finance Manager FP&A,True,Yes,2026-02-19T17:48:50.782+00:00
 MOBILE,,,5fe786cb51347e000138e306,Matthew,Th***n,"Sr. Finance Manager, FP&A",True,Yes,2026-02-17T09:15:39.000+00:00
 MOBILE,,,57d71164a6da98060fcaafbd,Aditya,Me***a,"Sr Finance Manager, FP&A",True,Yes,2026-02-20T11:03:43.564+00:00
@@ -47,8 +47,8 @@ MOBILE,,,54a8898a746869334acf7f00,Wha,So***g,"Group Project Manager, HR M&A",Fal
 MOBILE,,,654c733e050d0100016ff8dc,Veronica,Le,M&A Investment Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-10T08:54:01.992+00:00
 MOBILE,,,67ccc7bbe56dc60001b77f5a,Prabhjot,Ka***r,"Sr Manager, Global HR M&A Integration",False,Yes,2026-02-17T20:21:28.000+00:00
 MOBILE,,,57d33f23a6da9865d1569628,Kin,Ccl,I am a Beautiful,True,Maybe: please request direct dial via people/bulk_match,2026-01-18T12:05:50.422+00:00
-MOBILE,,,649d963d7793020001755a8e,Chirag,Gu***a,I am a Businessman and I am a Shopkeeper,False,Maybe: please request direct dial via people/bulk_match,2026-01-31T10:13:07.000+00:00
 MOBILE,,,651887dc6e294b0001e0a0e9,Ryan,Ho***e,Product Manager 5G as a Service for Government,False,Yes,2026-02-03T22:44:34.000+00:00
+MOBILE,,,649d963d7793020001755a8e,Chirag,Gu***a,I am a Businessman and I am a Shopkeeper,False,Maybe: please request direct dial via people/bulk_match,2026-01-31T10:13:07.000+00:00
 MOBILE,,,5636c165a6da9814c000172d,David,Me***h,Regional Activation Manager (B/A),False,Maybe: please request direct dial via people/bulk_match,2026-01-12T02:33:04.000+00:00
 MOBILE,,,54a4cbc57468693442f82f64,Tammy,Ca***r,I am a Mobile Notary and Will Come to YOU for Your Notary Needs,False,Yes,2026-02-06T22:32:37.000+00:00
 MOBILE,,,6784e91b58a4840001938060,Subramonian,Ak,"Sr Technical Product Manager, M&A - Strategic Programs - Supply Chain & Customer Experience",False,Maybe: please request direct dial via people/bulk_match,2025-11-05T20:18:21.067+00:00
