@@ -1,1 +1,836 @@
 organization_name,organization_domain,organization_website,person_id,first_name,last_name_obfuscated,title,has_email,has_direct_phone,last_refreshed_at
+Facepa Fabrica de Papel da Amazonia S/A.,facepa.com.br,http://www.facepa.com.br,5f9974a8a1aaa70001154b4d,Nicea,Pe***a,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2025-07-07T08:23:25.817+00:00
+COLCCI,,,57d94919a6da98725ad9c65a,Valeska,Fe***a,Supervisora Comercial e Financeira,False,Maybe: please request direct dial via people/bulk_match,2026-01-28T14:59:21.000+00:00
+FREEWAY,freewayshoes.com.br,http://www.freewayshoes.com.br,60d319770a1cd20001e5ad5c,Edson,Ma***s,Gerente De T.i.,True,Maybe: please request direct dial via people/bulk_match,2026-01-22T14:26:55.782+00:00
+n g c,ngc.net.br,http://www.ngc.net.br,54c1f1147468697af7473961,Roderick,St***e,IT Project Manager,False,Yes,2026-02-09T07:20:03.260+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,55710acb7369646652710300,Kauan,Si***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-03T15:05:47.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,63a6e6a467c7640001f83f98,Pedro,Fi***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T20:50:44.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54ec4bae746869444c966679,Fernanda,Ag***r,FP&A Manager,True,Yes,2026-02-24T11:20:21.205+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5e87c6e5b4146e0001753171,Ahmed,Ab***b,FP&A Manager,True,Yes,2026-02-12T16:09:09.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5b65e183f874f70365ba8494,Tosveena,Th***s,FP&A Manager,True,Yes,2026-02-28T07:11:03.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6717f5270a32d300019769bf,Alexander,So***e,FP&A Manager,True,Yes,2026-02-15T12:01:02.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,66f11bc21e69200001daede0,Lauren,Mc***r,FP&A Manager,True,Yes,2026-02-09T23:37:52.141+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a13ac769702dac84640d01,Jonathan,Ga***n,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-30T05:54:51.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a2d3247468693fda71773f,Serene,Toh,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T11:29:58.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54ebd347746869444c509c2d,Fernando,Lu***o,FP&A Manager,True,Yes,2026-01-30T12:03:03.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,63e51b0672e1f00001a57717,Jose,Ju***r,FP&A Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-28T01:16:26.255+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5e7fb7025ed3250001a84d95,Dino,Be***r,FP&A Manager,True,Yes,2026-02-26T04:00:53.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,66e536961a065f00014899da,Evan,Ro***t,FP&A Manager,True,Yes,2026-02-13T06:29:51.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5b3683e9a6da980c752ace88,Ignacio,Ma***z,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T14:26:52.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57d4ce5fa6da9853d625fc7f,Toral,Mo***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-14T18:53:52.362+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5db73cebbb139a000167fbc4,Inderpal,Si***h,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-08T04:43:05.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6252f24bfb133600010f7adf,Grzegorz,Gl***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-03T15:40:40.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,631dbea8c06f180001e31540,Wyatt,Mi***r,FP&A Manager,True,Yes,2026-02-18T20:09:28.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5ac0f8d4a6da98cf6e29165b,Jeet,Sh***h,FP&A Manager,True,Yes,2026-02-05T06:15:54.969+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5570946373696425a6cd5a00,Yogesh,Wa***e,FP&A Manager,True,Yes,2026-02-24T17:06:39.395+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6597ed83fc0657000163758a,Plinio,Na***o,FP&A / Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-03T07:17:16.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,68d389996ac13400014476e5,Sofie,Wo***s,FP&A Manager,True,Yes,2026-02-26T05:02:36.619+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5d57f335a3ae61ce67b27680,Christopher,Ro***e,FP&A Manager,True,Yes,2026-01-17T09:17:57.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,60309b890322d80001148167,Valeria,Af***o,FP&A Manager,True,Yes,2026-02-01T19:44:24.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54aa8c5d7468692366b3ac0a,Edmund,Mu***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T08:11:21.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,63a6e6a467c7640001f83f98,Pedro,Fi***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T20:50:44.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54c258287468697af7c8b090,Ian,Wa***n,FP&A Manager,True,Yes,2026-02-28T05:55:09.087+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a2d1b67468693fdaa90a3f,Mareike,Mo***l,FP&A Manager,True,Yes,2026-01-24T03:19:27.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,632068d6444337000192b02e,Marco,Co***i,FP&A Manager,True,Yes,2026-01-23T14:00:42.755+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54abae3d7468692ca143af05,Paul,Ra***n,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-04T03:45:26.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57d949b3a6da9872729be36b,Sikandar,Ha***d,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-03T02:14:50.672+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5f6314d0b1d1be000129ef79,Julia,Fl***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T03:30:11.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54ebd347746869444c509c2d,Fernando,Lu***o,FP&A Manager,True,Yes,2026-01-30T12:03:03.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5dfd46c72f06ac00011b8c4c,Maggie,Pa***s,FP&A Manager,True,Yes,2026-02-18T10:15:13.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,610ab8be0098960001cdafb2,Alysson,Sa***s,FP&A Manager,True,Yes,2026-02-04T18:35:11.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,60d168a40c662e000154d43a,James,He***g,FP&A Manager,True,Yes,2026-02-23T12:14:57.114+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a3c9ff7468693b8c7dc512,Kyle,Da***y,FP&A Manager,True,Yes,2026-02-24T04:23:55.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57e19220a6da987d9c4927ba,Subhajit,Be***a,FP&A Manager,True,Yes,2026-02-14T23:48:11.745+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57da392aa6da984a384add8d,Valentina,Ti***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T18:18:09.736+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,66f7aafea26e730001863270,Pauline,Co***x,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T14:04:50.674+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a4acf7746869367620185a,Jim,Mu***a,FP&A Manager,True,Yes,2026-02-24T12:21:58.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,55712fc57369645322110500,Brett,Na***u,FP&A Manager,True,Yes,2026-02-24T13:29:51.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5f4e5a65091cf40001e32de3,Alia,Ca,FP&A Manager,True,Yes,2026-02-24T11:05:33.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5f4c81c34ac64100017b90ba,Karina,Ka***a,FP&A Manager,True,Yes,2026-02-10T10:14:45.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,658a5969c195ff0001af7abc,Parth,Sh***h,FP&A Manager,True,Yes,2026-02-04T03:35:22.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6610caebbc395600073b7632,Mateusz,Cy***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-07T01:51:57.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,619769921f1e33000164f59e,Nara,Vi***a,FP&A Manager,True,Yes,2026-02-19T11:23:51.603+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,63f871075998c70001a20dfb,Megan,Yu,FP&A Manager,True,Yes,2026-02-24T11:56:08.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5ad9353aa6da986244370b56,Sean,Be***e,FP&A Manager,True,Yes,2026-02-04T23:08:01.884+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5ac0f8d4a6da98cf6e29165b,Jeet,Sh***h,FP&A Manager,True,Yes,2026-02-05T06:15:54.969+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57e125f9a6da987d7c323431,Mehtap,Te***r,FP&A Manager,True,Yes,2026-02-12T01:26:35.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54ec56607468694311c24081,Scott,Re***g,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-23T04:59:11.375+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,66f7aafea26e730001863270,Pauline,Co***x,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T14:04:50.674+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a811cd746869705a55475f,Toyin,Ol***e,FP&A Manager,True,Yes,2026-02-03T11:50:18.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57d81cbba6da9809ee491a1f,Nitin,Si***h,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T06:25:44.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,55712fc57369645322110500,Brett,Na***u,FP&A Manager,True,Yes,2026-02-24T13:29:51.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5f4e5a65091cf40001e32de3,Alia,Ca,FP&A Manager,True,Yes,2026-02-24T11:05:33.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,658a5969c195ff0001af7abc,Parth,Sh***h,FP&A Manager,True,Yes,2026-02-04T03:35:22.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,67a2f611da6b20000182c6a0,Chime,Kho,FP&A Manager,True,Yes,2026-02-16T20:18:33.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54abae3d7468692ca143af05,Paul,Ra***n,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-04T03:45:26.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6610caebbc395600073b7632,Mateusz,Cy***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-07T01:51:57.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,619769921f1e33000164f59e,Nara,Vi***a,FP&A Manager,True,Yes,2026-02-19T11:23:51.603+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5d146315a3ae61cca9937f35,Iago,Al***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-30T10:06:05.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,63f871075998c70001a20dfb,Megan,Yu,FP&A Manager,True,Yes,2026-02-24T11:56:08.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,604986eeac2d2a000191aa7b,Naynesh,Th***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-27T19:26:17.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5ad9353aa6da986244370b56,Sean,Be***e,FP&A Manager,True,Yes,2026-02-04T23:08:01.884+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,60a40d8bc201db0001ee4261,Mark,Az***n,FP&A Manager,True,Yes,2026-02-28T19:01:02.848+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,60f85bea53ff1100018fabad,Edson,To***o,FP&A Manager,True,Yes,2026-01-22T14:49:39.300+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5b8f6e9ff874f74e680a70b2,Ashley,Co***t,FP&A Manager,True,Yes,2026-02-03T09:39:28.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5f4cd9883c83a600013a3ce0,Shipra,Ki***y,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T16:14:33.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,610fd4e97055a1000166788a,Clara,Pe***m,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-27T03:38:44.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,61f37bab64f2680001cceef3,Jennifer,Re***e,FP&A Manager,True,Yes,2026-02-25T12:43:08.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5fbe217dce624700011911bd,Elaine,Ga***r,FP&A Manager,True,Yes,2026-02-06T12:13:59.642+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6167f35f5a671300012dacc0,Yufei,Sh***n,FP&A Manager,True,Yes,2026-02-17T06:07:02.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,564f5b69a6da982f430043de,Yehia,Th***t,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T05:45:56.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6167f35f5a671300012dacc0,Yufei,Sh***n,FP&A Manager,True,Yes,2026-02-17T06:07:02.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a495e07468693442a51553,Terrence,Sh***y,FP&A Manager,True,Yes,2026-02-27T18:30:24.444+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54c1789f74686916396ba912,Celina,How,FP&A Manager,True,Yes,2026-02-18T20:22:17.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,626f87287dbeea0001eb8d4c,Alexandra,Se***a,FP&A Manager,True,Yes,2026-02-24T10:00:06.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,649626bea658f2000106129b,Goncalo,Ma***s,FP&A Manager,True,Yes,2026-02-27T05:59:49.855+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5ab01f0fa6da98bee3426aa7,Marcio,Go***s,FP&A Manager,True,Yes,2026-02-14T09:10:17.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,562ed481a6da98688c000bee,Corentin,Ge***e,FP&A Manager,True,Yes,2026-02-03T07:03:20.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57d83d3ba6da980a3d7b2672,Marco,Gu***n,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-06T20:53:13.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,614189c3e04aa50001496f66,Adam,De***d,FP&A Manager,True,Yes,2026-02-10T11:06:06.772+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,673c2d14871bb40001d7d72a,Irena,Ba***v,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-18T03:22:21.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54eb20a474686931b8a96b09,Ariel,Az***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-12T07:46:54.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57da4255a6da984a384b1f9a,Max,Me***k,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T04:31:52.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5aa77669a6da98a3208f7861,Andrea,Mi***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-24T10:01:22.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57d85d3fa6da98787bbf9707,Justin,Ha***s,FP&A Manager,True,Yes,2026-02-17T13:41:35.576+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a7a096746869705a654847,Erika,Lo***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T10:55:59.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,66fb08f6d1617900012c18c3,Mike,Fa***r,FP&A Manager,True,Yes,2026-02-26T04:53:42.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,60594cd041643e0001ddb174,Abigail,Kn***t,FP&A Manager,True,Yes,2026-01-30T07:05:45.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a335b87468693825b7a85c,Javier,Ar***o,FP&A Manager,True,Yes,2026-02-26T18:16:08.236+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a3adfa7468693b8c86120a,Marcus,Ma***s,FP&A Manager,True,Yes,2026-03-02T01:42:48.309+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6214a7186e03af000167de00,Ryan,Fl***d,FP&A Manager,True,Yes,2026-02-14T05:21:39.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5d68aa90f651252493dea361,Ben,Ha***n,FP&A Manager,True,Yes,2026-02-12T04:26:28.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5e696c047cb58100012c0d07,James,Jo***n,FP&A Manager,True,Yes,2026-02-13T06:35:30.584+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5f0d4e0b81f33b000164e7aa,Lukas,Bo***i,FP&A Manager,True,Yes,2026-02-24T15:19:57.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5b898a52324d446ae31c80a3,Alysson,Fa***a,FP&A Manager,True,Yes,2026-02-12T13:34:22.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5d5aeb74f65125233f64e1f6,Clare,Bu***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-17T19:19:53.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,63df2d032997c50001a3959c,Anna,Be***a,FP&A Manager,True,Yes,2026-02-21T06:15:38.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,66480a3a8ab0f30001b11929,Ricardo,Ca***o,FP&A Manager,True,Yes,2026-02-07T05:34:52.488+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,55702b75736964470591aa00,Luiz,Mo***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-26T00:47:38.469+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5ffaabb12b5a93000153ed40,Adam,Sp***k,FP&A Manager,True,Yes,2026-02-24T12:23:35.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6197274f0a1f810001c8584d,Florian,Di***d,FP&A Manager,True,Yes,2026-02-09T10:14:35.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,62c1f0b8a29bff000153cb9b,Pierre,Ge***n,FP&A Manager,True,Yes,2026-02-21T23:41:53.678+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5ae77cc3a6da9841aac7282c,Mariana,Fe***a,FP&A Manager,True,Yes,2026-02-21T03:29:49.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a5dc897468693209b2c7ae,Louis,Li***i,FP&A Manager,True,Yes,2026-02-18T19:22:29.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,659843e89ec3b40001070675,Dan,Ca***s,FP&A Manager,True,Yes,2026-02-07T12:05:03.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a4b8e47468693b8c63165e,Maria,Le***n,FP&A Manager,True,Yes,2026-02-17T04:20:29.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6353cfe5308d6a0001dc6453,Catalina,Ti***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-06T03:16:01.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,64cd747951132100010e7018,Nicolas,Wa***k,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-26T11:47:15.997+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,61b8e9b44f28cb0001e9d3da,Leonardo,Yo***e,FP&A Manager,True,Yes,2026-02-09T06:14:39.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,63a2f3bb594cb9000178aceb,Zbigniew,Wr***z,FP&A Manager,True,Yes,2026-02-16T10:31:14.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,60594cd041643e0001ddb174,Abigail,Kn***t,FP&A Manager,True,Yes,2026-01-30T07:05:45.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,66600bdb495c070001c4b176,Robert,Wa***e,FP&A Manager,True,Yes,2026-02-24T09:17:04.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,570efb6df3e5bb78e60be506,Brian,Ha***e,FP&A Manager,True,Yes,2026-02-08T19:31:43.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6107ae0b4a47370001f45e46,Silvana,Vaz,FP&A Manager,True,Yes,2026-01-27T14:48:38.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6008bbf4d559320001590c9e,Matthew,Ar***r,FP&A Manager,True,Yes,2026-02-24T07:00:18.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a7446a74686965d92aad24,Leandro,Ki***o,FP&A Manager,True,Yes,2026-02-15T20:13:22.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57da4255a6da984a384b1f9a,Max,Me***k,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T04:31:52.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5aa77669a6da98a3208f7861,Andrea,Mi***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-24T10:01:22.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,673c2d14871bb40001d7d72a,Irena,Ba***v,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-18T03:22:21.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,614189c3e04aa50001496f66,Adam,De***d,FP&A Manager,True,Yes,2026-02-10T11:06:06.772+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54eb20a474686931b8a96b09,Ariel,Az***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-12T07:46:54.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,62b72581cd99550001ae52df,Carrie,Ad***s,FP&A Manager,True,Yes,2026-02-18T04:16:19.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,60c2f1ea4ae8dc0001174141,Kaela,Ma***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-25T20:19:59.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5d5dd27180f93ef0ce199baf,Tyler,Ba***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-16T08:40:52.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a54a337468693676330d8c,Danielle,Fo***y,FP&A Manager,True,Yes,2026-02-21T09:41:27.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,64ed302455f8b800012c98e9,Edgar,Al***z,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T16:23:48.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,66f7fa0744866a0001db0c5d,Michelle,Wo***g,FP&A Manager,True,Yes,2026-02-26T17:04:45.961+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,611b99b00504e30001c12cf1,Krista,He***n,FP&A Manager,True,Yes,2026-02-11T17:01:04.485+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,672e660364817200011154e0,Oscar,Va***z,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-11T10:02:15.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a20fb374686930c2b53c09,Joris,Ai***i,FP&A Manager,True,Yes,2026-02-19T11:24:40.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,62021a8fa67af8000126d49b,Elly,Lu***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-09T06:38:46.079+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54aaf1697468690b75313c1c,Micael,Am***m,FP&A Manager,True,Yes,2026-02-03T09:41:05.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5e71dfd42ffd870001831aa5,Sophie,Ca***n,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-14T03:53:34.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,64f6e85b60b9380001c78889,CA,Jh***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-03T09:22:39.172+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,63df2d032997c50001a3959c,Anna,Be***a,FP&A Manager,True,Yes,2026-02-21T06:15:38.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5ccddf22a3ae61d1f4f4563e,Brandon,We***b,FP&A Manager,True,Yes,2026-02-21T05:52:10.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,55e49d93f3e5bb0e80001528,Stephan,Ra***r,FP&A Manager,True,Yes,2026-02-14T07:11:28.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5ab01f0fa6da98bee3426aa7,Marcio,Go***s,FP&A Manager,True,Yes,2026-02-14T09:10:17.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,671cb93ee034dc000127561c,Ignacio,Ga***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-02T18:34:17.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5f6d6e4bc20210000176d38c,Oralia,Ro***z,FP&A Manager,True,Yes,2026-02-28T08:51:32.211+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,63d2b1b9cd8aae00018bb644,Carlos,Do***n,FP&A Manager,True,Yes,2026-02-02T13:20:32.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5ffaabb12b5a93000153ed40,Adam,Sp***k,FP&A Manager,True,Yes,2026-02-24T12:23:35.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,62c1f0b8a29bff000153cb9b,Pierre,Ge***n,FP&A Manager,True,Yes,2026-02-21T23:41:53.678+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5ae77cc3a6da9841aac7282c,Mariana,Fe***a,FP&A Manager,True,Yes,2026-02-21T03:29:49.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a5dc897468693209b2c7ae,Louis,Li***i,FP&A Manager,True,Yes,2026-02-18T19:22:29.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,659843e89ec3b40001070675,Dan,Ca***s,FP&A Manager,True,Yes,2026-02-07T12:05:03.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5e8157379ef32300018d3399,Borja,Or***z,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-03T17:51:28.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6105190e34945b0001fef932,Paul,Bo***t,FP&A Manager,True,Yes,2026-02-22T17:04:34.697+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5e83dfe5b6b8660001e6ade0,Donte,Pa***e,FP&A Manager,True,Yes,2026-02-10T23:07:55.210+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,66f5d479b75ee000010c8fe9,Hailing,Gu***n,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-11T23:29:40.516+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57d7e283a6da9809def0d754,Jenny,Pa***h,FP&A Manager,True,Yes,2026-02-19T09:08:24.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a556c2746869367663ed8f,Fahad,Qu***i,FP&A Manager,True,Yes,2026-02-25T17:49:35.856+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5e624650d92591000167abc5,Bharat,Bo***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T04:02:22.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a601e374686938acdac1ba,Guillaume,Re***n,FP&A Manager,True,Yes,2026-02-19T10:40:04.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5f5a7f90a3f9b10001d5d6b5,Kaitlyn,Br***y,FP&A Manager,True,Yes,2026-02-23T03:23:39.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57dfcec7a6da980b5c79616d,Manuel,Ba***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T11:22:06.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6226fbb221801800019ac002,Marriam,Ak***r,FP&A Manager,True,Yes,2026-02-28T12:08:22.240+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a61dcd7468692abfaba0c3,Greg,Sw***t,FP&A Manager,True,Yes,2026-02-17T04:51:59.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57e00103a6da980b1ddf375e,Jacob,Sp***y,FP&A Manager,True,Yes,2026-02-09T05:19:04.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5cd2f26bf65125eb2f8789ec,Shelly,Tr***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T07:52:19.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,64ed2790453b5d0001c815e1,Ian,Hi***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-26T04:25:51.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,671a97c225cd780001fbc42e,Mark,Wi***s,FP&A - Manager,True,Yes,2026-02-09T10:57:19.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,611d00069dfc590001ed66ee,Mark,Mu***l,FP&A Manager,True,Yes,2026-02-20T23:44:01.760+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,557147ce73696458a4942800,Ramy,Wi***m,FP&A Manager,True,Yes,2026-02-16T04:51:08.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5b408ac5a6da984c07d14aa2,Adam,Pa***r,FP&A Manager,True,Yes,2026-02-03T07:02:42.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,685cef126348e800016d9ebe,Jessica,Co***n,FP&A Manager,True,Yes,2026-02-24T12:59:48.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5e845c609f25ca000175c290,Carolina,Ro***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-15T03:35:42.646+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57def363a6da987b4d991ed0,Will,Wa***e,FP&A Manager,True,Yes,2026-02-16T12:08:50.987+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a554097468692cf0fd318f,Carlo,Be***n,FP&A Manager,True,Yes,2026-02-15T16:37:50.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54aaf1697468690b75313c1c,Micael,Am***m,FP&A Manager,True,Yes,2026-02-03T09:41:05.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5c5d035ef651251d3f4f0254,Lisa,Hu***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T04:20:39.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5f586d4c40d3ff0001dc1a9c,Nobin,Ta***r,FP&A Manager,True,Yes,2026-02-16T06:02:47.817+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,63a2fa995ec390000135f48f,Cedric,Pi***t,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-23T17:43:44.511+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a4ad3974686938ace99f5a,Julio,Ga***a,FP&A Manager,True,Yes,2026-02-10T18:18:04.356+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5b1f0adfa6da98e234d3ec88,Marina,To***s,FP&A Manager,True,Yes,2026-02-14T09:01:43.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,55e2de95f3e5bb5841006f23,Allison,La***a,FP&A Manager,True,Yes,2026-02-22T04:07:28.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,619738b5e715980001a1e30c,Ofir,Ka***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-09T09:19:45.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57e125f9a6da987d7c323431,Mehtap,Te***r,FP&A Manager,True,Yes,2026-02-12T01:26:35.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a44e0a746869320976293d,Leticia,Fu***n,FP&A Manager,True,Yes,2026-02-26T17:17:14.093+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57d99504a6da98728afffad6,Quinton,Fi***d,FP&A Manager,True,Yes,2026-02-06T14:47:17.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6768a9adb5b44f00010bfa16,Jorge,Ar***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-17T09:53:47.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,614d537044037900017c7aaf,Blake,Le***i,FP&A Manager,True,Yes,2026-02-01T15:53:15.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6040e6bf5e662c0001519acd,Waldecio,Ju***r,FP&A Manager,True,Yes,2026-02-15T01:47:49.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,692b893811b31f0001f1d3df,Gabriel,Ce***o,FP&A Manager,True,Yes,2026-02-12T07:15:53.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a811cd746869705a55475f,Toyin,Ol***e,FP&A Manager,True,Yes,2026-02-03T11:50:18.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57d4ea4da6da98537a4536d7,Clare,Ta***l,FP&A Manager,True,Yes,2026-02-21T05:04:50.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a1c74674686942d33c6e10,Cynthia,Mi***u,FP&A Manager,True,Yes,2026-02-06T08:51:11.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6359fd05d2ff7f000191ed91,Jeffrey,Kim,FP&A Manager,True,Yes,2026-02-24T07:15:18.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6105190e34945b0001fef932,Paul,Bo***t,FP&A Manager,True,Yes,2026-02-22T17:04:34.697+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,66f5d479b75ee000010c8fe9,Hailing,Gu***n,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-11T23:29:40.516+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,63a2f3bb594cb9000178aceb,Zbigniew,Wr***z,FP&A Manager,True,Yes,2026-02-16T10:31:14.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a71cbd74686975f8d28016,Alex,Cr***n,FP&A Manager,True,Yes,2026-02-28T13:34:28.076+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5de2ad189f813f0001ff5a1a,Kendall,Sm***t,FP&A Manager,True,Yes,2026-02-24T10:34:28.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6490d068efef21000118e6cc,Ben,Kl***h,FP&A Manager,True,Yes,2026-02-03T12:34:46.359+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a387fd7468693676387501,Vilma,Ju***e,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-18T18:59:55.440+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5d146315a3ae61cca9937f35,Iago,Al***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-30T10:06:05.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5f586d4c40d3ff0001dc1a9c,Nobin,Ta***r,FP&A Manager,True,Yes,2026-02-16T06:02:47.817+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,64ed302455f8b800012c98e9,Edgar,Al***z,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T16:23:48.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a4ad3974686938ace99f5a,Julio,Ga***a,FP&A Manager,True,Yes,2026-02-10T18:18:04.356+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5b1f0adfa6da98e234d3ec88,Marina,To***s,FP&A Manager,True,Yes,2026-02-14T09:01:43.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,55e2de95f3e5bb5841006f23,Allison,La***a,FP&A Manager,True,Yes,2026-02-22T04:07:28.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57e125f9a6da987d7c323431,Mehtap,Te***r,FP&A Manager,True,Yes,2026-02-12T01:26:35.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57d99504a6da98728afffad6,Quinton,Fi***d,FP&A Manager,True,Yes,2026-02-06T14:47:17.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,614d537044037900017c7aaf,Blake,Le***i,FP&A Manager,True,Yes,2026-02-01T15:53:15.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,63a2fa995ec390000135f48f,Cedric,Pi***t,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-23T17:43:44.511+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5dca6ce21b3f9d0001379d7d,Eugen,Me***c,FP&A Manager,True,Yes,2026-02-17T04:55:38.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a811cd746869705a55475f,Toyin,Ol***e,FP&A Manager,True,Yes,2026-02-03T11:50:18.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a1c74674686942d33c6e10,Cynthia,Mi***u,FP&A Manager,True,Yes,2026-02-06T08:51:11.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,62f474ac0bd7f00001f184f2,Gal,Ka***h,FP&A Manager,True,Yes,2026-02-01T03:33:28.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6359fd05d2ff7f000191ed91,Jeffrey,Kim,FP&A Manager,True,Yes,2026-02-24T07:15:18.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6105190e34945b0001fef932,Paul,Bo***t,FP&A Manager,True,Yes,2026-02-22T17:04:34.697+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5e71dfd42ffd870001831aa5,Sophie,Ca***n,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-14T03:53:34.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,66f5d479b75ee000010c8fe9,Hailing,Gu***n,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-11T23:29:40.516+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6040e6bf5e662c0001519acd,Waldecio,Ju***r,FP&A Manager,True,Yes,2026-02-15T01:47:49.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5de2ad189f813f0001ff5a1a,Kendall,Sm***t,FP&A Manager,True,Yes,2026-02-24T10:34:28.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5acb4fb6a6da98c5fef7a11c,Ben,An***n,FP&A Manager,True,Yes,2026-02-18T19:56:33.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,63d2b1b9cd8aae00018bb644,Carlos,Do***n,FP&A Manager,True,Yes,2026-02-02T13:20:32.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,60397664f9580b00016d1527,Paulo,Je***i,FP&A Manager,True,Yes,2026-02-26T12:16:07.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5dcd1cf38cbef60001f01b1d,Emma,Ho***n,FP&A Manager,True,Yes,2026-02-24T08:49:06.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a387fd7468693676387501,Vilma,Ju***e,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-18T18:59:55.440+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5d146315a3ae61cca9937f35,Iago,Al***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-30T10:06:05.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5dcd1cf38cbef60001f01b1d,Emma,Ho***n,FP&A Manager,True,Yes,2026-02-24T08:49:06.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54a387fd7468693676387501,Vilma,Ju***e,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-18T18:59:55.440+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5d146315a3ae61cca9937f35,Iago,Al***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-30T10:06:05.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57d49b75a6da98537ed287cc,Will,Pa***y,FP&A Manager,True,Yes,2026-03-01T17:05:29.373+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,604986eeac2d2a000191aa7b,Naynesh,Th***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-27T19:26:17.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,621da90a36b20400013050cb,Camron,Wh***e,FP&A Manager,True,Yes,2026-02-26T11:16:47.383+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5f5a7f90a3f9b10001d5d6b5,Kaitlyn,Br***y,FP&A Manager,True,Yes,2026-02-23T03:23:39.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,56456da0a6da984f9700ecdf,Marcel,Cr***g,FP&A Manager,True,Yes,2026-02-21T03:17:57.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,625520df0b568600016ba284,Cristina,Lu***u,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-30T12:03:49.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57dfcec7a6da980b5c79616d,Manuel,Ba***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T11:22:06.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,61222628bf66b800019b7f0b,Jessie,So***g,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T05:00:53.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,658e4ec63046960001827d4c,Carlo,Si***a,FP&A Manager,True,Yes,2026-02-28T05:39:56.906+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,54c1a3f57468691639e2432e,Mark,Rai,FP&A Manager,True,Yes,2026-02-24T11:10:43.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,6005bfd335729e0001772c09,Jack,Ho***n,FP&A Manager,True,Yes,2026-02-28T11:10:05.396+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,62b5cbff22afa10001e29387,Jake,Be***n,FP&A Manager,True,Yes,2026-02-10T18:23:55.905+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5cd2f26bf65125eb2f8789ec,Shelly,Tr***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T07:52:19.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57d4e946a6da9853ae9073f6,Joel,Ra***f,FP&A Manager,True,Yes,2026-02-21T04:42:05.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,671a97c225cd780001fbc42e,Mark,Wi***s,FP&A - Manager,True,Yes,2026-02-09T10:57:19.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5e7c280771f7e90001bb0df3,Dayo,Ba***e,FP&A Manager,True,Yes,2026-02-07T00:33:28.690+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5c6ce80cf65125ec1e0208a5,Anthony,Lee,FP&A Manager,True,Yes,2026-02-24T13:26:16.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,57d9af7aa6da98721eb8fe51,Danielle,Wa***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-08T05:23:43.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,55710a7773696431305f0200,Paola,Mo***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-15T00:47:18.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,684661a1651a3a0001267074,Rotem,Gh***z,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T11:01:12.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,614ec2e74d9927000169ac1f,Lara,Ga***z,FP&A Manager,True,Yes,2026-02-02T22:03:26.000+00:00
+Vulcabras|azaleia CE,calçados e artigos esportivos s.a.,Calçados e Artigos Esportivos S.A.,5acb4fb6a6da98c5fef7a11c,Ben,An***n,FP&A Manager,True,Yes,2026-02-18T19:56:33.000+00:00
+Alfa,,,57d499b2a6da9853ae8dbad2,Petter,Jo***n,FP&A Manager,True,Yes,2026-02-11T07:00:43.000+00:00
+Alfa,,,54a6effe746869705a7a1a06,Mirko,Lo***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-14T20:37:31.484+00:00
+Alfa,,,64ed302455f8b800012c98e9,Edgar,Al***z,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T16:23:48.000+00:00
+Alfa,,,66d18a86c067a200019da541,Tatyana,Do***a,"FP&A Manager, Finance Business Partner (Treasury)",False,Maybe: please request direct dial via people/bulk_match,2026-01-24T10:56:29.000+00:00
+Alfa,,,6824ac9efb27e100014e3f47,Ademar,Ne***o,IT Manager,True,Yes,2026-02-27T02:41:10.000+00:00
+Alfa,,,6125eb51fff62a0001365884,Leonardo,Ro***s,IT Manager,True,Yes,2026-02-04T19:36:16.753+00:00
+Alfa,,,57e0bbf2a6da987d7c2fd906,Heitor,Ta***a,IT Manager,False,Yes,2026-01-29T15:24:41.000+00:00
+Alfa,,,54a3f8da7468693209973322,Nayef,Az***r,IT Manager,False,Yes,2026-01-15T05:09:56.560+00:00
+Alfa,,,66fd78b9a5c8530001c4343a,Raja,Ak***m,IT Manager,True,Yes,2026-02-21T05:28:49.207+00:00
+Alfa,,,66f6825ce89e9400011291c1,Paolo,Za***o,IT Manager,True,Yes,2026-02-10T02:09:24.000+00:00
+Alfa,,,66fc0bd9a8fa1300013b3816,Allan,Pe***n,IT Manager,True,Yes,2026-02-26T17:27:04.000+00:00
+Alfa,,,65fef062515ab00007998f10,Jimmy,To***u,Information Technology Manager,True,Yes,2026-02-20T10:55:54.532+00:00
+Alfa,,,60f8221c94598900016d44e9,Carlos,Ma***s,IT Manager,True,Yes,2026-02-27T23:31:41.000+00:00
+Alfa,,,60d42d5a97622d0001f78334,Renan,Mo***s,IT Manager,True,Yes,2026-02-05T17:47:59.822+00:00
+Alfa,,,57e1aab0a6da985737bb46a8,Christophe,Bu***t,IT Manager,True,Yes,2026-02-10T17:06:07.858+00:00
+Alfa,,,66ff3cd7c672d900019cff14,Marnix,Gr***t,IT Manager,True,Yes,2026-02-24T15:41:26.000+00:00
+Alfa,,,68ffafab3286f400013236f9,Sony,Sh***a,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-12T05:02:00.415+00:00
+Alfa,,,5b22b1cca6da9879572821b4,Daniel,Ch***g,Information Technology Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-17T09:22:43.000+00:00
+Alfa,,,61d92677513c6b0001056748,Rasmus,Sa***v,IT Manager,True,Yes,2026-02-26T16:12:26.000+00:00
+Alfa,,,54a4bb927468693b8c8e015f,Jean-Pierre,Co***t,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T13:33:42.000+00:00
+Alfa,,,54a4333574686938ac83cd34,Dmitry,Gr***v,IT Manager,True,Yes,2026-02-04T00:35:40.000+00:00
+Alfa,,,5dd6d518bf9b9c0001f51538,Ali,Al***b,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-09T07:32:56.309+00:00
+Alfa,,,60917c286f0ad90001c8866c,Florent,Ga***t,IT Manager,True,Yes,2026-02-05T23:17:09.278+00:00
+Alfa,,,5571372c73696470d1c40300,Walid,No***r,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-24T12:18:45.223+00:00
+Alfa,,,66f689718463c60001053828,Linda,Ha***n,IT Manager,True,Yes,2026-02-05T07:12:41.000+00:00
+Alfa,,,5d5a501380f93ef220d64db9,Bing,Li,Information Technology Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-22T22:41:35.000+00:00
+Alfa,,,54a3b47f7468692abf23ec0b,Papagiotas,Va***s,IT Manager,True,Yes,2026-02-22T05:11:03.067+00:00
+Alfa,,,66fc0928a8fa1300013a47b6,Lilli-Ann,So***d,IT Manager,True,Yes,2026-02-16T03:57:37.000+00:00
+Alfa,,,66ebf8b4b8545b000126dabd,Ugur,Tas,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-10T19:02:44.822+00:00
+Alfa,,,66fd6c65a5c8530001bf769a,Otto,Ot***o,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-22T13:16:09.363+00:00
+Alfa,,,57d8b633a6da9872625b43d4,Bjoern,Li***l,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-14T00:16:03.470+00:00
+Alfa,,,66fb70d6db27a10001fa266b,Jose,An***y,IT Manager,True,Yes,2026-02-26T01:53:57.000+00:00
+Alfa,,,66f92e4fde27170001ffccec,Merih,Ak***l,IT Manager,False,Yes,2026-02-16T15:05:19.000+00:00
+Alfa,,,5fd54a8f4e8c8800012cbaad,Hossam,Sh***n,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-27T07:34:18.796+00:00
+Alfa,,,68607b2069d8700001057efa,Kani,Ca***r,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-01-23T11:44:41.000+00:00
+Alfa,,,5abf113fa6da98cf636af782,Simon,Al***n,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-24T13:12:53.590+00:00
+Alfa,,,54a1cbda7468694f8fe1c711,Sinan,At***i,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-26T17:58:56.000+00:00
+Alfa,,,66fd81ffa60ce400018149df,Ehab,El***y,Information Technology Manager,True,Yes,2026-02-19T19:25:44.000+00:00
+Alfa,,,66fe3ee5d0e47c0001cfb6c0,Maurizio,Be***i,IT Manager,True,Yes,2026-02-11T06:07:41.000+00:00
+Alfa,,,66f9103460e650000180756f,Mohamed,El***i,IT Manager,True,Yes,2026-01-23T01:39:56.000+00:00
+Alfa,,,68314abb8a60430001b92afe,Muhammad,Fa***l,Finance Supervisor,False,Maybe: please request direct dial via people/bulk_match,2026-02-02T07:51:21.000+00:00
+Alfa,,,57dbb038a6da98686307717a,Ben,Im***d,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-03T05:09:14.349+00:00
+Alfa,,,68a2f5278eee5300010504ab,Oussama,Be***r,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-05T00:43:32.000+00:00
+Alfa,,,54a4c40b7468692cf020c561,Rochdi,El***i,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-01T10:21:01.000+00:00
+Alfa,,,6861f2fa49fb790001466ae5,Mohamed,Fa***y,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2025-11-18T09:00:27.331+00:00
+Alfa,,,54ab646a74686905642f2805,Sa,Ch***a,IT Mngr,False,Maybe: please request direct dial via people/bulk_match,2026-02-10T08:08:42.415+00:00
+Alfa,,,6101322a7817d50001ea137b,Mike,Wi***n,Information Technology Manager,True,Yes,2026-02-24T04:35:36.000+00:00
+Alfa,,,617c318d4dced200014d65af,Erwin,Go***z,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-02T16:45:00.631+00:00
+Alfa,,,54a820d574686965d91efd61,Juan,Ja***i,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-01-28T14:14:47.998+00:00
+Alfa,,,66f67b976a3f9400016c8991,Stefano,Ma***i,IT Manager,True,Yes,2026-01-24T09:26:42.000+00:00
+Alfa,,,54a1b5e274686940129c240a,Zhenghui,Xu,China IT Manager,True,Yes,2026-02-24T05:11:18.000+00:00
+Alfa,,,67427040e3c2ed00019fa5df,Mohamed,Os***n,IT Manager,False,Yes,2026-02-16T20:38:39.000+00:00
+Alfa,,,66f50e6d7957eb000198f50f,Amy,Be***d,IT Manager Service Solutions,True,Yes,2026-02-17T08:10:01.000+00:00
+Alfa,,,64d75a607ebdde0001dfa120,Mahdi,Ba***r,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-16T07:06:09.000+00:00
+Alfa,,,63a477baba487800011cd8e0,Bob,Ni***i,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-04T18:27:45.000+00:00
+Alfa,,,54a5431f7468692abfe81f8a,Carlos,Ma***o,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-10T11:03:25.000+00:00
+Alfa,,,60cc8678638028000147832e,Rodrigo,Lo***s,Financial Supervisor,False,Maybe: please request direct dial via people/bulk_match,2026-02-14T19:45:00.000+00:00
+Alfa,,,54a7a72c7468696de7e71849,Riyady,He***o,IT Manager,True,Yes,2026-02-16T17:06:04.840+00:00
+Alfa,,,66f518db713b1700011ae6e2,Ian,Wr***y,IT Manager UK&I | Cluster IT Systems Administrator,True,Yes,2026-02-28T21:32:52.623+00:00
+Alfa,,,57d72bf5a6da9805d522bce8,Grzegorz,Sm***a,IT Manager Country / Site w Alfa Laval,True,Yes,2026-01-21T04:17:11.000+00:00
+Alfa,,,66f33fb68a373c0001bd32f7,Matthew,Ne***t,IT Manager Live Site Management - OneERP Group Digital,False,Yes,2026-02-17T18:16:10.000+00:00
+Alfa,,,66ee7eacef6a86000147dcb7,Ammar,Al***i,IT Manager,True,Yes,2026-03-03T00:34:27.782+00:00
+Alfa,,,66f078f5ea68a2000114a329,Kareem,Ah***d,IT Manager,True,Yes,2026-03-02T06:53:31.151+00:00
+Alfa,,,66f81553f20e1e00015a1966,Abdelhameid,Mo***d,IT Manager,True,Yes,2026-02-08T11:04:15.287+00:00
+Alfa,,,66f15272ffd65f0001819b8d,Roger,Ri***y,IT Manager,True,Yes,2026-02-13T23:15:30.522+00:00
+Alfa,,,54a26bdb7468692e71ea0b22,Marco,Po***s,IT Manager,True,Yes,2026-02-20T12:38:43.000+00:00
+Alfa,,,66f5a074eaea5f0001e93590,Fabrizio,Gr***i,IT Manager,True,Yes,2026-02-01T00:03:19.009+00:00
+Alfa,,,57dd6f0ba6da987b45609818,Douglas,Ve***o,IT Manager,True,Yes,2026-02-05T13:40:45.397+00:00
+Alfa,,,5e85aacc262d140001324163,Marcia,Ma***a,Financial Supervisor,True,Yes,2026-02-13T23:56:55.000+00:00
+Alfa,,,67f63e94882c130001b12f41,Ayman,Ab***a,IT Manager,True,Yes,2026-01-29T10:18:32.526+00:00
+Alfa,,,5e7e839deeea180001f06053,Pablo,Ro***z,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-17T05:20:30.000+00:00
+Alfa,,,5571065973696461254aef00,Dmitry,Za***v,Information Technology Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-10T05:01:43.000+00:00
+Alfa,,,66fbe252e9bb1700018eba4e,Kisiel,Mi***l,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-26T13:52:50.000+00:00
+Alfa,,,664064ba3b1c7b0001cb0c5b,Claudiomir,Va***o,IT Manager,True,Yes,2026-02-26T01:28:14.918+00:00
+Alfa,,,57d39bdcf651252c29f34543,Ioannis,Sk***s,IT Manager,True,Yes,2026-02-03T02:52:36.000+00:00
+Alfa,,,6743084fc74da80001ef0b1b,Emaad,Al***i,IT Manager,True,Yes,2026-01-20T07:02:01.476+00:00
+Alfa,,,680f76042996140001bc9f06,Ahmed,El***y,IT Manager,True,Yes,2026-02-02T00:13:04.000+00:00
+Alfa,,,674536938ea1160001ac1da0,Shahzad,Ra***d,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-06T20:43:21.000+00:00
+Alfa,,,6413914f68db400001fb2036,Jose,Vi***r,IT Manager,True,Yes,2026-02-11T17:39:53.351+00:00
+Alfa,,,66fa67b51933d30001130b8c,Dj,Sh***h,Manager- IT,True,Maybe: please request direct dial via people/bulk_match,2026-02-22T22:47:32.000+00:00
+Alfa,,,57c58fe8a6da98313cc67ce9,Omer,Sh***r,IT Manager,False,Yes,2026-02-16T02:22:56.000+00:00
+Alfa,,,66ebdc7e9fac7e0001f0a0b6,Anas,Ma***r,IT Manager,False,Yes,2026-02-24T07:37:55.000+00:00
+Alfa,,,690c9af51570a70001c87cd2,Majed,Fa***i,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2025-12-18T22:54:21.000+00:00
+Alfa,,,66fba60bc0ee1d0001defb87,Taha,At***s,IT Manager,True,Yes,2026-02-16T03:26:06.000+00:00
+Alfa,,,60e2c2a2563f1d000104451b,Daniel,Pi***o,Information Technology Manager,False,Yes,2026-02-21T15:54:15.000+00:00
+Alfa,,,5ae58b06a6da98d35815aab0,Syed,Ir***n,IT Manager,True,Yes,2025-10-29T06:32:10.606+00:00
+Alfa,,,6611ea00315e990007f8d737,Moises,Sa***z,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-01-13T05:40:22.000+00:00
+Alfa,,,66f37cf323301d0001d73fe0,Ericson,Mo***a,IT Manager,False,Yes,2026-02-16T19:39:55.000+00:00
+Alfa,,,54a2ca7e7468693cddfe243d,Eyad,Ib***m,IT Manager,True,Yes,2026-02-23T10:55:02.639+00:00
+Alfa,,,6478f1535a27240001a25eec,Hashim,Ja***d,Information Technology Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-06T22:28:53.000+00:00
+Alfa,,,5e6cb8695394f70001c4f257,Khalid,An***m,IT Manager,True,Yes,2026-02-15T23:22:27.274+00:00
+Alfa,,,54a4ab9674686938acf9135a,Dilzar,Ah***d,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-01-16T10:50:01.931+00:00
+Alfa,,,54a46a6e74686938ac1deb45,Ed-Mar,Ma***g,IT Manager,False,Yes,2026-01-24T03:43:48.384+00:00
+Alfa,,,5f4ed7529839b2000167a983,Shamal,Kh***l,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-01-25T01:01:01.825+00:00
+Alfa,,,61ebb7c442a25b0001d89db5,Rami,Ta***b,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-01-19T07:00:10.000+00:00
+Alfa,,,616d0627e9b78f0001c94781,Tai,Ta***g,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-11T11:46:43.221+00:00
+Alfa,,,60e6efff48a92200012d52e7,Mahmoud,El***h,IT Manager,False,Yes,2026-02-03T08:52:38.842+00:00
+Alfa,,,5b644ef3324d440ef0893f3c,Ravinder,Si***h,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2025-12-01T05:54:48.205+00:00
+Alfa,,,683aebe869b66900011010b8,Hosam,Ta***h,Information Technology Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-01T21:07:11.000+00:00
+Alfa,,,66fa41224403d800010b02e4,Mohammed,Di***h,IT Manager,False,Yes,2026-02-17T06:01:50.039+00:00
+Alfa,,,55708dee73696425a6a11300,Voip,Ly,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-08T13:08:32.614+00:00
+Alfa,,,64df0c68fbfe72000155c450,Iyanar,K,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-01-22T10:31:12.731+00:00
+Alfa,,,6710bbd5505f3700015c7bfc,Syed,Sh***h,Information Technology Manager,True,Yes,2026-02-08T05:43:38.000+00:00
+Alfa,,,64295cec3ddd840001cc3857,Hosam,Kh***d,Information Technology Manager,False,Maybe: please request direct dial via people/bulk_match,2025-02-17T01:45:53.574+00:00
+Alfa,,,54a1faaf74686935be3b9802,Jens,Ri***t,IT Business Manager,True,Yes,2026-02-20T09:27:09.000+00:00
+Alfa,,,66f4376984a6c300010cd2ad,Ahmed,Fa***y,IT Manager,True,Yes,2026-02-17T09:51:15.000+00:00
+Alfa,,,67ce76724a3378000122c38e,Umer,Sh***z,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-05T13:07:31.959+00:00
+Alfa,,,5f376558168e1a00f6ab9188,Angal,Pp,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-17T08:58:49.000+00:00
+Alfa,,,67adc875859f3d000167e568,Dharma,An***y,IT Manager,True,Yes,2026-02-27T13:22:21.063+00:00
+Alfa,,,5abcf083a6da98414760de3f,Rachel,Guo,Finance Supervisor,True,Maybe: please request direct dial via people/bulk_match,2025-10-28T17:23:19.000+00:00
+Alfa,,,54a5b9337468692abfb712a3,Maged,Ah***d,IT Manager,False,Yes,2026-02-27T00:30:09.280+00:00
+Alfa,,,64de9492b73ec00001ff0a20,Tri,Ya***a,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-03T10:57:09.116+00:00
+Alfa,,,57d69ee9a6da9854594d1467,Hendro,Su***o,Information Technology Manager,True,Maybe: please request direct dial via people/bulk_match,2025-11-23T02:04:18.784+00:00
+Alfa,,,66f5402295fd6e00019728c2,Arash,Ka***i,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-05T07:51:20.000+00:00
+Alfa,,,61b1d4edc3f40800017309ac,Syaifur,Hi***t,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-22T22:44:22.000+00:00
+Alfa,,,54a11f3a69702d94a4d1ab01,Ignatius,De***i,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-18T14:23:33.153+00:00
+Alfa,,,54a61a777468693676c4fcc1,Saurabh,Ma***a,Information Technology Manager,False,Yes,2026-01-28T11:32:02.000+00:00
+Alfa,,,61ef97367653500001550d0a,Meyva,Pa***n,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T07:27:36.925+00:00
+Alfa,,,54a717057468696b7f342314,Syed,Ra***n,IT Manager,False,Yes,2026-03-02T12:37:29.817+00:00
+Alfa,,,61124397174d2000018a730f,Nur,Ad***n,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-17T05:08:19.708+00:00
+Alfa,,,648c21d9c51f2d00014cc11a,Suryo,Wi***o,IT Manager,False,Yes,2026-02-01T05:18:24.191+00:00
+Alfa,,,54a4c9f774686938ac83d563,Ahmad,Fa***l,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-01-21T17:20:49.853+00:00
+Alfa,,,6112480d87d4b700012ce8f8,Sudartono,Wa***a,IT Manager,False,Yes,2026-02-07T12:47:02.479+00:00
+Alfa,,,57d8d444a6da9872165ed19f,Haryanto,Ae,Information Technology Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-01T16:34:56.288+00:00
+Alfa,,,66fd780ca5c8530001c3f603,Robert,Ha***n,Manager Marine IT Solutions,True,Yes,2026-02-21T17:06:39.851+00:00
+Alfa,,,66fa68e11933d3000113a34a,Petra,Ap***d,Category Manager IT Services,True,Yes,2026-02-28T09:07:48.000+00:00
+Alfa,,,673a238a731f6e0001d28555,Mohamed,Ab***m,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-01-18T09:37:11.000+00:00
+Alfa,,,66f66de7c09a28000152132e,Magnus,Ho***n,Information Technology Sourcing Manager,True,Yes,2026-02-12T06:47:11.000+00:00
+Alfa,,,66fa67bf1933d300011311b5,Konrad,Lu***i,IT Delivery Manager,True,Yes,2026-02-18T00:12:51.714+00:00
+Alfa,,,57daa11ba6da984a5cd6433f,Akhmad,Mu***n,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-02T23:13:06.000+00:00
+Alfa,,,54a287db7468693a7e99082a,Greg,St***h,IT Application Manager,True,Yes,2026-02-24T06:33:16.000+00:00
+Alfa,,,57dc1729a6da9868cb32d145,Debashish,R,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-26T01:52:44.000+00:00
+Alfa,,,66fd00c52203940001215c4e,Stefano,D'***e,IT Service Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-11T09:43:06.000+00:00
+Alfa,,,631dec5e1efd4500017c7884,Hesham,Am***h,IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-17T06:13:33.440+00:00
+Alfa,,,611a42648c02cc000137d81e,Mark,Lo***t,IT Systems Manager,True,Yes,2026-02-23T13:05:18.000+00:00
+Alfa,,,5c6dbb77f65125e6146aee2e,Filippa,Bj***l,IT Project Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-01T18:12:15.000+00:00
+Alfa,,,66f672c7c09a28000153947d,Claudio,To***i,Information Technology Site Manager,True,Yes,2026-02-16T08:44:33.796+00:00
+Alfa,,,62d149c5f3ac8a0001a9d64e,Krisztina,Ma***i,IT Project Manager,True,Yes,2026-02-11T20:07:05.000+00:00
+Alfa,,,667bc79aa245d5000131e177,Aleksandr,Kim,IT Project Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-21T10:12:26.000+00:00
+Alfa,,,692bb3d232e6c400010dc597,Brian,Ac***a,Information Technology Site Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-10T18:16:34.000+00:00
+Alfa,,,665d4cf8af687600011fe0f4,Temur,Al***v,IT Project Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-28T08:03:16.705+00:00
+Alfa,,,66ee643b6ccb3700017ba501,Sakar,Ma***y,Assistant Manager -IT,True,Maybe: please request direct dial via people/bulk_match,2026-01-11T19:45:12.000+00:00
+Alfa,,,6526913e67d7eb0001f6ffbe,Alexey,Ga***a,IT Project Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-14T16:23:03.000+00:00
+Alfa,,,57d4b082a6da9853bed46089,Doaa,Mi***r,Finance Supervisor,False,Maybe: please request direct dial via people/bulk_match,2026-01-30T06:08:34.000+00:00
+Alfa,,,679b1d3dba40aa000183860b,Jessie,Ch***n,Finance and Accounting Supervisor,True,Maybe: please request direct dial via people/bulk_match,2025-10-12T21:18:57.745+00:00
+Alfa,,,66edbb2058dafa0001025c8c,Massimo,Go***i,Group IT Manager,True,Yes,2026-02-15T09:05:08.206+00:00
+Alfa,,,54a7285f7468696b7fba811a,Vladimir,Sk***n,IT Project Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-10T04:34:55.000+00:00
+Alfa,,,57d8bd38a6da9872327551ea,Rostislav,An***v,IT Project Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-13T09:20:35.000+00:00
+Alfa,,,613853a2c236c600011d8357,Ilya,Ma***v,IT Project Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-05T20:24:17.000+00:00
+Alfa,,,66f66e28c09a2800015230fe,Luciano,Ca***i,IT Infrastructure Manager,True,Yes,2026-02-26T14:03:50.000+00:00
+Alfa,,,66f66e28c09a2800015230fe,Luciano,Ca***i,IT Infrastructure Manager,True,Yes,2026-02-26T14:03:50.000+00:00
+Alfa,,,54a5e6b17468692fa2f343b2,Nikolai,Ev***v,IT Project Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-26T16:03:42.000+00:00
+Alfa,,,611a430a279d9c000102a0d4,Alicia,Je***s,IT Project Manager,False,Yes,2026-02-13T04:42:41.000+00:00
+Alfa,,,6357efe0d153f400017e0490,Maria,Bu***r,Finance Supervisor,False,Maybe: please request direct dial via people/bulk_match,2025-11-20T06:19:10.000+00:00
+Alfa,,,63528743a77e3b00011aa610,Imam,Gu***n,Finance Supervisor,False,Maybe: please request direct dial via people/bulk_match,2025-10-30T06:41:35.182+00:00
+Alfa,,,67c6f9e59ba2e40001f1fef0,Dmitriy,Sy***v,It-direction Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-12T00:56:04.000+00:00
+Alfa,,,57dda21ca6da987af1225c49,Damir,Ni***v,Information Technology Project Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-21T15:33:01.000+00:00
+Alfa,,,64dcdadef9e83e0001462031,Yevhen,Se***a,IT Project Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-21T14:30:36.000+00:00
+Alfa,,,64e2fc87afbe020001d8d017,Angielyn,Ma***t,Assistant IT Manager,True,Yes,2024-11-21T01:13:46.827+00:00
+Alfa,,,66f5471695fd6e000199f422,David,Vi***r,Logistic and IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-02T00:00:27.000+00:00
+Alfa,,,67de6415b424920001f0ab82,David,Mo***n,IT Solution Manager PIM,True,Yes,2026-01-23T10:47:27.000+00:00
+Alfa,,,695a7bae4bd84e00013d280c,Muhammad,Ch***l,Finance Supervisor,False,Maybe: please request direct dial via people/bulk_match,2026-01-01T03:56:20.000+00:00
+Alfa,,,57d6a243a6da985421aabf7d,Szilveszter,Ko***s,IT Service Delivery Manager,True,Yes,2026-02-12T17:36:26.494+00:00
+Alfa,,,67a1b193d0aa2c0001df376c,Edriech,Ma***z,Assistant IT Manager,False,Maybe: please request direct dial via people/bulk_match,2026-01-22T06:11:35.817+00:00
+Alfa,,,66fd7930a5c8530001c46299,Aneesh,Aj***r,Regional Manager IT&IS Manager,True,Yes,2026-02-26T18:18:34.414+00:00
+Alfa,,,54a3f2357468693442c9f21f,Prakash,In***e,Q A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-25T17:31:04.332+00:00
+Alfa,,,66fb907d2ce14200014ccaad,Jean,Sa***e,IT Infrastructure Operations Manager,True,Yes,2026-02-05T17:48:42.953+00:00
+Alfa,,,68e8bb9431f7620001747a49,Kseniia,Ko***a,IT Project Manager,False,Maybe: please request direct dial via people/bulk_match,2025-11-05T05:07:23.000+00:00
+Alfa,,,60cdcf112c3b520001735a94,Parag,De***e,Manager - Core IT Operations,True,Yes,2026-02-03T12:33:38.000+00:00
+Alfa,,,54ec2893746869444cf17c5b,Stan,Ma***a,"Mgr. Global Technical Mgmt, Corporate IT",True,Yes,2026-02-27T00:12:33.657+00:00
+Alfa,,,57da74aaa6da984a9478c6b4,Terence,An***n,IT Endpoint Management and Service Desk Manager,True,Yes,2026-02-03T22:23:42.905+00:00
+Alfa,,,66fbb09b5c624a0001f5a4e3,Andrey,Sh***v,Senior IT Project Manager,False,Maybe: please request direct dial via people/bulk_match,2026-01-30T06:22:34.000+00:00
+Alfa,,,57d3fa6fa6da9853e640ed6b,Konstantin,So***v,Manager A-club,False,Maybe: please request direct dial via people/bulk_match,2026-01-22T13:27:11.000+00:00
+Alfa,,,54aa8fee7468690630757f0b,Cristiano,Be***i,IT/IS Manager Share Services Adriatic,True,Yes,2026-02-25T03:12:35.000+00:00
+Alfa,,,643148b11e96f600013519d6,Roman,So***n,Senior IT Project Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-19T03:28:25.000+00:00
+Alfa,,,57dbfa29a6da98685b7949ef,Ben,At***n,IT Service and Systems Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-17T03:41:20.000+00:00
+Alfa,,,6425d9f0a1ceb7000195b501,Anton,Sh***l,Senior Information Technology Project Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-08T10:17:00.000+00:00
+Alfa,,,5e9b9251dd44e100c211802d,Omran,Al***r,Senior Information Technology Manager,True,Yes,2026-02-27T16:56:47.794+00:00
+Alfa,,,557058477369641af7284500,Dani,Pu***o,IT Consultant (IT Manager),False,Maybe: please request direct dial via people/bulk_match,2026-02-24T08:06:30.000+00:00
+Alfa,,,6425e57ef47cbf0001f842d6,Aleksandr,Ag***n,IT Project Portfolio Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-04T17:31:09.000+00:00
+Alfa,,,66fa7b6c38c6fc0001fbf3e8,Richard,La***g,Senior Information Technology Manager,True,Yes,2026-03-03T03:28:46.726+00:00
+Alfa,,,66f65c0668121e0001677c90,Tony,An***u,Regional IT Manager,True,Yes,2026-02-01T11:44:24.521+00:00
+Alfa,,,66fbcfbc73b29c000103186a,Roger,Be***n,"Global Category Manager, IT Procurement",True,Yes,2026-02-27T06:25:45.246+00:00
+Alfa,,,66fa6fa11933d30001164f87,Rida,Ri***z,Mergers and Acquisitions IT Integration Manager,True,Yes,2026-02-28T00:30:45.587+00:00
+Alfa,,,54a261027468692e71f6bb1e,Mikhail,Ko***n,IT Infrastructure Project Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-11T23:27:39.000+00:00
+Alfa,,,64ea830a31a3ef000142871d,Tuende,Ta***j,Online IT Project Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-05T15:54:26.000+00:00
+Alfa,,,61015b38e5177d000177e9f8,Gloria,Fl***s,IT & Business Processes Sr. Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-19T17:48:40.222+00:00
+Alfa,,,66fe713ccf38fb00018ae95e,Torgny,Sa***m,"IT Delivery Manager, Sales ERP",True,Yes,2026-02-27T14:11:18.490+00:00
+Alfa,,,66ff4366c672d900019e82f1,Pontus,Sa***l,IT On-Site Support Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T14:23:14.724+00:00
+Alfa,,,54eb439e74686931e2c76e0d,German,Ca***o,Corporate Information Technology Manager,False,Yes,2026-02-17T05:11:09.000+00:00
+Alfa,,,6355317a46e49f000160c025,Anton,Bu***k,IT Project Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-04T16:10:13.000+00:00
+Alfa,,,5f07bd9681d3c10001e95f7a,Anantha,Ram,Information Technology Operations Manager,False,Yes,2026-02-13T13:36:25.000+00:00
+Alfa,,,66fa6d271933d30001155903,Sergey,Gr***n,"IT Solution Manager / Regional Lead Eastern Europe, IT Solutions Commenrial",True,Yes,2026-02-05T05:12:26.000+00:00
+Alfa,,,54a62c7974686938ac9913c8,Danish,Ha***n,Senior Information Technology Manager,False,Maybe: please request direct dial via people/bulk_match,2026-01-06T01:18:10.000+00:00
+Alfa,,,673eefaa0e63780001e8578c,Yaseen,Kh***d,Assistant Manager IT,False,Yes,2026-02-16T17:30:26.404+00:00
+Alfa,,,66239b77c9b8f500074126db,Pipit,Ri***o,Assistant IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-23T02:02:44.378+00:00
+Alfa,,,60543fa89be87400015453f2,Noel,De***a,Manager- Global IT Service Desk,True,Yes,2026-02-28T19:38:19.817+00:00
+Alfa,,,54a775e5746869705a005237,Eduardo,Ca***o,Corporate Development - M&A Manager,True,Yes,2026-02-24T12:33:37.921+00:00
+Alfa,,,57db14e2a6da986dd2a296ea,Wenning,Qin,IT Service Desk Manager China,True,Yes,2026-01-12T21:33:55.000+00:00
+Alfa,,,57d61d67a6da98067479bab1,German,De***o,Territorial Manager a Leasing,False,Maybe: please request direct dial via people/bulk_match,2026-02-22T10:00:31.000+00:00
+Alfa,,,683d4004aa1e0a0001137418,Parag,Sh***i,Manager-Global IT Delivery Center Pune,True,Yes,2026-02-24T10:06:31.000+00:00
+Alfa,,,68010d25921adb0001b37aff,Mikael,Pe***n,Group Category Manager IT Software & Services,True,Yes,2026-01-21T18:44:05.000+00:00
+Alfa,,,57d81bffa6da980a06848e24,Halis,Ta***c,Vodja Informatike / IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-12T03:27:42.000+00:00
+Alfa,,,5b320b9aa6da9871006c47c7,Peter,Er***n,"IT Specialist, Platform Manager PC Client",True,Yes,2026-01-23T13:06:04.000+00:00
+Alfa,,,66f27e02042c560001ec8386,Emanuele,To***i,IT Project Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T10:05:05.000+00:00
+Alfa,,,62d8f31c1c5ef800018d57b3,Alfons,Ra***k,OEM Manager D-A-CH,True,Maybe: please request direct dial via people/bulk_match,2026-01-22T02:03:43.000+00:00
+Alfa,,,6481abddf78c420001112d6c,Vandra,Sa***s,Financial Administrative Supervisor,False,Maybe: please request direct dial via people/bulk_match,2026-02-16T03:59:50.000+00:00
+Alfa,,,6112434b23387c0001cd12c3,Andi,Ku***n,Senior IT Manager,True,Yes,2026-02-06T17:24:40.504+00:00
+Alfa,,,5570220073696402a54e0600,Evgeny,Po***n,Senior IT Delivery Manager (Team Lead),False,Maybe: please request direct dial via people/bulk_match,2026-02-17T08:05:04.000+00:00
+Alfa,,,66f527f59b08820001042eee,Mohamed,Ge***y,"Group IT Manager, Infrastructure",False,Yes,2026-01-14T08:41:09.669+00:00
+Alfa,,,6631d54de242e100070c04d7,Mohamed,Mo***e,IT Project Manager | Transformation,False,Yes,2026-02-17T16:17:20.000+00:00
+Alfa,,,5e7c62728b3e7c00013f4a1d,Munawar,Ali,IT Manager /Network Engineer,False,Yes,2026-02-03T08:30:32.000+00:00
+Alfa,,,65d830347144ec0001242078,Vladimir,Er***v,Process Manager at IT Software Support Department,True,Yes,2026-01-30T07:51:31.000+00:00
+Alfa,,,650a9f692a312e0001a62b35,Imam,Ku***n,Regional Information Technology Manager,False,Yes,2026-01-11T04:23:17.857+00:00
+Alfa,,,60d06adae8e3ec0001184922,Mike,Ku***v,IT Project Manager / Development Team Leader / Head of Department,True,Maybe: please request direct dial via people/bulk_match,2026-01-20T19:06:44.000+00:00
+Alfa,,,54a419a17468692fa24f612c,Bernd,Th***n,IT Project Manager,True,Yes,2026-02-26T14:56:46.000+00:00
+Alfa,,,6735b7ce08301e0001d3fc7d,Ali,Fa***d,I am Writing a Article,False,Maybe: please request direct dial via people/bulk_match,2026-01-17T23:51:11.000+00:00
+Alfa,,,673893b6063f5b0001a95f94,Abdisamad,Mu***r,Accounting Information Technology Manager,False,Maybe: please request direct dial via people/bulk_match,2026-01-18T08:01:27.000+00:00
+Alfa,,,66fd25b06d51660001bad146,Eslam,Ra***n,Group IT Internal Audit Manager,False,Yes,2026-02-16T17:29:39.000+00:00
+Alfa,,,54a209f574686930c2b73f07,Jocelyn,Ba***s,IT Manager - Analytics & IT Research and Development,True,Maybe: please request direct dial via people/bulk_match,2026-02-08T12:53:57.343+00:00
+Alfa,,,66f0149b61ef02000181b229,Mario,Me***i,Separation/FHT P&A Specialist and Key Account Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T19:08:50.000+00:00
+Alfa,,,57d99732a6da987282c2cec7,Mohammed,Ba***i,Group Manager of IT Infrastructure Networks and Security,False,Yes,2026-02-02T11:40:47.080+00:00
+Alfa,,,6867650a94873a000145919e,Morteza,Ka***r,I am a Master of Ceramics,False,Maybe: please request direct dial via people/bulk_match,2026-02-03T06:57:33.000+00:00
+Alfa,,,54a5a61274686934423c0d9f,Matteo,Po***i,"Manager Global Key Account for Engine, A/C & Refrigeration",True,Maybe: please request direct dial via people/bulk_match,2026-02-18T22:51:34.220+00:00
+Alfa,,,54a2d58f7468693318060d40,Allan,Je***n,"Team Manager, Warehouse DC Kolding, Alfa Laval Kolding A/S",True,Maybe: please request direct dial via people/bulk_match,2026-02-10T16:10:30.000+00:00
+Alfa,,,565bcd4fa6da9814c5008bf4,Ray,Nu***a,Financial Accounting Supervisor,False,Maybe: please request direct dial via people/bulk_match,2026-02-18T06:47:07.607+00:00
+Alfa,,,61245b21652b7a00019784aa,Rhodel,Ma***z,IT Manager - Special Projects/Engineering Services,False,Yes,2026-02-16T14:01:23.236+00:00
+Alfa,,,62f677b435653e00017002c5,Altino,Ca***s,Gerente de Estratégia Comercial | FP&A | Pricing | BI,False,Maybe: please request direct dial via people/bulk_match,2026-02-03T03:21:12.000+00:00
+Alfa,,,60d41012fdc267000167b452,Petra,Ku***k,Manager Order Management HEX Projects (D-A-CH),True,Maybe: please request direct dial via people/bulk_match,2026-02-11T14:47:11.000+00:00
+Alfa,,,54a204fe7468692e7138eb05,Alberto,Po***o,ICT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-17T20:32:14.321+00:00
+Alfa,,,57dd78c8a6da987b519aa282,Pertti,Me***e,IT Responsible,True,Yes,2026-02-05T16:43:52.000+00:00
+Alfa,,,57d6b40ea6da985419ae3f46,Rick,Bo***n,Manager Informatisering,True,Yes,2026-01-21T20:00:08.000+00:00
+Alfa,,,54a3fabf7468692cf05b5222,Luqman,Sh***h,Manager IT,True,Yes,2026-02-03T22:08:43.000+00:00
+Alfa,,,60ccdab51675c90001c1ad62,Keith,Tan,Information Technology Executive,True,Yes,2026-02-22T03:40:33.000+00:00
+Alfa,,,54a639367468692cf0d9adcb,Tatiana,Ia***a,"Head of FP&A Department, CIB",False,Yes,2026-02-11T05:02:31.000+00:00
+Alfa,,,57db60b5a6da985e801bc34d,Mufeez,Ka***i,IT Manager Application Development(Mobile Apps & Backemd),True,Yes,2026-02-28T14:40:52.000+00:00
+Alfa,,,642ebe15a745940001126435,Nicola,Ra***i,Responsible for IT,True,Maybe: please request direct dial via people/bulk_match,2026-02-10T20:05:31.000+00:00
+Alfa,,,5b1ea795a6da98e1d75bf529,Anastasiia,Fi***a,IT Lead in Banking Holding,False,Maybe: please request direct dial via people/bulk_match,2026-01-19T21:21:19.000+00:00
+Alfa,,,622ca50f8e1e390001186159,Syed,Mu***l,"Manager, IT",False,Yes,2026-01-25T11:43:59.791+00:00
+Alfa,,,54a4bdcb7468692cf0dcc55f,Pido,Mo***d,I.T Manger,False,Maybe: please request direct dial via people/bulk_match,2026-02-13T17:21:29.593+00:00
+Alfa,,,54a319027468693a7ecf7454,Hossam,Tm***z,IT Manager & Director of Systems (ISO 14001 & Ohsas 18001),False,Maybe: please request direct dial via people/bulk_match,2025-02-04T14:59:49.161+00:00
+Alfa,,,6742580cd022e60001655a3e,Bouh,Di***o,Chef des Projets web & Responsable Informatique,False,Maybe: please request direct dial via people/bulk_match,2026-02-16T08:09:21.000+00:00
+Alfa,,,614d72e79f45130001d35e9f,Bellil,Ac***f,Responsable Système Informatisé,False,Maybe: please request direct dial via people/bulk_match,2025-11-24T02:41:51.741+00:00
+Alfa,,,65179a345ffe9d000135fec9,Mohib,Kh***n,Information Technology Executive,True,Maybe: please request direct dial via people/bulk_match,2026-02-18T21:53:59.000+00:00
+Alfa,,,66f8472cb94e6400019127f2,Mohamed,Ra***i,"Manager, Information Technology",False,Yes,2025-12-19T13:05:07.351+00:00
+Alfa,,,54a4566c74686938ac8cf63f,Giorgio,Li***a,Responsible for IT,False,Maybe: please request direct dial via people/bulk_match,2026-01-19T05:55:23.000+00:00
+Alfa,,,66bf1199b60f3300011f84d1,Davy,Pa***s,ICT Manager Alfa-Zet Systems,False,Maybe: please request direct dial via people/bulk_match,2026-02-05T23:11:15.815+00:00
+Alfa,,,57dff29ba6da980ae7aae39c,Raihan,Pa***h,Information Technology Executive,False,Maybe: please request direct dial via people/bulk_match,2026-02-16T10:15:05.125+00:00
+Alfa,,,684c64dcb10fb60001744b50,Jorge,Ga***a,Gerente de Tecnologías de la Información,True,Yes,2026-02-25T13:24:28.771+00:00
+Alfa,,,60269610ac4f2600016c537a,Marghanie,Fa***y,IT Project Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-17T18:25:36.641+00:00
+Ibirapuera,,,67506a7e08260c0001cd71c3,Ana,Ca***i,Financial Supervisor,False,Maybe: please request direct dial via people/bulk_match,2025-12-11T17:38:49.326+00:00
+Ibirapuera,,,5ad34a4ca6da9883fbca13b8,Eduardo,Me***s,IT Manager,True,Yes,2026-02-06T12:45:30.534+00:00
+Ibirapuera,,,60fdbfee068c1c000187c5d3,Wagner,Mi***l,Information Technology Manager,False,Yes,2026-02-16T18:14:55.000+00:00
+UFOWAY,ufoway.com.br,http://www.ufoway.com.br,64750b4e4ccc1c0001ac16d0,Rafael,Du***e,IT Manager,True,Yes,2026-02-16T00:40:40.000+00:00
+Carmak Equipamentos,carmak.com.br,http://www.carmak.com.br,57d9baeba6da980154f1d773,Carlos,Pr***s,IT Manager,True,Yes,2026-02-06T19:50:06.000+00:00
+Caruaru Shopping,caruarushopping.com,http://www.caruarushopping.com,54a635b37468692fa20690cb,Eduardo,No***a,Gerente de TI Caruaru Shopping,True,Yes,2026-02-25T00:47:08.630+00:00
+Cinex Inovação e Emoção,cinex.com.br,http://www.cinex.com.br,5eefec117830670001c4c485,Mauricio,Si***a,"Gerente de Engenharia, P&D, TI e Qualidade",True,Yes,2026-02-25T05:00:22.445+00:00
+HMY do Brasil,hmy-group.com.br,http://www.hmy-group.com.br,6078b5f13efd070001e2cc05,Laurent,Ca***t,IT Manager,True,Yes,2026-02-19T10:58:39.000+00:00
+HMY do Brasil,hmy-group.com.br,http://www.hmy-group.com.br,6966179eeacbb30001806d6e,Mario,Pe***z,IT Infrastructure Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-10T16:40:19.000+00:00
+HMY do Brasil,hmy-group.com.br,http://www.hmy-group.com.br,635919044907e50001b732b1,Angel,Ro***s,IT Project Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T18:17:00.519+00:00
+HMY do Brasil,hmy-group.com.br,http://www.hmy-group.com.br,57dadaaea6da984a7cdada6b,Fernando,Vi***a,IT Projects & Operations Manager,True,Yes,2026-02-15T10:20:12.449+00:00
+HMY do Brasil,hmy-group.com.br,http://www.hmy-group.com.br,63e13d038ce2a400016ea74c,Beatriz,Br***o,IT Project Manager/ BA,False,Maybe: please request direct dial via people/bulk_match,2025-08-15T18:12:38.000+00:00
+Inusittá Ambientes Planejados,,,6786ba51a0d8fd0001f47a4f,Wesley,Ca***a,IT Manager,True,Yes,2026-02-13T22:07:00.000+00:00
+Demóbile Indústria de Móveis,demobile.com.br,http://www.demobile.com.br,54a4730b7468692abf94fe47,Jean,Br***a,IT Manager,True,Yes,2026-02-14T03:51:37.000+00:00
+Tecnogera,tecnogera.com.br,http://www.tecnogera.com.br,65624624b11d000001b69b79,Amanda,Go***s,Financial Supervisor,True,Yes,2026-02-06T18:55:45.000+00:00
+Grupo Elian,grupoelian.com,http://www.grupoelian.com,6101c09d666fe60001dbdc67,Jean,Ol***a,Gerente de TI e Ecommerce,True,Yes,2026-02-28T19:14:19.065+00:00
+Azzas 2154,,,54a5a27c74686936769b319e,Rafael,To***s,Senior IT Manager | Mobile Apps and AI Platform Engineering,True,Yes,2026-02-24T10:18:04.000+00:00
+Colchões Castor,colchoescastor.com.br,http://www.colchoescastor.com.br,54a291607468693cdddf762c,Jeovane,Ol***a,IT Manager,True,Yes,2026-02-04T18:28:52.379+00:00
+Flamboyant,flamboyant.com.br,http://www.flamboyant.com.br,557050e27369643f51021400,Cemy,Co***a,IT Manager,True,Yes,2026-03-01T23:24:03.407+00:00
+OGOCHI Menswear,ogochi.com.br,http://www.ogochi.com.br,603fbc10f951df000106cd8b,Gilberto,Ku***n,IT Manager,False,Yes,2026-02-25T02:57:21.000+00:00
+Linea Brasil,lineabrasil.com.br,http://www.lineabrasil.com.br,5f9502ed321f970001d1f2e9,Marcelo,Gi***z,IT Manager,True,Yes,2026-02-23T17:07:14.433+00:00
+nuvini,nuvini.co,http://www.nuvini.co,5570974e7369646e22f31600,Priscila,Za***a,FP&A Manager,False,Yes,2026-02-15T01:32:49.000+00:00
+Grupo Lopas,grupolopas.com.br,http://www.grupolopas.com.br,661fce2ff2781a00078bd6e3,Sader,Ch***a,IT Manager,True,Yes,2026-02-13T16:38:33.000+00:00
+Recco Lingerie,recco.com.br,http://www.recco.com.br,5c9743d4f65125aa91ff5560,Daniel,Ba***o,IT Manager,True,Yes,2026-02-15T19:25:41.000+00:00
+Emphasis Industria e Comércio Votorantim Ltda,emphasisconf.com.br,http://www.emphasisconf.com.br,5ab41258a6da987117723aca,Felipe,Fe***a,IT Manager,False,Yes,2026-01-30T18:00:22.483+00:00
+HIGHSTIL,highstil.com.br,http://www.highstil.com.br,62cf133e3954770001ec6727,Taisa,Sa***s,IT Manager,True,Yes,2026-02-04T14:09:48.083+00:00
+Tip Top Brasil,tiptop.com.br,http://www.tiptop.com.br,5ac9f7f8a6da98406dbc51e3,Marcelo,Ma***o,IT Manager,True,Yes,2026-02-14T13:28:54.000+00:00
+Shoebiz Oficial,shoebiz.com.br,http://www.shoebiz.com.br,60ad44b879a14b0001a6248b,Helton,Fo***a,IT Manager,True,Yes,2026-02-22T21:55:25.000+00:00
+Grupo Krindges,krindges.com.br,http://www.krindges.com.br,60082450c41e4f0001fa90f4,Jean,Mu***r,IT Manager,True,Yes,2026-02-04T00:08:35.672+00:00
+Grupo Krindges,krindges.com.br,http://www.krindges.com.br,54a273077468693fda00f923,Marcos,Bo***n,Responsável Pela TI,True,Yes,2026-02-12T23:10:24.392+00:00
+Grupo Tesoura de Ouro,grupotesouradeouro.com.br,http://www.grupotesouradeouro.com.br,5570aac97369641863a33b00,Hugo,So***a,IT Manager,True,Yes,2026-02-16T03:10:10.000+00:00
+Lojas Citycol S/A,citycol.com.br,http://www.citycol.com.br,60706f9c14f25f0001cc9b30,Ronieri,Pi***o,IT Manager,True,Yes,2026-02-24T17:01:59.117+00:00
+C. Rolim,,,54c205f774686916392b4b6d,Alan,Ba***o,IT Manager,False,Yes,2026-02-21T16:15:15.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,55710acb7369646652710300,Kauan,Si***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-03T15:05:47.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54ec4bae746869444c966679,Fernanda,Ag***r,FP&A Manager,True,Yes,2026-02-24T11:20:21.205+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5e87c6e5b4146e0001753171,Ahmed,Ab***b,FP&A Manager,True,Yes,2026-02-12T16:09:09.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5b65e183f874f70365ba8494,Tosveena,Th***s,FP&A Manager,True,Yes,2026-02-28T07:11:03.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6717f5270a32d300019769bf,Alexander,So***e,FP&A Manager,True,Yes,2026-02-15T12:01:02.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,66f11bc21e69200001daede0,Lauren,Mc***r,FP&A Manager,True,Yes,2026-02-09T23:37:52.141+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a13ac769702dac84640d01,Jonathan,Ga***n,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-30T05:54:51.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a2d3247468693fda71773f,Serene,Toh,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T11:29:58.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,63e51b0672e1f00001a57717,Jose,Ju***r,FP&A Manager,False,Maybe: please request direct dial via people/bulk_match,2026-02-28T01:16:26.255+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5e7fb7025ed3250001a84d95,Dino,Be***r,FP&A Manager,True,Yes,2026-02-26T04:00:53.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,66e536961a065f00014899da,Evan,Ro***t,FP&A Manager,True,Yes,2026-02-13T06:29:51.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5b3683e9a6da980c752ace88,Ignacio,Ma***z,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T14:26:52.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57d4ce5fa6da9853d625fc7f,Toral,Mo***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-14T18:53:52.362+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5db73cebbb139a000167fbc4,Inderpal,Si***h,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-08T04:43:05.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6252f24bfb133600010f7adf,Grzegorz,Gl***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-03T15:40:40.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,631dbea8c06f180001e31540,Wyatt,Mi***r,FP&A Manager,True,Yes,2026-02-18T20:09:28.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5570946373696425a6cd5a00,Yogesh,Wa***e,FP&A Manager,True,Yes,2026-02-24T17:06:39.395+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,68d389996ac13400014476e5,Sofie,Wo***s,FP&A Manager,True,Yes,2026-02-26T05:02:36.619+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5d57f335a3ae61ce67b27680,Christopher,Ro***e,FP&A Manager,True,Yes,2026-01-17T09:17:57.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,60309b890322d80001148167,Valeria,Af***o,FP&A Manager,True,Yes,2026-02-01T19:44:24.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54aa8c5d7468692366b3ac0a,Edmund,Mu***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T08:11:21.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5dfd46c72f06ac00011b8c4c,Maggie,Pa***s,FP&A Manager,True,Yes,2026-02-18T10:15:13.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,63206e4b17f3b40001e486e1,Kyran,At***d,FP&A Manager,True,Yes,2026-01-27T10:46:46.854+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,65a1525d2d06920001a03367,Pedro,Si***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T08:37:15.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5efc1c56cdafec000182573d,Shu,D,FP&A Manager,True,Yes,2026-02-17T06:18:22.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,597f70dfa6da98c5d4939c28,Tim,Ga***r,FP&A Manager,True,Yes,2026-02-26T06:21:15.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54c258287468697af7c8b090,Ian,Wa***n,FP&A Manager,True,Yes,2026-02-28T05:55:09.087+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a2d1b67468693fdaa90a3f,Mareike,Mo***l,FP&A Manager,True,Yes,2026-01-24T03:19:27.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,63a6e6a467c7640001f83f98,Pedro,Fi***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T20:50:44.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5d55caa480f93ebc610cfb5c,Lina,Sa***a,FP&A Manager,True,Yes,2026-02-09T06:03:07.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54abae3d7468692ca143af05,Paul,Ra***n,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-04T03:45:26.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,632068d6444337000192b02e,Marco,Co***i,FP&A Manager,True,Yes,2026-01-23T14:00:42.755+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57d949b3a6da9872729be36b,Sikandar,Ha***d,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-03T02:14:50.672+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5f6314d0b1d1be000129ef79,Julia,Fl***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T03:30:11.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5dfd46c72f06ac00011b8c4c,Maggie,Pa***s,FP&A Manager,True,Yes,2026-02-18T10:15:13.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,610ab8be0098960001cdafb2,Alysson,Sa***s,FP&A Manager,True,Yes,2026-02-04T18:35:11.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,614d73da78c990000153e2b8,Jackson,Mc***y,FP&A Manager,True,Yes,2026-02-24T03:27:02.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,60d168a40c662e000154d43a,James,He***g,FP&A Manager,True,Yes,2026-02-23T12:14:57.114+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57e19220a6da987d9c4927ba,Subhajit,Be***a,FP&A Manager,True,Yes,2026-02-14T23:48:11.745+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a3c9ff7468693b8c7dc512,Kyle,Da***y,FP&A Manager,True,Yes,2026-02-24T04:23:55.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,66f7aafea26e730001863270,Pauline,Co***x,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T14:04:50.674+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5f4c81c34ac64100017b90ba,Karina,Ka***a,FP&A Manager,True,Yes,2026-02-10T10:14:45.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,658a5969c195ff0001af7abc,Parth,Sh***h,FP&A Manager,True,Yes,2026-02-04T03:35:22.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6610caebbc395600073b7632,Mateusz,Cy***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-07T01:51:57.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,60f85bea53ff1100018fabad,Edson,To***o,FP&A Manager,True,Yes,2026-01-22T14:49:39.300+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57da392aa6da984a384add8d,Valentina,Ti***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T18:18:09.736+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,61f37bab64f2680001cceef3,Jennifer,Re***e,FP&A Manager,True,Yes,2026-02-25T12:43:08.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,564f5b69a6da982f430043de,Yehia,Th***t,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T05:45:56.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6167f35f5a671300012dacc0,Yufei,Sh***n,FP&A Manager,True,Yes,2026-02-17T06:07:02.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5ac0f8d4a6da98cf6e29165b,Jeet,Sh***h,FP&A Manager,True,Yes,2026-02-05T06:15:54.969+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,658a5969c195ff0001af7abc,Parth,Sh***h,FP&A Manager,True,Yes,2026-02-04T03:35:22.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6610caebbc395600073b7632,Mateusz,Cy***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-07T01:51:57.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5d146315a3ae61cca9937f35,Iago,Al***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-30T10:06:05.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,67a2f611da6b20000182c6a0,Chime,Kho,FP&A Manager,True,Yes,2026-02-16T20:18:33.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,604986eeac2d2a000191aa7b,Naynesh,Th***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-27T19:26:17.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a495e07468693442a51553,Terrence,Sh***y,FP&A Manager,True,Yes,2026-02-27T18:30:24.444+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,60a40d8bc201db0001ee4261,Mark,Az***n,FP&A Manager,True,Yes,2026-02-28T19:01:02.848+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5b8f6e9ff874f74e680a70b2,Ashley,Co***t,FP&A Manager,True,Yes,2026-02-03T09:39:28.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5f4cd9883c83a600013a3ce0,Shipra,Ki***y,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T16:14:33.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5fbe217dce624700011911bd,Elaine,Ga***r,FP&A Manager,True,Yes,2026-02-06T12:13:59.642+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,626f87287dbeea0001eb8d4c,Alexandra,Se***a,FP&A Manager,True,Yes,2026-02-24T10:00:06.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6879df189ce622000108544d,Ines,Ba***a,FP&A Manager,True,Yes,2026-02-11T17:54:30.899+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,675e347fe6b7980001bcedab,Jason,Mo***s,FP&A Manager,True,Yes,2026-02-21T05:05:48.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,614189c3e04aa50001496f66,Adam,De***d,FP&A Manager,True,Yes,2026-02-10T11:06:06.772+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,673c2d14871bb40001d7d72a,Irena,Ba***v,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-18T03:22:21.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54eb20a474686931b8a96b09,Ariel,Az***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-12T07:46:54.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57da4255a6da984a384b1f9a,Max,Me***k,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T04:31:52.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5aa77669a6da98a3208f7861,Andrea,Mi***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-24T10:01:22.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54c1789f74686916396ba912,Celina,How,FP&A Manager,True,Yes,2026-02-18T20:22:17.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6110e3d91cfb190001bb5051,Fahmid,Ah***d,FP&A Manager,True,Yes,2026-02-25T23:23:33.044+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,562ed481a6da98688c000bee,Corentin,Ge***e,FP&A Manager,True,Yes,2026-02-03T07:03:20.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a4bec47468692abf3a0960,Ghazi,Lu***i,FP&A Manager,True,Yes,2026-02-09T06:16:24.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57d83d3ba6da980a3d7b2672,Marco,Gu***n,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-06T20:53:13.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5f6314d0b1d1be000129ef79,Julia,Fl***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T03:30:11.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57d85d3fa6da98787bbf9707,Justin,Ha***s,FP&A Manager,True,Yes,2026-02-17T13:41:35.576+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,67a2f611da6b20000182c6a0,Chime,Kho,FP&A Manager,True,Yes,2026-02-16T20:18:33.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5f4c81c34ac64100017b90ba,Karina,Ka***a,FP&A Manager,True,Yes,2026-02-10T10:14:45.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,67ea2046326eae00012066d7,Mark,Ka***n,FP&A Manager,True,Yes,2026-02-28T00:39:03.948+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5e696c047cb58100012c0d07,James,Jo***n,FP&A Manager,True,Yes,2026-02-13T06:35:30.584+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5b898a52324d446ae31c80a3,Alysson,Fa***a,FP&A Manager,True,Yes,2026-02-12T13:34:22.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5d5aeb74f65125233f64e1f6,Clare,Bu***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-17T19:19:53.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,60b43a015452f70001453d89,Hank,Pa***w,FP&A Manager,True,Yes,2026-02-22T04:07:35.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,60a40d8bc201db0001ee4261,Mark,Az***n,FP&A Manager,True,Yes,2026-02-28T19:01:02.848+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6731cfb94afae400016cf653,Adria,Or***a,FP&A Manager,True,Yes,2026-02-03T12:51:20.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,67c0c2ea04609a00010efcda,Jose,Pa***o,FP&A Manager,True,Yes,2026-02-12T05:40:15.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,611d00069dfc590001ed66ee,Mark,Mu***l,FP&A Manager,True,Yes,2026-02-20T23:44:01.760+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,55cb1048f3e5bb0b8a0733c2,Jeremy,Wi***b,FP&A Manager,True,Yes,2026-02-10T11:17:31.517+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a44e0a746869320976293d,Leticia,Fu***n,FP&A Manager,True,Yes,2026-02-26T17:17:14.093+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5fbe217dce624700011911bd,Elaine,Ga***r,FP&A Manager,True,Yes,2026-02-06T12:13:59.642+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a54a337468693676330d8c,Danielle,Fo***y,FP&A Manager,True,Yes,2026-02-21T09:41:27.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,692b893811b31f0001f1d3df,Gabriel,Ce***o,FP&A Manager,True,Yes,2026-02-12T07:15:53.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54aaf1697468690b75313c1c,Micael,Am***m,FP&A Manager,True,Yes,2026-02-03T09:41:05.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a495e07468693442a51553,Terrence,Sh***y,FP&A Manager,True,Yes,2026-02-27T18:30:24.444+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54c1789f74686916396ba912,Celina,How,FP&A Manager,True,Yes,2026-02-18T20:22:17.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5be9a091f651255e783f1af7,Nazzar,Ma***f,FP&A Manager,True,Yes,2026-01-31T03:27:41.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,62021a8fa67af8000126d49b,Elly,Lu***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-09T06:38:46.079+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5ab01f0fa6da98bee3426aa7,Marcio,Go***s,FP&A Manager,True,Yes,2026-02-14T09:10:17.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,66f77b20d075000001e01dab,James,Pi***y,FP&A Manager,True,Yes,2026-02-12T06:06:55.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,63df2d032997c50001a3959c,Anna,Be***a,FP&A Manager,True,Yes,2026-02-21T06:15:38.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a3fc997468692abffaa222,Wojciech,Kr***k,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-27T00:25:25.785+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54ab5dac7468690ae6e16a04,Carolyn,Br***n,FP&A Manager,True,Yes,2026-02-24T03:28:31.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,69a11ddc5b25f80001e89f20,Nishka,Cg***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T06:06:36.705+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57dfb13ca6da980b4a0aa761,Wieslaw,Bi***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-26T18:34:18.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5d40ede0a3ae61519c67cd1c,Balazs,Be***e,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-28T06:38:21.660+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5d55caa480f93ebc610cfb5c,Lina,Sa***a,FP&A Manager,True,Yes,2026-02-09T06:03:07.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,56456da0a6da984f9700ecdf,Marcel,Cr***g,FP&A Manager,True,Yes,2026-02-21T03:17:57.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,67261d413bd9e000015cea37,Eduardo,Do***z,FP&A Manager,True,Yes,2026-02-23T06:22:44.295+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5e624650d92591000167abc5,Bharat,Bo***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T04:02:22.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,59e34ccfa6da9876c2c16c55,Katarzyna,Im***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-20T09:53:36.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,66fd484dad2fc10001055e41,Bruce,Pa***n,FP&A Manager,True,Yes,2026-02-23T23:06:39.437+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,67ea2046326eae00012066d7,Mark,Ka***n,FP&A Manager,True,Yes,2026-02-28T00:39:03.948+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5e696c047cb58100012c0d07,James,Jo***n,FP&A Manager,True,Yes,2026-02-13T06:35:30.584+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5b898a52324d446ae31c80a3,Alysson,Fa***a,FP&A Manager,True,Yes,2026-02-12T13:34:22.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,557098047369646d0fb73000,Paola,La***a,FP&A Manager,True,Yes,2026-02-15T04:56:40.337+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,60b43a015452f70001453d89,Hank,Pa***w,FP&A Manager,True,Yes,2026-02-22T04:07:35.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,611d00069dfc590001ed66ee,Mark,Mu***l,FP&A Manager,True,Yes,2026-02-20T23:44:01.760+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,55cb1048f3e5bb0b8a0733c2,Jeremy,Wi***b,FP&A Manager,True,Yes,2026-02-10T11:17:31.517+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a44e0a746869320976293d,Leticia,Fu***n,FP&A Manager,True,Yes,2026-02-26T17:17:14.093+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,64ed302455f8b800012c98e9,Edgar,Al***z,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T16:23:48.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57dae0f1a6da984a6c6f0952,Katherine,Bl***l,FP&A Manager,True,Yes,2026-02-23T13:15:10.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,639013257932980001f50bdc,James,Ma***h,FP&A Manager,True,Yes,2026-02-14T08:54:51.936+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,55de36bff3e5bb16b1002490,Antonio,Gu***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-23T10:20:33.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6368f87f630fe80001e0244b,Olivier,Du***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-23T15:56:56.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,564dcb46a6da984ff700c120,Shahar,Mo***h,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-18T09:47:30.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5e86aebb6f862a000143469f,Stefano,Ra***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T18:05:03.604+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,62c1f0b8a29bff000153cb9b,Pierre,Ge***n,FP&A Manager,True,Yes,2026-02-21T23:41:53.678+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5ae77cc3a6da9841aac7282c,Mariana,Fe***a,FP&A Manager,True,Yes,2026-02-21T03:29:49.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a5dc897468693209b2c7ae,Louis,Li***i,FP&A Manager,True,Yes,2026-02-18T19:22:29.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,659843e89ec3b40001070675,Dan,Ca***s,FP&A Manager,True,Yes,2026-02-07T12:05:03.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a4b8e47468693b8c63165e,Maria,Le***n,FP&A Manager,True,Yes,2026-02-17T04:20:29.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6353cfe5308d6a0001dc6453,Catalina,Ti***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-06T03:16:01.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6556fa626c7efe000141dd34,Robert,Sw***z,FP&A Manager,True,Yes,2026-02-26T23:46:53.683+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,67c0c2ea04609a00010efcda,Jose,Pa***o,FP&A Manager,True,Yes,2026-02-12T05:40:15.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6008bbf4d559320001590c9e,Matthew,Ar***r,FP&A Manager,True,Yes,2026-02-24T07:00:18.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5e845c609f25ca000175c290,Carolina,Ro***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-15T03:35:42.646+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,557147ce73696458a4942800,Ramy,Wi***m,FP&A Manager,True,Yes,2026-02-16T04:51:08.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5c5d035ef651251d3f4f0254,Lisa,Hu***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T04:20:39.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a554097468692cf0fd318f,Carlo,Be***n,FP&A Manager,True,Yes,2026-02-15T16:37:50.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6199a7b969fe770001d7816e,Thomas,La***e,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T10:06:15.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,557098047369646d0fb73000,Paola,La***a,FP&A Manager,True,Yes,2026-02-15T04:56:40.337+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,66f8feb5229f4e0001b21048,Paola,Vi***i,FP&A Manager,True,Yes,2026-01-23T14:13:29.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,611477f03aba8200019b6cd3,Jack,Be***n,FP&A Manager,True,Yes,2026-02-09T20:42:11.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54aaf1697468690b75313c1c,Micael,Am***m,FP&A Manager,True,Yes,2026-02-03T09:41:05.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,639013257932980001f50bdc,James,Ma***h,FP&A Manager,True,Yes,2026-02-14T08:54:51.936+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5e86aebb6f862a000143469f,Stefano,Ra***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T18:05:03.604+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,61080e1b8be2270001201c44,Stuart,Da***r,FP&A Manager,True,Yes,2026-02-05T04:35:38.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,564dcb46a6da984ff700c120,Shahar,Mo***h,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-18T09:47:30.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57dae0f1a6da984a6c6f0952,Katherine,Bl***l,FP&A Manager,True,Yes,2026-02-23T13:15:10.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6368f87f630fe80001e0244b,Olivier,Du***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-23T15:56:56.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,55de36bff3e5bb16b1002490,Antonio,Gu***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-23T10:20:33.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6353cfe5308d6a0001dc6453,Catalina,Ti***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-06T03:16:01.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a284fe7468693fda683f29,Charu,Tak,FP&A Manager,True,Yes,2026-02-13T17:52:35.018+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6226fbb221801800019ac002,Marriam,Ak***r,FP&A Manager,True,Yes,2026-02-28T12:08:22.240+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5b93d9dcf874f7431b0ad68b,Karan,Sh***h,FP&A Manager,True,Yes,2026-02-05T13:47:16.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,67c0c2ea04609a00010efcda,Jose,Pa***o,FP&A Manager,True,Yes,2026-02-12T05:40:15.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5e8157379ef32300018d3399,Borja,Or***z,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-03T17:51:28.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57e00103a6da980b1ddf375e,Jacob,Sp***y,FP&A Manager,True,Yes,2026-02-09T05:19:04.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a963597468692d1c9b2512,Keritzel,Ma***e,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T21:04:06.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6008bbf4d559320001590c9e,Matthew,Ar***r,FP&A Manager,True,Yes,2026-02-24T07:00:18.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,65964f7c2a89710001d2cecd,Brandon,St***e,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-19T18:08:18.847+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5e7d469db674b50001e26020,Lisa,De***e,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-30T05:42:24.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,685cef126348e800016d9ebe,Jessica,Co***n,FP&A Manager,True,Yes,2026-02-24T12:59:48.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6199a7b969fe770001d7816e,Thomas,La***e,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T10:06:15.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,557098047369646d0fb73000,Paola,La***a,FP&A Manager,True,Yes,2026-02-15T04:56:40.337+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,611477f03aba8200019b6cd3,Jack,Be***n,FP&A Manager,True,Yes,2026-02-09T20:42:11.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,639013257932980001f50bdc,James,Ma***h,FP&A Manager,True,Yes,2026-02-14T08:54:51.936+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5e86aebb6f862a000143469f,Stefano,Ra***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T18:05:03.604+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,61080e1b8be2270001201c44,Stuart,Da***r,FP&A Manager,True,Yes,2026-02-05T04:35:38.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,564dcb46a6da984ff700c120,Shahar,Mo***h,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-18T09:47:30.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57dae0f1a6da984a6c6f0952,Katherine,Bl***l,FP&A Manager,True,Yes,2026-02-23T13:15:10.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6368f87f630fe80001e0244b,Olivier,Du***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-23T15:56:56.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,55de36bff3e5bb16b1002490,Antonio,Gu***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-23T10:20:33.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5e63570945968400016965d9,Liran,Yo***v,FP&A Manager,True,Yes,2026-02-24T15:07:08.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,66f7803e26ca4800012b07b6,Aaron,Bo***n,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-12T05:59:07.566+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5c5d035ef651251d3f4f0254,Lisa,Hu***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T04:20:39.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57e0d085a6da987d8cb245a4,Ginny,Ho,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-11T11:13:56.977+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57d4ea4da6da98537a4536d7,Clare,Ta***l,FP&A Manager,True,Yes,2026-02-21T05:04:50.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57dd32c4a6da987af1209347,Mauricio,Ta***o,FP&A Manager,True,Yes,2026-02-02T06:30:03.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,672e660364817200011154e0,Oscar,Va***z,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-11T10:02:15.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,624f149d62c60b00019889e2,Feline,Al***e,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T04:39:11.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,67282ff45781e30001ad24db,Ayush,Jo***i,FP&A Manager,True,Yes,2026-02-08T06:34:54.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57da96c7a6da984aabc3c086,Craig,Li***e,FP&A Manager,True,Yes,2026-02-04T11:13:21.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57d5c15fa6da9853bedc6cb3,Cesar,Ni***i,FP&A Manager,True,Yes,2026-02-21T09:05:29.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,66f84f727a9fc20001196e23,Tony,Ho***g,FP&A Manager,True,Yes,2026-02-14T07:04:12.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a4ad3974686938ace99f5a,Julio,Ga***a,FP&A Manager,True,Yes,2026-02-10T18:18:04.356+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,66baf12c54d0e50001f65884,Imogen,Fe***m,FP&A Manager,True,Yes,2026-02-24T07:26:48.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6892dc4a04894a0001494ee9,Andrew,Hu***g,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T13:41:12.601+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5b1f0adfa6da98e234d3ec88,Marina,To***s,FP&A Manager,True,Yes,2026-02-14T09:01:43.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,63fddc0ee4add000013cb614,Kenza,Sa***i,FP&A Manager,True,Yes,2026-02-17T13:24:32.391+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,651554f4283799000177a902,Ryan,Fa***t,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-10T08:32:58.393+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5f586d4c40d3ff0001dc1a9c,Nobin,Ta***r,FP&A Manager,True,Yes,2026-02-16T06:02:47.817+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5dd545b9932ee100019a1d1d,Andrea,Pi***u,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-31T16:20:36.559+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5e696c047cb58100012c0d07,James,Jo***n,FP&A Manager,True,Yes,2026-02-13T06:35:30.584+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6490d068efef21000118e6cc,Ben,Kl***h,FP&A Manager,True,Yes,2026-02-03T12:34:46.359+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,63a2fa995ec390000135f48f,Cedric,Pi***t,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-23T17:43:44.511+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5b898a52324d446ae31c80a3,Alysson,Fa***a,FP&A Manager,True,Yes,2026-02-12T13:34:22.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a1aeba74686945fa0d9407,Juan,Ru***z,FP&A Manager,True,Yes,2026-01-14T12:15:52.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5ccddf22a3ae61d1f4f4563e,Brandon,We***b,FP&A Manager,True,Yes,2026-02-21T05:52:10.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,55e2de95f3e5bb5841006f23,Allison,La***a,FP&A Manager,True,Yes,2026-02-22T04:07:28.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,55e49d93f3e5bb0e80001528,Stephan,Ra***r,FP&A Manager,True,Yes,2026-02-14T07:11:28.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5d387198a3ae61c4e556238e,Jordan,An***n,FP&A Manager,True,Yes,2026-02-22T04:07:11.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,66f5171c9138d1000152970a,Thibaut,Ch***n,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-14T00:14:40.044+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5f4f30ce296a3400015aa3c7,Felipe,Me***o,FP&A Manager,True,Yes,2026-02-24T12:32:11.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6861de9efb9072000128f1a4,Beatriz,Ga***n,FP&A Manager,True,Yes,2026-02-16T09:44:32.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,66dadafee24bc3000171840e,Jeanette,La***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-23T17:12:21.825+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,64cceab1de637b00018db27f,Michael,Ba***a,FP&A Manager,True,Yes,2026-02-24T10:48:47.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,60cc091d25d20a0001144266,Ethan,Pl***r,FP&A Manager,True,Yes,2026-02-12T04:15:05.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,619738b5e715980001a1e30c,Ofir,Ka***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-09T09:19:45.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57dd32c4a6da987af1209347,Mauricio,Ta***o,FP&A Manager,True,Yes,2026-02-02T06:30:03.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5c6ce80cf65125ec1e0208a5,Anthony,Lee,FP&A Manager,True,Yes,2026-02-24T13:26:16.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5b8f6e9ff874f74e680a70b2,Ashley,Co***t,FP&A Manager,True,Yes,2026-02-03T09:39:28.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6309ef9b4902df00015bbca2,Caleb,Fe***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-28T07:11:19.556+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,631c66fc1042e40001bf969f,Ceceley,Ne***k,FP&A Manager,True,Yes,2026-02-16T14:33:30.807+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6768a9adb5b44f00010bfa16,Jorge,Ar***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-17T09:53:47.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5f4cd9883c83a600013a3ce0,Shipra,Ki***y,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T16:14:33.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,64ed2790453b5d0001c815e1,Ian,Hi***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-26T04:25:51.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5d6d8f0b80f93eacad8c83e0,Christine,Ch***e,FP&A Manager,True,Yes,2026-02-24T11:53:31.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57e0d085a6da987d8cb245a4,Ginny,Ho,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-11T11:13:56.977+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,66480a3a8ab0f30001b11929,Ricardo,Ca***o,FP&A Manager,True,Yes,2026-02-07T05:34:52.488+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57d4ea4da6da98537a4536d7,Clare,Ta***l,FP&A Manager,True,Yes,2026-02-21T05:04:50.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,624f149d62c60b00019889e2,Feline,Al***e,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T04:39:11.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,614ea9265e137d0001bf9057,Viviana,Ra***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-11T06:26:53.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,60d251917027ac000179ee4a,Karla,Po***s,FP&A Manager,True,Yes,2026-01-21T01:30:30.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5d6990ac80f93e6b2667a2e7,Jana,Ku***r,FP&A Manager,True,Yes,2026-02-26T19:05:43.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,63a2fa995ec390000135f48f,Cedric,Pi***t,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-23T17:43:44.511+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,60ce42b000bb85000162faf4,Allison,Ba***n,FP&A Manager,True,Yes,2026-02-24T11:02:00.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5d146315a3ae61cca9937f35,Iago,Al***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-30T10:06:05.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a7a096746869705a654847,Erika,Lo***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T10:55:59.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57d49b75a6da98537ed287cc,Will,Pa***y,FP&A Manager,True,Yes,2026-03-01T17:05:29.373+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57d4e946a6da9853ae9073f6,Joel,Ra***f,FP&A Manager,True,Yes,2026-02-21T04:42:05.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,604986eeac2d2a000191aa7b,Naynesh,Th***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-27T19:26:17.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57d7bd9ba6da9809ce6f8763,Barbara,Pa***m,FP&A Manager,True,Yes,2026-02-27T11:52:39.109+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,61222628bf66b800019b7f0b,Jessie,So***g,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T05:00:53.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,630dea71922bf200019c42d3,Mechelle,Ja***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-08T06:20:10.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5fc1003c1bd88f00017c43b8,Anthony,Ri***h,FP&A Manager,True,Yes,2026-02-03T14:27:25.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5dca6ce21b3f9d0001379d7d,Eugen,Me***c,FP&A Manager,True,Yes,2026-02-17T04:55:38.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,62b5cbff22afa10001e29387,Jake,Be***n,FP&A Manager,True,Yes,2026-02-10T18:23:55.905+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5d555d23f65125c15a37dea5,Janine,Gi***i,FP&A Manager,True,Yes,2026-02-14T09:39:43.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,62f474ac0bd7f00001f184f2,Gal,Ka***h,FP&A Manager,True,Yes,2026-02-01T03:33:28.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57d5d4fea6da9853de0363f9,Joseph,Ca***o,FP&A Manager,True,Yes,2026-02-09T23:05:41.907+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5e7c280771f7e90001bb0df3,Dayo,Ba***e,FP&A Manager,True,Yes,2026-02-07T00:33:28.690+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,6139f1351b0ca300014e1c24,Megan,Sh***e,FP&A Manager,True,Yes,2026-02-18T04:12:34.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5f0ed7d7d9901300015ee65c,Dimitri,Mu***z,FP&A Manager,True,Yes,2026-02-24T04:00:31.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a4d1bc746869367697b165,Daniel,Pan,FP&A Manager,True,Yes,2026-02-26T00:05:42.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57e1b23ba6da985737bb6e32,Charlie,Tr***n,FP&A Manager,True,Yes,2026-02-27T13:03:51.846+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,67d8389b94fdcd0001f1f295,Fernanda,Si***a,FP&A Manager,True,Yes,2026-01-25T04:53:53.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,54a54f6b746869320904c78d,Olivier,Ad***m,FP&A Manager,True,Yes,2026-02-03T19:05:53.000+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,5de7c89249a7410001369802,Joao,Na***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T19:39:39.729+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,57dddd7aa6da987afd9450f9,Kelly,Im***n,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T10:58:10.483+00:00
+Grupo Topázio | Colchões,estofados e móveis,Estofados e Móveis,66fa82fff9bde30001f0ba69,Shilpa,Ma***k,FP&A Manager,True,Yes,2026-02-20T14:52:03.022+00:00
+C&A Brasil,cea.com.br,http://www.cea.com.br,67a88e49812e7900018fb340,Gabriela,Ta***i,FP&A Manager,True,Yes,2026-02-24T13:40:01.744+00:00
+C&A Brasil,cea.com.br,http://www.cea.com.br,616fb91ee524e30001739dbd,Veronica,Ma***a,FP&A Manager,True,Yes,2026-02-16T09:54:45.272+00:00
+C&A Brasil,cea.com.br,http://www.cea.com.br,57d47781a6da98538e78d89c,Cassio,Sc***i,FP&A Manager,True,Yes,2026-02-20T17:05:50.666+00:00
+C&A Brasil,cea.com.br,http://www.cea.com.br,54a20a1074686935be485507,Anderson,Ma***a,FP&A and Sales Planning Manager,True,Yes,2026-02-25T02:59:09.000+00:00
+C&A Brasil,cea.com.br,http://www.cea.com.br,60fe0c840e463100016b66d4,Bruno,Ca***o,IT Manager,True,Yes,2026-02-23T23:11:47.863+00:00
+C&A Brasil,cea.com.br,http://www.cea.com.br,67424df9e6d75200019e21f9,Camila,So***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-15T21:31:00.751+00:00
+C&A Brasil,cea.com.br,http://www.cea.com.br,60d1577c17d8760001aa93c2,Fabiana,Pe***a,IT Manager,False,Yes,2026-03-02T06:09:55.981+00:00
+C&A Brasil,cea.com.br,http://www.cea.com.br,682b23dfd10fb90001ed9350,Flavio,Ju***r,IT Manager - Logistics,False,Yes,2026-02-14T06:35:48.000+00:00
+C&A Brasil,cea.com.br,http://www.cea.com.br,667eafaf25997600017beafe,Eduardo,Sa***s,IT Infrastructure Manager,True,Yes,2026-03-01T18:11:30.810+00:00
+C&A Brasil,cea.com.br,http://www.cea.com.br,686b21ccb24ff900017bc1ba,Suelem,Ca***i,IT Project Manager,True,Yes,2026-02-13T17:14:15.000+00:00
+Dafiti,dafitigroup.com,http://www.dafitigroup.com,6851100a24cf370001ab7604,Simon,Yu***s,Financial Planning and Analysis Manager / FP&A Manager,True,Yes,2026-02-03T20:52:25.000+00:00
+Dafiti,dafitigroup.com,http://www.dafitigroup.com,6824d6f52a5b27000188b3b6,Alex,Pe***a,IT Operation Manager Latam,True,Yes,2026-02-05T22:01:28.000+00:00
+Grupo SOMA,somagrupo.com.br,http://www.somagrupo.com.br,6605629e2e5b6d0007c21052,Bruno,Af***o,IT Manager,True,Yes,2026-02-03T20:10:16.658+00:00
+Privalia,privalia.com,http://www.privalia.com,66fa2d93d1c6fd000197cce4,Dani,Mi***o,IT Manager SAP & Supply Chain,True,Yes,2026-02-26T13:35:59.000+00:00
+Privalia,privalia.com,http://www.privalia.com,66fa1645d1c6fd000190279d,Nuria,Ra***s,IT ServiceDesk Corporate Manager,True,Yes,2026-02-11T22:03:58.000+00:00
+Chilli Beans,chillibeans.com.br,http://www.chillibeans.com.br,5e5b2f27cecafd0001d0bb0a,Aline,Ma***s,Financial Supervisor,True,Yes,2026-02-08T16:19:44.000+00:00
+Grupo HOPE,grupohope.com.br,http://www.grupohope.com.br,60f76fb363f53800010ff900,Bruno,Za***y,IT Manager,True,Yes,2026-02-25T03:40:11.000+00:00
+Grupo HOPE,grupohope.com.br,http://www.grupohope.com.br,610a86ed84b00e000154c049,Dayse,Mo***i,Financial Supervisor,True,Yes,2026-02-27T23:54:14.180+00:00
+Grupo HOPE,grupohope.com.br,http://www.grupohope.com.br,61b45469bf5ad70001e0079c,Gisele,Lo***s,Financial Supervisor,False,Maybe: please request direct dial via people/bulk_match,2026-01-29T18:47:23.000+00:00
+Shoulder,shoulder.com.br,http://www.shoulder.com.br,68618e45fc3d7700015f1867,Alisson,Be***i,Information Technology Infrastructure Manager,True,Yes,2026-02-13T03:30:47.000+00:00
+Grupo Malwee,grupomalwee.com.br,http://www.grupomalwee.com.br,5e41ba493d53e100018870ec,Cheila,Sa***s,Financial Supervisor,True,Yes,2026-02-23T04:54:57.449+00:00
+Grupo Malwee,grupomalwee.com.br,http://www.grupomalwee.com.br,54c1606e7468697af76b6d04,Cleiton,Ca***o,FP&A Mananger,True,Yes,2026-02-03T03:21:50.000+00:00
+Caedu,caedu.com.br,http://www.caedu.com.br,6734735f6973bd0001aa71c9,Bruno,Br***a,Financial Supervisor,False,Maybe: please request direct dial via people/bulk_match,2026-02-16T03:43:52.000+00:00
+Caedu,caedu.com.br,http://www.caedu.com.br,63569b4cf15e160001234235,Jonathan,Me***a,Financial Supervisor,False,Maybe: please request direct dial via people/bulk_match,2026-02-05T21:11:27.000+00:00
+Caedu,caedu.com.br,http://www.caedu.com.br,61167d00ccbf690001f3eee4,Cristiano,Ma***o,IT Infrastructure Manager,True,Yes,2026-03-01T23:45:42.335+00:00
+Caedu,caedu.com.br,http://www.caedu.com.br,68a556508f543600016cb1a8,Tatiane,Ma***e,Financial Services Supervisor,False,Yes,2026-02-13T02:14:15.000+00:00
+Caedu,caedu.com.br,http://www.caedu.com.br,648fc12e33025a00013b3206,Lucas,Fe***a,Financial Services Supervisor,False,Maybe: please request direct dial via people/bulk_match,2026-01-25T15:33:45.000+00:00
+Caedu,caedu.com.br,http://www.caedu.com.br,62b07efea5c01c000171ef07,Alexandre,Ha***i,Gerente de TI - Sistemas Financeiros,True,Yes,2026-01-27T21:31:31.259+00:00
+Athié Wohnrath,athiewohnrath.com.br,http://www.athiewohnrath.com.br,54a59c197468692fa2caae9d,William,Ma***o,IT Infrastructure Manager,True,Yes,2026-02-14T06:50:27.000+00:00
+Mills,mills.com.br,http://www.mills.com.br,57d9a2a0a6da98724a5bf17a,Guilherme,Ma***i,Gerente de Contabilidade e FP&A,True,Yes,2026-02-24T17:18:28.147+00:00
+Inbrands,inbrands.com.br,http://www.inbrands.com.br,5fa448cb0d55490001aba109,Nelson,Ol***a,IT and Project Manager,False,Yes,2026-02-06T21:53:53.000+00:00
+AMC Textil Ltda,amctextil.com.br,http://www.amctextil.com.br,653a91407aebd50001a7ffa8,Luis,Ma***o,IT Manager,True,Yes,2026-02-21T15:46:27.000+00:00
+Santa Lolla,totvs.app,http://www.totvs.app,669a6c123be10f0001855b05,Jose,Ca***e,IT Manager,False,Yes,2026-02-13T18:08:14.669+00:00
+Santa Lolla,totvs.app,http://www.totvs.app,6899e9bfbbf1e10001f2c2cc,Andre,Ca***o,Financial Supervisor,False,Maybe: please request direct dial via people/bulk_match,2026-02-16T01:46:49.000+00:00
+Studio Z,stz.com.br,http://www.stz.com.br,67405cafb0e15a00010c39bf,Jaqueline,Pi***o,Financial Services Supervisor,False,Maybe: please request direct dial via people/bulk_match,2026-02-15T22:08:04.000+00:00
+Novo Mundo Móveis e Utilidades,novomundo.com.br,http://www.novomundo.com.br,63a4a207b787c7000195e7c0,Wilber,Si***a,IT Manager,True,Yes,2026-02-05T16:58:15.901+00:00
+Novo Mundo Móveis e Utilidades,novomundo.com.br,http://www.novomundo.com.br,57dd5f87a6da987b6db0a951,George,Le***l,Gerente de Projetos e TI e Ecomm,False,Yes,2026-01-29T19:50:05.055+00:00
+LIVE!,liveoficial.com.br,http://www.liveoficial.com.br,60e729d65bc3a60001cfd233,Carlos,Co***a,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-06T14:52:13.000+00:00
+Lojas Leader,leader.com.br,http://www.leader.com.br,60e87080cc16060001cff562,Andre,Ma***s,IT Manager,False,Yes,2026-01-29T16:46:38.000+00:00
+Paquetá The Shoe Company,paquetatheshoecompany.com.br,http://www.paquetatheshoecompany.com.br,680e894e104645000143ec62,Elisangela,Ma***s,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-30T19:39:26.000+00:00
+Paquetá The Shoe Company,paquetatheshoecompany.com.br,http://www.paquetatheshoecompany.com.br,655ef02dafe0be0001191eae,Ivan,St***r,IT Infrastructure Manager,True,Yes,2025-09-28T14:11:14.619+00:00
+Todeschini S.A.,todeschini.com.br,http://www.todeschini.com.br,5db84a6947019a0099e242c3,Priscila,Pe***e,Financial Supervisor,True,Yes,2026-02-12T02:36:14.000+00:00
+Todeschini S.A.,todeschini.com.br,http://www.todeschini.com.br,60ba2aaf3ee8900001981cbe,Rafael,Va***a,IT Manager,True,Yes,2026-02-17T07:23:37.000+00:00
+Todeschini S.A.,todeschini.com.br,http://www.todeschini.com.br,57df5778a6da980b2ff8c0e4,Sandra,Pe***o,Financial Supervisor,False,Yes,2026-01-23T07:54:18.838+00:00
+Avenue,avenida.com.br,http://www.avenida.com.br,54a547d274686932093d568b,Denilson,Ba***a,IT Infrastructure Manager,True,Yes,2026-02-05T13:19:38.026+00:00
+Avenue,avenida.com.br,http://www.avenida.com.br,673b1572eb3f67000128962a,Marcilene,Mu***z,Financial Services Supervisor,False,Maybe: please request direct dial via people/bulk_match,2026-01-30T13:16:35.000+00:00
+Avenue,avenida.com.br,http://www.avenida.com.br,674052a9f8cf710001bfdf25,Bianca,Ve***o,Financial Services Supervisor,False,Maybe: please request direct dial via people/bulk_match,2024-11-22T09:45:13.122+00:00
+Zanotti Elásticos,zanotti.com.br,http://www.zanotti.com.br,6720b8ac81092d00019c8e3d,Cristian,Si***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T11:00:48.000+00:00
