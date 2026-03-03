@@ -1,74 +1,377 @@
-Name,Website,LinkedIn,Primary Phone,Phone,Languages
-C&A Brasil,http://www.cea.com.br,http://www.linkedin.com/company/c&a_brasil,{},,Portuguese
-Dafiti,http://www.dafitigroup.com,http://www.linkedin.com/company/dafiti,{},,Portuguese
-Iguatemi S.A.,http://www.vemseriguatemi.com.br,http://www.linkedin.com/company/iguatemisa,{},,Portuguese
-Grupo SOMA,http://www.somagrupo.com.br,http://www.linkedin.com/company/grupo-soma,"{'number': '+55 21 2503-6850', 'source': 'Owler', 'sanitized_number': '+552125036850'}",+55 21 2503-6850,
-Privalia,http://www.privalia.com,http://www.linkedin.com/company/privalia,"{'number': '+55 34 93553-1805', 'source': 'Owler', 'sanitized_number': '+5534935531805'}",+55 34 93553-1805,"Spanish, Italian"
-Case&Stock,http://www.tokstok.com.br,http://www.linkedin.com/company/tok&stok,"{'number': '+55 11 4280-9144', 'source': 'Scraped', 'sanitized_number': '+551142809144'}",+55 11 4280-9144,
-Chilli Beans,http://www.chillibeans.com.br,http://www.linkedin.com/company/chilli-beans,{},,Portuguese
-Grupo HOPE,http://www.grupohope.com.br,http://www.linkedin.com/company/grupohope,{},,Portuguese
-VESTE S/A,http://www.veste.com,http://www.linkedin.com/company/veste-sa,{},,
-Shoulder,http://www.shoulder.com.br,http://www.linkedin.com/company/shoulder,"{'number': '+55 11 3366-0040', 'source': 'Account', 'sanitized_number': '+551133660040'}",+55 11 3366-0040,Portuguese
-Grupo Malwee,http://www.grupomalwee.com.br,http://www.linkedin.com/company/grupomalwee,{},,Portuguese
-Restoque S/A,http://www.restoque.com.br,http://www.linkedin.com/company/restoque-sa,{},,
-Lojas Torra,http://www.lojastorra.com.br,http://www.linkedin.com/company/lojastorra,{},,
-Caedu,http://www.caedu.com.br,http://www.linkedin.com/company/caedu,{},,
-FARM Rio,http://www.farmrio.com,http://www.linkedin.com/company/farm-rio,{},,Portuguese
-Athié Wohnrath,http://www.athiewohnrath.com.br,http://www.linkedin.com/company/athiewohnrath,{},,
-Mills,http://www.mills.com.br,http://www.linkedin.com/company/millsoficial,"{'number': '+55 800 705 1000', 'source': 'Owler', 'sanitized_number': '+558007051000'}",+55 800 705 1000,Portuguese
-Armac,http://www.armac.com.br,http://www.linkedin.com/company/armac-locacao,{},,Portuguese
-Inbrands,http://www.inbrands.com.br,http://www.linkedin.com/company/inbrands,{},,Portuguese
-Aramis,http://www.aramis.com.br,http://www.linkedin.com/company/aramis,"{'number': '+55 11 3611-5141', 'source': 'Account', 'sanitized_number': '+551136115141'}",+55 11 3611-5141,"Portuguese, English"
-Constance Calçados,http://www.constance.com.br,http://www.linkedin.com/company/constance-cal%c3%a7ados,"{'number': '+55 61 3242-1464', 'source': 'Account', 'sanitized_number': '+556132421464'}",+55 61 3242-1464,Portuguese
-Osklen,http://www.osklen.com.br,http://www.linkedin.com/company/osklen,{},,English
-Morena Rosa Group,http://www.grupomorenarosa.com.br,http://www.linkedin.com/company/grupo-morena-rosa,"{'number': '+55 44 3351-5000', 'source': 'Account', 'sanitized_number': '+554433515000'}",+55 44 3351-5000,Portuguese
-Lunelli,http://www.lunelli.com.br,http://www.linkedin.com/company/lunelli,"{'number': '+55 47 3373-7000', 'source': 'Scraped', 'sanitized_number': '+554733737000'}",+55 47 3373-7000,"Portuguese, English, Portuguese, Spanish, English, Portuguese, Spanish, English, Portuguese, Spanish"
-AMC Textil Ltda,http://www.amctextil.com.br,http://www.linkedin.com/company/grupoamc,{},,Spanish
-Santa Lolla,http://www.totvs.app,http://www.linkedin.com/company/santa-lolla,"{'number': '+55 95 3623-2165', 'source': 'Account', 'sanitized_number': '+559536232165'}",+55 95 3623-2165,Portuguese
-Studio Z,http://www.stz.com.br,http://www.linkedin.com/company/studio-z-calcados,"{'number': '+55 800 648 0151', 'source': 'Scraped', 'sanitized_number': '+558006480151'}",+55 800 648 0151,
-Novo Mundo Móveis e Utilidades,http://www.novomundo.com.br,http://www.linkedin.com/company/novo-mundo-sa,{},,Portuguese
-Zinzane,http://www.zinzane.com.br,http://www.linkedin.com/company/zinzane,{},,
-LIVE!,http://www.liveoficial.com.br,http://www.linkedin.com/company/liveoficial,"{'number': '+55 47 2106-7460', 'source': 'Account', 'sanitized_number': '+554721067460'}",+55 47 2106-7460,Portuguese
-TNG Comércio de Roupas Ltda.,http://www.tngvirtual.com.br,http://www.linkedin.com/company/tng-com-rcio-de-roupas-ltda-,{},,Portuguese
-ANIMALE,http://www.animale.com.br,http://www.linkedin.com/company/animale,{},,
-Lojas Leader,http://www.leader.com.br,http://www.linkedin.com/company/lo-jas-le-a-der,{},,
-Cozinhas Itatiaia,http://www.minhaitatiaia.com.br,http://www.linkedin.com/company/cozinhas-itatiaia,{},,"English, Portuguese, Spanish"
-Polo Wear,http://www.polowear.com.br,http://www.linkedin.com/company/polo-wear,{},,Portuguese
-Paquetá The Shoe Company,http://www.paquetatheshoecompany.com.br,http://www.linkedin.com/company/paqueta-the-shoe-company,{},,"English, Portuguese, Spanish"
-Todeschini S.A.,http://www.todeschini.com.br,http://www.linkedin.com/company/todeschini,"{'number': '(809) 532-3738', 'source': 'Scraped', 'sanitized_number': '+18095323738'}",(809) 532-3738,"English, Portuguese, Spanish"
-Avenue,http://www.avenida.com.br,http://www.linkedin.com/company/lojas-avenida,{},,"Portuguese, Portuguese"
-Lojas Besni,http://www.besni.com.br,http://www.linkedin.com/company/lojas-belian-moda,{},,Portuguese
-DeMillus Indústria e Comércio S.A.,http://www.demillus.com.br,http://www.linkedin.com/company/demillus,{},,Portuguese
-Bracol,http://www.bracolonline.com.br,http://www.linkedin.com/company/bracolpro,"{'number': '+55 14 3533-2200', 'source': 'Account', 'sanitized_number': '+551435332200'}",+55 14 3533-2200,
-Zanotti Elásticos,http://www.zanotti.com.br,http://www.linkedin.com/company/zanottielasticos,"{'number': '+55 47 3372-5000', 'source': 'Account', 'sanitized_number': '+554733725000'}",+55 47 3372-5000,Spanish
-Florense,http://www.florense.com,http://www.linkedin.com/company/florense,"{'number': '+55 54 3292-7300', 'source': 'Scraped', 'sanitized_number': '+555432927300'}",+55 54 3292-7300,"English, Spanish, Portuguese"
-Lider,http://www.lider.design,http://www.linkedin.com/company/liderdesign,"{'number': '+55 37 3244-0300', 'source': 'Scraped', 'sanitized_number': '+553732440300'}",+55 37 3244-0300,
-"TACO - Roupas, Moda / Varejo",http://www.taco.com.br,http://www.linkedin.com/company/tacomoda,{},,Portuguese
-MOB,http://www.mobonline.com.br,http://www.linkedin.com/company/mob,{},,
-Lojas Pompéia,http://www.lojaspompeia.com,http://www.linkedin.com/company/lojaspompeia,{},,Portuguese
-Damyller,http://www.damyller.com.br,http://www.linkedin.com/company/damyller,{},,Portuguese
-Lojas Nalin,http://www.lojasnalin.com.br,http://www.linkedin.com/company/lojasnalin,{},,
-Fibraplac Painéis de Madeira S.A.,http://www.fibraplac.com.br,http://www.linkedin.com/company/fibraplac-chapas-de-mdf-ltda,"{'number': '+55 800 70 9633', 'source': 'Scraped', 'sanitized_number': '+55800709633'}",+55 800 70 9633,Portuguese
-Humanitarian,http://www.humanitarian.com.br,http://www.linkedin.com/company/humanitarian-calcados,{},,Portuguese
-Grupo Bigfer,http://www.grupobigfer.com.br,http://www.linkedin.com/company/grupo-bigfer---filial-farroupilha-rs,{},,Portuguese
-Duloren Indústria e Comércio S.A.,http://www.duloren.com.br,http://www.linkedin.com/company/duloren,{},,Portuguese
-Rede de Óticas Mercadão dos Óculos,http://www.mercadaodosoculos.com.br,http://www.linkedin.com/company/rede-de-%c3%b3ticas-mercad%c3%a3o-dos-%c3%b3culos,"{'number': '+55 17 3202-9100', 'source': 'Scraped', 'sanitized_number': '+551732029100'}",+55 17 3202-9100,
-Democrata Calçados e Artef. de Couro LTDA,http://www.democrata.com.br,http://www.linkedin.com/company/democratacalcados,{},,Portuguese
-Nação Pampili,http://www.pampili.com.br,http://www.linkedin.com/company/pampili,{},,Portuguese
-CALÇADOS ITAPUÃ,http://www.itapua.com.br,http://www.linkedin.com/company/lojasitapua,{},,Portuguese
-Passarela Calçados,http://www.passarela.com.br,http://www.linkedin.com/company/passarela-com,{},,Portuguese
-Gazin Colchões,http://www.colchoesgazin.com.br,http://www.linkedin.com/company/gazin-colches,{},,
-Armazém Paraíba,http://www.armazemparaiba.com.br,http://www.linkedin.com/company/armazemparaiba,{},,
-Corretor de imóveis,http://www.olx.com.br,http://www.linkedin.com/company/corretor-de-im-veis,{},,
-Oficina,http://www.oficinareserva.com,http://www.linkedin.com/company/useoficina,"{'number': '+55 21 2474-1562', 'source': 'Account', 'sanitized_number': '+552124741562'}",+55 21 2474-1562,English
-Lojão do Brás,http://www.lojaodobras.com.br,http://www.linkedin.com/company/loj%c3%a3o-do-br%c3%a1s,{},,Portuguese
-MOBILE,,http://www.linkedin.com/company/mobile,"{'number': '+55 11 2431-5511', 'source': 'Account', 'sanitized_number': '+551124315511'}",+55 11 2431-5511,
-Amazonflex,http://www.amazonflexshop.com.br,http://www.linkedin.com/company/amazonflex,"{'number': '+55 16 99631-0032', 'source': 'Scraped', 'sanitized_number': '+5516996310032'}",+55 16 99631-0032,
-Moda,http://www.limonadapink.com.br,http://www.linkedin.com/company/limonada-pink,"{'number': '+55 44 3346-9254', 'source': 'Scraped', 'sanitized_number': '+554433469254'}",+55 44 3346-9254,Portuguese
-Costureira,,http://www.linkedin.com/company/costureira,{},,
-Hospital do Servidor Público Estadual,http://www.otorrinoiamspe.com.br,http://www.linkedin.com/company/hospital-do-servidor-p%c3%bablico-estadual,{},,
-Moveis Planejados,http://www.mpmoveisplanejados.com.br,http://www.linkedin.com/company/moveis-planejados,{},,
-Fundação Municipal de Saúde,,http://www.linkedin.com/company/funda%c3%a7%c3%a3o-municipal-de-sa%c3%bade,{},,
-BABA,http://www.sitedababa.com.br,http://www.linkedin.com/company/linkedin-da-baba,"{'number': '+55 85 98177-0983', 'source': 'Account', 'sanitized_number': '+5585981770983'}",+55 85 98177-0983,
-MY confecção,,http://www.linkedin.com/company/my-confec%c3%a7%c3%a3o,{},,
-Armarinho,http://www.armarinhobrecho.com.br,http://www.linkedin.com/company/armarinho-brecho,{},,
+Name	Website	LinkedIn	Primary Phone	Phone	Languages
+Movile	http://www.movile.com.br	http://www.linkedin.com/company/movile	{}		English
+CASACOR	http://casacor.abril.com.br	http://www.linkedin.com/company/casa-cor	{}		Portuguese
+NV	http://www.bynv.com.br	http://www.linkedin.com/company/bynv	{}		
+Mobly	http://www.mobly.com.br	http://www.linkedin.com/company/mobly	{'number': '+55 11 4005-1091', 'source': 'Account', 'sanitized_number': '+551140051091'}	+55 11 4005-1091	Portuguese
+Anjos do Brasil	http://www.anjosdobrasil.net	http://www.linkedin.com/company/anjos-do-brasil	{}		Portuguese
+Gocase ®	http://www.gocase.com.br	http://www.linkedin.com/company/gocasebr	{}		Portuguese
+Icomm Group | Shop2gether & OQVestir		http://www.linkedin.com/company/icomm-goup	{}		Portuguese
+Grupo Fictor	http://www.fictor.com.br	http://www.linkedin.com/company/grupofictor	{}		English
+Grupo Luiza Barcelos	http://www.luizabarcelos.com.br	http://www.linkedin.com/company/luizabarcelos	{}		Portuguese
+Marelli	http://www.marelli.com.br	http://www.linkedin.com/company/marelli-oficial	{}		Portuguese
+Metalúrgica Albras Ltda.	http://www.albras.com	http://www.linkedin.com/company/metal%c3%bargica-albras-ltda-	{}		Portuguese
+Flexform	http://www.flexform.com.br	http://www.linkedin.com/company/flexformbr	{'number': '+55 11 2431-5511', 'source': 'Account', 'sanitized_number': '+551124315511'}	+55 11 2431-5511	English
+oáz		http://www.linkedin.com/company/oaz-co	{}		Portuguese
+Fakini	http://www.fakini.com.br	http://www.linkedin.com/company/fakini	{}		Portuguese
+KPTL	http://www.kptl.com.br	http://www.linkedin.com/company/kptl-vc	{'number': '+55 11 2165-1005', 'source': 'Scraped', 'sanitized_number': '+551121651005'}	+55 11 2165-1005	English, Portuguese
+SYN	http://www.syn.com.br	http://www.linkedin.com/company/synproptech	{'number': '+55 11 5412-7600', 'source': 'Account', 'sanitized_number': '+551154127600'}	+55 11 5412-7600	
+Grupo Cordeiro BR	http://www.grupocordeiro.com	http://www.linkedin.com/company/grupocordeirobr	{'number': '+55 85 4006-2424', 'source': 'Account', 'sanitized_number': '+558540062424'}	+55 85 4006-2424	English, Portuguese
+LOFTY STYLE	http://www.loftystyle.com.br	http://www.linkedin.com/company/lofty-style	{}		
+Grupo SA	http://www.sagrupo.com	http://www.linkedin.com/company/gruposa	{}		
+Trimak Engenharia	http://www.trimak.com.br	http://www.linkedin.com/company/trimak-engenharia-e-com-rcio-ltda	{}		Portuguese
+Redley	http://www.redley.com.br	http://www.linkedin.com/company/company-that-owns-brands-cant-o-redley-kenner	{'number': '+55 21 2204-2629', 'source': 'Account', 'sanitized_number': '+552122042629'}	+55 21 2204-2629	Portuguese
+Moda Colmeia	http://www.modacolmeia.com	http://www.linkedin.com/company/modacolmeia	{}		Portuguese
+Lenny Niemeyer	http://www.lennyniemeyer.com	http://www.linkedin.com/company/lennyniemeyer	{'number': '+55 21 3558-0036', 'source': 'Scraped', 'sanitized_number': '+552135580036'}	+55 21 3558-0036	
+Top Brands Fashion Group		http://www.linkedin.com/company/topbrandsfashiongroup	{}		
+GEP	http://www.gep.com.br	http://www.linkedin.com/company/gep_2	{}		
+Gang Comércio do Vestuário Ltda	http://www.gang.com.br	http://www.linkedin.com/company/gang-comercio-de-vestuario-ltda	{}		Portuguese
+Objeto Brasil Confecções	http://www.objetobr.com.br	http://www.linkedin.com/company/ob	{'number': '+55 47 3395-3400', 'source': 'Account', 'sanitized_number': '+554733953400'}	+55 47 3395-3400	Portuguese
+Calçados Bebecê	http://www.bebece.com.br	http://www.linkedin.com/company/calcados-bebece	{}		Portuguese, Spanish
+LIZIE	http://www.lizie.com.br	http://www.linkedin.com/company/liziebr	{}		
+Foxton	http://www.foxtonbrasil.com.br	http://www.linkedin.com/company/foxton	{}		Portuguese
+ViX Paula Hermanny Brasil	http://www.vixbrasil.com	http://www.linkedin.com/company/vix-paula-hermanny-brasil	{}		
+Beagle Brand	http://www.vistabeagle.com.br	http://www.linkedin.com/company/beagle-brand	{'number': '+55 47 3036-7100', 'source': 'Scraped', 'sanitized_number': '+554730367100'}	+55 47 3036-7100	
+Cozimax	http://www.cozimax.com.br	http://www.linkedin.com/company/cozimax	{'number': '+55 17 3253-9020', 'source': 'Account', 'sanitized_number': '+551732539020'}	+55 17 3253-9020	Portuguese
+TROC		http://www.linkedin.com/company/trocreal	{}		
+Grupo MPL - M.POLLO & PACO JEANS	http://www.grupompl.com.br	http://www.linkedin.com/company/grupo-mpl	{}		Portuguese
+Móveis Província	http://www.moveisprovincia.com.br	http://www.linkedin.com/company/m-veis-prov-ncia	{}		Portuguese
+Saccaro	http://www.saccaro.com.br	http://www.linkedin.com/company/saccaro	{'number': '+55 54 4009-3600', 'source': 'Scraped', 'sanitized_number': '+555440093600'}	+55 54 4009-3600	
+CRIS BARROS	http://www.crisbarros.com.br	http://www.linkedin.com/company/cris-barros	{'number': '+55 11 4210-0170', 'source': 'Scraped', 'sanitized_number': '+551142100170'}	+55 11 4210-0170	
+Rivatti Móveis	http://www.rivatti.com.br	http://www.linkedin.com/company/rivatti-moveis	{}		Portuguese
+Richards - Companhia de Marcas	http://www.richards.com.br	http://www.linkedin.com/company/richards---companhia-de-marcas	{}		Portuguese
+Criare Ambientes Planejados		http://www.linkedin.com/company/criareplanejados	{}		Portuguese
+UFOWAY	http://www.ufoway.com.br	http://www.linkedin.com/company/ufo-way-private-label	{'number': '+55 48 3444-9400', 'source': 'Scraped', 'sanitized_number': '+554834449400'}	+55 48 3444-9400	
+Shopping Eldorado	http://www.shoppingeldorado.com.br	http://www.linkedin.com/company/shopping-eldorado	{}		English
+Sand Beach	http://www.maresia.com.br	http://www.linkedin.com/company/sand-beach	{}		
+Carmak Equipamentos	http://www.carmak.com.br	http://www.linkedin.com/company/carmak-equipamentos	{}		
+KINGS Sneakers Shop	http://www.lojakings.com.br	http://www.linkedin.com/company/kings-sneakers-shop	{'number': '+55 11 3223-1624', 'source': 'Scraped', 'sanitized_number': '+551132231624'}	+55 11 3223-1624	Portuguese
+Caruaru Shopping	http://www.caruarushopping.com	http://www.linkedin.com/company/caruaru-shopping	{}		Portuguese
+GRUPO K1 S.A.	http://www.grupok1.com.br	http://www.linkedin.com/company/grupo-k1	{}		
+Covolan Denim	http://www.covolan.com.br	http://www.linkedin.com/company/covolandenim	{'number': '+55 19 3459-8200', 'source': 'Account', 'sanitized_number': '+551934598200'}	+55 19 3459-8200	Portuguese
+Cinex Inovação e Emoção	http://www.cinex.com.br	http://www.linkedin.com/company/cinex-ind-do-mobili%c3%a1rio-ltda	{'number': '+55 54 3455-2222', 'source': 'Scraped', 'sanitized_number': '+555434552222'}	+55 54 3455-2222	English, Portuguese, Spanish
+HMY do Brasil	http://www.hmy-group.com.br	http://www.linkedin.com/company/hmy-do-brasil	{}		
+Inusittá Ambientes Planejados		http://www.linkedin.com/company/inusittaambientesplanejados	{'number': '+55 45 3027-5600', 'source': 'Account', 'sanitized_number': '+554530275600'}	+55 45 3027-5600	Portuguese
+Doptex	http://www.doptex.com.br	http://www.linkedin.com/company/doptex	{}		
+Safetline	http://www.safetline.com.br	http://www.linkedin.com/company/safetline	{}		Portuguese
+Loja Três	http://www.lojatres.com.br	http://www.linkedin.com/company/loja-tr%c3%aas	{}		
+Enjoy	http://www.enjoy.com.br	http://www.linkedin.com/company/enjoy-oficial	{'number': '+55 61 99878-0847', 'source': 'Scraped', 'sanitized_number': '+5561998780847'}	+55 61 99878-0847	Portuguese
+Demóbile Indústria de Móveis	http://www.demobile.com.br	http://www.linkedin.com/company/demobilemoveis	{}		
+Alberflex	http://www.alberflex.com.br	http://www.linkedin.com/company/alberflex	{}		Portuguese
+Grupo Umaflex - Colchões e Espumas	http://www.umaflex.com.br	http://www.linkedin.com/company/umaflex-colhoes-e-espumas	{}		
+ApoloSpuma	http://www.apolospuma.com.br	http://www.linkedin.com/company/apolospuma	{}		Portuguese
+Moval Móveis	http://www.moval.com.vc	http://www.linkedin.com/company/moval	{'number': '+55 43 3274-8300', 'source': 'Scraped', 'sanitized_number': '+554332748300'}	+55 43 3274-8300	
+Kingstar colchões	http://www.kingstarcolchoes.com.br	http://www.linkedin.com/company/kingstarcolchoes	{'number': '+55 11 5041-2033', 'source': 'Account', 'sanitized_number': '+551150412033'}	+55 11 5041-2033	Portuguese
+TXC	http://www.txc.com.br	http://www.linkedin.com/company/txcbrand	{}		
+PLUMATEX COLCHOES IND.	http://www.plumatex.com.br	http://www.linkedin.com/company/plumatex-colchoes-ind	{}		
+Moveis Kappesberg	http://www.kappesberg.com.br	http://www.linkedin.com/company/moveis-kappesberg	{'number': '+55 51 2500-7800', 'source': 'Scraped', 'sanitized_number': '+555125007800'}	+55 51 2500-7800	
+Stilo A  &  Anita Shoes	http://www.anita.com.br	http://www.linkedin.com/company/grupo-anita-shoes	{'number': '+55 67 3389-4290', 'source': 'Scraped', 'sanitized_number': '+556733894290'}	+55 67 3389-4290	
+Calcados Ferracini 24h Ltda.	http://www.ferracini.com.br	http://www.linkedin.com/company/calcados-ferracini	{}		
+Finger Móveis Planejados	http://www.finger.ind.br	http://www.linkedin.com/company/fingeroficial	{}		
+Alphabeto	http://www.alphabeto.com	http://www.linkedin.com/company/lojaalphabeto	{}		Portuguese
+RR SHOES / VIA UNO	http://www.viauno.com	http://www.linkedin.com/company/rr-shoes-via-uno	{'number': '+1 305-471-7577', 'source': 'Owler', 'sanitized_number': '+13054717577'}	+1 305-471-7577	
+Grupo Paraiso	http://www.grupoparaisooficial.com.br	http://www.linkedin.com/company/amoparaiso	{'number': '+55 44 3645-8100', 'source': 'Account', 'sanitized_number': '+554436458100'}	+55 44 3645-8100	Portuguese
+OPCAO JEANS	http://www.opcaojeans.com.br	http://www.linkedin.com/company/opcao-jeans	{}		Portuguese
+Maqmóveis	http://www.maqmoveis.com	http://www.linkedin.com/company/maqmoveisoficial	{'number': '+55 16 3253-9179', 'source': 'Scraped', 'sanitized_number': '+551632539179'}	+55 16 3253-9179	Portuguese
+Securit	http://www.securit.com.br	http://www.linkedin.com/company/securit-mobiliario	{'number': '+55 11 2088-7044', 'source': 'Scraped', 'sanitized_number': '+551120887044'}	+55 11 2088-7044	Portuguese, English
+BlueMan	http://www.blueman.com.br	http://www.linkedin.com/company/blue-man	{}		Portuguese
+Century Furniture Brazil	http://www.meucentury.com	http://www.linkedin.com/company/gruposohome	{'number': '+55 11 98700-5101', 'source': 'Scraped', 'sanitized_number': '+5511987005101'}	+55 11 98700-5101	
+Multimóveis Indústria de Móveis Ltda	http://www.multimoveis.ind.br	http://www.linkedin.com/company/multim%c3%b3veis-ind%c3%bastria-de-m%c3%b3veis-ltda	{'number': '+55 54 2102-4000', 'source': 'Account', 'sanitized_number': '+555421024000'}	+55 54 2102-4000	Portuguese
+Grupo Patogê	http://www.patoge.com.br	http://www.linkedin.com/company/grupopatoge	{}		
+Rodrigues Colchões	http://www.rodriguescolchoes.com.br	http://www.linkedin.com/company/rodrigues-colch%c3%b5es	{}		
+Mega Moda	http://www.megamoda.com.br	http://www.linkedin.com/company/grupomegamoda	{'number': '+55 62 98599-0009', 'source': 'Scraped', 'sanitized_number': '+5562985990009'}	+55 62 98599-0009	
+Lojas Paludo Ltda	http://www.lojaspldo.com.br	http://www.linkedin.com/company/lojas-paludo-ltda	{}		Portuguese, Spanish
+Evviva - Ambientes Personalizados	http://www.evviva.com.br	http://www.linkedin.com/company/evviber	{}		
+Wtec	http://www.grupowtec.com.br	http://www.linkedin.com/company/grupowtec	{'number': '+55 54 3522-4344', 'source': 'Account', 'sanitized_number': '+555435224344'}	+55 54 3522-4344	Portuguese
+Handara	http://www.handara.com.br	http://www.linkedin.com/company/handara	{'number': '+55 85 99106-6150', 'source': 'Scraped', 'sanitized_number': '+5585991066150'}	+55 85 99106-6150	Portuguese
+IDIMEX do Brasil	http://www.idimex.com.br	http://www.linkedin.com/company/idimex-do-brasil	{}		
+Mamô Brasil	http://www.mamo.com.br	http://www.linkedin.com/company/mamobrasil	{}		
+SIDE WALK	http://www.sidewalk.com.br	http://www.linkedin.com/company/side-walk	{}		
+Centro Fashion Fortaleza	http://www.centrofashion.com	http://www.linkedin.com/company/centro-fashion-fortaleza	{}		
+Seller Magazine	http://www.lojaseller.com.br	http://www.linkedin.com/company/seller-magazine	{}		Portuguese
+Norte Energia SA		http://www.linkedin.com/company/norte-energia-sa	{}		
+Atacadão dos Eletros	http://www.atacadaodoseletros.com.br	http://www.linkedin.com/company/atacad-o-dos-eletrodom-sticos-atacad-o-dos-eletros-	{}		
+Butzke Móveis	http://www.butzke.com.br	http://www.linkedin.com/company/butzke-m%c3%b3veis	{'number': '+55 47 3312-4000', 'source': 'Scraped', 'sanitized_number': '+554733124000'}	+55 47 3312-4000	Portuguese
+Italínea Indústria de Móveis Ltda		http://www.linkedin.com/company/ital-nea-ind-stria-de-m-veis-ltda	{'number': '+55 54 3455-5100', 'source': 'Account', 'sanitized_number': '+555434555100'}	+55 54 3455-5100	
+Kazzo Confecções	http://www.kazzo.com.br	http://www.linkedin.com/company/kazzo-confec%c3%a7%c3%b5es	{'number': '+55 14 3298-9898', 'source': 'Account', 'sanitized_number': '+551432989898'}	+55 14 3298-9898	Portuguese
+SAAD	http://www.saadbolsa.com.br	http://www.linkedin.com/company/saad	{}		Portuguese
+Rubinella	http://www.rubinella.com.br	http://www.linkedin.com/company/rubinella	{'number': '+55 11 99399-8687', 'source': 'Scraped', 'sanitized_number': '+5511993998687'}	+55 11 99399-8687	Portuguese
+Intimissimi Porto Velho	http://www.intimissimi.com	http://www.linkedin.com/company/intimissimi-porto-velho	{}		
+Mestre Marceneiro	http://www.mestremarceneiro.com	http://www.linkedin.com/company/mestre-marceneiro-ltda	{}		Portuguese
+Clovis Calçados	http://www.clovis.com.br	http://www.linkedin.com/company/cloviscalcados	{'number': '+55 11 3327-3327', 'source': 'Scraped', 'sanitized_number': '+551133273327'}	+55 11 3327-3327	Portuguese
+Top Móveis e Eletros	http://www.lojastopmoveis.com.br	http://www.linkedin.com/company/topmoveiseeletros	{}		
+Decore ®	http://www.decore.com.br	http://www.linkedin.com/company/decore-	{}		
+Timax	http://www.timaxcalcados.com.br	http://www.linkedin.com/company/lojastimax	{}		
+Valcenter Planejados	http://www.valcenter.com.br	http://www.linkedin.com/company/valcenter-planejados	{}		Portuguese
+Emporio do Aço		http://www.linkedin.com/company/aciumbr	{}		English, Portuguese, Spanish
+Eurosono	http://www.eurosono.com.br	http://www.linkedin.com/company/eurosono	{}		Portuguese
+Artemobili	http://www.artemobili.com.br	http://www.linkedin.com/company/artemobili	{'number': '+55 54 3242-1890', 'source': 'Scraped', 'sanitized_number': '+555432421890'}	+55 54 3242-1890	Portuguese
+UMA | Raquel Davidowicz	http://www.uma.com.br	http://www.linkedin.com/company/uma-raquel-davidowicz	{}		Portuguese
+Empório Alex	http://www.emporioalex.com.br	http://www.linkedin.com/company/emp%c3%b3rioalex	{}		
+CRP	http://www.crp.com.br	http://www.linkedin.com/company/crp	{'number': '+55 51 3211-0777', 'source': 'Owler', 'sanitized_number': '+555132110777'}	+55 51 3211-0777	Portuguese
+Estofados Umaflex		http://www.linkedin.com/company/estofados-umaflex	{}		Portuguese
+Desk Moveis Escolares	http://www.deskmoveis.com.br	http://www.linkedin.com/company/deskmoveisescolares	{}		English, Portuguese, Spanish
+Hering Store Bauru		http://www.linkedin.com/company/hering-store-bauru	{}		
+Simonetto Móveis Planejados	http://www.simonettoportoalegre.com.br	http://www.linkedin.com/company/simonetto-porto-alegre	{}		Portuguese, English
+Lia Line Calçados	http://www.lialine.com.br	http://www.linkedin.com/company/lia-line-cal%c3%a7ados	{'number': '+55 48 3267-3400', 'source': 'Account', 'sanitized_number': '+554832673400'}	+55 48 3267-3400	Portuguese
+rra	http://www.rra.com.br	http://www.linkedin.com/company/rra	{}		Portuguese
+Fahrer	http://www.fahrer.com.br	http://www.linkedin.com/company/fahrer	{'number': '+55 11 3031-7250', 'source': 'Scraped', 'sanitized_number': '+551130317250'}	+55 11 3031-7250	Portuguese
+TRIMIX	http://www.trimix.com.br	http://www.linkedin.com/company/trimixofficial	{'number': '+55 11 94515-6648', 'source': 'Scraped', 'sanitized_number': '+5511945156648'}	+55 11 94515-6648	
+JACAUNA MÓVEIS	http://www.jacauna.com.br	http://www.linkedin.com/company/jacauna-m%c3%b3veis	{}		
+Facepa Fabrica de Papel da Amazonia S/A.	http://www.facepa.com.br	http://www.linkedin.com/company/facepa-fabrica-de-papel-da-amazonia-s-a-	{}		
+COLCCI		http://www.linkedin.com/company/colcci-grupo-borin	{}		
+Bonor S/A	http://www.bonor.com.br	http://www.linkedin.com/company/bonorbotoes	{'number': '+55 84 4005-2511', 'source': 'Scraped', 'sanitized_number': '+558440052511'}	+55 84 4005-2511	Portuguese
+Tesoura de Ouro	http://www.tesouradeouro.com.br	http://www.linkedin.com/company/tesoura-de-ouro	{}		
+Lojas Tanger Ltda.	http://www.tanger.com.br	http://www.linkedin.com/company/lojas-tanger-ltda.	{}		Portuguese, English
+Grupo Pintos	http://www.pintos.com.br	http://www.linkedin.com/company/grupopintos	{}		
+Arranjos Express	http://www.arranjosexpress.com.br	http://www.linkedin.com/company/arranjos-express	{'number': '+55 11 3842-1169', 'source': 'Scraped', 'sanitized_number': '+551138421169'}	+55 11 3842-1169	
+FREEWAY	http://www.freewayshoes.com.br	http://www.linkedin.com/company/freewayartefatosdecouroltda	{'number': '+55 16 3711-7000', 'source': 'Owler', 'sanitized_number': '+551637117000'}	+55 16 3711-7000	Portuguese
+Mersan	http://www.mersan.co	http://www.linkedin.com/company/mersan	{}		Portuguese
+Calçados Sérgio	http://www.calcadossergio.com.br	http://www.linkedin.com/company/cal%c3%a7ados-s%c3%a9rgio	{'number': '+55 11 98958-2480', 'source': 'Scraped', 'sanitized_number': '+5511989582480'}	+55 11 98958-2480	Portuguese
+Grupo Dilady		http://www.linkedin.com/company/dilady	{}		
+ÁGUAVIVA - Indústria de Roupas	http://www.aguaviva.com.br	http://www.linkedin.com/company/industria-de-roupas-%c3%a1gua-viva	{'number': '+55 19 3524-1347', 'source': 'Account', 'sanitized_number': '+551935241347'}	+55 19 3524-1347	
+Megamodas	http://www.megamodas.com.br	http://www.linkedin.com/company/megamodas	{}		
+Cia do Terno		http://www.linkedin.com/company/cia-do-terno	{}		
+Reserva Natural	http://www.reservanatural.com.br	http://www.linkedin.com/company/reservanatural	{'number': '+55 35 3529-2141', 'source': 'Scraped', 'sanitized_number': '+553535292141'}	+55 35 3529-2141	
+It's Fashion	http://www.itsfashions.com	http://www.linkedin.com/company/it-s-fashion	{'number': '+1 704-554-8510', 'source': 'Owler', 'sanitized_number': '+17045548510'}	+1 704-554-8510	
+n g c	http://www.ngc.net.br	http://www.linkedin.com/company/ngc	{'number': '+1 310-764-3108', 'source': 'Account', 'sanitized_number': '+13107643108'}	+1 310-764-3108	
+Homem S/A	http://www.homemsa.com.br	http://www.linkedin.com/company/homemsa	{}		
+Dibs Modas	http://www.dibs.com.br	http://www.linkedin.com/company/dibs-modas	{}		
+Collection	http://www.collection.com.br	http://www.linkedin.com/company/collectionarq	{}		
+Vulcabras|azaleia CE	Calçados e Artigos Esportivos S.A.		http://www.linkedin.com/company/vulcabras-azaleia-ce-cal%c3%a7ados-e-artigos-esportivos-s.a.	{}	
+eletrokasa	http://www.eletrokasa.com.br	http://www.linkedin.com/company/eletrokasa	{}		Portuguese
+Oliveiras	http://www.oliveirasjoias.com	http://www.linkedin.com/company/oliveiras	{}		
+Grupo Cairo Benevides	http://www.cairobenevides.com.br	http://www.linkedin.com/company/grupo-cairo-benevides	{}		
+Lojas Leve	http://www.lojasleve.com.br	http://www.linkedin.com/company/lojas-leve	{}		Portuguese
+Top Model	http://www.topmodel.com.br	http://www.linkedin.com/company/topmodelbc	{'number': '+55 47 3065-0604', 'source': 'Account', 'sanitized_number': '+554730650604'}	+55 47 3065-0604	
+Alfa		http://www.linkedin.com/company/alfha	{}		
+ALFAIATARIA		http://www.linkedin.com/company/bastos-alfaiataria	{}		
+Hospital Central do Exército		http://www.linkedin.com/company/hospital-central-do-ex%c3%a9rcito	{}		
+Bunny's	http://www.bunnys.com.br	http://www.linkedin.com/company/bunnysmoda	{}		
+Instituto Couto Maia	http://www.institutocoutomaia.com.br	http://www.linkedin.com/company/instituto-couto-maia	{}		
+Oficina de Costura		http://www.linkedin.com/company/oficina-de-costura	{}		
+Miss & Misses	http://www.missmisses.com.br	http://www.linkedin.com/company/missmisses	{'number': '+55 11 3339-1350', 'source': 'Account', 'sanitized_number': '+551133391350'}	+55 11 3339-1350	
+Flor de Lis		http://www.linkedin.com/company/flor-de-lis-acopiara	{}		
+MEF Confecções	http://www.mefconfeccoes.com.br	http://www.linkedin.com/company/mef-confec%c3%a7%c3%b5es	{}		
+Realeza	http://www.vistarealeza.com.br	http://www.linkedin.com/company/vistarealeza	{}		
+Água Viva		http://www.linkedin.com/company/%c3%a1gua-viva-moda	{}		
+Atendimento domiciliar	http://www.enfdeisectba.com	http://www.linkedin.com/company/atendimento-domiciliar	{}		
+Promotora De Vendas	http://www.promotoradevendas.com.br	http://www.linkedin.com/company/promotora-de-vendas	{}		
+Ibirapuera		http://www.linkedin.com/company/italinea-ibirapuera	{}		
+Trajes	http://www.meutraje.com	http://www.linkedin.com/company/trajesoficial	{}		
+John's	http://www.usejohns.com.br	http://www.linkedin.com/company/johns	{}		
+Ateliê de Costura		http://www.linkedin.com/company/ateli%c3%aa-de-costura	{}		
+Querubim		http://www.linkedin.com/company/querubim	{}		Portuguese
+Rogério	http://www.rogerioeustaquio.com	http://www.linkedin.com/company/rog%c3%a9rio	{}		
+Decore ®	http://www.decore.com.br	http://www.linkedin.com/company/decore-	{}		
+Timax	http://www.timaxcalcados.com.br	http://www.linkedin.com/company/lojastimax	{}		
+Valcenter Planejados	http://www.valcenter.com.br	http://www.linkedin.com/company/valcenter-planejados	{}		Portuguese
+Emporio do Aço		http://www.linkedin.com/company/aciumbr	{}		English, Portuguese, Spanish
+Eurosono	http://www.eurosono.com.br	http://www.linkedin.com/company/eurosono	{}		Portuguese
+Artemobili	http://www.artemobili.com.br	http://www.linkedin.com/company/artemobili	{'number': '+55 54 3242-1890', 'source': 'Scraped', 'sanitized_number': '+555432421890'}	+55 54 3242-1890	Portuguese
+UMA | Raquel Davidowicz	http://www.uma.com.br	http://www.linkedin.com/company/uma-raquel-davidowicz	{}		Portuguese
+Empório Alex	http://www.emporioalex.com.br	http://www.linkedin.com/company/emp%c3%b3rioalex	{}		
+CRP	http://www.crp.com.br	http://www.linkedin.com/company/crp	{'number': '+55 51 3211-0777', 'source': 'Owler', 'sanitized_number': '+555132110777'}	+55 51 3211-0777	Portuguese
+Estofados Umaflex		http://www.linkedin.com/company/estofados-umaflex	{}		Portuguese
+Desk Moveis Escolares	http://www.deskmoveis.com.br	http://www.linkedin.com/company/deskmoveisescolares	{}		English, Portuguese, Spanish
+Hering Store Bauru		http://www.linkedin.com/company/hering-store-bauru	{}		
+Simonetto Móveis Planejados	http://www.simonettoportoalegre.com.br	http://www.linkedin.com/company/simonetto-porto-alegre	{}		Portuguese, English
+Lia Line Calçados	http://www.lialine.com.br	http://www.linkedin.com/company/lia-line-cal%c3%a7ados	{'number': '+55 48 3267-3400', 'source': 'Account', 'sanitized_number': '+554832673400'}	+55 48 3267-3400	Portuguese
+rra	http://www.rra.com.br	http://www.linkedin.com/company/rra	{}		Portuguese
+Fahrer	http://www.fahrer.com.br	http://www.linkedin.com/company/fahrer	{'number': '+55 11 3031-7250', 'source': 'Scraped', 'sanitized_number': '+551130317250'}	+55 11 3031-7250	Portuguese
+TRIMIX	http://www.trimix.com.br	http://www.linkedin.com/company/trimixofficial	{'number': '+55 11 94515-6648', 'source': 'Scraped', 'sanitized_number': '+5511945156648'}	+55 11 94515-6648	
+JACAUNA MÓVEIS	http://www.jacauna.com.br	http://www.linkedin.com/company/jacauna-m%c3%b3veis	{}		
+Facepa Fabrica de Papel da Amazonia S/A.	http://www.facepa.com.br	http://www.linkedin.com/company/facepa-fabrica-de-papel-da-amazonia-s-a-	{}		
+COLCCI		http://www.linkedin.com/company/colcci-grupo-borin	{}		
+Bonor S/A	http://www.bonor.com.br	http://www.linkedin.com/company/bonorbotoes	{'number': '+55 84 4005-2511', 'source': 'Scraped', 'sanitized_number': '+558440052511'}	+55 84 4005-2511	Portuguese
+Tesoura de Ouro	http://www.tesouradeouro.com.br	http://www.linkedin.com/company/tesoura-de-ouro	{}		
+Lojas Tanger Ltda.	http://www.tanger.com.br	http://www.linkedin.com/company/lojas-tanger-ltda.	{}		Portuguese, English
+Grupo Pintos	http://www.pintos.com.br	http://www.linkedin.com/company/grupopintos	{}		
+Arranjos Express	http://www.arranjosexpress.com.br	http://www.linkedin.com/company/arranjos-express	{'number': '+55 11 3842-1169', 'source': 'Scraped', 'sanitized_number': '+551138421169'}	+55 11 3842-1169	
+FREEWAY	http://www.freewayshoes.com.br	http://www.linkedin.com/company/freewayartefatosdecouroltda	{'number': '+55 16 3711-7000', 'source': 'Owler', 'sanitized_number': '+551637117000'}	+55 16 3711-7000	Portuguese
+Mersan	http://www.mersan.co	http://www.linkedin.com/company/mersan	{}		Portuguese
+Calçados Sérgio	http://www.calcadossergio.com.br	http://www.linkedin.com/company/cal%c3%a7ados-s%c3%a9rgio	{'number': '+55 11 98958-2480', 'source': 'Scraped', 'sanitized_number': '+5511989582480'}	+55 11 98958-2480	Portuguese
+Grupo Dilady		http://www.linkedin.com/company/dilady	{}		
+ÁGUAVIVA - Indústria de Roupas	http://www.aguaviva.com.br	http://www.linkedin.com/company/industria-de-roupas-%c3%a1gua-viva	{'number': '+55 19 3524-1347', 'source': 'Account', 'sanitized_number': '+551935241347'}	+55 19 3524-1347	
+Megamodas	http://www.megamodas.com.br	http://www.linkedin.com/company/megamodas	{}		
+Cia do Terno		http://www.linkedin.com/company/cia-do-terno	{}		
+Reserva Natural	http://www.reservanatural.com.br	http://www.linkedin.com/company/reservanatural	{'number': '+55 35 3529-2141', 'source': 'Scraped', 'sanitized_number': '+553535292141'}	+55 35 3529-2141	
+It's Fashion	http://www.itsfashions.com	http://www.linkedin.com/company/it-s-fashion	{'number': '+1 704-554-8510', 'source': 'Owler', 'sanitized_number': '+17045548510'}	+1 704-554-8510	
+n g c	http://www.ngc.net.br	http://www.linkedin.com/company/ngc	{'number': '+1 310-764-3108', 'source': 'Account', 'sanitized_number': '+13107643108'}	+1 310-764-3108	
+Homem S/A	http://www.homemsa.com.br	http://www.linkedin.com/company/homemsa	{}		
+Dibs Modas	http://www.dibs.com.br	http://www.linkedin.com/company/dibs-modas	{}		
+Collection	http://www.collection.com.br	http://www.linkedin.com/company/collectionarq	{}		
+Vulcabras|azaleia CE	Calçados e Artigos Esportivos S.A.		http://www.linkedin.com/company/vulcabras-azaleia-ce-cal%c3%a7ados-e-artigos-esportivos-s.a.	{}	
+eletrokasa	http://www.eletrokasa.com.br	http://www.linkedin.com/company/eletrokasa	{}		Portuguese
+Oliveiras	http://www.oliveirasjoias.com	http://www.linkedin.com/company/oliveiras	{}		
+Grupo Cairo Benevides	http://www.cairobenevides.com.br	http://www.linkedin.com/company/grupo-cairo-benevides	{}		
+Lojas Leve	http://www.lojasleve.com.br	http://www.linkedin.com/company/lojas-leve	{}		Portuguese
+Top Model	http://www.topmodel.com.br	http://www.linkedin.com/company/topmodelbc	{'number': '+55 47 3065-0604', 'source': 'Account', 'sanitized_number': '+554730650604'}	+55 47 3065-0604	
+Alfa		http://www.linkedin.com/company/alfha	{}		
+ALFAIATARIA		http://www.linkedin.com/company/bastos-alfaiataria	{}		
+Hospital Central do Exército		http://www.linkedin.com/company/hospital-central-do-ex%c3%a9rcito	{}		
+Bunny's	http://www.bunnys.com.br	http://www.linkedin.com/company/bunnysmoda	{}		
+Instituto Couto Maia	http://www.institutocoutomaia.com.br	http://www.linkedin.com/company/instituto-couto-maia	{}		
+Oficina de Costura		http://www.linkedin.com/company/oficina-de-costura	{}		
+Miss & Misses	http://www.missmisses.com.br	http://www.linkedin.com/company/missmisses	{'number': '+55 11 3339-1350', 'source': 'Account', 'sanitized_number': '+551133391350'}	+55 11 3339-1350	
+Flor de Lis		http://www.linkedin.com/company/flor-de-lis-acopiara	{}		
+MEF Confecções	http://www.mefconfeccoes.com.br	http://www.linkedin.com/company/mef-confec%c3%a7%c3%b5es	{}		
+Realeza	http://www.vistarealeza.com.br	http://www.linkedin.com/company/vistarealeza	{}		
+Água Viva		http://www.linkedin.com/company/%c3%a1gua-viva-moda	{}		
+Atendimento domiciliar	http://www.enfdeisectba.com	http://www.linkedin.com/company/atendimento-domiciliar	{}		
+Promotora De Vendas	http://www.promotoradevendas.com.br	http://www.linkedin.com/company/promotora-de-vendas	{}		
+Ibirapuera		http://www.linkedin.com/company/italinea-ibirapuera	{}		
+Trajes	http://www.meutraje.com	http://www.linkedin.com/company/trajesoficial	{}		
+John's	http://www.usejohns.com.br	http://www.linkedin.com/company/johns	{}		
+Ateliê de Costura		http://www.linkedin.com/company/ateli%c3%aa-de-costura	{}		
+Querubim		http://www.linkedin.com/company/querubim	{}		Portuguese
+Rogério	http://www.rogerioeustaquio.com	http://www.linkedin.com/company/rog%c3%a9rio	{}		
+Criare Ambientes Planejados		http://www.linkedin.com/company/criareplanejados	{}		Portuguese
+UFOWAY	http://www.ufoway.com.br	http://www.linkedin.com/company/ufo-way-private-label	{'number': '+55 48 3444-9400', 'source': 'Scraped', 'sanitized_number': '+554834449400'}	+55 48 3444-9400	
+Shopping Eldorado	http://www.shoppingeldorado.com.br	http://www.linkedin.com/company/shopping-eldorado	{}		English
+Sand Beach	http://www.maresia.com.br	http://www.linkedin.com/company/sand-beach	{}		
+Carmak Equipamentos	http://www.carmak.com.br	http://www.linkedin.com/company/carmak-equipamentos	{}		
+KINGS Sneakers Shop	http://www.lojakings.com.br	http://www.linkedin.com/company/kings-sneakers-shop	{'number': '+55 11 3223-1624', 'source': 'Scraped', 'sanitized_number': '+551132231624'}	+55 11 3223-1624	Portuguese
+Caruaru Shopping	http://www.caruarushopping.com	http://www.linkedin.com/company/caruaru-shopping	{}		Portuguese
+GRUPO K1 S.A.	http://www.grupok1.com.br	http://www.linkedin.com/company/grupo-k1	{}		
+Covolan Denim	http://www.covolan.com.br	http://www.linkedin.com/company/covolandenim	{'number': '+55 19 3459-8200', 'source': 'Account', 'sanitized_number': '+551934598200'}	+55 19 3459-8200	Portuguese
+Cinex Inovação e Emoção	http://www.cinex.com.br	http://www.linkedin.com/company/cinex-ind-do-mobili%c3%a1rio-ltda	{'number': '+55 54 3455-2222', 'source': 'Scraped', 'sanitized_number': '+555434552222'}	+55 54 3455-2222	English, Portuguese, Spanish
+HMY do Brasil	http://www.hmy-group.com.br	http://www.linkedin.com/company/hmy-do-brasil	{}		
+Inusittá Ambientes Planejados		http://www.linkedin.com/company/inusittaambientesplanejados	{'number': '+55 45 3027-5600', 'source': 'Account', 'sanitized_number': '+554530275600'}	+55 45 3027-5600	Portuguese
+Doptex	http://www.doptex.com.br	http://www.linkedin.com/company/doptex	{}		
+Safetline	http://www.safetline.com.br	http://www.linkedin.com/company/safetline	{}		Portuguese
+Loja Três	http://www.lojatres.com.br	http://www.linkedin.com/company/loja-tr%c3%aas	{}		
+Enjoy	http://www.enjoy.com.br	http://www.linkedin.com/company/enjoy-oficial	{'number': '+55 61 99878-0847', 'source': 'Scraped', 'sanitized_number': '+5561998780847'}	+55 61 99878-0847	Portuguese
+Demóbile Indústria de Móveis	http://www.demobile.com.br	http://www.linkedin.com/company/demobilemoveis	{}		
+Alberflex	http://www.alberflex.com.br	http://www.linkedin.com/company/alberflex	{}		Portuguese
+Grupo Umaflex - Colchões e Espumas	http://www.umaflex.com.br	http://www.linkedin.com/company/umaflex-colhoes-e-espumas	{}		
+ApoloSpuma	http://www.apolospuma.com.br	http://www.linkedin.com/company/apolospuma	{}		Portuguese
+AMARO	http://www.amaro.com	http://www.linkedin.com/company/amaro	{'number': '+55 11 3230-4500', 'source': 'Account', 'sanitized_number': '+551132304500'}	+55 11 3230-4500	Portuguese
+La Moda	http://www.lamoda.com.br	http://www.linkedin.com/company/la-moda	{}		Portuguese
+Tecnogera	http://www.tecnogera.com.br	http://www.linkedin.com/company/tecnogera-energia-e-equipamentos	{'number': '+55 800 772 1601', 'source': 'Scraped', 'sanitized_number': '+558007721601'}	+55 800 772 1601	Portuguese
+Breton	http://www.breton.com.br	http://www.linkedin.com/company/bretonoficial	{}		Portuguese
+Grupo Elian	http://www.grupoelian.com	http://www.linkedin.com/company/grupoelian	{'number': '+55 800 047 2168', 'source': 'Scraped', 'sanitized_number': '+558000472168'}	+55 800 047 2168	English, Portuguese, Spanish
+Grupo S2	http://www.s2holding.com.br	http://www.linkedin.com/company/grupos2	{}		
+Ricardo Almeida	http://www.ricardoalmeida.com.br	http://www.linkedin.com/company/ricardoalmeida	{}		Portuguese
+Ornare Móveis	http://www.ornare.com.br	http://www.linkedin.com/company/ornare	{}		Portuguese, English
+nk store	http://www.nk.com.br	http://www.linkedin.com/company/nkstore	{}		
+Azzas 2154		http://www.linkedin.com/company/azzas2154	{'number': '+55 11 2132-4300', 'source': 'Owler', 'sanitized_number': '+551121324300'}	+55 11 2132-4300	
+Colchões Castor	http://www.colchoescastor.com.br	http://www.linkedin.com/company/colchoescastor	{}		Portuguese
+Madesa Furniture	http://www.madesa.com	http://www.linkedin.com/company/madesa-moveis	{}		Portuguese
+Italínea Móveis	http://www.italinea.com.br	http://www.linkedin.com/company/italinea-oficial	{'number': '+55 54 3455-5100', 'source': 'Account', 'sanitized_number': '+555434555100'}	+55 54 3455-5100	Portuguese, Spanish
+Bontempo Móveis	http://www.bontempo.com.br	http://www.linkedin.com/company/bontempo-m%c3%b3veis	{'number': '+55 54 3291-8300', 'source': 'Scraped', 'sanitized_number': '+555432918300'}	+55 54 3291-8300	Portuguese
+GREENPLAC	http://www.greenplac.com.br	http://www.linkedin.com/company/greenplac	{}		
+Flamboyant	http://www.flamboyant.com.br	http://www.linkedin.com/company/grupoflamboyant	{'number': '+55 62 3546-2000', 'source': 'Scraped', 'sanitized_number': '+556235462000'}	+55 62 3546-2000	Portuguese
+Artefacto	http://www.artefacto.com.br	http://www.linkedin.com/company/artefactooficial	{'number': '+1 305-774-0004', 'source': 'Owler', 'sanitized_number': '+13057740004'}	+1 305-774-0004	English
+OGOCHI Menswear	http://www.ogochi.com.br	http://www.linkedin.com/company/ogochi-menswear	{}		Portuguese
+Mercatto	http://www.mercatto.com.br	http://www.linkedin.com/company/mercatto	{'number': '+55 61 3323-7820', 'source': 'Account', 'sanitized_number': '+556133237820'}	+55 61 3323-7820	Portuguese
+Linea Brasil	http://www.lineabrasil.com.br	http://www.linkedin.com/company/lineabrasilmoveis	{'number': '+55 43 3276-9400', 'source': 'Scraped', 'sanitized_number': '+554332769400'}	+55 43 3276-9400	Portuguese
+nuvini	http://www.nuvini.co	http://www.linkedin.com/company/nuvinius	{'number': '+55 11 98751-8784', 'source': 'Account', 'sanitized_number': '+5511987518784'}	+55 11 98751-8784	
+DJ Móveis	http://www.djmoveis.ind.br	http://www.linkedin.com/company/djmoveis	{'number': '+55 43 3172-7777', 'source': 'Scraped', 'sanitized_number': '+554331727777'}	+55 43 3172-7777	
+Grupo Via Veneto	http://www.grupoviaveneto.com.br	http://www.linkedin.com/company/via-veneto-roupas-ltda-	{'number': '+55 800 042 0442', 'source': 'Scraped', 'sanitized_number': '+558000420442'}	+55 800 042 0442	
+Grupo Lopas	http://www.grupolopas.com.br	http://www.linkedin.com/company/grupo-lopas	{}		
+Recco Lingerie	http://www.recco.com.br	http://www.linkedin.com/company/recco-oficial	{'number': '+55 44 2101-6262', 'source': 'Scraped', 'sanitized_number': '+554421016262'}	+55 44 2101-6262	Portuguese
+Grupo Crisdu	http://www.crisdu.com.br	http://www.linkedin.com/company/grupo-crisdu	{}		Portuguese
+Emphasis Industria e Comércio Votorantim Ltda	http://www.emphasisconf.com.br	http://www.linkedin.com/company/emphasis-votorantim	{'number': '+55 15 3353-7100', 'source': 'Account', 'sanitized_number': '+551533537100'}	+55 15 3353-7100	
+A Fábula	http://www.afabula.com.br	http://www.linkedin.com/company/afabula	{}		
+Móveis Rudnick S.A.	http://www.rudnick.com.br	http://www.linkedin.com/company/m-veis-rudnick-s.a.	{'number': '+55 47 3631-1000', 'source': 'Account', 'sanitized_number': '+554736311000'}	+55 47 3631-1000	
+Arquitetura e Urbanismo	http://www.jeantosetto.com	http://www.linkedin.com/company/arquiteturaeurbanismo	{}		Portuguese
+Luli Têxtil	http://www.lulitextil.com.br	http://www.linkedin.com/company/luli-textil	{'number': '+55 47 3221-2344', 'source': 'Account', 'sanitized_number': '+554732212344'}	+55 47 3221-2344	
+HIGHSTIL	http://www.highstil.com.br	http://www.linkedin.com/company/highstil	{'number': '+55 11 3611-5573', 'source': 'Account', 'sanitized_number': '+551136115573'}	+55 11 3611-5573	Portuguese
+Ban Ban Calçados	http://www.banbancalcados.com.br	http://www.linkedin.com/company/banban-calcados	{}		
+FK Grupo/Frisokar	http://www.fkgrupo.com	http://www.linkedin.com/company/fkgrupo	{'number': '+55 14 4240-9000', 'source': 'Scraped', 'sanitized_number': '+551442409000'}	+55 14 4240-9000	Portuguese, Spanish
+Tip Top Brasil	http://www.tiptop.com.br	http://www.linkedin.com/company/tiptopbr	{}		
+AQUAMAR	http://www.eaquamar.com.br	http://www.linkedin.com/company/grupo-aquamar	{}		Portuguese
+Caemmun Movelaria I Grupo Munhoz Caetano	http://www.caemmun.com.br	http://www.linkedin.com/company/caemmun	{}		
+Shoebiz Oficial	http://www.shoebiz.com.br	http://www.linkedin.com/company/shoebiz-calcados	{}		
+Grupo Krindges	http://www.krindges.com.br	http://www.linkedin.com/company/grupokrindges	{}		
+Meu Móvel de Madeira	http://www.meumoveldemadeira.com.br	http://www.linkedin.com/company/mmm_2	{'number': '+55 47 3203-4500', 'source': 'Scraped', 'sanitized_number': '+554732034500'}	+55 47 3203-4500	Portuguese
+ACIUM Brazil	http://www.acium.com.br	http://www.linkedin.com/company/aciumbrasil	{}		
+Grupo Tesoura de Ouro	http://www.grupotesouradeouro.com.br	http://www.linkedin.com/company/grupo-tesoura-de-ouro	{}		
+Hellen Estofados e Colchões	http://www.hellen.com.br	http://www.linkedin.com/company/hellenestofadosecolchoes	{}		Portuguese
+Lojas Citycol S/A	http://www.citycol.com.br	http://www.linkedin.com/company/lojas-citycol-s-a	{}		
+Branyl Indústria Têxtil		http://www.linkedin.com/company/branyl-ind%c3%bastria-textil	{'number': '+55 19 3492-8400', 'source': 'Account', 'sanitized_number': '+551934928400'}	+55 19 3492-8400	
+Águia Shoes	http://www.aguiashoes.com.br	http://www.linkedin.com/company/aguia-shoes	{}		
+Ophicina	http://www.ophicina.com.br	http://www.linkedin.com/company/ophicina	{}		Spanish, Portuguese
+Ponto Da Moda	http://www.pontodamoda.com.br	http://www.linkedin.com/company/ponto-da-moda	{'number': '+55 82 3357-3029', 'source': 'Account', 'sanitized_number': '+558233573029'}	+55 82 3357-3029	
+PCE Engenharia	http://www.pcebr.com.br	http://www.linkedin.com/company/pce-engenharia	{'number': '+55 21 3231-7450', 'source': 'Account', 'sanitized_number': '+552132317450'}	+55 21 3231-7450	English, German, Spanish, French, Italian, Japanese, Russian
+C. Rolim		http://www.linkedin.com/company/c-rolim	{}		
+Romance Moda	http://www.romance.com.br	http://www.linkedin.com/company/romance-moda	{'number': '+55 51 98191-8428', 'source': 'Scraped', 'sanitized_number': '+5551981918428'}	+55 51 98191-8428	
+bb básico	http://www.bebebasico.com.br	http://www.linkedin.com/company/bb-basico	{'number': '+55 21 2612-2374', 'source': 'Scraped', 'sanitized_number': '+552126122374'}	+55 21 2612-2374	
+Roupa em Casa	http://www.roupaemcasa.com	http://www.linkedin.com/company/roupaemcasa	{}		
+Grupo Topázio | Colchões	Estofados e Móveis	http://www.grupotopazio.com.br	http://www.linkedin.com/company/grupotop%c3%a1zio	{}	
+CLUBE MELISSA PAULISTA		http://www.linkedin.com/company/clube-melissa-paulista	{}		
+outros	http://www.elkispaisagismo.com.br	http://www.linkedin.com/company/ivi-lima-ghidoni-do-prado	{}		Portuguese
+Engenheiro Civil	http://www.engenheirocivillondrina.com.br	http://www.linkedin.com/company/engenheiro-civil	{}		
+C&A Brasil	http://www.cea.com.br	http://www.linkedin.com/company/c&a_brasil	{}		Portuguese
+Dafiti	http://www.dafitigroup.com	http://www.linkedin.com/company/dafiti	{}		Portuguese
+Iguatemi S.A.	http://www.vemseriguatemi.com.br	http://www.linkedin.com/company/iguatemisa	{}		Portuguese
+Grupo SOMA	http://www.somagrupo.com.br	http://www.linkedin.com/company/grupo-soma	{'number': '+55 21 2503-6850', 'source': 'Owler', 'sanitized_number': '+552125036850'}	+55 21 2503-6850	
+Privalia	http://www.privalia.com	http://www.linkedin.com/company/privalia	{'number': '+55 34 93553-1805', 'source': 'Owler', 'sanitized_number': '+5534935531805'}	+55 34 93553-1805	Spanish, Italian
+Case&Stock	http://www.tokstok.com.br	http://www.linkedin.com/company/tok&stok	{'number': '+55 11 4280-9144', 'source': 'Scraped', 'sanitized_number': '+551142809144'}	+55 11 4280-9144	
+Chilli Beans	http://www.chillibeans.com.br	http://www.linkedin.com/company/chilli-beans	{}		Portuguese
+Grupo HOPE	http://www.grupohope.com.br	http://www.linkedin.com/company/grupohope	{}		Portuguese
+VESTE S/A	http://www.veste.com	http://www.linkedin.com/company/veste-sa	{}		
+Shoulder	http://www.shoulder.com.br	http://www.linkedin.com/company/shoulder	{'number': '+55 11 3366-0040', 'source': 'Account', 'sanitized_number': '+551133660040'}	+55 11 3366-0040	Portuguese
+Grupo Malwee	http://www.grupomalwee.com.br	http://www.linkedin.com/company/grupomalwee	{}		Portuguese
+Restoque S/A	http://www.restoque.com.br	http://www.linkedin.com/company/restoque-sa	{}		
+Lojas Torra	http://www.lojastorra.com.br	http://www.linkedin.com/company/lojastorra	{}		
+Caedu	http://www.caedu.com.br	http://www.linkedin.com/company/caedu	{}		
+FARM Rio	http://www.farmrio.com	http://www.linkedin.com/company/farm-rio	{}		Portuguese
+Athié Wohnrath	http://www.athiewohnrath.com.br	http://www.linkedin.com/company/athiewohnrath	{}		
+Mills	http://www.mills.com.br	http://www.linkedin.com/company/millsoficial	{'number': '+55 800 705 1000', 'source': 'Owler', 'sanitized_number': '+558007051000'}	+55 800 705 1000	Portuguese
+Armac	http://www.armac.com.br	http://www.linkedin.com/company/armac-locacao	{}		Portuguese
+Inbrands	http://www.inbrands.com.br	http://www.linkedin.com/company/inbrands	{}		Portuguese
+Aramis	http://www.aramis.com.br	http://www.linkedin.com/company/aramis	{'number': '+55 11 3611-5141', 'source': 'Account', 'sanitized_number': '+551136115141'}	+55 11 3611-5141	Portuguese, English
+Constance Calçados	http://www.constance.com.br	http://www.linkedin.com/company/constance-cal%c3%a7ados	{'number': '+55 61 3242-1464', 'source': 'Account', 'sanitized_number': '+556132421464'}	+55 61 3242-1464	Portuguese
+Osklen	http://www.osklen.com.br	http://www.linkedin.com/company/osklen	{}		English
+Morena Rosa Group	http://www.grupomorenarosa.com.br	http://www.linkedin.com/company/grupo-morena-rosa	{'number': '+55 44 3351-5000', 'source': 'Account', 'sanitized_number': '+554433515000'}	+55 44 3351-5000	Portuguese
+Lunelli	http://www.lunelli.com.br	http://www.linkedin.com/company/lunelli	{'number': '+55 47 3373-7000', 'source': 'Scraped', 'sanitized_number': '+554733737000'}	+55 47 3373-7000	Portuguese, English, Portuguese, Spanish, English, Portuguese, Spanish, English, Portuguese, Spanish
+AMC Textil Ltda	http://www.amctextil.com.br	http://www.linkedin.com/company/grupoamc	{}		Spanish
+Santa Lolla	http://www.totvs.app	http://www.linkedin.com/company/santa-lolla	{'number': '+55 95 3623-2165', 'source': 'Account', 'sanitized_number': '+559536232165'}	+55 95 3623-2165	Portuguese
+Studio Z	http://www.stz.com.br	http://www.linkedin.com/company/studio-z-calcados	{'number': '+55 800 648 0151', 'source': 'Scraped', 'sanitized_number': '+558006480151'}	+55 800 648 0151	
+Novo Mundo Móveis e Utilidades	http://www.novomundo.com.br	http://www.linkedin.com/company/novo-mundo-sa	{}		Portuguese
+Zinzane	http://www.zinzane.com.br	http://www.linkedin.com/company/zinzane	{}		
+LIVE!	http://www.liveoficial.com.br	http://www.linkedin.com/company/liveoficial	{'number': '+55 47 2106-7460', 'source': 'Account', 'sanitized_number': '+554721067460'}	+55 47 2106-7460	Portuguese
+TNG Comércio de Roupas Ltda.	http://www.tngvirtual.com.br	http://www.linkedin.com/company/tng-com-rcio-de-roupas-ltda-	{}		Portuguese
+ANIMALE	http://www.animale.com.br	http://www.linkedin.com/company/animale	{}		
+Lojas Leader	http://www.leader.com.br	http://www.linkedin.com/company/lo-jas-le-a-der	{}		
+Cozinhas Itatiaia	http://www.minhaitatiaia.com.br	http://www.linkedin.com/company/cozinhas-itatiaia	{}		English, Portuguese, Spanish
+Polo Wear	http://www.polowear.com.br	http://www.linkedin.com/company/polo-wear	{}		Portuguese
+Paquetá The Shoe Company	http://www.paquetatheshoecompany.com.br	http://www.linkedin.com/company/paqueta-the-shoe-company	{}		English, Portuguese, Spanish
+Todeschini S.A.	http://www.todeschini.com.br	http://www.linkedin.com/company/todeschini	{'number': '(809) 532-3738', 'source': 'Scraped', 'sanitized_number': '+18095323738'}	(809) 532-3738	English, Portuguese, Spanish
+Avenue	http://www.avenida.com.br	http://www.linkedin.com/company/lojas-avenida	{}		Portuguese, Portuguese
+Lojas Besni	http://www.besni.com.br	http://www.linkedin.com/company/lojas-belian-moda	{}		Portuguese
+DeMillus Indústria e Comércio S.A.	http://www.demillus.com.br	http://www.linkedin.com/company/demillus	{}		Portuguese
+Bracol	http://www.bracolonline.com.br	http://www.linkedin.com/company/bracolpro	{'number': '+55 14 3533-2200', 'source': 'Account', 'sanitized_number': '+551435332200'}	+55 14 3533-2200	
+Zanotti Elásticos	http://www.zanotti.com.br	http://www.linkedin.com/company/zanottielasticos	{'number': '+55 47 3372-5000', 'source': 'Account', 'sanitized_number': '+554733725000'}	+55 47 3372-5000	Spanish
+Florense	http://www.florense.com	http://www.linkedin.com/company/florense	{'number': '+55 54 3292-7300', 'source': 'Scraped', 'sanitized_number': '+555432927300'}	+55 54 3292-7300	English, Spanish, Portuguese
+Lider	http://www.lider.design	http://www.linkedin.com/company/liderdesign	{'number': '+55 37 3244-0300', 'source': 'Scraped', 'sanitized_number': '+553732440300'}	+55 37 3244-0300	
+TACO - Roupas	Moda / Varejo	http://www.taco.com.br	http://www.linkedin.com/company/tacomoda	{}	
+MOB	http://www.mobonline.com.br	http://www.linkedin.com/company/mob	{}		
+Lojas Pompéia	http://www.lojaspompeia.com	http://www.linkedin.com/company/lojaspompeia	{}		Portuguese
+Damyller	http://www.damyller.com.br	http://www.linkedin.com/company/damyller	{}		Portuguese
+Lojas Nalin	http://www.lojasnalin.com.br	http://www.linkedin.com/company/lojasnalin	{}		
+Fibraplac Painéis de Madeira S.A.	http://www.fibraplac.com.br	http://www.linkedin.com/company/fibraplac-chapas-de-mdf-ltda	{'number': '+55 800 70 9633', 'source': 'Scraped', 'sanitized_number': '+55800709633'}	+55 800 70 9633	Portuguese
+Humanitarian	http://www.humanitarian.com.br	http://www.linkedin.com/company/humanitarian-calcados	{}		Portuguese
+Grupo Bigfer	http://www.grupobigfer.com.br	http://www.linkedin.com/company/grupo-bigfer---filial-farroupilha-rs	{}		Portuguese
+Duloren Indústria e Comércio S.A.	http://www.duloren.com.br	http://www.linkedin.com/company/duloren	{}		Portuguese
+Rede de Óticas Mercadão dos Óculos	http://www.mercadaodosoculos.com.br	http://www.linkedin.com/company/rede-de-%c3%b3ticas-mercad%c3%a3o-dos-%c3%b3culos	{'number': '+55 17 3202-9100', 'source': 'Scraped', 'sanitized_number': '+551732029100'}	+55 17 3202-9100	
+Democrata Calçados e Artef. de Couro LTDA	http://www.democrata.com.br	http://www.linkedin.com/company/democratacalcados	{}		Portuguese
+Nação Pampili	http://www.pampili.com.br	http://www.linkedin.com/company/pampili	{}		Portuguese
+CALÇADOS ITAPUÃ	http://www.itapua.com.br	http://www.linkedin.com/company/lojasitapua	{}		Portuguese
+Passarela Calçados	http://www.passarela.com.br	http://www.linkedin.com/company/passarela-com	{}		Portuguese
+Gazin Colchões	http://www.colchoesgazin.com.br	http://www.linkedin.com/company/gazin-colches	{}		
+Armazém Paraíba	http://www.armazemparaiba.com.br	http://www.linkedin.com/company/armazemparaiba	{}		
+Corretor de imóveis	http://www.olx.com.br	http://www.linkedin.com/company/corretor-de-im-veis	{}		
+Oficina	http://www.oficinareserva.com	http://www.linkedin.com/company/useoficina	{'number': '+55 21 2474-1562', 'source': 'Account', 'sanitized_number': '+552124741562'}	+55 21 2474-1562	English
+Lojão do Brás	http://www.lojaodobras.com.br	http://www.linkedin.com/company/loj%c3%a3o-do-br%c3%a1s	{}		Portuguese
+MOBILE		http://www.linkedin.com/company/mobile	{'number': '+55 11 2431-5511', 'source': 'Account', 'sanitized_number': '+551124315511'}	+55 11 2431-5511	
+Amazonflex	http://www.amazonflexshop.com.br	http://www.linkedin.com/company/amazonflex	{'number': '+55 16 99631-0032', 'source': 'Scraped', 'sanitized_number': '+5516996310032'}	+55 16 99631-0032	
+Moda	http://www.limonadapink.com.br	http://www.linkedin.com/company/limonada-pink	{'number': '+55 44 3346-9254', 'source': 'Scraped', 'sanitized_number': '+554433469254'}	+55 44 3346-9254	Portuguese
+Costureira		http://www.linkedin.com/company/costureira	{}		
+Hospital do Servidor Público Estadual	http://www.otorrinoiamspe.com.br	http://www.linkedin.com/company/hospital-do-servidor-p%c3%bablico-estadual	{}		
+Moveis Planejados	http://www.mpmoveisplanejados.com.br	http://www.linkedin.com/company/moveis-planejados	{}		
+Fundação Municipal de Saúde		http://www.linkedin.com/company/funda%c3%a7%c3%a3o-municipal-de-sa%c3%bade	{}		
+BABA	http://www.sitedababa.com.br	http://www.linkedin.com/company/linkedin-da-baba	{'number': '+55 85 98177-0983', 'source': 'Account', 'sanitized_number': '+5585981770983'}	+55 85 98177-0983	
+MY confecção		http://www.linkedin.com/company/my-confec%c3%a7%c3%a3o	{}		
+Armarinho	http://www.armarinhobrecho.com.br	http://www.linkedin.com/company/armarinho-brecho	{}		
