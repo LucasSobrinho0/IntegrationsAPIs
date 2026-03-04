@@ -49,8 +49,8 @@ if __name__ == "__main__":
         "page": 1,
         "per_page": 100,
         "organization_locations": ["Brazil"],
-        "organization_industries": ["apparel & fashion", "architecture & planning", "furniture", "venture capital & private equity", "commercial real estate"],
-        "organization_num_employees_ranges": ["1001,2000", "2001,5000", "5001,10000"],
+        "organization_industries": ["agriculture", "logistics & supply chain", "retail"],
+        "organization_num_employees_ranges": ["201,500", "501,1000", "1001,2000", "2001,5000", "5001,10000"],
     }
 
     data = organization_search(api_key, payload)
