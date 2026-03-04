@@ -29,33 +29,69 @@ def organization_search(api_key: str, payload: dict) -> dict:
     return response.json()
 
 def save_to_csv(data: list, filename: str) -> None:
-    with open(filename, mode='w', newline='', encoding='utf-8') as file:
+    write_header = (not os.path.exists(filename)) or os.path.getsize(filename) == 0
+    with open(filename, mode='a', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
-        writer.writerow(["Name", "Website", "LinkedIn", "Primary Phone", "Phone", "Languages"])
+        if write_header:
+            writer.writerow(["Name", "Website", "LinkedIn", "Primary Phone", "Phone", "Languages", "Segment"])
         for item in data:
+            segment = item.get("industry")
+            if not segment:
+                industries = item.get("industries")
+                if isinstance(industries, list):
+                    segment = ", ".join(str(x) for x in industries if x)
+                else:
+                    segment = industries
             writer.writerow([
                 item.get("name"),
                 item.get("website_url"),
                 item.get("linkedin_url"),
                 item.get("primary_phone"),
                 item.get("phone"),
-                ", ".join(item.get("languages", []))
+                ", ".join(item.get("languages", [])),
+                segment,
             ])
 
 if __name__ == "__main__":
     api_key = os.getenv("APOLLO_API_KEY")
+    if not api_key:
+        raise RuntimeError("APOLLO_API_KEY nao encontrado no .env")
 
-    payload = {
-        "page": 1,
-        "per_page": 100,
-        "organization_locations": ["Brazil"],
-        "organization_industries": ["agriculture", "logistics & supply chain", "retail"],
-        "organization_num_employees_ranges": ["201,500", "501,1000", "1001,2000", "2001,5000", "5001,10000"],
-    }
+    page = 1
+    per_page = 100
+    total_salvo = 0
 
-    data = organization_search(api_key, payload)
-    organizations = data.get("organizations", [])
-    
-    save_to_csv(organizations, "apollo_organizations.csv")
+    while True:
+        payload = {
+            "page": page,
+            "per_page": per_page,
+            "organization_locations": ["Brazil"],
+            "organization_industries": ["agriculture", "logistics & supply chain", "retail"],
+            "organization_num_employees_ranges": ["201,500", "501,1000", "1001,2000", "2001,5000", "5001,10000"],
+        }
+
+        data = organization_search(api_key, payload)
+        organizations = data.get("organizations", []) or []
+        pagination = data.get("pagination", {}) or {}
+        total_pages = pagination.get("total_pages")
+
+        if not organizations:
+            print(f"pagina={page} | sem resultados | encerrando")
+            break
+
+        save_to_csv(organizations, "apollo_organizations.csv")
+        total_salvo += len(organizations)
+        if total_pages:
+            print(f"pagina={page}/{total_pages} | novos={len(organizations)} | total={total_salvo}")
+        else:
+            print(f"pagina={page} | novos={len(organizations)} | total={total_salvo}")
+
+        if total_pages and page >= total_pages:
+            break
+
+        if len(organizations) < per_page:
+            break
+
+        page += 1
 
         
