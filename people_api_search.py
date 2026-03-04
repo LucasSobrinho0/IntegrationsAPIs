@@ -162,7 +162,7 @@ def iter_people_pages(api_key: str, base_payload: dict, per_page: int = 25, max_
     return all_people
 
 def build_payload_for_org(org_name: str, org_domain: str | None, person_titles: list[str]) -> dict:
-    payload = {"person_titles": person_titles}
+    payload = {"person_titles": person_titles, "contact_email_status": "verified"}
     if org_domain:
         payload["q_organization_domains_list"] = [org_domain]
     else:

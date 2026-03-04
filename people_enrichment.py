@@ -94,8 +94,9 @@ def obter_chave_empresa(linha: dict) -> str:
 
 
 def selecionar_uma_pessoa_por_empresa(linhas: list[dict]) -> list[dict]:
-    """Mantem apenas a primeira pessoa encontrada para cada empresa."""
-    empresas_ja_vistas = set()
+    """Mantem no maximo 3 pessoas por empresa."""
+    max_por_empresa = 3
+    contagem_por_empresa = {}
     linhas_filtradas = []
 
     for linha in linhas:
@@ -107,10 +108,11 @@ def selecionar_uma_pessoa_por_empresa(linhas: list[dict]) -> list[dict]:
         if not chave_empresa:
             continue
 
-        if chave_empresa in empresas_ja_vistas:
+        qtd_atual = contagem_por_empresa.get(chave_empresa, 0)
+        if qtd_atual >= max_por_empresa:
             continue
 
-        empresas_ja_vistas.add(chave_empresa)
+        contagem_por_empresa[chave_empresa] = qtd_atual + 1
         linhas_filtradas.append(linha)
 
     return linhas_filtradas

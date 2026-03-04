@@ -1,0 +1,178 @@
+organization_name,organization_domain,organization_website,person_id,first_name,last_name_obfuscated,title,has_email,has_direct_phone,last_refreshed_at
+Loggi,loggi.com,http://www.loggi.com,60dc95bd6bec810001440aea,Rafael,Fe***a,IT Infrastructure Manager,True,Yes,2026-02-11T20:55:26.290+00:00
+VLI Logística,vli-logistica.com.br,http://www.vli-logistica.com.br,67f3e48ab890e200018f8768,Anderson,Ri***o,Financial Supervisor,True,Yes,2026-02-12T04:58:40.000+00:00
+VLI Logística,vli-logistica.com.br,http://www.vli-logistica.com.br,54a292507468692e71bb3c2d,Rafael,Za***n,General Manager | Projects and Business Development - M&A,True,Maybe: please request direct dial via people/bulk_match,2026-02-12T12:15:35.235+00:00
+VLI Logística,vli-logistica.com.br,http://www.vli-logistica.com.br,54a5374a7468693442624686,Thales,Ba***a,"Business Development, M&A, Tax Planning, Regulatory Affairs and Antitrust | Manager",True,Yes,2026-02-16T08:05:52.820+00:00
+Petz,petz.com.br,http://www.petz.com.br,6463bea0ab25aa0001a0bc19,Luiza,Is***a,Strategic Planning and Management Manager | FP&A | Cost Manegement,True,Maybe: please request direct dial via people/bulk_match,2026-02-22T11:13:16.000+00:00
+Petz,petz.com.br,http://www.petz.com.br,563a1b7ea6da98561c000e0e,Marcos,Be***i,"Investor Relations, M&A and New Business Senior Manager",True,Yes,2026-02-23T05:39:46.649+00:00
+Grupo CCR,grupoccr.com.br,http://www.grupoccr.com.br,54a7047f74686965d9ee840d,Romeo,Na***o,IT Manager-Airports,True,Yes,2026-02-25T18:44:43.668+00:00
+Grupo CCR,grupoccr.com.br,http://www.grupoccr.com.br,61fcb00619c1fc0001167d21,Victor,So***a,"Project Manager, Information Technology",True,Maybe: please request direct dial via people/bulk_match,2026-03-03T17:33:11.651+00:00
+Grupo CCR,grupoccr.com.br,http://www.grupoccr.com.br,5fb48b949ca22000012f4dcc,Rosane,Fl***o,Financial Services Supervisor,True,Yes,2026-02-13T14:20:21.000+00:00
+Arezzo&Co,,,5d62a04cf65125b9fbfe94bd,Nathalia,La***n,Sr. Finance and FP&A Manager,True,Yes,2026-02-27T11:38:58.656+00:00
+Arezzo&Co,,,614ed831d2f78300018d0b85,Rafael,Va***s,IT Infrastructure Manager,True,Yes,2026-02-25T17:42:21.512+00:00
+Arezzo&Co,,,60f85d54c5b69100014e2d85,Denis,Vo***i,Sr. IT and Operations Manager,True,Yes,2026-02-12T12:45:39.000+00:00
+Rumo,rumolog.com,http://www.rumolog.com,56316aaca6da9816ec00460b,Corina,Fo***e,IT Project Manager,True,Yes,2026-02-24T04:05:08.000+00:00
+Rumo,rumolog.com,http://www.rumolog.com,646fb6a5e58f4a00014b12e0,Pedro,Fr***s,M&A & Business Development Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-25T03:31:31.000+00:00
+Rumo,rumolog.com,http://www.rumolog.com,54a569017468692fa2186795,Fabio,Ju***g,Gerente Financeiro de Controladoria e FP&A,True,Yes,2026-02-15T20:24:57.000+00:00
+Dafiti,dafitigroup.com,http://www.dafitigroup.com,6851100a24cf370001ab7604,Simon,Yu***s,Financial Planning and Analysis Manager / FP&A Manager,True,Yes,2026-02-03T20:52:25.000+00:00
+Dafiti,dafitigroup.com,http://www.dafitigroup.com,6824d6f52a5b27000188b3b6,Alex,Pe***a,IT Operation Manager Latam,True,Yes,2026-02-05T22:01:28.000+00:00
+Luizalabs,luizalabs.com,http://www.luizalabs.com,610bd5a8cbf40c00010920b9,Thiago,Lu***o,IT Manager,True,Yes,2026-02-27T11:50:34.444+00:00
+Luizalabs,luizalabs.com,http://www.luizalabs.com,5ba7fba0f874f758c533f7b4,Vagner,Si***o,IT Manager,True,Yes,2026-02-27T23:41:33.969+00:00
+Luizalabs,luizalabs.com,http://www.luizalabs.com,621f2d69687e430001910782,Marcio,Ca***o,IT Manager at Época Cosméticos,True,Yes,2026-02-26T07:23:36.000+00:00
+Luizalabs,luizalabs.com,http://www.luizalabs.com,68263e8cdfe9dd0001f62657,Gabriel,Si***a,IT Manager (Logistics Core Platform Manager),True,Yes,2026-02-13T19:45:18.000+00:00
+Luizalabs,luizalabs.com,http://www.luizalabs.com,54aa771b74686908c8211706,Antonio,Ne***o,IT Manager-Tribe Lead-Tribo Comercial,True,Yes,2026-03-02T00:17:57.296+00:00
+Luizalabs,luizalabs.com,http://www.luizalabs.com,6626ddefb3dc5400078f4110,Tiago,Vi***a,Tribe Lead | Gerente de TI,True,Yes,2026-02-28T20:52:31.341+00:00
+brMalls,allos.com.br,http://www.allos.com.br,60f877a62bd1ac000132210d,Luciano,Fo***a,IT Manager | IT Corporative Products & IT Integration Center | Aliansce Sonae + brMalls,True,Yes,2026-02-05T19:58:03.354+00:00
+Ipiranga,ipiranga.com.br,http://www.ipiranga.com.br,55e35f5bf3e5bb55c7000e1b,Carolina,So***a,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2025-12-29T12:21:22.871+00:00
+Ipiranga,ipiranga.com.br,http://www.ipiranga.com.br,6257be95165c5100018070b0,Karen,Ro***s,IT Project Manager,True,Yes,2026-02-04T01:07:38.000+00:00
+Ipiranga,ipiranga.com.br,http://www.ipiranga.com.br,55708c1c7369642586730000,Nicolle,Ge***i,M&A and Investments Manager,True,Yes,2026-02-24T11:45:43.000+00:00
+Ipiranga,ipiranga.com.br,http://www.ipiranga.com.br,6480d98d53bca10001ece43d,Thiago,Al***s,Incident Manager | ITSM Analyst,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T21:19:48.000+00:00
+Jadlog Logística,jadlog.com.br,http://www.jadlog.com.br,616940a304f6180001df07d9,Yara,Fe***s,Financial Supervisor,True,Yes,2026-02-05T13:20:28.480+00:00
+Embrapa,embrapa.br,http://www.embrapa.br,6029fe860d6a8e000146e7b0,Leonildo,Si***a,IT Manager,True,Yes,2026-01-23T15:47:25.121+00:00
+Embrapa,embrapa.br,http://www.embrapa.br,635427b01dc5b60001b13a75,Gleice,Lo***e,IT Project Manager,True,Yes,2026-02-10T04:19:57.000+00:00
+Embrapa,embrapa.br,http://www.embrapa.br,64109653cfb6ea00014415fc,Guilherme,Sp***o,Financial Services Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-31T12:21:14.000+00:00
+Cobasi,cobasi.com.br,http://www.cobasi.com.br,62af831f02ecef000154ed95,Christiane,So***s,IT Manager - BI / PMO (Escritório de Projetos),True,Yes,2026-02-15T05:43:27.000+00:00
+Vix Logistica,vix.com.br,http://www.vix.com.br,6481b9cd4207010001da113d,Maria,Br***i,Financial Supervisor,True,Yes,2026-02-24T23:34:02.416+00:00
+Grupo SOMA,,,68a5712baba9e500016f29bc,Daniel,As***o,IT Manager,True,Yes,2026-02-16T13:56:26.000+00:00
+Grupo SOMA,,,6605629e2e5b6d0007c21052,Bruno,Af***o,IT Manager,True,Yes,2026-02-03T20:10:16.658+00:00
+Grupo SOMA,,,5e8e32104986c2000185268c,Fernando,Hu***a,Manager | M&A Deals Advisory,True,Yes,2026-02-28T11:05:24.908+00:00
+Grupo SOMA,,,68363f28d075e400012a0c37,Alejandro,Va***a,Gerente de Tecnologías de la Información,True,Yes,2026-02-16T21:05:16.000+00:00
+The Mosaic Company - Brasil,mosaicco.com.br,http://www.mosaicco.com.br,54aae69974686908c8474c1c,Carolina,Le***k,Corporate Finance Manager (M&A),True,Yes,2026-02-22T17:49:35.850+00:00
+Privalia,privalia.com,http://www.privalia.com,66fa1645d1c6fd000190279d,Nuria,Ra***s,IT Manager,True,Yes,2026-03-04T09:10:56.887+00:00
+Privalia,privalia.com,http://www.privalia.com,66fa2d93d1c6fd000197cce4,Dani,Mi***o,IT Manager SAP & Supply Chain,True,Yes,2026-02-26T13:35:59.000+00:00
+Yara Brazil,yarabrasil.com.br,http://www.yarabrasil.com.br,5674642da6da9802a2022de2,Marcelo,Sc***z,Controlling Manager - Corporate Performance & FP&A,True,Yes,2026-02-14T11:41:19.000+00:00
+Yara Brazil,yarabrasil.com.br,http://www.yarabrasil.com.br,54c23fa07468697af7597d88,Giani,Vi***a,Sr IT Manager,True,Yes,2026-02-20T15:29:13.880+00:00
+Petlove,petlove.com.br,http://www.petlove.com.br,54a27e347468693fdaaa4b27,Natalia,Ko***k,FP&A Manager,True,Yes,2026-02-03T14:51:31.826+00:00
+Petlove,petlove.com.br,http://www.petlove.com.br,57e02f48a6da985f259c780b,Natalia,Si***o,FP&A and Actuarial Pricing Manager,True,Yes,2026-02-15T02:55:52.000+00:00
+Nutrien Soluções Agrícolas,nutrien.com.br,http://www.nutrien.com.br,66eba2672411ec0001d80731,Flavia,Ag***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-26T06:59:12.000+00:00
+Nutrien Soluções Agrícolas,nutrien.com.br,http://www.nutrien.com.br,54c19c5c7468691639e76229,Tatiane,Ha***d,FP&A Manager,True,Yes,2026-02-17T07:23:50.000+00:00
+Nutrien Soluções Agrícolas,nutrien.com.br,http://www.nutrien.com.br,57df84faa6da980b2643f01a,Vanessa,Fr***a,FP&A Manager,True,Yes,2026-02-15T22:23:32.000+00:00
+Nutrien Soluções Agrícolas,nutrien.com.br,http://www.nutrien.com.br,67bca9efe50fe800011c37f5,Pedro,Fo***a,FP&A Manager | Latam Consolidation & Reporting,True,Yes,2026-02-13T04:10:44.000+00:00
+Nutrien Soluções Agrícolas,nutrien.com.br,http://www.nutrien.com.br,60df56411e3ef70001933f43,Andre,Ja***m,IT Manager - IT Project (PMO),True,Yes,2026-02-24T04:41:49.000+00:00
+Nutrien Soluções Agrícolas,nutrien.com.br,http://www.nutrien.com.br,54a632ce74686938ac6106ca,Felipe,Fr***n,IT Infrastructure Manager,True,Yes,2026-02-04T12:01:23.555+00:00
+Nutrien Soluções Agrícolas,nutrien.com.br,http://www.nutrien.com.br,57de831ca6da987b4d986561,Elaine,Pa***a,IT Project Manager,True,Yes,2026-02-22T17:17:04.895+00:00
+Bom Futuro,bomfuturo.com.br,http://www.bomfuturo.com.br,5e7ac392918ca800015696bc,Alexandre,Ba***i,IT Manager,True,Yes,2026-01-23T15:47:19.994+00:00
+Bom Futuro,bomfuturo.com.br,http://www.bomfuturo.com.br,57e059d5a6da981bf9c15d58,Vagner,Mo***o,Encarregado de TI,True,Yes,2026-02-16T10:40:38.000+00:00
+Chilli Beans,chillibeans.com.br,http://www.chillibeans.com.br,5e5b2f27cecafd0001d0bb0a,Aline,Ma***s,Financial Supervisor,True,Yes,2026-02-08T16:19:44.000+00:00
+Hidrovias do Brasil,hbsa.com.br,http://www.hbsa.com.br,62ed0b045b068e0001ca602f,Camila,Sa***r,FP&A Corporate Manager,True,Yes,2026-02-28T00:42:34.877+00:00
+Grupo Ri Happy,,,611bfdb7e709a60001f76607,Bruno,Ju***r,IT Infrastructure Manager,True,Yes,2026-02-11T03:25:38.000+00:00
+Log-In Logística Integrada,loginlogistica.com.br,http://www.loginlogistica.com.br,5dcabff999858a00012b478c,Bernardo,Bo***t,Fleet Manager at Frota na Log-In Logística Intermodal S/A,True,Yes,2026-02-13T04:27:10.000+00:00
+Fast Shop S/A,fastshop.com.br,http://www.fastshop.com.br,6141de88e46b7800012ae03e,Fernanda,Si***a,IT Manager,True,Yes,2026-02-03T10:22:24.000+00:00
+Shoulder,shoulder.com.br,http://www.shoulder.com.br,68618e45fc3d7700015f1867,Alisson,Be***i,Information Technology Infrastructure Manager,True,Yes,2026-02-13T03:30:47.000+00:00
+Grupo Malwee,grupomalwee.com.br,http://www.grupomalwee.com.br,5e41ba493d53e100018870ec,Cheila,Sa***s,Financial Supervisor,True,Yes,2026-02-23T04:54:57.449+00:00
+Grupo Malwee,grupomalwee.com.br,http://www.grupomalwee.com.br,54c1606e7468697af76b6d04,Cleiton,Ca***o,FP&A Mananger,True,Yes,2026-02-03T03:21:50.000+00:00
+J&T Express Brasil,jtexpress.com.br,http://www.jtexpress.com.br,66f96f3e6aae3d00014d4896,Pamela,Ma***l,Financial Supervisor,True,Yes,2026-02-27T14:24:02.719+00:00
+J&T Express Brasil,jtexpress.com.br,http://www.jtexpress.com.br,611aa01314d2190001cbdbe5,Lucas,Bi***i,IT Manager,True,Yes,2026-02-05T14:58:28.048+00:00
+Agro Amazônia,agroamazonia.com.br,http://www.agroamazonia.com.br,6838651ac2622b000148c91e,Jaime,Ju***r,IT Manager,True,Yes,2026-02-13T00:37:57.000+00:00
+Agro Amazônia,agroamazonia.com.br,http://www.agroamazonia.com.br,55714ba0736964584f674a00,Patric,Go***a,IT Manager,True,Yes,2026-02-20T23:07:57.374+00:00
+Agro Amazônia,agroamazonia.com.br,http://www.agroamazonia.com.br,54a475517468693b8cddc948,Talassa,Vi***a,"Gerente de TI, Projetos & Inovação",True,Yes,2026-02-17T05:42:36.000+00:00
+Ativa Logística,ativalog.com.br,http://www.ativalog.com.br,5fcccd2ff8cb4600019aeead,Stephanie,Ru***z,Financial Supervisor,True,Yes,2026-02-21T16:35:20.000+00:00
+Ativa Logística,ativalog.com.br,http://www.ativalog.com.br,610d47d806f8a30001027e7b,Humberto,No***a,IT Manager,True,Yes,2026-01-28T17:30:01.477+00:00
+Coopercarga,coopercarga.com.br,http://www.coopercarga.com.br,645a58a1d7ed890001404432,Nelma,Sa***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-13T18:02:17.000+00:00
+Grupo Big - Brasil,big.com.br,http://www.big.com.br,64258101adad4e0001ee3edb,Tais,Ca***l,Financial Services Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-13T13:07:44.000+00:00
+Grupo Big - Brasil,big.com.br,http://www.big.com.br,635805384c79f00001a26fd1,William,Fr***u,Financial Services Supervisor,True,Yes,2026-02-13T13:52:04.000+00:00
+Grupo Big - Brasil,big.com.br,http://www.big.com.br,61a21311d7b40b00019ddbfe,Ju,,Financial Services Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-26T07:29:53.000+00:00
+Grupo Autoglass,grupoautoglass.com.br,http://www.grupoautoglass.com.br,57e1280ea6da987ddc72e9b5,Elayne,Ne***y,Financial Supervisor,True,Yes,2026-02-12T05:13:39.000+00:00
+Grupo Autoglass,grupoautoglass.com.br,http://www.grupoautoglass.com.br,6655d1d746f8210001cc6db1,Lucas,Co***a,"Product Owner, Gerente de TI",True,Yes,2026-02-27T22:54:46.674+00:00
+Maersk Supply Service,maersksupplyservice.com,http://www.maersksupplyservice.com,54a333c37468693318138d5b,Marcio,Bo***a,IT Manager Business Partner Brazil,True,Yes,2026-02-12T20:37:42.000+00:00
+TPC Logística Inteligente,grupotpc.com,http://www.grupotpc.com,54a58c0b7468692abf3a219b,Ruy,Bu***s,IT Manager,True,Yes,2026-02-04T15:27:14.129+00:00
+Grupo Muffato,supermuffato.com.br,http://www.supermuffato.com.br,68e4192fbc6ed200011c91f5,Thomaz,Ca***a,IT Coordinator | Project Manager | Responsible for the Software Area,True,Yes,2026-02-17T08:02:52.000+00:00
+Agrex do Brasil S.A.,agrex.com.br,http://www.agrex.com.br,62b0883c37997d0001062d40,Rafael,Su***a,IT Manager,True,Yes,2026-02-17T08:12:09.000+00:00
+LongPing High-Tech,lpht.com.br,http://www.lpht.com.br,604602f1b504010001132e94,Thomaz,Cu***i,FP&A Manager,True,Yes,2026-02-13T20:30:48.000+00:00
+LongPing High-Tech,lpht.com.br,http://www.lpht.com.br,54a3f24674686934426df81f,Ivone,Le***e,Financial Supervisor,True,Yes,2026-02-13T15:25:03.000+00:00
+LongPing High-Tech,lpht.com.br,http://www.lpht.com.br,6704eb562ebad00001c992f9,Celio,Si***s,IT Infrastructure Manager,True,Yes,2026-02-05T20:55:29.000+00:00
+ALLOS,,,60f877a62bd1ac000132210d,Luciano,Fo***a,IT Manager | IT Corporative Products & IT Integration Center | Aliansce Sonae + brMalls,True,Yes,2026-02-05T19:58:03.354+00:00
+Bemol,bemol.com.br,http://www.bemol.com.br,54c220367468697af7854d7d,Bryan,Li***a,IT Manager,True,Yes,2026-02-06T06:08:38.973+00:00
+Bemol,bemol.com.br,http://www.bemol.com.br,645a55db6ac7b80001f1eb4a,Paulo,Pa***a,Senior Information Technology Manager,True,Yes,2026-02-24T12:29:46.289+00:00
+Brado Logística,brado.com.br,http://www.brado.com.br,61159a804130c700014f84b3,Humberto,Da***z,IT Manager,True,Yes,2026-02-03T12:10:27.892+00:00
+Brado Logística,brado.com.br,http://www.brado.com.br,54a3baa37468692fa2b71f0e,Marisa,Zo***n,Financial Supervisor,True,Yes,2026-01-25T05:09:59.000+00:00
+ID Logistics - Brasil,id-logistics.com,http://www.id-logistics.com,57079021f3e5bb60ab980392,Jonathan,Mo***s,"Manager, FP&A",True,Yes,2026-02-14T07:49:30.000+00:00
+ID Logistics - Brasil,id-logistics.com,http://www.id-logistics.com,671e08725c0af00001c4dd20,Thibault,Bo***s,FP&A Senior Manager (Groupe),True,Yes,2026-02-26T00:02:05.761+00:00
+ID Logistics - Brasil,id-logistics.com,http://www.id-logistics.com,54a3eca374686936765d161e,Damon,Po***i,IT Manager,True,Yes,2026-02-07T14:12:45.000+00:00
+ID Logistics - Brasil,id-logistics.com,http://www.id-logistics.com,66ec44bde3c7a10001e20b10,Bogdan,Sa***u,IT Manager,True,Yes,2026-02-16T23:17:44.075+00:00
+ID Logistics - Brasil,id-logistics.com,http://www.id-logistics.com,66fe3540fc12c200011adc24,Oscar,Es***a,IT Manager Logistics,True,Yes,2026-02-28T23:09:49.422+00:00
+ID Logistics - Brasil,id-logistics.com,http://www.id-logistics.com,67004d2e321e8b00014bb05b,Jakub,Wi***i,IT Manager | E-Commerce Sector Coordinator,True,Yes,2026-02-21T05:47:39.000+00:00
+ID Logistics - Brasil,id-logistics.com,http://www.id-logistics.com,67004e9e321e8b00014c4a76,Marc,Ga***d,IT Project Manager,True,Yes,2026-02-24T12:06:30.000+00:00
+ID Logistics - Brasil,id-logistics.com,http://www.id-logistics.com,619dbe09d672190001825401,Grayson,Ba***l,IT Project Manager,True,Yes,2026-02-24T12:23:38.000+00:00
+ID Logistics - Brasil,id-logistics.com,http://www.id-logistics.com,626a8a3a689c6f0001632f96,Alexandre,Fa***o,IT Project Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-11T14:43:58.000+00:00
+ID Logistics - Brasil,id-logistics.com,http://www.id-logistics.com,54a3f8827468693b8c017721,Youssef,El***i,IT Project Manager,True,Yes,2026-02-17T23:17:45.368+00:00
+ID Logistics - Brasil,id-logistics.com,http://www.id-logistics.com,67a76f272abc340001610545,Anthony,Ro***z,IT Project Manager,True,Yes,2026-02-10T18:16:36.000+00:00
+ID Logistics - Brasil,id-logistics.com,http://www.id-logistics.com,54a5039b746869344248e275,Antoine,Pi***t,IT TMS Project Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-12T05:03:32.000+00:00
+ID Logistics - Brasil,id-logistics.com,http://www.id-logistics.com,54a600c27468692cf01213ba,Merry,Ne***h,"Sr. Project Manager, IT",True,Yes,2026-01-21T15:41:44.000+00:00
+ID Logistics - Brasil,id-logistics.com,http://www.id-logistics.com,66f73e5292754a0001489428,Slawomir,Si***a,IT Infrastructure Team Deputy Manager,True,Yes,2026-01-21T19:16:53.000+00:00
+ID Logistics - Brasil,id-logistics.com,http://www.id-logistics.com,65570cdc9f3f600001b3fb6c,Diego,Cu***a,Proyect Manager IT Iberia Department,True,Maybe: please request direct dial via people/bulk_match,2026-02-15T09:44:02.960+00:00
+ID Logistics - Brasil,id-logistics.com,http://www.id-logistics.com,6357d2bf6f410d00011ba73b,Theo,Gu***a,IT key User WMS and Stock Manager,True,Yes,2026-02-04T09:39:48.000+00:00
+Drogaria Araujo S/A,araujo.com.br,http://www.araujo.com.br,5e5ef56bff48000001ecbecf,Marcos,Ro***s,IT Project Manager,True,Yes,2026-02-25T01:03:19.265+00:00
+Boa Safra,boasafrasementes.com.br,http://www.boasafrasementes.com.br,64c95f2806396d0001ed670c,Massay,Co***a,IT Manager,True,Yes,2026-03-01T17:07:31.000+00:00
+Araguaia,araguaia.com.br,http://www.araguaia.com.br,66391fe156d7b80001bb797d,Jean,Br***s,IT Manager,True,Yes,2026-02-28T01:04:41.535+00:00
+Araguaia,araguaia.com.br,http://www.araguaia.com.br,5f623ddcbbd5c50001b76386,Wellington,Ju***r,IT Manager,True,Yes,2026-02-04T13:19:17.360+00:00
+Araguaia,araguaia.com.br,http://www.araguaia.com.br,6814cfba80e4e30001cb221a,Camila,Pr***s,IT Project Manager,True,Yes,2026-02-04T19:37:27.000+00:00
+Fadel Transportes e Logística,fadeltransportes.com.br,http://www.fadeltransportes.com.br,676bc6c810129a00010ec517,Renan,Ol***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-27T15:55:38.000+00:00
+Fadel Transportes e Logística,fadeltransportes.com.br,http://www.fadeltransportes.com.br,672d24b52b373d0001141654,Jose,Al***s,Financial Supervisor,True,Yes,2026-02-15T02:12:55.000+00:00
+Fadel Transportes e Logística,fadeltransportes.com.br,http://www.fadeltransportes.com.br,6422e6041e2f6d0001ec847a,Maria,Mo***o,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-02T21:18:25.000+00:00
+Fadel Transportes e Logística,fadeltransportes.com.br,http://www.fadeltransportes.com.br,6652e266cd6bc5000192e604,Luis,Sa***s,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-29T00:07:39.000+00:00
+Fadel Transportes e Logística,fadeltransportes.com.br,http://www.fadeltransportes.com.br,60cfd88987e7dd000141ed15,Aliffer,Pe***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-27T12:06:46.453+00:00
+Fadel Transportes e Logística,fadeltransportes.com.br,http://www.fadeltransportes.com.br,6198fce6b2b32d0001b2e364,Leidiane,Co***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-23T17:03:16.944+00:00
+Nortox S/A,nortox.com.br,http://www.nortox.com.br,66f3fd3d1c0c870001265c57,Rodrigo,Sa***s,IT Manager,True,Yes,2026-02-24T17:56:03.958+00:00
+KaBuM!,kabum.com.br,http://www.kabum.com.br,67246c565735d60001633682,Cleiton,Fr***a,IT Manager,True,Yes,2026-03-01T17:46:29.983+00:00
+KaBuM!,kabum.com.br,http://www.kabum.com.br,54a45e327468692fa2733c42,Luiz,Ig***o,Gerente de Planejamento Comercial & FP&A,True,Yes,2026-02-24T11:18:08.000+00:00
+KaBuM!,kabum.com.br,http://www.kabum.com.br,60f704090de7ba0001a0fb9c,Rafael,Bo***s,"Controller, Gerente de FP&A, Controladoria e Tesouraria",True,Yes,2026-01-30T19:49:12.827+00:00
+Grupo Águia Branca,gab.com.br,http://www.gab.com.br,684fd0444f3dfa00015a0a2b,Emerson,Su***l,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-26T04:42:26.000+00:00
+Grupo Águia Branca,gab.com.br,http://www.gab.com.br,60c0a5b16564cd0001a80e10,Marcelo,Si***a,IT Manager / Project Manager,True,Yes,2026-02-16T10:43:00.396+00:00
+Grupo Águia Branca,gab.com.br,http://www.gab.com.br,5f09a4fde5f0f40001b96c09,Vitor,Ol***a,IT Project Manager,True,Yes,2026-02-14T05:40:12.000+00:00
+Supermercados Mambo,mambo.com.br,http://www.mambo.com.br,6251a5920eceae0001fe8651,Claudimar,Fr***s,IT Manager,True,Yes,2026-02-14T02:26:45.000+00:00
+Cargolift Logística SA,cargolift.com.br,http://www.cargolift.com.br,637cc971aca612000156ad6a,Andressa,Be***s,Financial Supervisor,True,Yes,2026-02-14T05:39:19.000+00:00
+Home Center Ferreira Costa,ferreiracosta.com,http://www.ferreiracosta.com,6116e0c594818600014c4b01,Jose,Ju***r,IT Manager,True,Yes,2026-02-14T04:24:08.000+00:00
+Home Center Ferreira Costa,ferreiracosta.com,http://www.ferreiracosta.com,5f6dfb1b40f84e000140722c,Marlos,Wa***m,Gerente de TI & Head SAP,True,Yes,2026-01-30T17:53:32.000+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,57d97befa6da9872115d22f8,Karina,Na***i,FP&A Manager,True,Yes,2026-02-15T01:32:37.000+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,5ab05501a6da98900af32889,Vanessa,Sa***a,FP&A Manager Latam,True,Yes,2026-02-06T16:06:41.000+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,54abf0297468692a6b573417,Noe,Ro***a,FP&A and Revenue Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-01T08:05:56.000+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,57dd2697a6da987b4d939a83,Divar,Ju***r,IT Manager,True,Yes,2026-02-06T22:28:27.000+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,63be74d78352580001b429c7,Leidy,Pe***z,CTO- IT Manager Caribbean Platform,True,Yes,2026-03-02T23:18:42.326+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,54a488d77468692fa22a784f,Gabriel,Pu***o,IT Applications Manager Latam,True,Yes,2026-03-02T01:39:20.809+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,60d050a7779e1a000125185a,Carlos,Co***o,"FP&A - Pacific Platform (Ecuador, Perú & Chile)",True,Maybe: please request direct dial via people/bulk_match,2026-01-29T18:29:43.000+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,55709709736964659fff8000,Iliana,Sa***a,Jefe de Contabilidad & Finanzas,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T08:50:06.000+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,57d7835aa6da983b1ac56057,Esthefani,Gu***n,Supervisor Financiero,True,Maybe: please request direct dial via people/bulk_match,2026-01-08T11:08:48.299+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,54c2746f7468697af743499b,Axel,So***o,"Jefe de Informatica, Multifrigo.",True,Yes,2026-02-15T23:36:32.000+00:00
+OXXO Brasil,oxxo.com.br,http://www.oxxo.com.br,67ceeffa071568000124e31a,Carlos,Lo***o,IT Manager,True,Yes,2026-02-28T07:40:41.000+00:00
+OXXO Brasil,oxxo.com.br,http://www.oxxo.com.br,6852cb38b02df90001df10fa,Thiago,Ho***o,IT Manager,True,Yes,2026-02-08T14:44:17.000+00:00
+OXXO Brasil,oxxo.com.br,http://www.oxxo.com.br,60f837c8f9388f00017edee9,Daniel,Ma***m,IT Infrastructure Manager,True,Yes,2026-02-28T08:18:13.000+00:00
+AMC Textil Ltda,amctextil.com.br,http://www.amctextil.com.br,653a91407aebd50001a7ffa8,Luis,Ma***o,IT Manager,True,Yes,2026-02-21T15:46:27.000+00:00
+CLAMED - Cia Latino Americana de Medicamentos,clamed.com.br,http://www.clamed.com.br,6101ae9173bc34000111f305,Mauricio,Pa***o,IT Manager,True,Yes,2026-02-05T13:20:50.460+00:00
+Hortifruti,hortifruti.com.br,http://www.hortifruti.com.br,57d37795f651252c6147b5ba,Vagner,Mo***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-14T04:13:35.000+00:00
+Hortifruti,hortifruti.com.br,http://www.hortifruti.com.br,5e823f729cb43900018e443d,Clecia,Si***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2025-07-28T12:21:12.204+00:00
+Hortifruti,hortifruti.com.br,http://www.hortifruti.com.br,647e2c1c48ad0f000149e85e,Marcelo,So***a,Financial Supervisor,True,Yes,2026-01-25T19:46:06.000+00:00
+Marimex,marimex.com.br,http://www.marimex.com.br,54a121f769702d97c1613e03,Alexandre,Sh***o,Information Technology Manager,True,Yes,2026-03-01T17:19:28.796+00:00
+Norsul,norsul.com,http://www.norsul.com,54a5ead87468692abf897ab3,Fabio,Ba***r,IT Manager,True,Yes,2026-02-24T17:48:11.762+00:00
+Prumo,,,54a569d17468693b8c036595,Joao,Ma***i,M&A Manager,True,Yes,2026-02-26T11:14:24.463+00:00
+Asia Shipping,asiashipping.co,http://www.asiashipping.co,648b8eafebe3b8000177fdd1,Diogo,Ar***o,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-13T22:32:27.000+00:00
+Asia Shipping,asiashipping.co,http://www.asiashipping.co,54a333cf7468693cddddfe5b,Jack,Ye***g,IT Manager,True,Yes,2026-01-26T11:21:01.749+00:00
+Lojas Quero-Quero S.A.,quero-quero.com.br,http://www.quero-quero.com.br,60a67d678f19b90001507b04,Andrius,Si***a,IT Manager,True,Yes,2026-02-05T21:45:54.602+00:00
+Lojas Quero-Quero S.A.,quero-quero.com.br,http://www.quero-quero.com.br,62bb670d353e8e000196626e,Gilmar,Te***a,Financial Supervisor,True,Yes,2026-01-30T13:58:22.000+00:00
+Lojas Quero-Quero S.A.,quero-quero.com.br,http://www.quero-quero.com.br,6199bdb0d367940001360b04,Jean,Ba***s,Financial Services Supervisor,True,Yes,2026-02-05T12:45:00.331+00:00
+Lojas Quero-Quero S.A.,quero-quero.com.br,http://www.quero-quero.com.br,63540f6fe0e75400015d8037,Edila,Ho***s,Financial Services Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T04:09:33.000+00:00
+Lojas Quero-Quero S.A.,quero-quero.com.br,http://www.quero-quero.com.br,635532754bfb32000157d13e,Matheus,Ja***s,Financial Services Supervisor,True,Yes,2026-02-22T17:07:36.302+00:00
+Swift,swift.com.br,http://www.swift.com.br,56409180a6da98360800a1bd,Simone,Za***i,IT Manager,True,Yes,2026-02-05T18:25:26.987+00:00
+Agrivalle Brasil,agrivalle.com.br,http://www.agrivalle.com.br,5de769349f6153000135c363,Eduardo,Fo***s,IT Manager,True,Yes,2026-02-13T18:32:38.000+00:00
+Novo Mundo Móveis e Utilidades,novomundo.com.br,http://www.novomundo.com.br,63a4a207b787c7000195e7c0,Wilber,Si***a,IT Manager,True,Yes,2026-02-05T16:58:15.901+00:00
+Triunfo Logística,triunfologistica.com.br,http://www.triunfologistica.com.br,57e1fe09a6da9808c63f64e0,Erik,Ro***s,IT Manager,True,Yes,2026-02-16T17:33:28.000+00:00
+Loungerie S.A.,loungerie.com.br,http://www.loungerie.com.br,627019b808277b0001130b3b,Eduardo,Ma***o,Head de Tecnologia / Gerente de TI,True,Yes,2026-02-24T22:55:56.457+00:00
+Expresso Nepomuceno S/A,expressonepomuceno.com.br,http://www.expressonepomuceno.com.br,5e8195fed2ea140001915e5c,Sirlene,Bo***s,Financial Supervisor,True,Yes,2026-02-04T12:27:07.393+00:00
+Grupo DPaschoal,dpaschoal.com.br,http://www.dpaschoal.com.br,61141220ac4d3b0001d644b1,Marcos,Li***a,IT Infrastructure Manager,True,Yes,2026-01-29T00:25:12.000+00:00
+TW Logistics,twtransportes.com.br,http://www.twtransportes.com.br,54a72042746869730a95a317,Financeiro,Cr***e,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-26T07:28:24.000+00:00
+TW Logistics,twtransportes.com.br,http://www.twtransportes.com.br,60f6e5371f665900019dd0f6,Carlos,Ta***t,IT Manager,True,Yes,2026-02-03T17:29:28.003+00:00
+Grupo Kyly,grupokyly.com.br,http://www.grupokyly.com.br,655e4b1c4b44dd0001aa1b51,Rafael,Ba***e,IT Manager,True,Yes,2026-02-15T08:01:18.873+00:00
+Movecta,movecta.com.br,http://www.movecta.com.br,57d6eeb4a6da98541dbd794f,Andresa,Mu***r,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-12T10:09:36.000+00:00
+Fortbras,fortbras.com.br,http://www.fortbras.com.br,63cecf557448a30001406b55,Magnos,Be***i,Information Technology Infrastructure Manager,True,Yes,2026-02-04T21:25:43.507+00:00
+Fortbras,fortbras.com.br,http://www.fortbras.com.br,60cc8e53d70c9e0001935447,Lucimario,Ca***s,IT Appication Manager,True,Yes,2026-02-12T09:49:30.000+00:00
+Timbro Trading,timbrotrading.com,http://www.timbrotrading.com,647defdbeea4e70001b22b5d,Marcelo,Ro***s,Gerente de TI/Projetos,True,Yes,2026-02-20T17:33:34.203+00:00
+MRO,mroativa.com.br,http://www.mroativa.com.br,6823383c6f19e50001c37d62,Lino,Ne***o,IT Manager,True,Yes,2026-02-10T14:20:29.000+00:00
+MRO,mroativa.com.br,http://www.mroativa.com.br,6124004f1babb30001b7ad5e,Victor,Al***a,IT Manager,True,Yes,2026-01-31T06:03:22.000+00:00
+Br Supply Suprimentos Corporativos,brsupply.com.br,http://www.brsupply.com.br,648f221aad23e1000135e542,Giovani,Sc***r,Financial Supervisor,True,Yes,2026-02-10T11:03:27.000+00:00
+Br Supply Suprimentos Corporativos,brsupply.com.br,http://www.brsupply.com.br,610056789471ec00012fcc1f,Fernando,Go***s,IT Manager,True,Yes,2026-02-16T13:21:02.000+00:00
+Br Supply Suprimentos Corporativos,brsupply.com.br,http://www.brsupply.com.br,61005666e6464a0001c917b0,Alexandre,Ce***l,Gerente de T.I.,True,Yes,2026-01-26T06:53:11.000+00:00
+Cooperativa Agroindustrial Copagril,copagril.com.br,http://www.copagril.com.br,60d22ea58df92c0001dfc4c6,Fabio,Li***i,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-06T19:11:33.000+00:00
+Frigelar,frigelar.com.br,http://www.frigelar.com.br,5e6f337d8512bf0001879618,Hugo,Sc***r,IT Manager,True,Yes,2026-02-16T01:29:13.000+00:00
+Leo Madeiras,leomadeiras.com.br,http://www.leomadeiras.com.br,678e9291c25ae600019c5f2f,Anderson,Fo***i,IT Manager,True,Yes,2026-02-27T23:23:16.969+00:00
+Leo Madeiras,leomadeiras.com.br,http://www.leomadeiras.com.br,5d14d0baf651258d5d572ef1,Vinicius,Fe***s,IT Manager,True,Yes,2026-02-21T17:30:53.967+00:00
+Ancar Ivanhoe,ancar.com.br,http://www.ancar.com.br,630d706108ec4d00015b5e35,Joao,Ma***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-07T02:13:36.000+00:00

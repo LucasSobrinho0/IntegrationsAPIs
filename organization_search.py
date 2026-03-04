@@ -30,25 +30,50 @@ def organization_search(api_key: str, payload: dict) -> dict:
 
 def save_to_csv(data: list, filename: str) -> None:
     write_header = (not os.path.exists(filename)) or os.path.getsize(filename) == 0
-    with open(filename, mode='a', newline='', encoding='utf-8') as file:
+    with open(filename, mode="a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         if write_header:
             writer.writerow(["Name", "Website", "LinkedIn", "Primary Phone", "Phone", "Languages", "Segment"])
+
         for item in data:
-            segment = item.get("industry")
-            if not segment:
-                industries = item.get("industries")
+            org = item.get("organization") if isinstance(item, dict) else None
+            if isinstance(org, dict):
+                src = org
+            else:
+                src = item
+
+            industries = src.get("industries")
+            industry = src.get("industry")
+
+            segment = industry
+            if not segment and industries:
                 if isinstance(industries, list):
-                    segment = ", ".join(str(x) for x in industries if x)
+                    names = []
+                    for x in industries:
+                        if isinstance(x, dict):
+                            n = x.get("name") or x.get("label") or x.get("value")
+                            if n:
+                                names.append(n)
+                        elif x:
+                            names.append(str(x))
+                    segment = ", ".join(names) if names else None
                 else:
-                    segment = industries
+                    if isinstance(industries, dict):
+                        segment = industries.get("name") or industries.get("label") or industries.get("value")
+                    else:
+                        segment = str(industries)
+
+            langs = src.get("languages") or []
+            if not isinstance(langs, list):
+                langs = [str(langs)]
+
             writer.writerow([
-                item.get("name"),
-                item.get("website_url"),
-                item.get("linkedin_url"),
-                item.get("primary_phone"),
-                item.get("phone"),
-                ", ".join(item.get("languages", [])),
+                src.get("name"),
+                src.get("website_url"),
+                src.get("linkedin_url"),
+                src.get("primary_phone"),
+                src.get("phone"),
+                ", ".join([str(x) for x in langs if x]),
                 segment,
             ])
 
