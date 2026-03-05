@@ -78,7 +78,7 @@ def save_to_csv(data: list, filename: str) -> None:
             ])
 
 if __name__ == "__main__":
-    api_key = os.getenv("APOLLO_API_KEY")
+    api_key = os.getenv("MASTER_API_KEY")
     if not api_key:
         raise RuntimeError("APOLLO_API_KEY nao encontrado no .env")
 
@@ -91,8 +91,9 @@ if __name__ == "__main__":
             "page": page,
             "per_page": per_page,
             "organization_locations": ["Brazil"],
-            "organization_industries": ["agriculture", "logistics & supply chain", "retail"],
-            "organization_num_employees_ranges": ["201,500", "501,1000", "1001,2000", "2001,5000", "5001,10000"],
+            # "organization_industries": ["farming", "logistics & supply chain", "retail", "food & beverages", "health, wellness & fitness", "transportation/trucking/railroad", "utilities", "oil & energy"],
+            "organization_industries": ["environmental services"],
+            "organization_num_employees_ranges": ["501,1000", "1001,2000", "2001,5000", "5001,10000"],
         }
 
         data = organization_search(api_key, payload)

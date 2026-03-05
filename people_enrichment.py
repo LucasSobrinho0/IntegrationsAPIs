@@ -10,6 +10,7 @@ load_dotenv()
 COLUNAS_CSV_SAIDA = [
     "person_id",
     "empresa",
+    "website",
     "nome_pessoa",
     "cargo",
     "email",
@@ -247,6 +248,7 @@ def main() -> None:
             linha_saida = {
                 "person_id": person_id,
                 "empresa": (linha_origem.get("organization_name") or "").strip(),
+                "website": (linha_origem.get("organization_website") or "").strip(),
                 "nome_pessoa": montar_nome_pessoa({}, linha_origem),
                 "cargo": (linha_origem.get("title") or "").strip(),
                 "email": "",
@@ -255,7 +257,10 @@ def main() -> None:
                 "erro": "",
             }
 
-            corpo = {"details": [{"id": person_id}]}
+            detalhe = {"id": person_id}
+            if linha_saida["website"]:
+                detalhe["organization_website"] = linha_saida["website"]
+            corpo = {"details": [detalhe]}
             parametros = {"reveal_personal_emails": "true"}
             if webhook_url:
                 parametros["reveal_phone_number"] = "true"
