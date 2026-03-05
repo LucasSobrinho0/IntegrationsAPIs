@@ -5,6 +5,7 @@ import os
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
+import unicodedata
 
 import requests
 from dotenv import load_dotenv
@@ -27,6 +28,7 @@ DEALS_OBJECT_PATH = "/crm/v3/objects/deals"
 DEAL_PIPELINES_PATH = "/crm/v3/pipelines/deals"
 OWNERS_PATH = "/crm/v3/owners/"
 DEFAULT_TIMEOUT_SECONDS = 30
+HARDCODED_STAGE_ID = "appointmentscheduled"
 CURRENT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = CURRENT_DIR.parent
 DEFAULT_DEAL_CSV_PATH = PROJECT_ROOT / "deal.csv"
@@ -45,10 +47,10 @@ class DealExecutionResult:
     """Summary for one CSV line processed."""
 
     company_id: str
-    contact_id: str
+    contact_ids: list[str]
     deal_id: str
     company_created: bool
-    contact_created: bool
+    contacts_created_count: int
     pipeline_id: str
     stage_id: str
     owner_email: str | None = None
@@ -139,21 +141,8 @@ def resolve_owner_id_by_email(api_key: str, owner_email: str) -> str:
 
 def resolve_deal_owner_email(row: dict[str, str]) -> str:
     """
-    Owner e-mail source priority:
-    1) CSV columns
-    2) HUBSPOT_DEAL_OWNER_EMAIL in env
+    Owner e-mail fixed from HUBSPOT_DEAL_OWNER_EMAIL in env.
     """
-    candidate_columns = [
-        "deal_owner_email",
-        "hubspot_owner_email",
-        "owner_email",
-        "responsavel_email",
-        "responsible_email",
-    ]
-    for column in candidate_columns:
-        value = _clean_text(row.get(column))
-        if value:
-            return value
     return _clean_text(os.getenv("HUBSPOT_DEAL_OWNER_EMAIL"))
 
 
@@ -243,13 +232,23 @@ def _safe_int(value: Any) -> int:
         return 0
 
 
+def _normalize_text(value: Any) -> str:
+    text = _clean_text(value).lower()
+    if not text:
+        return ""
+    normalized = unicodedata.normalize("NFD", text)
+    return "".join(char for char in normalized if unicodedata.category(char) != "Mn")
+
+
 def resolve_deal_pipeline_and_stage(api_key: str) -> tuple[str, str]:
     """
-    Resolves pipeline/deal stage.
-    Priority: env vars -> first available pipeline/stage from HubSpot.
+    Resolves pipeline/stage by env IDs or hardcoded stage id.
+    Hardcoded default stage: appointmentscheduled (label shown as Prospeção).
     """
     pipeline_from_env = _clean_text(os.getenv("HUBSPOT_DEAL_PIPELINE_ID"))
-    stage_from_env = _clean_text(os.getenv("HUBSPOT_DEAL_STAGE_ID"))
+    stage_from_env = _clean_text(os.getenv("HUBSPOT_DEAL_STAGE_ID")) or HARDCODED_STAGE_ID
+    pipeline_label_from_env = _clean_text(os.getenv("HUBSPOT_DEAL_PIPELINE_LABEL")) or "Prospeção"
+    stage_label_from_env = _clean_text(os.getenv("HUBSPOT_DEAL_STAGE_LABEL")) or "Reaquecer"
 
     if pipeline_from_env and stage_from_env:
         return pipeline_from_env, stage_from_env
@@ -269,11 +268,36 @@ def resolve_deal_pipeline_and_stage(api_key: str) -> tuple[str, str]:
             raise RuntimeError(
                 f"Pipeline informado em HUBSPOT_DEAL_PIPELINE_ID nao encontrado: {pipeline_from_env}"
             )
-    else:
+    elif stage_from_env:
         selected_pipeline = next(
-            (pipe for pipe in pipelines if pipe.get("stages")),
-            pipelines[0],
+            (
+                pipe
+                for pipe in pipelines
+                if any(_clean_text(stage.get("id")) == stage_from_env for stage in (pipe.get("stages") or []))
+            ),
+            None,
         )
+        if not selected_pipeline:
+            raise RuntimeError(
+                "Nao foi encontrado pipeline para o stage hardcoded/configurado. "
+                f"stage_id={stage_from_env}"
+            )
+    else:
+        target_pipeline_normalized = _normalize_text(pipeline_label_from_env)
+        selected_pipeline = next(
+            (
+                pipe
+                for pipe in pipelines
+                if _normalize_text(pipe.get("label")) == target_pipeline_normalized
+                or _normalize_text(pipe.get("id")) == target_pipeline_normalized
+            ),
+            None,
+        )
+        if not selected_pipeline:
+            raise RuntimeError(
+                "Pipeline de deals nao encontrado por nome. "
+                f"Esperado: {pipeline_label_from_env}"
+            )
 
     pipeline_id = pipeline_from_env or _clean_text(selected_pipeline.get("id"))
     if not pipeline_id:
@@ -286,8 +310,23 @@ def resolve_deal_pipeline_and_stage(api_key: str) -> tuple[str, str]:
     if not stages:
         raise RuntimeError(f"Pipeline {pipeline_id} nao possui stages.")
 
-    stages_sorted = sorted(stages, key=lambda stage: _safe_int(stage.get("displayOrder")))
-    stage_id = _clean_text(stages_sorted[0].get("id"))
+    target_stage_normalized = _normalize_text(stage_label_from_env)
+    matched_stage = next(
+        (
+            stage
+            for stage in stages
+            if _normalize_text(stage.get("label")) == target_stage_normalized
+            or _normalize_text(stage.get("id")) == target_stage_normalized
+        ),
+        None,
+    )
+    if not matched_stage:
+        raise RuntimeError(
+            "Stage de deal nao encontrado por nome no pipeline selecionado. "
+            f"Pipeline={pipeline_id} | stage esperado={stage_label_from_env}"
+        )
+
+    stage_id = _clean_text(matched_stage.get("id"))
     if not stage_id:
         raise RuntimeError(f"Nao foi possivel determinar um stage para o pipeline {pipeline_id}.")
 
@@ -313,18 +352,13 @@ def build_contact_payload_from_row(row: dict[str, str]) -> ContactPayload:
 
 def build_deal_properties(
     row: dict[str, str],
+    contacts_rows: list[dict[str, str]],
     pipeline_id: str,
     stage_id: str,
     owner_id: str = "",
 ) -> dict[str, Any]:
     company_name = _clean_text(row.get("empresa")) or "Empresa sem nome"
-    person_name = _clean_text(row.get("nome_pessoa"))
-
-    deal_name = _clean_text(row.get("dealname"))
-    if not deal_name:
-        deal_name = f"Deal - {company_name}"
-        if person_name:
-            deal_name = f"{deal_name} - {person_name}"
+    deal_name = company_name
 
     properties: dict[str, Any] = {
         "dealname": deal_name,
@@ -339,13 +373,21 @@ def build_deal_properties(
     if amount:
         properties["amount"] = amount
 
-    description_parts = [
-        f"Empresa: {company_name}",
-        f"Contato: {person_name}" if person_name else "",
-        f"Cargo: {_clean_text(row.get('cargo'))}" if _clean_text(row.get("cargo")) else "",
-        f"E-mail: {_clean_text(row.get('email'))}" if _clean_text(row.get("email")) else "",
-    ]
-    description = " | ".join(part for part in description_parts if part)
+    contacts_description: list[str] = []
+    for contact_row in contacts_rows:
+        contact_name = _clean_text(contact_row.get("nome_pessoa"))
+        contact_email = _clean_text(contact_row.get("email"))
+        contact_phone = _clean_text(contact_row.get("telefone"))
+
+        detail_parts = [part for part in [contact_name, contact_email, contact_phone] if part]
+        if detail_parts:
+            contacts_description.append(" / ".join(detail_parts))
+
+    description_parts = [f"Empresa: {company_name}"]
+    if contacts_description:
+        description_parts.append(f"Contatos: {' ; '.join(contacts_description)}")
+
+    description = " | ".join(description_parts)
     if description:
         properties["description"] = description
 
@@ -356,18 +398,22 @@ def create_deal(
     api_key: str,
     properties: dict[str, Any],
     company_id: str,
-    contact_id: str,
+    contact_ids: list[str],
 ) -> dict[str, Any]:
-    associations = [
-        {
-            "to": {"id": contact_id},
-            "types": [
-                {
-                    "associationCategory": "HUBSPOT_DEFINED",
-                    "associationTypeId": DEAL_TO_CONTACT_ASSOCIATION_TYPE_ID,
-                }
-            ],
-        },
+    associations = []
+    for contact_id in contact_ids:
+        associations.append(
+            {
+                "to": {"id": contact_id},
+                "types": [
+                    {
+                        "associationCategory": "HUBSPOT_DEFINED",
+                        "associationTypeId": DEAL_TO_CONTACT_ASSOCIATION_TYPE_ID,
+                    }
+                ],
+            }
+        )
+    associations.append(
         {
             "to": {"id": company_id},
             "types": [
@@ -376,31 +422,47 @@ def create_deal(
                     "associationTypeId": DEAL_TO_COMPANY_ASSOCIATION_TYPE_ID,
                 }
             ],
-        },
-    ]
+        }
+    )
     payload = {"properties": properties, "associations": associations}
     return _request("POST", DEALS_OBJECT_PATH, api_key, payload)
 
 
-def create_single_deal_from_row(
-    row: dict[str, str],
+def create_single_deal_from_company_rows(
+    company_rows: list[dict[str, str]],
     api_key: str,
     pipeline_id: str,
     stage_id: str,
 ) -> DealExecutionResult:
-    """Creates company/contact/deal for one CSV row."""
+    """Creates company + all contacts + one deal for a single company."""
+    if not company_rows:
+        raise ValueError("Lista de linhas da empresa vazia.")
+
+    row = company_rows[0]
     owner_email = resolve_deal_owner_email(row)
     owner_id = resolve_owner_id_by_email(api_key, owner_email) if owner_email else ""
 
     company_result = create_or_get_company(api_key, build_company_payload_from_row(row))
-    contact_result = create_or_get_contact(
-        api_key,
-        build_contact_payload_from_row(row),
-        company_id=company_result.id,
-    )
+
+    contact_ids: list[str] = []
+    contacts_created_count = 0
+    for company_row in company_rows:
+        contact_result = create_or_get_contact(
+            api_key,
+            build_contact_payload_from_row(company_row),
+            company_id=company_result.id,
+        )
+        if contact_result.created:
+            contacts_created_count += 1
+        if contact_result.id not in contact_ids:
+            contact_ids.append(contact_result.id)
+
+    if not contact_ids:
+        raise RuntimeError("Nenhum contato valido encontrado para associar ao deal.")
 
     deal_properties = build_deal_properties(
         row=row,
+        contacts_rows=company_rows,
         pipeline_id=pipeline_id,
         stage_id=stage_id,
         owner_id=owner_id,
@@ -409,7 +471,7 @@ def create_single_deal_from_row(
         api_key=api_key,
         properties=deal_properties,
         company_id=company_result.id,
-        contact_id=contact_result.id,
+        contact_ids=contact_ids,
     )
 
     deal_id = _clean_text(deal_response.get("id"))
@@ -418,10 +480,10 @@ def create_single_deal_from_row(
 
     return DealExecutionResult(
         company_id=company_result.id,
-        contact_id=contact_result.id,
+        contact_ids=contact_ids,
         deal_id=deal_id,
         company_created=company_result.created,
-        contact_created=contact_result.created,
+        contacts_created_count=contacts_created_count,
         pipeline_id=pipeline_id,
         stage_id=stage_id,
         owner_email=owner_email or None,
@@ -429,20 +491,32 @@ def create_single_deal_from_row(
     )
 
 
-def create_single_deal_from_csv(
+def _group_rows_by_company(rows: list[dict[str, str]]) -> list[list[dict[str, str]]]:
+    grouped: dict[str, list[dict[str, str]]] = {}
+    for row in rows:
+        company_key = _clean_text(row.get("empresa")).lower() or "__empresa_sem_nome__"
+        grouped.setdefault(company_key, []).append(row)
+    return list(grouped.values())
+
+
+def create_first_company_deal_from_csv(
     csv_path: str | os.PathLike[str] | None = None,
 ) -> DealExecutionResult:
     """
-    Orchestrates 1-line flow:
+    Orchestrates 1-company flow:
     1) Create/get company
-    2) Create/get contact
-    3) Create one deal associated to both records
+    2) Create/get all contacts from that company rows
+    3) Create one deal associated to company + all contacts
     """
     api_key = get_hubspot_api_key()
-    row = read_first_valid_row(csv_path)
+    rows = read_all_valid_rows(csv_path)
+    groups = _group_rows_by_company(rows)
+    if not groups:
+        raise RuntimeError("Nenhuma empresa valida encontrada no CSV.")
+
     pipeline_id, stage_id = resolve_deal_pipeline_and_stage(api_key)
-    return create_single_deal_from_row(
-        row=row,
+    return create_single_deal_from_company_rows(
+        company_rows=groups[0],
         api_key=api_key,
         pipeline_id=pipeline_id,
         stage_id=stage_id,
@@ -451,19 +525,20 @@ def create_single_deal_from_csv(
 
 def create_all_deals_from_csv(csv_path: str | os.PathLike[str] | None = None) -> list[DealExecutionResult]:
     """
-    Processes all valid lines from CSV until the end.
-    If one line fails, continues with the next.
+    Processes all companies from CSV (one deal per company).
+    If one company fails, continues with the next.
     """
     api_key = get_hubspot_api_key()
     rows = read_all_valid_rows(csv_path)
+    grouped_rows = _group_rows_by_company(rows)
     pipeline_id, stage_id = resolve_deal_pipeline_and_stage(api_key)
     results: list[DealExecutionResult] = []
 
-    total = len(rows)
-    for index, row in enumerate(rows, start=1):
+    total = len(grouped_rows)
+    for index, company_rows in enumerate(grouped_rows, start=1):
         try:
-            result = create_single_deal_from_row(
-                row=row,
+            result = create_single_deal_from_company_rows(
+                company_rows=company_rows,
                 api_key=api_key,
                 pipeline_id=pipeline_id,
                 stage_id=stage_id,
@@ -471,7 +546,7 @@ def create_all_deals_from_csv(csv_path: str | os.PathLike[str] | None = None) ->
             results.append(result)
             print(
                 f"[{index}/{total}] ok | company_id={result.company_id} | "
-                f"contact_id={result.contact_id} | deal_id={result.deal_id}"
+                f"contacts={len(result.contact_ids)} | deal_id={result.deal_id}"
             )
         except Exception as err:
             print(f"[{index}/{total}] erro | detalhe={str(err)[:1000]}")
