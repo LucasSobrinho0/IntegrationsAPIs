@@ -28,6 +28,7 @@ class ContactPayload:
     last_name: str | None = None
     email: str | None = None
     phone: str | None = None
+    mobile_phone: str | None = None
     job_title: str | None = None
     company_name: str | None = None
     website: str | None = None
@@ -73,6 +74,23 @@ def split_full_name(full_name: str | None) -> tuple[str, str]:
     if len(parts) == 1:
         return parts[0], ""
     return parts[0], " ".join(parts[1:])
+
+
+def split_phone_numbers(raw_phone: str | None) -> tuple[str, str]:
+    """
+    Splits phone string into (phone, mobilephone) when multiple numbers are present.
+    Example: "A | B" -> ("A", "B")
+    """
+    normalized = _clean_text(raw_phone)
+    if not normalized:
+        return "", ""
+
+    parts = [_clean_text(part) for part in normalized.split("|") if _clean_text(part)]
+    if not parts:
+        return "", ""
+    if len(parts) == 1:
+        return parts[0], ""
+    return parts[0], parts[1]
 
 
 def _build_headers(api_key: str) -> dict[str, str]:
@@ -123,6 +141,9 @@ def build_contact_properties(contact: ContactPayload) -> dict[str, Any]:
 
     email = _clean_text(contact.email).lower()
     phone = _clean_text(contact.phone)
+    mobile_phone = _clean_text(contact.mobile_phone)
+    if not mobile_phone:
+        phone, mobile_phone = split_phone_numbers(phone)
     job_title = _clean_text(contact.job_title)
     company_name = _clean_text(contact.company_name)
     website = _clean_text(contact.website)
@@ -135,6 +156,8 @@ def build_contact_properties(contact: ContactPayload) -> dict[str, Any]:
         properties["email"] = email
     if phone:
         properties["phone"] = phone
+    if mobile_phone:
+        properties["mobilephone"] = mobile_phone
     if job_title:
         properties["jobtitle"] = job_title
     if company_name:

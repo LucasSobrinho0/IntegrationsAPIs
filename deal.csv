@@ -1,15 +1,24 @@
 person_id	empresa	website	nome_pessoa	cargo	email	telefone	status_api
-54a41bea7468692fa28f102d	Natura	http://www.natura.com.br	Gustavo Rocha	Sr. FP&A Manager	gustavorocha@natura.net	55 11 99240-8535	ok
-611acc2343ceb30001d726ae	3 Corações S/A	http://www.3coracoes.com.br	Clairton Carlos	IT Infrastructure Manager	clairtoncarlos@gmail.com	55 85 99199-0301	ok
-60d23839af57b80001e9ed3a	3 Corações S/A	http://www.3coracoes.com.br	Rafael Perelli	Information Security and IT Services Manager	rafaelperelli@hotmail.com	55 85 99237-0560	ok
-6716bc71bf8a770001eda7b2	Grupo Piracanjuba	http://www.piracanjuba.com.br	Flavia Santos	Financial Supervisor	flavia.santos@piracanjuba.com.br	55 62 99494-7528	ok
-695ac3eecb7ed800011be70a	Grupo Piracanjuba	http://www.piracanjuba.com.br	Yvinna Brasileiro	IT Project Manager	yvinna.brasileiro@piracanjuba.com.br		ok
-613b03c66fc87a000113b798	Grupo Piracanjuba	http://www.piracanjuba.com.br	Joao Gilberto	Gerente de TI - Projetos	joao.gilberto@piracanjuba.com.br	55 62 99945-4917	ok
-60d26d1ccf95aa0001e8ec20	Camil Alimentos S/A	http://www.camilalimentos.com.br	Rogerio Santos	Gerente Planejamento Financiero (FP&A)	rogerstato@gmail.com	55 11 97527-0914	ok
-57d37f76f651252c412a73e8	ENGIE Brasil	http://www.engie.com.br	Ursulla Short	M&A | Business Development Manager	ursulla.short@engie.com	55 21 99634-2431	ok
-625daf39b8a2840001f8a02a	ENGIE Brasil	http://www.engie.com.br	Thiago Suita	IT Project Manager & Technical Lead | AI & Data Solutions	thiago.suita@engie.com	55 48 99174-8735	ok
-54a49f3f7468692abf8adb55	MRS Logística S.A.	http://www.mrs.com.br	Victor Ludwig	Strategy and Business Plan Manager (FP&A)	vhludwig@gmail.com	55 32 99122-1818	ok
-63553002a9ac8f0001a93402	MRS Logística S.A.	http://www.mrs.com.br	Paula Ferreira	IT Project Manager	paula.ferreira@mrs.com.br	1 832-766-3939	ok
-685f9997c9cc000001d3312e	MRS Logística S.A.	http://www.mrs.com.br	Cesar Tomaz	IT & Digital Transformation Governance Manager	cesar.tomaz@mrs.com.br	55 11 99558-6584	ok
-57d459a7a6da9853ce96a018	Natura	http://www.natura.com.br	Ruan Carange	FP&A Manager	ruancarange@natura.net	55 19 98177-6159	ok
-54a531d27468693b8cd9a384	Natura	http://www.natura.com.br	Carolina Apolinario	FP&A Manager - Performance	carolinakayano@gmail.com	55 19 98177-6159	ok
+610b6bb5f088bc000181b97f	Eneva	http://www.eneva.com.br	Mauricio Hayon	FP&A General Manager	mauricio.hayon@gmail.com	55 21 99983-9732	ok
+610bf8d60f0e5f0001c5336f	Eneva	http://www.eneva.com.br	Joao Areias	IT Manager	joao.areias@eneva.com.br	55 21 99334-4911	ok
+6705f4a17bdd470001d26abc	Ocyan	http://www.ocyan-sa.com	Jessica Gloria	Financial Supervisor	jessicagloria@ocyan-sa.com		ok
+60646a183985d70001f8cbe3	Ocyan	http://www.ocyan-sa.com	Luany Santos	IT Manager | Artificial Intelligence, Automation & Governance	luanycardoso@gmail.com	55 12 99186-7708	ok
+56316aaca6da9816ec00460b	Rumo	http://www.rumolog.com	Corina Fontenele	IT Project Manager	corina.fontenele@ext.rumolog.com	55 11 99409-7519	ok
+646fb6a5e58f4a00014b12e0	Rumo	http://www.rumolog.com	Pedro Freitas	M&A & Business Development Manager	pedro.freitas@rumolog.com	55 11 99526-1323	ok
+54a569017468692fa2186795	Rumo	http://www.rumolog.com	Fabio Jung	Gerente Financeiro de Controladoria e FP&A	fabio.jung@rumolog.com	55 41 99836-0342	ok
+610bd5a8cbf40c00010920b9	Luizalabs	http://www.luizalabs.com	Thiago Luciano	IT Manager	ti.tluciano@gmail.com	55 31 98705-8230	ok
+5ba7fba0f874f758c533f7b4	Luizalabs	http://www.luizalabs.com	Vagner Simao	IT Manager	vagnersimao@gmail.com	55 34 98846-6288	ok
+621f2d69687e430001910782	Luizalabs	http://www.luizalabs.com	Marcio Carvalho	IT Manager at Época Cosméticos	marcio.dream@gmail.com	55 21 99251-3201	ok
+5ffb13216b18f80001758704	Raízen	http://www.raizen.com	Marcelo Almeida	Corporate FP&A Executive Manager	marceloalm@ig.com.br	55 11 98684-8000	ok
+54a2fefc746869382510d84c	Raízen	http://www.raizen.com	Joao Franca	IT	joao.franca@raizen.com	55 19 99658-3337	ok
+647e38dfc3aa2f0001ccd4a1	Raízen	http://www.raizen.com	Diego Grigorine	IT Infrastructure Manager	diego.grigorine@raizen.com	55 85 98881-2148	ok
+54a4200274686932095ab32e	Grupo Edson Queiroz	http://www.geq.com.br	Thiago Correia	IT Manager	thiagocorreia2@gmail.com	55 19 99967-0871	ok
+55714fd673696458390d6f00	Ultragaz	http://www.ultragaz.com.br	Pedro Martin	Finance and FP&A Manager – Renewable Gases Business Unit	pedroasmartin@gmail.com	55 11 98609-1875	ok
+54a82b7f74686965d9ae9164	Ultragaz	http://www.ultragaz.com.br	Guilherme Dantas	IT Manager	gdantascruz@gmail.com	55 11 99716-6814	ok
+616940a304f6180001df07d9	Jadlog Logística	http://www.jadlog.com.br	Yara Fernandes	Financial Supervisor	yara.fernandes@jadlog.com.br	55 11 99448-6616 | 55 11 4063-1468	ok
+6029fe860d6a8e000146e7b0	Embrapa	http://www.embrapa.br	Leonildo Silva	IT Manager	leonildo.silva@embrapa.br	55 83 3182-4366	ok
+635427b01dc5b60001b13a75	Embrapa	http://www.embrapa.br	Gleice Louise	Gerente de Projetos de TI, Analista de TI	gleice.costa@embrapa.br	55 61 98507-0070 | 55 61 3448-4433	ok
+64109653cfb6ea00014415fc	Embrapa	http://www.embrapa.br	Guilherme Sperotto	Financial Services Supervisor	guilherme.sperotto@embrapa.br		ok
+62af831f02ecef000154ed95	Cobasi	http://www.cobasi.com.br	Christiane Soares	IT Manager - BI / PMO (Escritório de Projetos)	christiane.soares@cobasi.com.br	55 11 99359-2343	ok
+6481b9cd4207010001da113d	Vix Logistica	http://www.vix.com.br	Maria Bridi	Financial Supervisor	maria@vix.com.br	55 27 2125-1483	ok
+674cf16420957e00017cc4d3	Constellation Oil Services	http://www.theconstellation.com	Joao Ratton	FP&A and Investor Relations Manager	jratton@theconstellation.com	55 21 99453-5533 | 55 21 2122-6900	ok

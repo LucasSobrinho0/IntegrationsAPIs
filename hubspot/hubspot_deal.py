@@ -16,10 +16,14 @@ try:
         create_or_get_company,
         get_hubspot_api_key,
     )
-    from hubspot.hubspot_contact import ContactPayload, create_or_get_contact
+    from hubspot.hubspot_contact import (
+        ContactPayload,
+        create_or_get_contact,
+        split_phone_numbers,
+    )
 except ModuleNotFoundError:
     from hubspot_company import CompanyPayload, create_or_get_company, get_hubspot_api_key
-    from hubspot_contact import ContactPayload, create_or_get_contact
+    from hubspot_contact import ContactPayload, create_or_get_contact, split_phone_numbers
 
 load_dotenv()
 
@@ -340,10 +344,12 @@ def build_company_payload_from_row(row: dict[str, str]) -> CompanyPayload:
 
 
 def build_contact_payload_from_row(row: dict[str, str]) -> ContactPayload:
+    phone, mobile_phone = split_phone_numbers(_clean_text(row.get("telefone")) or None)
     return ContactPayload(
         full_name=_clean_text(row.get("nome_pessoa")) or None,
         email=_clean_text(row.get("email")) or None,
-        phone=_clean_text(row.get("telefone")) or None,
+        phone=phone or None,
+        mobile_phone=mobile_phone or None,
         job_title=_clean_text(row.get("cargo")) or None,
         company_name=_clean_text(row.get("empresa")) or None,
         website=_clean_text(row.get("website")) or None,
