@@ -18,6 +18,7 @@ COLUNAS_CSV_SAIDA = [
     "status_api",
     "erro",
 ]
+REVEAL_PERSONAL_EMAILS = False
 
 
 def construir_cabecalhos(api_key: str) -> dict:
@@ -261,7 +262,7 @@ def main() -> None:
             if linha_saida["website"]:
                 detalhe["organization_website"] = linha_saida["website"]
             corpo = {"details": [detalhe]}
-            parametros = {"reveal_personal_emails": "true"}
+            parametros = {"reveal_personal_emails": "true" if REVEAL_PERSONAL_EMAILS else "false"}
             if webhook_url:
                 parametros["reveal_phone_number"] = "true"
                 parametros["webhook_url"] = webhook_url
@@ -283,7 +284,8 @@ def main() -> None:
                     linha_saida["cargo"] = (
                         pessoa_api.get("title") or linha_saida["cargo"] or ""
                     ).strip()
-                    linha_saida["email"] = extrair_email(pessoa_api)
+                    if REVEAL_PERSONAL_EMAILS:
+                        linha_saida["email"] = extrair_email(pessoa_api)
                     linha_saida["telefone"] = extrair_telefone(pessoa_api)
                 else:
                     linha_saida["status_api"] = "sem_resultado"

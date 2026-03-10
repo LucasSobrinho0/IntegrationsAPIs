@@ -1,24 +1,28 @@
 person_id	empresa	website	nome_pessoa	cargo	email	telefone	status_api
-610b6bb5f088bc000181b97f	Eneva	http://www.eneva.com.br	Mauricio Hayon	FP&A General Manager	mauricio.hayon@gmail.com	55 21 99983-9732	ok
-610bf8d60f0e5f0001c5336f	Eneva	http://www.eneva.com.br	Joao Areias	IT Manager	joao.areias@eneva.com.br	55 21 99334-4911	ok
-6705f4a17bdd470001d26abc	Ocyan	http://www.ocyan-sa.com	Jessica Gloria	Financial Supervisor	jessicagloria@ocyan-sa.com		ok
-60646a183985d70001f8cbe3	Ocyan	http://www.ocyan-sa.com	Luany Santos	IT Manager | Artificial Intelligence, Automation & Governance	luanycardoso@gmail.com	55 12 99186-7708	ok
-56316aaca6da9816ec00460b	Rumo	http://www.rumolog.com	Corina Fontenele	IT Project Manager	corina.fontenele@ext.rumolog.com	55 11 99409-7519	ok
-646fb6a5e58f4a00014b12e0	Rumo	http://www.rumolog.com	Pedro Freitas	M&A & Business Development Manager	pedro.freitas@rumolog.com	55 11 99526-1323	ok
-54a569017468692fa2186795	Rumo	http://www.rumolog.com	Fabio Jung	Gerente Financeiro de Controladoria e FP&A	fabio.jung@rumolog.com	55 41 99836-0342	ok
-610bd5a8cbf40c00010920b9	Luizalabs	http://www.luizalabs.com	Thiago Luciano	IT Manager	ti.tluciano@gmail.com	55 31 98705-8230	ok
-5ba7fba0f874f758c533f7b4	Luizalabs	http://www.luizalabs.com	Vagner Simao	IT Manager	vagnersimao@gmail.com	55 34 98846-6288	ok
-621f2d69687e430001910782	Luizalabs	http://www.luizalabs.com	Marcio Carvalho	IT Manager at Época Cosméticos	marcio.dream@gmail.com	55 21 99251-3201	ok
-5ffb13216b18f80001758704	Raízen	http://www.raizen.com	Marcelo Almeida	Corporate FP&A Executive Manager	marceloalm@ig.com.br	55 11 98684-8000	ok
-54a2fefc746869382510d84c	Raízen	http://www.raizen.com	Joao Franca	IT	joao.franca@raizen.com	55 19 99658-3337	ok
-647e38dfc3aa2f0001ccd4a1	Raízen	http://www.raizen.com	Diego Grigorine	IT Infrastructure Manager	diego.grigorine@raizen.com	55 85 98881-2148	ok
-54a4200274686932095ab32e	Grupo Edson Queiroz	http://www.geq.com.br	Thiago Correia	IT Manager	thiagocorreia2@gmail.com	55 19 99967-0871	ok
-55714fd673696458390d6f00	Ultragaz	http://www.ultragaz.com.br	Pedro Martin	Finance and FP&A Manager – Renewable Gases Business Unit	pedroasmartin@gmail.com	55 11 98609-1875	ok
-54a82b7f74686965d9ae9164	Ultragaz	http://www.ultragaz.com.br	Guilherme Dantas	IT Manager	gdantascruz@gmail.com	55 11 99716-6814	ok
-616940a304f6180001df07d9	Jadlog Logística	http://www.jadlog.com.br	Yara Fernandes	Financial Supervisor	yara.fernandes@jadlog.com.br	55 11 99448-6616 | 55 11 4063-1468	ok
-6029fe860d6a8e000146e7b0	Embrapa	http://www.embrapa.br	Leonildo Silva	IT Manager	leonildo.silva@embrapa.br	55 83 3182-4366	ok
-635427b01dc5b60001b13a75	Embrapa	http://www.embrapa.br	Gleice Louise	Gerente de Projetos de TI, Analista de TI	gleice.costa@embrapa.br	55 61 98507-0070 | 55 61 3448-4433	ok
-64109653cfb6ea00014415fc	Embrapa	http://www.embrapa.br	Guilherme Sperotto	Financial Services Supervisor	guilherme.sperotto@embrapa.br		ok
-62af831f02ecef000154ed95	Cobasi	http://www.cobasi.com.br	Christiane Soares	IT Manager - BI / PMO (Escritório de Projetos)	christiane.soares@cobasi.com.br	55 11 99359-2343	ok
-6481b9cd4207010001da113d	Vix Logistica	http://www.vix.com.br	Maria Bridi	Financial Supervisor	maria@vix.com.br	55 27 2125-1483	ok
-674cf16420957e00017cc4d3	Constellation Oil Services	http://www.theconstellation.com	Joao Ratton	FP&A and Investor Relations Manager	jratton@theconstellation.com	55 21 99453-5533 | 55 21 2122-6900	ok
+54aae69974686908c8474c1c	The Mosaic Company - Brasil	http://www.mosaicco.com.br	Carolina Leludak	Corporate Finance Manager (M&A)	carol_lelu837@hotmail.com	55 41 99923-0973|55 41 3380-1495
+66fa1645d1c6fd000190279d	Privalia	http://www.privalia.com	Nuria Ramos	IT Manager	nuria.ramos@privalia.com	34 671 87 02 91
+66fa2d93d1c6fd000197cce4	Privalia	http://www.privalia.com	Dani Minarro	IT Manager SAP & Supply Chain	dani.minarro@privalia.com	34 687 64 40 86
+5674642da6da9802a2022de2	Yara Brasil	http://www.yarabrasil.com.br	Marcelo Schultz	Controlling Manager - Corporate Performance & FP&A	marceloluizschultz@gmail.com	55 51 98010-4015
+54c23fa07468697af7597d88	Yara Brasil	http://www.yarabrasil.com.br	Giani Vieira	Sr IT Manager	giani.vieira@yara.com	55 51 99900-3840
+60de78362de8290001ffba93	GrupoSC Distribuidora de Medicamentos	http://www.gruposc.com.br	Christofer Faccin	IT Manager	christofer.faccin@gmail.com	55 41 99681-8824
+6724d0072f30200001c43442	GrupoSC Distribuidora de Medicamentos	http://www.gruposc.com.br	Alessandro Andrade	Senior IT Manager | Systems	alessandro.andrade@gruposc.com.br	55 41 99957-0759
+5f7742a83d3be200015a168c	GrupoSC Distribuidora de Medicamentos	http://www.gruposc.com.br	Marcelo Neotti	IT Infrastructure Manager	neotti@live.com	
+61111429f9c9340001b99f6b	UniTI	http://www.frimesa.com.br	Thiago Algeri	Comitê Técnico Consultivo	thiagoalgeri@gmail.com	55 45 99969-5419
+61993d6861145a000101d767	FRIMESA	http://www.frimesa.com.br	Tania Bernardi	Financial Services Supervisor	tania@frimesa.com.br	55 45 99816-4048|55 45 3264-2017
+650efedaaec746000196c616	Enel Brasil	http://www.enel.com.br	Ramon Moreira	Project Manager-IT Specialist	ramon.moreira@enel.com	55 41 99915-2054
+5f55e12ad4f2df00016b2b25	Enel Brasil	http://www.enel.com.br	Hugo Cardoso	Key Account Manager - Clientes Grupo A	hugo.cardoso@enel.com	55 11 96435-7464
+685bde6770ef700001024715	Enel Brasil	http://www.enel.com.br	Danilo Araujo	Gestor de TI - PMO | Programa de Transformação Digital	danilo.oaraujo@enel.com	55 27 99246-5336
+5f638d8f6e405f0001f922c5	Santos Brasil	http://www.santosbrasil.com.br	Victor Trevisan	FP&A Manager	victor.trevisan@santosbrasil.com.br	55 11 97612-2234
+54a3abdc7468692abf3f2509	Santos Brasil	http://www.santosbrasil.com.br	Jose Figueredo	IT Manager	jluis_ribeiro@hotmail.com	55 11 99929-2357
+60f8319cf0e7d200019ed836	Santos Brasil	http://www.santosbrasil.com.br	Renata Peres	IT Manager	renatabolsoni@yahoo.com.br	55 11 95779-8786
+60d0ccd980b90c0001ca7169	Itaipu Binacional	http://www.itaipu.gov.br	Zaqueu Cabral	IT Infrastructure Manager	zaqueucabral@gmail.com	55 33 99113-7172
+57d38f79f651252c11811b17	Coamo Agroindustrial Cooperativa	http://www.coamo.com.br	Hebert Pedron	Financial Administrative Supervisor	hpedron@coamo.com.br	55 44 98856-7310
+5d3c8fecf65125f494c7876a	Coamo Agroindustrial Cooperativa	http://www.coamo.com.br	Ronaldo Forato	Financial Administrative Supervisor	rforato@coamo.com.br	55 44 99958-1731|55 44 3571-1460
+67212e2df15f160001909528	Coamo Agroindustrial Cooperativa	http://www.coamo.com.br	Marco Mamus	Encarregado de TI	mmamus@coamo.com.br	55 44 99969-1160
+610afcb7105f3400011fb31d	EuroChem Brasil	http://www.eurochemsam.com	Marcio Lima	FP&A Manager	marcio.lima@eurochemsam.com	55 11 97027-6884|55 12 3931-4634
+619ffb167984cb000109d554	EuroChem Brasil	http://www.eurochemsam.com	Michel Roque	IT Manager	michel.rodrigo@ig.com.br	
+5e5b2f27cecafd0001d0bb0a	Chilli Beans	http://www.chillibeans.com.br	Aline Marques	Financial Supervisor	aline.marques@chillibeans.com.br	55 11 95024-0519
+605e354b0f585a0001e4c7bc	Atvos	http://www.atvos.com	Jean Boaretto	M&A & Corporate Development Executive Manager	jeanboaretto@yahoo.com.br	55 11 98254-5849|55 11 4890-0020
+62ed0b045b068e0001ca602f	Hidrovias do Brasil	http://www.hbsa.com.br	Camila Salvador	FP&A Corporate Manager	camila.salvador@hbsa.com.br	55 11 97995-2001
+5dcabff999858a00012b478c	Log-In Logística Integrada	http://www.loginlogistica.com.br	Bernardo Boechat	Fleet Manager at Frota na Log-In Logística Intermodal S/A	bernardo.boechat@loginlogistica.com.br	55 21 97287-4741
+68618e45fc3d7700015f1867	Shoulder	http://www.shoulder.com.br	Alisson Belluomini	Information Technology Infrastructure Manager	alisson.belluomini@shoulder.com.br	55 11 94197-7625

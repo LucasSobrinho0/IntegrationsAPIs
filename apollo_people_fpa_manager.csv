@@ -1,38 +1,4 @@
 organization_name,organization_domain,organization_website,person_id,first_name,last_name_obfuscated,title,has_email,has_direct_phone,last_refreshed_at
-Eneva,eneva.com.br,http://www.eneva.com.br,610b6bb5f088bc000181b97f,Mauricio,Ha***n,FP&A General Manager,True,Yes,2026-02-12T06:45:06.000+00:00
-Eneva,eneva.com.br,http://www.eneva.com.br,610bf8d60f0e5f0001c5336f,Joao,Ar***s,IT Manager,True,Yes,2026-02-16T17:53:38.373+00:00
-Ocyan,ocyan-sa.com,http://www.ocyan-sa.com,6705f4a17bdd470001d26abc,Jessica,Gl***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-03-03T00:59:24.135+00:00
-Ocyan,ocyan-sa.com,http://www.ocyan-sa.com,60646a183985d70001f8cbe3,Luany,Sa***s,"IT Manager | Artificial Intelligence, Automation & Governance",True,Yes,2026-02-12T03:48:03.000+00:00
-Rumo,rumolog.com,http://www.rumolog.com,56316aaca6da9816ec00460b,Corina,Fo***e,IT Project Manager,True,Yes,2026-02-24T04:05:08.000+00:00
-Rumo,rumolog.com,http://www.rumolog.com,646fb6a5e58f4a00014b12e0,Pedro,Fr***s,M&A & Business Development Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-25T03:31:31.000+00:00
-Rumo,rumolog.com,http://www.rumolog.com,54a569017468692fa2186795,Fabio,Ju***g,Gerente Financeiro de Controladoria e FP&A,True,Yes,2026-02-15T20:24:57.000+00:00
-Luizalabs,luizalabs.com,http://www.luizalabs.com,610bd5a8cbf40c00010920b9,Thiago,Lu***o,IT Manager,True,Yes,2026-02-27T11:50:34.444+00:00
-Luizalabs,luizalabs.com,http://www.luizalabs.com,5ba7fba0f874f758c533f7b4,Vagner,Si***o,IT Manager,True,Yes,2026-02-27T23:41:33.969+00:00
-Luizalabs,luizalabs.com,http://www.luizalabs.com,621f2d69687e430001910782,Marcio,Ca***o,IT Manager at Época Cosméticos,True,Yes,2026-02-26T07:23:36.000+00:00
-Luizalabs,luizalabs.com,http://www.luizalabs.com,68263e8cdfe9dd0001f62657,Gabriel,Si***a,IT Manager (Logistics Core Platform Manager),True,Yes,2026-02-13T19:45:18.000+00:00
-Luizalabs,luizalabs.com,http://www.luizalabs.com,54aa771b74686908c8211706,Antonio,Ne***o,IT Manager-Tribe Lead-Tribo Comercial,True,Yes,2026-03-02T00:17:57.296+00:00
-Luizalabs,luizalabs.com,http://www.luizalabs.com,6626ddefb3dc5400078f4110,Tiago,Vi***a,Tribe Lead | Gerente de TI,True,Yes,2026-02-28T20:52:31.341+00:00
-Biosev,raizen.com,http://www.raizen.com,5ffb13216b18f80001758704,Marcelo,Al***a,Corporate FP&A Executive Manager,True,Yes,2026-02-27T12:46:51.778+00:00
-Biosev,raizen.com,http://www.raizen.com,54a2fefc746869382510d84c,Joao,Fr***a,IT Manager,True,Yes,2026-02-20T23:00:27.169+00:00
-Biosev,raizen.com,http://www.raizen.com,647e38dfc3aa2f0001ccd4a1,Diego,Gr***e,IT Infrastructure Manager,True,Yes,2026-02-27T02:27:11.000+00:00
-Biosev,raizen.com,http://www.raizen.com,63d47e16d27abb0001273876,Clarissa,An***e,IT Project Manager,True,Yes,2026-02-06T18:21:03.501+00:00
-Biosev,raizen.com,http://www.raizen.com,54a4ed1474686938ac3ab36e,Wesley,Ba***s,IT Procurement Manager,True,Yes,2026-02-15T02:53:38.000+00:00
-Biosev,raizen.com,http://www.raizen.com,615d1a892699f60001dd2935,Vinicius,Vi***a,IT Project Manager,True,Yes,2026-02-04T10:42:49.603+00:00
-Biosev,raizen.com,http://www.raizen.com,66d40456cc07970001a65909,Adriana,Ba***i,IT Executive Manager | Raízen | M&A | SAP | Is-oil | Agro,True,Yes,2026-02-12T19:07:41.417+00:00
-Biosev,raizen.com,http://www.raizen.com,611fb1332bdf1900017d3c3d,Alexandre,So***a,IT Architecture and Engineering Manager,True,Yes,2026-01-27T20:03:54.383+00:00
-Biosev,raizen.com,http://www.raizen.com,60c35af392da590001ec7f6f,Thais,Do***n,Senior IT Project Manager,True,Yes,2026-02-18T09:45:43.000+00:00
-Biosev,raizen.com,http://www.raizen.com,54a7706f7468696b7fc18934,Roberto,Wa***n,Senior M&A Manager,True,Yes,2026-02-24T06:22:53.000+00:00
-Biosev,raizen.com,http://www.raizen.com,65382d43fddfb700011748df,Victor,Br***i,FP&A | Revenue Growth Management,True,Yes,2026-02-22T22:31:46.000+00:00
-Grupo Edson Queiroz,geq.com.br,http://www.geq.com.br,54a4200274686932095ab32e,Thiago,Co***a,IT Manager,True,Yes,2026-02-25T18:15:34.178+00:00
-Ultragaz,ultragaz.com.br,http://www.ultragaz.com.br,55714fd673696458390d6f00,Pedro,Ma***n,Finance and FP&A Manager – Renewable Gases Business Unit,True,Yes,2026-02-14T02:12:19.000+00:00
-Ultragaz,ultragaz.com.br,http://www.ultragaz.com.br,54a82b7f74686965d9ae9164,Guilherme,Da***s,IT Manager,True,Yes,2026-03-03T13:38:57.075+00:00
-Jadlog Logística,jadlog.com.br,http://www.jadlog.com.br,616940a304f6180001df07d9,Yara,Fe***s,Financial Supervisor,True,Yes,2026-02-05T13:20:28.480+00:00
-Embrapa,embrapa.br,http://www.embrapa.br,6029fe860d6a8e000146e7b0,Leonildo,Si***a,IT Manager,True,Yes,2026-01-23T15:47:25.121+00:00
-Embrapa,embrapa.br,http://www.embrapa.br,635427b01dc5b60001b13a75,Gleice,Lo***e,IT Project Manager,True,Yes,2026-02-10T04:19:57.000+00:00
-Embrapa,embrapa.br,http://www.embrapa.br,64109653cfb6ea00014415fc,Guilherme,Sp***o,Financial Services Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-31T12:21:14.000+00:00
-Cobasi,cobasi.com.br,http://www.cobasi.com.br,62af831f02ecef000154ed95,Christiane,So***s,IT Manager - BI / PMO (Escritório de Projetos),True,Yes,2026-02-15T05:43:27.000+00:00
-Vix Logistica,vix.com.br,http://www.vix.com.br,6481b9cd4207010001da113d,Maria,Br***i,Financial Supervisor,True,Yes,2026-02-24T23:34:02.416+00:00
-Constellation Oil Services,theconstellation.com,http://www.theconstellation.com,674cf16420957e00017cc4d3,Joao,Ra***n,FP&A and Investor Relations Manager,True,Yes,2026-02-23T11:43:02.633+00:00
 The Mosaic Company - Brasil,mosaicco.com.br,http://www.mosaicco.com.br,54aae69974686908c8474c1c,Carolina,Le***k,Corporate Finance Manager (M&A),True,Yes,2026-02-22T17:49:35.850+00:00
 Privalia,privalia.com,http://www.privalia.com,66fa1645d1c6fd000190279d,Nuria,Ra***s,IT Manager,True,Yes,2026-03-04T09:10:56.887+00:00
 Privalia,privalia.com,http://www.privalia.com,66fa2d93d1c6fd000197cce4,Dani,Mi***o,IT Manager SAP & Supply Chain,True,Yes,2026-02-26T13:35:59.000+00:00
