@@ -18,7 +18,7 @@ COLUNAS_CSV_SAIDA = [
     "status_api",
     "erro",
 ]
-REVEAL_PERSONAL_EMAILS = False
+REVEAL_PERSONAL_EMAILS = True
 
 
 def construir_cabecalhos(api_key: str) -> dict:

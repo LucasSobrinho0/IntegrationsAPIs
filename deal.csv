@@ -1,28 +1,49 @@
 person_id	empresa	website	nome_pessoa	cargo	email	telefone	status_api
-54aae69974686908c8474c1c	The Mosaic Company - Brasil	http://www.mosaicco.com.br	Carolina Leludak	Corporate Finance Manager (M&A)	carol_lelu837@hotmail.com	55 41 99923-0973|55 41 3380-1495
-66fa1645d1c6fd000190279d	Privalia	http://www.privalia.com	Nuria Ramos	IT Manager	nuria.ramos@privalia.com	34 671 87 02 91
-66fa2d93d1c6fd000197cce4	Privalia	http://www.privalia.com	Dani Minarro	IT Manager SAP & Supply Chain	dani.minarro@privalia.com	34 687 64 40 86
-5674642da6da9802a2022de2	Yara Brasil	http://www.yarabrasil.com.br	Marcelo Schultz	Controlling Manager - Corporate Performance & FP&A	marceloluizschultz@gmail.com	55 51 98010-4015
-54c23fa07468697af7597d88	Yara Brasil	http://www.yarabrasil.com.br	Giani Vieira	Sr IT Manager	giani.vieira@yara.com	55 51 99900-3840
-60de78362de8290001ffba93	GrupoSC Distribuidora de Medicamentos	http://www.gruposc.com.br	Christofer Faccin	IT Manager	christofer.faccin@gmail.com	55 41 99681-8824
-6724d0072f30200001c43442	GrupoSC Distribuidora de Medicamentos	http://www.gruposc.com.br	Alessandro Andrade	Senior IT Manager | Systems	alessandro.andrade@gruposc.com.br	55 41 99957-0759
-5f7742a83d3be200015a168c	GrupoSC Distribuidora de Medicamentos	http://www.gruposc.com.br	Marcelo Neotti	IT Infrastructure Manager	neotti@live.com	
-61111429f9c9340001b99f6b	UniTI	http://www.frimesa.com.br	Thiago Algeri	Comitê Técnico Consultivo	thiagoalgeri@gmail.com	55 45 99969-5419
-61993d6861145a000101d767	FRIMESA	http://www.frimesa.com.br	Tania Bernardi	Financial Services Supervisor	tania@frimesa.com.br	55 45 99816-4048|55 45 3264-2017
-650efedaaec746000196c616	Enel Brasil	http://www.enel.com.br	Ramon Moreira	Project Manager-IT Specialist	ramon.moreira@enel.com	55 41 99915-2054
-5f55e12ad4f2df00016b2b25	Enel Brasil	http://www.enel.com.br	Hugo Cardoso	Key Account Manager - Clientes Grupo A	hugo.cardoso@enel.com	55 11 96435-7464
-685bde6770ef700001024715	Enel Brasil	http://www.enel.com.br	Danilo Araujo	Gestor de TI - PMO | Programa de Transformação Digital	danilo.oaraujo@enel.com	55 27 99246-5336
-5f638d8f6e405f0001f922c5	Santos Brasil	http://www.santosbrasil.com.br	Victor Trevisan	FP&A Manager	victor.trevisan@santosbrasil.com.br	55 11 97612-2234
-54a3abdc7468692abf3f2509	Santos Brasil	http://www.santosbrasil.com.br	Jose Figueredo	IT Manager	jluis_ribeiro@hotmail.com	55 11 99929-2357
-60f8319cf0e7d200019ed836	Santos Brasil	http://www.santosbrasil.com.br	Renata Peres	IT Manager	renatabolsoni@yahoo.com.br	55 11 95779-8786
-60d0ccd980b90c0001ca7169	Itaipu Binacional	http://www.itaipu.gov.br	Zaqueu Cabral	IT Infrastructure Manager	zaqueucabral@gmail.com	55 33 99113-7172
-57d38f79f651252c11811b17	Coamo Agroindustrial Cooperativa	http://www.coamo.com.br	Hebert Pedron	Financial Administrative Supervisor	hpedron@coamo.com.br	55 44 98856-7310
-5d3c8fecf65125f494c7876a	Coamo Agroindustrial Cooperativa	http://www.coamo.com.br	Ronaldo Forato	Financial Administrative Supervisor	rforato@coamo.com.br	55 44 99958-1731|55 44 3571-1460
-67212e2df15f160001909528	Coamo Agroindustrial Cooperativa	http://www.coamo.com.br	Marco Mamus	Encarregado de TI	mmamus@coamo.com.br	55 44 99969-1160
-610afcb7105f3400011fb31d	EuroChem Brasil	http://www.eurochemsam.com	Marcio Lima	FP&A Manager	marcio.lima@eurochemsam.com	55 11 97027-6884|55 12 3931-4634
-619ffb167984cb000109d554	EuroChem Brasil	http://www.eurochemsam.com	Michel Roque	IT Manager	michel.rodrigo@ig.com.br	
-5e5b2f27cecafd0001d0bb0a	Chilli Beans	http://www.chillibeans.com.br	Aline Marques	Financial Supervisor	aline.marques@chillibeans.com.br	55 11 95024-0519
-605e354b0f585a0001e4c7bc	Atvos	http://www.atvos.com	Jean Boaretto	M&A & Corporate Development Executive Manager	jeanboaretto@yahoo.com.br	55 11 98254-5849|55 11 4890-0020
-62ed0b045b068e0001ca602f	Hidrovias do Brasil	http://www.hbsa.com.br	Camila Salvador	FP&A Corporate Manager	camila.salvador@hbsa.com.br	55 11 97995-2001
-5dcabff999858a00012b478c	Log-In Logística Integrada	http://www.loginlogistica.com.br	Bernardo Boechat	Fleet Manager at Frota na Log-In Logística Intermodal S/A	bernardo.boechat@loginlogistica.com.br	55 21 97287-4741
-68618e45fc3d7700015f1867	Shoulder	http://www.shoulder.com.br	Alisson Belluomini	Information Technology Infrastructure Manager	alisson.belluomini@shoulder.com.br	55 11 94197-7625
+5df8dca93391ec00d6a5af0e	CTG Brasil	http://www.ctgbr.com.br	Leandro Locatelli	IT Project Manager	leandro.locatelli@ctgbr.com.br	55 11 97437-2642	ok	
+6090553f8677910001893ec2	CTG Brasil	http://www.ctgbr.com.br	Silmara Montemor	M&A and Business Development Manager	silmara.montemor@ctgbr.com.br	55 11 96484-1504	ok	
+5acc14b2a6da98c5e35deb7c	Câmara de Comercialização de Energia Elétrica - CCEE (Chamber of Electric Energy Commercialization)	http://www.ccee.org.br	Fernando Filho	Information Technology Architecture Manager	fernandomra@gmail.com	55 19 99213-9261	ok	
+54a5fc4e7468692abf0e3db9	dr.consulta	http://www.drconsulta.com	Gabriel Salgado	Financial Planning | Financial Modeling | FP&A Manager | Valuation	gabrielguisal@ig.com.br	55 21 97640-5998	ok	
+66fc393c5aa888000108c7bb	Sequoia Soluções Logísticas	http://www.sequoialog.com.br	Fernando Neves	IT Project Manager	fernando.neves@sequoialog.com.br	55 11 93498-9203	ok	
+68e4192fbc6ed200011c91f5	Grupo Muffato	http://www.supermuffato.com.br	Thomaz Castanha	IT Coordinator | Project Manager | Responsible for the Software Area	thcastanha@muffato.com.br	55 43 99904-1550	ok	
+62b0883c37997d0001062d40	Agrex do Brasil S.A.	http://www.agrex.com.br	Rafael Sugiyama	IT Manager		1 801-456-7182	ok	
+604602f1b504010001132e94	LongPing High-Tech	http://www.lpht.com.br	Thomaz Culhari	FP&A Manager	tculhari@lpht.com	55 19 99246-1454	ok	
+54a3f24674686934426df81f	LongPing High-Tech	http://www.lpht.com.br	Ivone Leite	Financial Supervisor	imleite@lpht.com	55 16 99176-0417	ok	
+6704eb562ebad00001c992f9	LongPing High-Tech	http://www.lpht.com.br	Celio Simoes	IT Infrastructure Manager	csimoes@lpht.com	55 16 99776-6554	ok	
+57079021f3e5bb60ab980392	ID Logistics	http://www.id-logistics.com	Jonathan Morales	Manager, FP&A	jmorales@id-logistics.com	1 770-212-1959	ok	
+671e08725c0af00001c4dd20	ID Logistics	http://www.id-logistics.com	Thibault Bounias	FP&A Senior Manager (Groupe)	comptabilite_group@id-logistics.com	55 11 95556-6074	ok	
+54a3eca374686936765d161e	ID Logistics	http://www.id-logistics.com	Damon Poremski	IT Manager	damonsworld@gmail.com		ok	
+54a300367468693825e43b4d	Elevadores Atlas Schindler (Brazil)	http://www.schindler.com.br	Rodrigo Leonardo	FP&A & Controlling Manager	rodrigo.leonardo@schindler.com	1 847-997-4360	ok	
+68550405a819fd00011d8a91	Acelen	http://www.acelen.com.br	Manoel Te	IT Product Manager	manoel.te@acelen.com	55 11 96374-0409	ok	
+660e6bd7b29d480007f039d8	Acelen	http://www.acelen.com.br	Roger Ueno	Product Manager (IT)	roger.ueno@acelen.com	55 43 99657-3800	ok	
+54a5f83b7468693209c7c0b7	Acelen	http://www.acelen.com.br	Alessandro Scavazini	IT Project Manager	ascavazini@gmail.com		ok	
+610d853d5075c00001867120	Belagrícola	http://www.belagricola.com.br	Andre Peretti	Gerente Executivo de TI	peretti2004@yahoo.com.br	55 21 2539-0062	ok	
+55712f837369646255900100	Belagrícola	http://www.belagricola.com.br	Lucas Figueredo	Gerente de Planejamento e Análise Financeira	lukaum_fernando_91@hotmail.com	55 81 99922-6418	ok	
+60258277c39bd800018c570b	Lola Cosmetics®	http://www.lolacosmetics.com.br	Victor Lima	Responsável TI	victorllima@gmail.com	1 410-971-8045	ok	
+6112fca218dbcc0001bb5bfc	Grupo EBD	http://www.ebdgrupo.com.br	Sergio Albuquerque	IT Manager	smoraes@ebdgrupo.com.br	55 11 3576-9821	ok	
+60b53dccfd744d0001aa691e	Estrela Alimentos	http://www.frigoestrela.com.br	Eliton Bissoli	Information Technology Manager	eliton.bissoli@frigoestrela.com.br	55 17 99744-1259	ok	
+54a13bc769702d231fdbee01	Copel - Companhia Paranaense de Energia	http://www.copel.com	Edinael Angelo	Financial Supervisor	edinaelsangelo@gmail.com		ok	
+64d4e28aeffdb300013b19f7	Copel - Companhia Paranaense de Energia	http://www.copel.com	Thulla Mattar	IT Infrastructure Manager	thulla.mattar@copel.com	55 41 99961-1706	ok	
+60f7d3c2da98790001db5c56	Copel - Companhia Paranaense de Energia	http://www.copel.com	Andre Travinski	Gerente FP&A	andre.travinski@copel.com	55 41 98427-0827	ok	
+60de00a39adbfb0001341004	Masterboi	http://www.masterboi.com.br	Washington Franco	Corporate Information Technology Manager	wfranco@gmail.com	55 85 99196-9117	ok	
+6568d6ce867bfc0001c1334c	Masterboi	http://www.masterboi.com.br	Jose Neto	IT Infrastructure Manager	jose.neto@masterboi.com.br	55 81 99166-0462	ok	
+671cd2bce50ea20001f5d210	IC Transportes	http://www.ictransportes.com.br	Alessandra Lourenco	Financial Supervisor	alessandra.lourenco@ictransportes.com.br	55 19 99111-1286	ok	
+6597e65762116600016250e9	IC Transportes	http://www.ictransportes.com.br	Marcel Beraldo	IT Manager	marcel@ictransportes.com.br	55 19 99641-5121	ok	
+64c95f2806396d0001ed670c	Boa Safra	http://www.boasafrasementes.com.br	Massay Costa	IT Manager	massay.costa@boasafrasementes.com.br	55 31 99276-3518	ok	
+66391fe156d7b80001bb797d	Araguaia	http://www.araguaia.com.br	Jean Braudes	IT Manager	jean.braudes@araguaia.com.br	55 62 98287-2095	ok	
+6814cfba80e4e30001cb221a	Araguaia	http://www.araguaia.com.br	Camila Prestes	IT Manager	camila.prestes@araguaia.com.br	55 62 99604-4139	ok	
+5f623ddcbbd5c50001b76386	Araguaia	http://www.araguaia.com.br	Wellington Junior	IT Manager	wellington.junior@araguaia.com.br	55 66 99977-7784	ok	
+66ed59c77204a500019ae671	Team EIFFEL	http://www.dpabrasil.com.br	Wilbert Profijt	IT Manager	wilbert.profijt@teameiffel.nl	55 21 2223-7678	ok	
+5ae77580a6da984197c69a1d	State Grid Brazil Holding S.A.	http://www.stategrid.com.br	Jian Zheng	Deputy Manager of Information Technology	jeanzheng.cn@gmail.com	31 6 53301604	ok	
+6084ae444c9c9e000198db60	State Grid Brazil Holding S.A.	http://www.stategrid.com.br	Marcia Freyesleben	Gestão de TI	marcia.freyesleben@gmail.com	55 21 99973-0254	ok	
+61093deef5ff370001135e31	Laticínios Porto Alegre	http://www.laticiniosportoalegre.com.br	Eduardo Vale	Information Technology Manager	eduardo.vale@laticiniosportoalegre.com.br	55 31 97113-0171	ok	
+67aac59a404bbf000147f4aa	Agroceres	http://www.agroceres.com.br	Paula Betcher	IT Manager	paulab@agroceres.com	55 19 99905-9026	ok	
+5ea2e37c0b4ff100016e64c8	Origem Energia	http://www.origemenergia.com	Allef Buriti	M&A and New Business Manager	allefub@gmail.com	55 11 96649-4086	ok	
+6100315753c11f0001bde11d	Delta Sucroenergia	http://www.deltasucroenergia.com.br	Helvio Carneiro	IT Manager	helvio.carneiro@deltasucroenergia.com.br	55 34 99117-4990|55 34 3319-6502	ok	
+6807ddbd3fd9e70001bb4646	SJC Bioenergia	http://www.sjcbioenergia.com.br	Alex Ribeiro	Gerente de TI e Inovação	alex_ribeiro@sjcbioenergia.com.br	55 64 3514-9013	ok	
+66f3fd3d1c0c870001265c57	Nortox S/A	http://www.nortox.com.br	Rodrigo Sanches	IT Manager	rodrigo.sanches@nortox.com.br	55 43 99134-1676	ok	
+67246c565735d60001633682	KaBuM!	http://www.kabum.com.br	Cleiton Franca	IT Manager	cleiton.franca@kabum.com.br	55 19 98161-3014	ok	
+54a45e327468692fa2733c42	KaBuM!	http://www.kabum.com.br	Luiz Ignacio	Gerente de Planejamento Comercial & FP&A	luiz_gustavosp@hotmail.com	55 11 98175-1363	ok	
+60f704090de7ba0001a0fb9c	KaBuM!	http://www.kabum.com.br	Rafael Borges	Controller, Gerente de FP&A, Controladoria e Tesouraria	rafael.borges@kabum.com.br		ok	
+684fd0444f3dfa00015a0a2b	Grupo Águia Branca	http://www.gab.com.br	Emerson Subtil	Financial Supervisor	emersonv@aguiabranca.com.br	55 21 98684-0777	ok	
+60c0a5b16564cd0001a80e10	Grupo Águia Branca	http://www.gab.com.br	Marcelo Silveira	IT Manager / Project Manager	silaratur@gmail.com	55 27 99820-4080	ok	
+5f09a4fde5f0f40001b96c09	Grupo Águia Branca	http://www.gab.com.br	Vitor Oliveira	IT Project Manager	vitorcoimbr@hotmail.com	55 19 99841-4225	ok	
