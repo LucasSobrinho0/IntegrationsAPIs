@@ -222,6 +222,7 @@ def main() -> None:
         "apollo_people_fpa_manager_um_por_empresa_enriched.csv",
     )
     webhook_url = (os.getenv("WEBHOOK_URL") or "").strip()
+    # webhook_url = False
 
     max_rows_env = (os.getenv("MAX_ROWS") or "").strip()
     limite_linhas = int(max_rows_env) if max_rows_env.isdigit() else None

@@ -1,27 +1,899 @@
 organization_name,organization_domain,organization_website,person_id,first_name,last_name_obfuscated,title,has_email,has_direct_phone,last_refreshed_at
-Copel - Companhia Paranaense de Energia,copel.com,http://www.copel.com,54a13bc769702d231fdbee01,Edinael,An***o,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-12T09:06:18.000+00:00
-Copel - Companhia Paranaense de Energia,copel.com,http://www.copel.com,64d4e28aeffdb300013b19f7,Thulla,Ma***r,IT Infrastructure Manager,True,Yes,2026-02-13T17:05:38.020+00:00
-Copel - Companhia Paranaense de Energia,copel.com,http://www.copel.com,60f7d3c2da98790001db5c56,Andre,Tr***i,Gerente FP&A,True,Yes,2026-02-22T17:07:58.290+00:00
-Masterboi,masterboi.com.br,http://www.masterboi.com.br,60de00a39adbfb0001341004,Washington,Fr***o,Corporate Information Technology Manager,True,Yes,2026-02-24T05:26:43.000+00:00
-Masterboi,masterboi.com.br,http://www.masterboi.com.br,6568d6ce867bfc0001c1334c,Jose,Ne***o,IT Infrastructure Manager,True,Yes,2026-02-16T09:53:56.063+00:00
-IC Transportes,ictransportes.com.br,http://www.ictransportes.com.br,671cd2bce50ea20001f5d210,Alessandra,Lo***o,Financial Supervisor,True,Yes,2026-02-02T06:18:12.000+00:00
-IC Transportes,ictransportes.com.br,http://www.ictransportes.com.br,6597e65762116600016250e9,Marcel,Be***o,IT Manager,True,Yes,2026-02-20T12:15:27.359+00:00
-Boa Safra,boasafrasementes.com.br,http://www.boasafrasementes.com.br,64c95f2806396d0001ed670c,Massay,Co***a,IT Manager,True,Yes,2026-03-01T17:07:31.000+00:00
-Araguaia,araguaia.com.br,http://www.araguaia.com.br,66391fe156d7b80001bb797d,Jean,Br***s,IT Manager,True,Yes,2026-02-28T01:04:41.535+00:00
-Araguaia,araguaia.com.br,http://www.araguaia.com.br,6814cfba80e4e30001cb221a,Camila,Pr***s,IT Manager,True,Yes,2026-03-02T01:43:28.471+00:00
-Araguaia,araguaia.com.br,http://www.araguaia.com.br,5f623ddcbbd5c50001b76386,Wellington,Ju***r,IT Manager,True,Yes,2026-02-04T13:19:17.360+00:00
-DPA,dpabrasil.com.br,http://www.dpabrasil.com.br,66ed59c77204a500019ae671,Wilbert,Pr***t,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-02T12:05:59.227+00:00
-State Grid Brazil Holding S.A.,stategrid.com.br,http://www.stategrid.com.br,5ae77580a6da984197c69a1d,Jian,Zh***g,Deputy Manager of Information Technology,True,Maybe: please request direct dial via people/bulk_match,2026-02-26T00:49:05.030+00:00
-State Grid Brazil Holding S.A.,stategrid.com.br,http://www.stategrid.com.br,6084ae444c9c9e000198db60,Marcia,Fr***n,Gestão de TI,True,Yes,2025-11-06T12:17:18.588+00:00
-Laticínios Porto Alegre,laticiniosportoalegre.com.br,http://www.laticiniosportoalegre.com.br,61093deef5ff370001135e31,Eduardo,Va***e,Information Technology Manager,True,Yes,2026-02-21T17:49:31.369+00:00
-Agroceres,agroceres.com.br,http://www.agroceres.com.br,67aac59a404bbf000147f4aa,Paula,Be***r,IT Manager,True,Yes,2026-02-14T02:43:59.000+00:00
-Origem Energia,origemenergia.com,http://www.origemenergia.com,5ea2e37c0b4ff100016e64c8,Allef,Bu***i,M&A and New Business Manager,True,Yes,2026-02-28T09:14:56.000+00:00
-Delta Sucroenergia,deltasucroenergia.com.br,http://www.deltasucroenergia.com.br,6100315753c11f0001bde11d,Helvio,Ca***o,IT Manager,True,Yes,2026-02-09T17:50:46.516+00:00
-SJC Bioenergia,sjcbioenergia.com.br,http://www.sjcbioenergia.com.br,6807ddbd3fd9e70001bb4646,Alex,Ri***o,IT Manager and Innovation,True,Yes,2026-02-24T17:35:29.000+00:00
-Nortox S/A,nortox.com.br,http://www.nortox.com.br,66f3fd3d1c0c870001265c57,Rodrigo,Sa***s,IT Manager,True,Yes,2026-02-24T17:56:03.958+00:00
-KaBuM!,kabum.com.br,http://www.kabum.com.br,67246c565735d60001633682,Cleiton,Fr***a,IT Manager,True,Yes,2026-03-01T17:46:29.983+00:00
-KaBuM!,kabum.com.br,http://www.kabum.com.br,54a45e327468692fa2733c42,Luiz,Ig***o,Gerente de Planejamento Comercial & FP&A,True,Yes,2026-02-24T11:18:08.000+00:00
-KaBuM!,kabum.com.br,http://www.kabum.com.br,60f704090de7ba0001a0fb9c,Rafael,Bo***s,"Controller, Gerente de FP&A, Controladoria e Tesouraria",True,Yes,2026-01-30T19:49:12.827+00:00
-Grupo Águia Branca,gab.com.br,http://www.gab.com.br,684fd0444f3dfa00015a0a2b,Emerson,Su***l,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-26T04:42:26.000+00:00
-Grupo Águia Branca,gab.com.br,http://www.gab.com.br,60c0a5b16564cd0001a80e10,Marcelo,Si***a,IT Manager / Project Manager,True,Yes,2026-02-16T10:43:00.396+00:00
-Grupo Águia Branca,gab.com.br,http://www.gab.com.br,5f09a4fde5f0f40001b96c09,Vitor,Ol***a,IT Project Manager,True,Yes,2026-02-14T05:40:12.000+00:00
+Cocal,cocal.com.br,http://www.cocal.com.br,54a49fe67468693209462256,Alisson,Ni***o,Supervisor Administrativo e Financeiro,True,Yes,2026-02-14T23:39:02.590+00:00
+Supermercados Mambo,mambo.com.br,http://www.mambo.com.br,6251a5920eceae0001fe8651,Claudimar,Fr***s,IT Manager,True,Yes,2026-02-14T02:26:45.000+00:00
+Bacio di Latte,baciodilatte.com.br,http://www.baciodilatte.com.br,54a31e647468693cdd16cb55,Sidnei,No***s,IT Manager,True,Yes,2026-03-05T17:51:23.469+00:00
+Cargolift Logística SA,cargolift.com.br,http://www.cargolift.com.br,637cc971aca612000156ad6a,Andressa,Be***s,Financial Supervisor,True,Yes,2026-02-14T05:39:19.000+00:00
+Castrolanda Agroindustrial Cooperative,castrolanda.coop.br,http://www.castrolanda.coop.br,57da35bfa6da985445abdfff,Fabio,Go***s,Financial Supervisor,True,Yes,2026-02-14T02:45:04.000+00:00
+Grupo Elfa,grupoelfa.com.br,http://www.grupoelfa.com.br,60425cd1634ac000011cbbfa,Rogerio,Pi***o,IT Manager,True,Yes,2026-02-27T22:44:05.000+00:00
+Grupo Elfa,grupoelfa.com.br,http://www.grupoelfa.com.br,609d7f09a570900001311c0f,Herbert,Ma***o,IT Manager,True,Yes,2026-03-11T05:23:40.404+00:00
+Grupo Elfa,grupoelfa.com.br,http://www.grupoelfa.com.br,60d4c2a499bca3000103a9e4,Marcos,Gu***i,IT Infrastructure Manager,True,Yes,2026-03-07T20:08:27.978+00:00
+Grupo Elfa,grupoelfa.com.br,http://www.grupoelfa.com.br,609d7c22ea1b450001819c48,Juliano,Ma***i,Project Manager/Product Owner/IT Coordinator,True,Yes,2026-02-27T22:16:42.000+00:00
+Transpanorama Transportes,transpanorama.com.br,http://www.transpanorama.com.br,66a6b3f63007710001a27f5a,Josislaine,Ma***s,Financial Supervisor,True,Yes,2026-02-13T22:11:23.000+00:00
+Rede Oba De Hortifruti,obahortifruti.com.br,http://www.obahortifruti.com.br,5d50efa9f6512502807c4b0c,Carlos,So***s,IT Manager,True,Yes,2026-03-03T14:54:03.653+00:00
+Rede Oba De Hortifruti,obahortifruti.com.br,http://www.obahortifruti.com.br,54a77b177468696de727bb38,Fabio,Me***a,IT Manager,True,Yes,2026-02-16T18:05:45.000+00:00
+Rede Oba De Hortifruti,obahortifruti.com.br,http://www.obahortifruti.com.br,61154b9f7c61d70001962f49,Rafael,Ro***s,Gerente de TI - Omnichannel,True,Yes,2026-02-28T04:30:55.000+00:00
+Home Center Ferreira Costa,ferreiracosta.com,http://www.ferreiracosta.com,6116e0c594818600014c4b01,Jose,Ju***r,IT Manager,True,Yes,2026-02-14T04:24:08.000+00:00
+Home Center Ferreira Costa,ferreiracosta.com,http://www.ferreiracosta.com,5f6dfb1b40f84e000140722c,Marlos,Wa***m,Gerente de TI & Head SAP,True,Yes,2026-01-30T17:53:32.000+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,57d97befa6da9872115d22f8,Karina,Na***i,FP&A Manager,True,Yes,2026-02-15T01:32:37.000+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,5ab05501a6da98900af32889,Vanessa,Sa***a,FP&A Manager Latam,True,Yes,2026-02-06T16:06:41.000+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,54abf0297468692a6b573417,Noe,Ro***a,FP&A and Revenue Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-27T12:44:28.000+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,57dd2697a6da987b4d939a83,Divar,Ju***r,IT Manager,True,Yes,2026-03-04T07:00:01.421+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,63be74d78352580001b429c7,Leidy,Pe***z,CTO- IT Manager Caribbean Platform,True,Yes,2026-03-02T23:18:42.326+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,54a488d77468692fa22a784f,Gabriel,Pu***o,IT Applications Manager Latam,True,Yes,2026-03-07T14:11:33.916+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,60d050a7779e1a000125185a,Carlos,Co***o,"FP&A - Pacific Platform (Ecuador, Perú & Chile)",True,Maybe: please request direct dial via people/bulk_match,2026-01-29T18:29:43.000+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,55709709736964659fff8000,Iliana,Sa***a,Jefe de Contabilidad & Finanzas,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T08:50:06.000+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,57d7835aa6da983b1ac56057,Esthefani,Gu***n,Supervisor Financiero,True,Maybe: please request direct dial via people/bulk_match,2026-01-08T11:08:48.299+00:00
+Emergent Cold LatAm,emergentcoldlatam.com,http://www.emergentcoldlatam.com,54c2746f7468697af743499b,Axel,So***o,"Jefe de Informatica, Multifrigo.",True,Yes,2026-02-15T23:36:32.000+00:00
+ATTO,attosementes.com.br,http://www.attosementes.com.br,5cd9014bf6512510ba56519f,Juliana,Sa***s,Financial Supervisor,True,Yes,2026-01-28T23:03:32.000+00:00
+OXXO Brasil,oxxo.com.br,http://www.oxxo.com.br,67ceeffa071568000124e31a,Carlos,Lo***o,IT Manager,True,Yes,2026-02-28T07:40:41.000+00:00
+OXXO Brasil,oxxo.com.br,http://www.oxxo.com.br,60f837c8f9388f00017edee9,Daniel,Ma***m,IT Infrastructure Manager,True,Yes,2026-02-28T08:18:13.000+00:00
+Integrada Cooperativa Agroindustrial,integrada.coop.br,http://www.integrada.coop.br,61a56b6d8ea33700016670e4,Andreia,Si***a,IT Manager,True,Yes,2026-03-04T13:23:27.571+00:00
+AMC Textil Ltda,amctextil.com.br,http://www.amctextil.com.br,653a91407aebd50001a7ffa8,Luis,Ma***o,IT Manager,True,Yes,2026-02-21T15:46:27.000+00:00
+Stara S/A - Indústria de Máquinas e Implementos Agrícolas,stara.com.br,http://www.stara.com.br,607971370885550001460417,Mariano,Lo***s,IT Manager,True,Yes,2026-02-25T19:43:50.649+00:00
+Stara S/A - Indústria de Máquinas e Implementos Agrícolas,stara.com.br,http://www.stara.com.br,54a527aa7468693b8c867e81,Arno,Ma***n,IT Project Manager,True,Yes,2026-02-25T03:26:41.000+00:00
+Usina Alta Mogiana S/A,altamogiana.com.br,http://www.altamogiana.com.br,68274d5318a3850001c254b0,Paulo,Sa***s,"DPO, IT Manager",True,Yes,2026-03-12T13:06:48.790+00:00
+CLAMED - Cia Latino Americana de Medicamentos,clamed.com.br,http://www.clamed.com.br,6101ae9173bc34000111f305,Mauricio,Pa***o,IT Manager,True,Yes,2026-02-05T13:20:50.460+00:00
+Grupo Vamos,vamos.com.br,http://www.vamos.com.br,54a4a0637468692cf07b4356,Jener,Sa***s,Financial Supervisor,True,Yes,2026-02-03T18:06:48.147+00:00
+Grupo Vamos,vamos.com.br,http://www.vamos.com.br,679bc262ace35900012aeab7,Marcos,Qu***z,Gerente De Ti | Mba,True,Yes,2026-02-15T04:58:27.991+00:00
+Salon Line Brasil,salonline.com.br,http://www.salonline.com.br,60c0d44c000e5200011249fc,Eduardo,Ro***i,Financial Services Supervisor,True,Yes,2026-02-16T01:28:04.000+00:00
+Hortifruti,hortifruti.com.br,http://www.hortifruti.com.br,57d37795f651252c6147b5ba,Vagner,Mo***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-14T04:13:35.000+00:00
+Hortifruti,hortifruti.com.br,http://www.hortifruti.com.br,5e823f729cb43900018e443d,Clecia,Si***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2025-07-28T12:21:12.204+00:00
+Hortifruti,hortifruti.com.br,http://www.hortifruti.com.br,647e2c1c48ad0f000149e85e,Marcelo,So***a,Financial Supervisor,True,Yes,2026-01-25T19:46:06.000+00:00
+Hortifruti,hortifruti.com.br,http://www.hortifruti.com.br,6255b442f6bf150001bd64fe,Thyago,Si***a,IT Infrastructure Manager,True,Yes,2026-02-24T22:51:16.518+00:00
+Marimex,marimex.com.br,http://www.marimex.com.br,54a121f769702d97c1613e03,Alexandre,Sh***o,Information Technology Manager,True,Yes,2026-03-04T17:59:19.414+00:00
+Santa Terezinha Power Plant,usacucar.com.br,http://www.usacucar.com.br,6005ff6d2f269e0001d1fdf6,Jussara,Gi***o,Financial Supervisor,True,Yes,2026-02-13T22:41:42.000+00:00
+Santa Terezinha Power Plant,usacucar.com.br,http://www.usacucar.com.br,65e5023cec5fe40007315700,Alan,Fa***d,IT Manager,True,Yes,2026-02-19T23:03:58.277+00:00
+Santa Terezinha Power Plant,usacucar.com.br,http://www.usacucar.com.br,63039826a8744800010d51a6,Sergio,Ga***i,IT Manager,True,Yes,2026-02-16T09:44:33.733+00:00
+Prumo,,,54a569d17468693b8c036595,Joao,Ma***i,M&A Manager,True,Yes,2026-02-26T11:14:24.463+00:00
+Asia Shipping,asiashipping.co,http://www.asiashipping.co,648b8eafebe3b8000177fdd1,Diogo,Ar***o,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-13T22:32:27.000+00:00
+Asia Shipping,asiashipping.co,http://www.asiashipping.co,54a333cf7468693cddddfe5b,Jack,Ye***g,IT Manager,True,Yes,2026-01-26T11:21:01.749+00:00
+Duas Rodas,duasrodas.com,http://www.duasrodas.com,60ff002c22e7520001a4059f,Rafael,Da***e,IT Manager,True,Yes,2026-03-03T20:42:49.000+00:00
+Lojas Quero-Quero S.A.,quero-quero.com.br,http://www.quero-quero.com.br,60a67d678f19b90001507b04,Andrius,Si***a,IT Manager,True,Yes,2026-02-27T01:25:18.000+00:00
+Lojas Quero-Quero S.A.,quero-quero.com.br,http://www.quero-quero.com.br,62bb670d353e8e000196626e,Gilmar,Te***a,Financial Supervisor,True,Yes,2026-01-30T13:58:22.000+00:00
+Lojas Quero-Quero S.A.,quero-quero.com.br,http://www.quero-quero.com.br,679cb360ef8b6f000121345d,Vinicius,Fr***e,IT Project Manager,True,Yes,2026-02-28T05:01:52.000+00:00
+Lojas Quero-Quero S.A.,quero-quero.com.br,http://www.quero-quero.com.br,6199bdb0d367940001360b04,Jean,Ba***s,Financial Services Supervisor,True,Yes,2026-02-05T12:45:00.331+00:00
+Lojas Quero-Quero S.A.,quero-quero.com.br,http://www.quero-quero.com.br,60a5946dfc8eea0001252266,Jose,Az***n,IT Infrastructure Manager,True,Yes,2026-01-15T19:57:10.255+00:00
+Lojas Quero-Quero S.A.,quero-quero.com.br,http://www.quero-quero.com.br,63540f6fe0e75400015d8037,Edila,Ho***s,Financial Services Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T04:09:33.000+00:00
+Lojas Quero-Quero S.A.,quero-quero.com.br,http://www.quero-quero.com.br,635532754bfb32000157d13e,Matheus,Ja***s,Financial Services Supervisor,True,Yes,2026-02-22T17:07:36.302+00:00
+Swift,swift.com.br,http://www.swift.com.br,56409180a6da98360800a1bd,Simone,Za***i,IT Manager,True,Yes,2026-02-05T18:25:26.987+00:00
+SISTAC,sistac.com.br,http://www.sistac.com.br,60c0d1cf2ca1650001c7ece6,Isaac,Ga***r,IT Manager,True,Yes,2026-02-26T20:15:31.533+00:00
+Frísia Cooperativa Agroindustrial,frisia.coop.br,http://www.frisia.coop.br,5e64f6d7901d330001c7b4e3,Luis,Ri***o,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-08T14:32:16.000+00:00
+Frísia Cooperativa Agroindustrial,frisia.coop.br,http://www.frisia.coop.br,61154ad93604c000016d063b,Berenice,Los,IT Manager,True,Yes,2026-02-21T17:16:05.738+00:00
+DUX Company,,,67f82c1dd4b832000124758d,Mauricio,Ju***r,IT Project Manager,True,Yes,2026-02-14T18:18:30.811+00:00
+Novo Mundo Móveis e Utilidades,novomundo.com.br,http://www.novomundo.com.br,63a4a207b787c7000195e7c0,Wilber,Si***a,IT Manager,True,Yes,2026-03-03T17:13:14.000+00:00
+Unimed Vitória,unimedvitoria.com.br,http://www.unimedvitoria.com.br,65448e8a0962290001e9b1ff,Alexandre,Ro***s,Information Technology Manager,True,Yes,2026-02-14T02:37:59.000+00:00
+Espaçolaser,espacolaser.com.br,http://www.espacolaser.com.br,611419ac3913280001fc30ad,Erick,Cr***z,IT Manager,True,Yes,2026-02-13T23:01:53.000+00:00
+Espaçolaser,espacolaser.com.br,http://www.espacolaser.com.br,609a6d3870c897000114201e,Wagner,Ca***o,IT Manager,True,Yes,2026-03-02T23:26:12.210+00:00
+Triunfo Logística,triunfologistica.com.br,http://www.triunfologistica.com.br,57e1fe09a6da9808c63f64e0,Erik,Ro***s,IT Manager,True,Yes,2026-02-16T17:33:28.000+00:00
+Leve Saúde,levesaude.com.br,http://www.levesaude.com.br,5d6ed601f6512558c7457f5a,Thiago,Ma***s,IT Manager,True,Yes,2026-02-24T09:37:18.000+00:00
+Delly's,dellys.com.br,http://www.dellys.com.br,54a3ed277468693b8c18f31d,Vinnicius,Fe***s,FP&A Manager,True,Yes,2026-02-22T11:35:34.000+00:00
+Delly's,dellys.com.br,http://www.dellys.com.br,5f5768a52258a70001f56816,Wesley,Sa***s,Financial Supervisor,True,Yes,2026-02-13T21:08:43.000+00:00
+Delly's,dellys.com.br,http://www.dellys.com.br,54a812d9746869682965d15e,Lindomar,Ju***r,Gestor de T.I,True,Maybe: please request direct dial via people/bulk_match,2026-03-05T20:50:16.158+00:00
+Expresso Nepomuceno S/A,expressonepomuceno.com.br,http://www.expressonepomuceno.com.br,5e8195fed2ea140001915e5c,Sirlene,Bo***s,Financial Supervisor,True,Yes,2026-02-27T03:21:25.000+00:00
+Grupo DPaschoal,dpaschoal.com.br,http://www.dpaschoal.com.br,61141220ac4d3b0001d644b1,Marcos,Li***a,IT Infrastructure Manager,True,Yes,2026-01-29T00:25:12.000+00:00
+TW Logistics,twtransportes.com.br,http://www.twtransportes.com.br,54a72042746869730a95a317,Financeiro,Cr***e,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-26T07:28:24.000+00:00
+TW Logistics,twtransportes.com.br,http://www.twtransportes.com.br,60f6e5371f665900019dd0f6,Carlos,Ta***t,IT Manager,True,Yes,2026-02-03T17:29:28.003+00:00
+Grupo Kyly,grupokyly.com.br,http://www.grupokyly.com.br,655e4b1c4b44dd0001aa1b51,Rafael,Ba***e,IT Manager,True,Yes,2026-02-27T01:21:31.000+00:00
+Fortbras,fortbras.com.br,http://www.fortbras.com.br,63cecf557448a30001406b55,Magnos,Be***i,Information Technology Infrastructure Manager,True,Yes,2026-02-04T21:25:43.507+00:00
+Fortbras,fortbras.com.br,http://www.fortbras.com.br,60cc8e53d70c9e0001935447,Lucimario,Ca***s,IT Appication Manager,True,Yes,2026-02-12T09:49:30.000+00:00
+MRO,mroativa.com.br,http://www.mroativa.com.br,6823383c6f19e50001c37d62,Lino,Ne***o,IT Manager,True,Yes,2026-02-10T14:20:29.000+00:00
+MRO,mroativa.com.br,http://www.mroativa.com.br,6124004f1babb30001b7ad5e,Victor,Al***a,IT Manager,True,Yes,2026-01-31T06:03:22.000+00:00
+Cooperativa Agroindustrial Copagril,copagril.com.br,http://www.copagril.com.br,60d22ea58df92c0001dfc4c6,Fabio,Li***i,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-06T19:11:33.000+00:00
+Leo Madeiras,leomadeiras.com.br,http://www.leomadeiras.com.br,5d14d0baf651258d5d572ef1,Vinicius,Fe***s,IT Manager,True,Yes,2026-02-21T17:30:53.967+00:00
+Ancar Ivanhoe,ancar.com.br,http://www.ancar.com.br,630d706108ec4d00015b5e35,Joao,Ma***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-07T02:13:36.000+00:00
+Hospital Santa Lúcia,santalucia.com.br,http://www.santalucia.com.br,54c1e2d47468691639afc256,Giane,Lo***s,IT Manager,True,Yes,2026-02-03T21:59:22.000+00:00
+Localiza Empresas,localiza.com,http://www.localiza.com,673fc16d9a70ce0001545ade,Davidson,Co***a,FP&A Manager,True,Yes,2026-02-26T00:46:20.000+00:00
+Localiza Empresas,localiza.com,http://www.localiza.com,61158ab21c09a80001e3dd87,Denys,Da***m,IT Manager,True,Yes,2026-03-05T03:31:08.461+00:00
+Localiza Empresas,localiza.com,http://www.localiza.com,60c26121d5b23500013be198,Francislaine,So***a,IT Executive Manager,True,Yes,2026-03-07T04:42:10.604+00:00
+Localiza Empresas,localiza.com,http://www.localiza.com,54a7bf7974686965d960b44f,Wilson,Li***a,IT Engineer Manager,True,Yes,2026-03-02T13:38:14.922+00:00
+Localiza Empresas,localiza.com,http://www.localiza.com,56574b1ca6da98731d006619,Glaydersen,Go***o,IT Engineer Manager,True,Yes,2026-02-18T04:29:10.000+00:00
+Localiza Empresas,localiza.com,http://www.localiza.com,54a29d027468693cdd751330,Carolina,Ca***o,IT Engineer Manager,True,Yes,2026-02-23T22:55:51.713+00:00
+Localiza Empresas,localiza.com,http://www.localiza.com,5c4a7114f6512502cbc4e1e9,Kleber,Ol***a,Senior IT Engineering Manager,True,Yes,2026-03-01T22:59:14.066+00:00
+Localiza Empresas,localiza.com,http://www.localiza.com,5d51d67fa3ae617a60ff5c17,Rafael,Ma***s,IT Engineering Manager | Engineering Lead,True,Yes,2026-02-19T14:15:41.733+00:00
+Localiza Empresas,localiza.com,http://www.localiza.com,68a071c628554e0001304ee2,Rafael,Ri***a,IT Engineer Lead | Engineering Manager,True,Yes,2026-03-01T12:30:50.000+00:00
+TCP Terminal de Contêineres de Paranaguá,tcp.com.br,http://www.tcp.com.br,60aff2037eb75d00012b5601,Walter,Ju***r,IT Manager,True,Yes,2026-02-27T02:09:59.000+00:00
+Spani Atacadista,spanionline.com.br,http://www.spanionline.com.br,61140ff5cf2f770001a43f27,Eduardo,Fe***x,Gerente T.I,True,Yes,2026-02-14T01:58:50.000+00:00
+Cicopal,cicopal.com.br,http://www.cicopal.com.br,662fc9b1d57c750007b77e36,Felipe,Mo***a,IT Manager,True,Yes,2026-03-08T04:36:28.000+00:00
+Usina Cevasa,cevasa.com.br,http://www.cevasa.com.br,55c551c9736964351eb72500,Rodrigo,Ul***a,IT Manager,True,Yes,2026-03-03T14:26:08.000+00:00
+Unimed Rio Preto,unimedriopreto.com.br,http://www.unimedriopreto.com.br,610455cecdc13c00010c0d6a,Nilson,Ne***s,IT Manager,True,Yes,2026-03-02T00:43:32.360+00:00
+Monte Carlo,montecarlo.com.br,http://www.montecarlo.com.br,60cf87aad53ed00001634ba5,Vanessa,Na***o,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-15T22:17:24.000+00:00
+Mart Minas Atacado e Varejo,martminas.com.br,http://www.martminas.com.br,61142f95139c60000130877b,Helton,Li***a,IT Manager,True,Yes,2026-02-14T03:32:02.000+00:00
+Scala,scala.com.br,http://www.scala.com.br,60f806b0e9d52000012cab07,George,Pu***i,IT Manager,True,Yes,2026-02-19T11:52:19.000+00:00
+Casa do Adubo,casadoadubo.com.br,http://www.casadoadubo.com.br,66eba2672411ec0001d80731,Flavia,Ag***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-26T06:59:12.000+00:00
+Casa do Adubo,casadoadubo.com.br,http://www.casadoadubo.com.br,57df84faa6da980b2643f01a,Vanessa,Fr***a,FP&A Manager,True,Yes,2026-02-15T22:23:32.000+00:00
+Casa do Adubo,casadoadubo.com.br,http://www.casadoadubo.com.br,54c19c5c7468691639e76229,Tatiane,Ha***d,FP&A Manager,True,Yes,2026-02-17T07:23:50.000+00:00
+Casa do Adubo,casadoadubo.com.br,http://www.casadoadubo.com.br,67bca9efe50fe800011c37f5,Pedro,Fo***a,FP&A Manager | Latam Consolidation & Reporting,True,Yes,2026-02-13T04:10:44.000+00:00
+Casa do Adubo,casadoadubo.com.br,http://www.casadoadubo.com.br,60df56411e3ef70001933f43,Andre,Ja***m,IT Manager - IT Project (PMO),True,Yes,2026-02-24T04:41:49.000+00:00
+Casa do Adubo,casadoadubo.com.br,http://www.casadoadubo.com.br,54a632ce74686938ac6106ca,Felipe,Fr***n,IT Infrastructure Manager,True,Yes,2026-03-01T17:24:01.211+00:00
+Casa do Adubo,casadoadubo.com.br,http://www.casadoadubo.com.br,57de831ca6da987b4d986561,Elaine,Pa***a,IT Project Manager,True,Yes,2026-02-22T17:17:04.895+00:00
+Avine,avine.com.br,http://www.avine.com.br,6219da52d4efa60001d89f13,Roberto,Ke***n,IT Manager,True,Yes,2026-02-12T22:15:38.000+00:00
+Secretaria Municipal da Saúde de São Paulo,prefeitura.sp.gov.br,http://www.prefeitura.sp.gov.br,6563a9fcda635900018c189f,Diego,Co***a,IT Infrastructure Manager,True,Yes,2026-02-14T06:29:36.000+00:00
+Cooperativa Santa Clara,coopsantaclara.com.br,http://www.coopsantaclara.com.br,60f73962b99de700012b772f,Daniel,Mi***i,IT Manager,True,Yes,2026-02-27T04:01:35.000+00:00
+Porto Itapoa,portoitapoa.com,http://www.portoitapoa.com,6598e303252dff0001b107c3,Vivian,Ro***a,FP&A and Treasury Manager,True,Yes,2026-02-24T11:51:05.907+00:00
+Porto Itapoa,portoitapoa.com,http://www.portoitapoa.com,61005995e158f40001c585f6,Sandro,Ma***s,Information Technology Manager,True,Yes,2026-03-04T15:12:57.594+00:00
+Cantu Inc,cantu.inc,http://www.cantu.inc,60ee377fb025cf0001f0fb5b,Guilherme,Pe***a,Sr. FP&A /Controller Manager,True,Yes,2025-07-29T03:05:42.091+00:00
+Transportadora Contatto,contatto.com.br,http://www.contatto.com.br,60b1239cb2bb0a00019f121b,Marcelo,Sa***a,IT and Process Manager,True,Yes,2026-02-26T15:02:27.169+00:00
+Transportadora Contatto,contatto.com.br,http://www.contatto.com.br,54a7b00174686965d98cfd4b,Cesar,Co***o,Business Development / M&A / ESG Manager,True,Yes,2026-02-28T06:00:25.000+00:00
+Bodytech Company,bodytech.com.br,http://www.bodytech.com.br,60edae12b2955a000103b6b0,Marcelo,Vi***a,"Senior IT Infrastructure, Production and Support Manager",True,Yes,2026-03-03T07:57:15.000+00:00
+Facchini S/A,facchini.com.br,http://www.facchini.com.br,62c889bab9f81700015e9dc5,Anderson,Ga***o,IT Manager,True,Yes,2026-02-13T15:53:00.905+00:00
+Facchini S/A,facchini.com.br,http://www.facchini.com.br,54a4b3567468693b8c22365c,Nilton,Pa***o,Financial Supervisor,True,Yes,2026-02-21T17:16:13.203+00:00
+Facchini S/A,facchini.com.br,http://www.facchini.com.br,60f9b9a5c620180001aba6d3,Eduardo,Hi***i,IT Project Manager,True,Yes,2026-03-03T10:53:56.838+00:00
+SIN Sistema de Implante Nacional Ltda.,sinimplantsystem.com.br,http://www.sinimplantsystem.com.br,682b3c1047d32d0001996ec3,Felipe,Ru***s,Information Technology Infrastructure Manager | Cyber Security Manager,True,Yes,2026-01-13T23:11:35.336+00:00
+Ferramentas Gerais,fg.com.br,http://www.fg.com.br,54a89c43746869334adb6202,Elisandra,Pi***a,Financial Supervisor,True,Yes,2026-02-15T19:24:26.000+00:00
+International Meal Company,internationalmealcompany.com,http://www.internationalmealcompany.com,5aad44cea6da98c392486cd0,Paulo,So***a,IT Infrastructure Manager,True,Yes,2026-02-14T02:46:55.000+00:00
+International Meal Company,internationalmealcompany.com,http://www.internationalmealcompany.com,54a1fbcc74686935beddef02,Rogerio,Lo***e,Gerente Corporativo | Business Controller | FP&A,True,Yes,2026-02-27T03:56:02.000+00:00
+Tracbel Agro,tracbelagro.com.br,http://www.tracbelagro.com.br,60c25249b41cd80001a20c16,Hugo,Ro***a,IT Manager,True,Yes,2026-02-04T13:03:29.327+00:00
+Allied Brasil,alliedbrasil.com.br,http://www.alliedbrasil.com.br,5712384af3e5bb5f94de6b3c,Veronica,Co***a,Financial Supervisor,True,Yes,2026-03-04T23:40:55.000+00:00
+Allied Brasil,alliedbrasil.com.br,http://www.alliedbrasil.com.br,609ec285af386e0001c4f858,Andre,Fr***s,IT Manager,True,Yes,2026-02-13T22:47:47.000+00:00
+Usina Sonora S/A,usinasonora-ms.com.br,http://www.usinasonora-ms.com.br,610d80a3fa225e0001cf644e,Rodrigo,Lo***s,IT Manager,True,Yes,2026-02-17T19:12:47.000+00:00
+Daki,,,635985c7cd890400012cf769,Alexandre,Si***a,Strategy & M&A Jr Manager,True,Yes,2026-02-09T08:27:55.000+00:00
+Daki,,,66f50a5b3c38fc0001e1bced,Graham,Le***n,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T10:07:50.000+00:00
+Cervejaria Cidade Imperial,cervejariacidadeimperial.com.br,http://www.cervejariacidadeimperial.com.br,63591faaa02c2700012aca99,Elbet,Ne***o,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-03T13:55:10.123+00:00
+Cervejaria Cidade Imperial,cervejariacidadeimperial.com.br,http://www.cervejariacidadeimperial.com.br,5f0cd8f443258e00019be4f0,Neili,Pe***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-27T02:13:15.000+00:00
+Cervejaria Cidade Imperial,cervejariacidadeimperial.com.br,http://www.cervejariacidadeimperial.com.br,63b57cc0e3401d0001ee6a1a,Bruno,Ru***z,Gerente de Desenvolvimento de Software e Tecnologia da Informação,True,Yes,2026-02-24T11:57:08.000+00:00
+Grupo Supley,supley.com.br,http://www.supley.com.br,61000870d7c0400001d82f4c,Alex,Ma***o,IT Manager,True,Yes,2026-02-07T05:55:25.000+00:00
+Grupo Supley,supley.com.br,http://www.supley.com.br,54a49a8f7468693442c79354,Alessandro,Pa***a,IT Project Manager,True,Yes,2026-03-03T03:51:29.631+00:00
+Almeida Junior Shopping Centers,almeidajunior.com.br,http://www.almeidajunior.com.br,66831b81d0b1b80001dd6b10,Raphael,Ta***a,IT Manager,True,Yes,2026-02-27T01:35:55.000+00:00
+Cajuína São Geraldo,cajuinasaogeraldo.com.br,http://www.cajuinasaogeraldo.com.br,63a45d82cca6090001bad390,Fabio,Ol***a,Gerente de TI - Team Leader,True,Yes,2026-02-05T12:58:26.531+00:00
+Paquetá The Shoe Company,paquetatheshoecompany.com.br,http://www.paquetatheshoecompany.com.br,680e894e104645000143ec62,Elisangela,Ma***s,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-30T19:39:26.000+00:00
+Paquetá The Shoe Company,paquetatheshoecompany.com.br,http://www.paquetatheshoecompany.com.br,655ef02dafe0be0001191eae,Ivan,St***r,IT Infrastructure Manager,True,Yes,2025-09-28T14:11:14.619+00:00
+Cotrijal Cooperativa Agropecuária e Industrial,cotrijal.com.br,http://www.cotrijal.com.br,60ff2cabb0b4d20001c3a3e5,Luiz,Lo***s,"Gerente de TI, Qualidade e Processos",True,Yes,2026-03-03T17:20:18.000+00:00
+Cotrijal Cooperativa Agropecuária e Industrial,cotrijal.com.br,http://www.cotrijal.com.br,614d6902ef6eef00013981f2,Julita,Ku***n,Gestão de Tecnologia da Informação,True,Yes,2026-02-16T11:33:08.000+00:00
+Hospital São Camilo Fortaleza,saocamilofortaleza.org.br,http://www.saocamilofortaleza.org.br,5f72fd5feedac10001c7c644,Jonatha,Li***a,IT Manager,True,Yes,2026-02-20T23:07:51.553+00:00
+ICONIC,iconic.com.br,http://www.iconic.com.br,5f4ff5fa06a76f00ff415487,Patrick,Za***i,Gerente de FP&A Controladoria e Investimentos,True,Yes,2026-02-06T14:27:16.000+00:00
+Unimed Belém,,,67115f450998640001d66c34,Andre',Ne***s,IT Manager,True,Yes,2026-02-24T03:49:00.000+00:00
+CSD Companhia Sulamericana de Distribuição,csdvarejo.com.br,http://www.csdvarejo.com.br,57e0da1ea6da987d6ff99a44,Alecsandro,Ba***a,Gerente de Planejamento e Análises Financeira,True,Maybe: please request direct dial via people/bulk_match,2026-02-26T00:44:29.000+00:00
+Kothe S.A.,kothe.com.br,http://www.kothe.com.br,60c21266a07cae00015f2d20,Diego,Sa***o,Information Technology Manager,True,Yes,2026-03-05T13:53:29.278+00:00
+Organização Verdemar,verdemaratevoce.com.br,http://www.verdemaratevoce.com.br,6115b3963e19fa00017d7447,Thiago,So***t,Gestão de TI - Sustentação de Sistemas,True,Yes,2026-02-03T13:03:43.774+00:00
+Organização Verdemar,verdemaratevoce.com.br,http://www.verdemaratevoce.com.br,62d5cd3303fa8a000114d67e,Guilherme,Ol***a,Encarregado de Tecnologia da Informação,True,Maybe: please request direct dial via people/bulk_match,2026-01-28T12:40:17.000+00:00
+Donizete Distribuidora,donizetedistribuidora.com.br,http://www.donizetedistribuidora.com.br,611a7f04b7831400016bef0e,Luciano,Le***e,IT Manager,True,Yes,2026-03-01T19:15:56.534+00:00
+Grupo Sinal,gruposinal.com.br,http://www.gruposinal.com.br,60f833a64212480001be021f,Rafael,Ca***o,IT Manager,True,Yes,2026-02-12T20:48:34.000+00:00
+Grupo Sinal,gruposinal.com.br,http://www.gruposinal.com.br,54c23bec746869163993ab85,Renato,Ca***i,Gestor TI / Encarregado de Dados (DPO).,True,Yes,2026-02-23T17:35:35.999+00:00
+Uberlândia Refrescos,cocacolauberlandia.com.br,http://www.cocacolauberlandia.com.br,600a9bebc0d2ce0001285236,Ulisses,Ne***o,IT Manager,True,Yes,2026-02-26T04:27:14.000+00:00
+Refriko Indústria de Bebidas,rfk.ind.br,http://www.rfk.ind.br,604fa04df14641000184095d,Rodrigo,Li***a,IT Manager,True,Yes,2026-02-15T18:23:58.000+00:00
+Avenida,avenida.com.br,http://www.avenida.com.br,54a547d274686932093d568b,Denilson,Ba***a,IT Infrastructure Manager,True,Yes,2026-03-03T01:45:10.962+00:00
+Mezzani Alimentos,mezzani.com.br,http://www.mezzani.com.br,60d4d06678f5960001dff2ae,Gerardo,Ma***z,IT Executive Manager,True,Yes,2026-03-06T14:11:14.286+00:00
+Shibata Supermercados,shibata.com.br,http://www.shibata.com.br,54a4ef2e746869367614e26e,Michel,Pi***r,IT Manager,True,Yes,2026-02-27T02:29:26.000+00:00
+Tietê Agroindustrial S.A.,tieteagro.com.br,http://www.tieteagro.com.br,60eb8fca7d6d860001e8dd53,Antonio,Pa***a,IT Manager,True,Yes,2026-03-03T05:38:14.859+00:00
+Hospital Dona Helena,donahelena.com.br,http://www.donahelena.com.br,54a323807468692e71ea1757,Wagner,Va***e,IT Manager,True,Yes,2026-02-12T11:49:38.000+00:00
+Genesis Group,genesisgroup.com.br,http://www.genesisgroup.com.br,61bc10ead6a89900014f3d61,Magnum,Jo***e,IT Manager,True,Yes,2026-02-02T06:44:54.000+00:00
+Grupo Oleoplan,oleoplan.com.br,http://www.oleoplan.com.br,61097ee9528e520001c86470,Leticia,Ar***o,IT Manager,True,Yes,2026-02-14T18:22:53.434+00:00
+ofi Brasil,,,6480643dc8bd640001171206,Daiane,Ro***s,Supervisora Financeira CSC - Ptp/otc/rtr,True,Yes,2026-02-15T20:19:06.000+00:00
+Freitas,freitasvarejo.com.br,http://www.freitasvarejo.com.br,613a7b42a2f3f300015c1cbd,Fabio,Fe***a,IT Manager,True,Yes,2026-03-04T05:33:51.599+00:00
+Coca-Cola Refrescos Bandeirantes,refrescosbandeirantes.com.br,http://www.refrescosbandeirantes.com.br,54a3c5b57468692cf08d9111,Eliezer,Co***a,Financial Supervisor,True,Yes,2026-02-19T11:06:43.424+00:00
+Coca-Cola Refrescos Bandeirantes,refrescosbandeirantes.com.br,http://www.refrescosbandeirantes.com.br,622e0d24ef86ea00013fa8df,Odiberto,Si***a,Information Technology Manager,True,Yes,2026-02-15T02:48:41.000+00:00
+Hospital PUC-Campinas,hospitaldapuc-campinas.com.br,http://www.hospitaldapuc-campinas.com.br,66a15bd875f9a700014c7c02,Everton,So***a,Gerente Tecnologia da Informação,True,Yes,2026-03-04T00:11:23.127+00:00
+Daju,daju.com.br,http://www.daju.com.br,66fb79e8518b60000122d713,Adan,Lu***o,IT Manager,True,Yes,2026-02-25T20:26:06.103+00:00
+Livraria Leitura,leitura.com.br,http://www.leitura.com.br,62c5d1c0a30150000183e62b,Marina,Ol***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-03-06T22:27:05.697+00:00
+Livraria Leitura,leitura.com.br,http://www.leitura.com.br,54a21d697468693fdafdd30d,Sueli,Lu***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T03:44:51.000+00:00
+Tauste Supermercados,tauste.com.br,http://www.tauste.com.br,67407b9fa8744f0001a8d93f,Jader,Bi***i,IT Manager,True,Yes,2026-02-12T02:33:33.000+00:00
+Grupo JCA,jcaholding.com.br,http://www.jcaholding.com.br,636bd00094b0610001e312c6,Felipe,Pa***r,"IT Management - Products and Systems Development, Sustain and Governance",True,Yes,2026-02-27T11:39:19.599+00:00
+Usina Alto Alegre S/A,altoalegre.com.br,http://www.altoalegre.com.br,6102ae005bf54e00014e876a,Gerson,To***i,IT Manager,True,Yes,2026-02-13T11:32:44.000+00:00
+Princesa dos Campos,princesadoscampos.com.br,http://www.princesadoscampos.com.br,646665f8f75a260001a1040b,Cristiano,Ri***s,Financial Supervisor,True,Yes,2026-02-14T23:42:26.000+00:00
+Princesa dos Campos,princesadoscampos.com.br,http://www.princesadoscampos.com.br,679fbf81a31f2b00019f8ab3,Wesley,So***s,"Gerente de TI, Executivo de TI",True,Yes,2026-03-11T01:15:45.387+00:00
+Usina Caeté,usinacaete.com,http://www.usinacaete.com,691099e3be7d600001fc5dea,Araken,Ju***r,Financial Services Supervisor,True,Yes,2026-01-26T04:47:43.000+00:00
+Holambra Cooperativa Agroindustrial,holambra.com.br,http://www.holambra.com.br,5abfb594a6da98cfab202f6a,Cesar,Br***o,IT Manager,True,Yes,2026-03-06T14:31:54.504+00:00
+Grupo Imec,superimec.com.br,http://www.superimec.com.br,6724c5af1e204f0001c5ef5f,Ricardo,Sa***g,IT Manager,True,Yes,2026-02-19T03:54:15.000+00:00
+Prefeitura da Cidade do Recife,recife.pe.gov.br,http://www.recife.pe.gov.br,5d59c69da3ae615880536ded,Caio,Li***a,Information Technology Manager,True,Yes,2026-02-25T03:17:08.000+00:00
+Prefeitura da Cidade do Recife,recife.pe.gov.br,http://www.recife.pe.gov.br,54a4c8707468693209a9ad62,Ricardo,Pa***s,IT Infrastructure Manager,True,Yes,2026-02-12T16:47:54.000+00:00
+Carbel Auto Group,,,66017b46dbc4060007de0325,Lidiane,Go***s,Financial Supervisor,True,Yes,2026-01-26T03:45:50.000+00:00
+Carbel Auto Group,,,679a6013ef39270001d420b6,Eduardo,Ma***s,Gestor de TI e Inteligência Corporativa,True,Yes,2026-01-28T12:16:38.000+00:00
+Mercadocar,mercadocar.com.br,http://www.mercadocar.com.br,6116767faf1ad80001a16322,Eduardo,Ve***o,IT Infrastructure Manager,True,Yes,2026-03-03T18:23:16.000+00:00
+Aguia Sistemas,aguiasistemas.com.br,http://www.aguiasistemas.com.br,607889bbe63ae1000187ae78,Diogo,Am***l,IT Manager,True,Yes,2026-02-15T05:26:28.000+00:00
+GrupoNewChase,gruponewchase.com.br,http://www.gruponewchase.com.br,54a31c567468693825895355,Jair,Sa***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T10:48:48.000+00:00
+Clinica Fares,clinicafares.com.br,http://www.clinicafares.com.br,5efca70cdf831800014a3d6f,Thalita,Wa***n,Financial Supervisor,True,Yes,2026-03-01T00:07:03.422+00:00
+CEDAE - State Water and Sewage Company,cedae.com.br,http://www.cedae.com.br,6113db060e7b9b0001dc4b75,Ricardo,Ba***a,Information Technology Manager,True,Yes,2026-02-27T22:14:08.000+00:00
+Cafe Rancheiro,rancheiro.com.br,http://www.rancheiro.com.br,63f77f846a5545000116c435,Michael,Ne***a,IT Manager,True,Yes,2026-03-02T13:19:09.701+00:00
+Atem Distribuidora,atem.com.br,http://www.atem.com.br,63ca8d1e5d63b500016efef1,Dayany,Ar***s,Financial Supervisor,True,Yes,2026-02-18T17:54:01.751+00:00
+Insolo Agroindustrial S.A.,insolo.com.br,http://www.insolo.com.br,66f95477649cba00019932f9,Vagner,Si***a,IT Manager,True,Yes,2026-02-15T07:31:00.156+00:00
+Unimed Vale do Sinos,,,64c7da3c1e2f3d0001d6079e,Antonio,Pa***a,Information Technology Manager,True,Yes,2026-02-26T21:33:33.499+00:00
+COPASA,copasa.com.br,http://www.copasa.com.br,61155d848f447000012cc304,Eduardo,Ne***o,IT Manager,True,Yes,2026-02-22T11:32:53.000+00:00
+GAT LOGÍSTICA,gatlogistica.com.br,http://www.gatlogistica.com.br,602ebe86c3966800012a9835,Ariovaldo,Br***o,Gerente de TI & Inteligência e Eficiência Logística,True,Yes,2026-02-20T15:24:50.915+00:00
+Nagumo,nagumo.com.br,http://www.nagumo.com.br,57df6ad5a6da980add328e77,Andre,Do***i,IT Infrastructure Manager,True,Yes,2026-02-05T12:06:28.566+00:00
+AUTOMOB,automob.com.br,http://www.automob.com.br,67eebd2e9477c8000172ce4a,Arthur,Br***o,IT Infrastructure Manager,True,Yes,2026-02-19T12:19:32.000+00:00
+AUTOMOB,automob.com.br,http://www.automob.com.br,57ddecd0a6da987b25e579e3,Felipe,Fo***s,Gerente de Planejamento Financeiro | FP&A,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T00:08:23.028+00:00
+SELFIT Academias,selfitacademias.com.br,http://www.selfitacademias.com.br,60ca462676828200012cfdcb,Mario,Li***a,Gerente FP&A,True,Yes,2026-02-15T11:07:04.280+00:00
+Armazém PB,armazempb.com.br,http://www.armazempb.com.br,54a4b5b3746869344255535d,Joilson,Vi***a,Financial Supervisor,True,Yes,2026-02-13T11:57:17.000+00:00
+AD Shopping,adshopping.com.br,http://www.adshopping.com.br,54a21eb07468693cdd8b430e,Luiz,Az***o,Supervisor Administrativo / Financeiro - Corporativo (Administração - 43 Shoppings no Brasil),True,Maybe: please request direct dial via people/bulk_match,2026-03-11T20:26:03.552+00:00
+Luft Solutions,,,65169f28b9555600014972a5,Miguel,Be***i,IT Infrastructure Manager,True,Yes,2026-03-03T14:39:20.000+00:00
+Luft Solutions,,,564ad538a6da981e83023a57,Lucas,Fa***i,IT Infrastructure Manager,True,Yes,2026-02-20T10:36:21.000+00:00
+Luft Solutions,,,5c5a6e6da3ae61f1621c58d8,Horatio,Na***a,IT Overlord,True,Maybe: please request direct dial via people/bulk_match,2026-03-04T19:20:24.000+00:00
+Confiança Supermercados,clienteconfianca.com.br,http://www.clienteconfianca.com.br,6111800376808d0001692e1c,Bruno,Ca***o,IT Manager,True,Yes,2026-03-02T16:40:43.811+00:00
+Bauer Express,bauerexpress.com.br,http://www.bauerexpress.com.br,610d1c8e591e8c0001383c0a,Jeferson,Am***m,Encarregado de TI,True,Yes,2026-01-28T23:58:27.000+00:00
+Magnum Tires,magnumtires.com.br,http://www.magnumtires.com.br,684eabfddf7cd60001d90e59,Sheilla,So***a,Financial Administrative Supervisor,True,Yes,2026-02-15T00:59:45.000+00:00
+Magnum Tires,magnumtires.com.br,http://www.magnumtires.com.br,674a14745fab8e00014dc49b,Felipe,Br***z,IT Infrastructure Manager,True,Yes,2026-02-12T02:50:55.000+00:00
+Grupo Ouro e Prata,grupoouroeprata.com,http://www.grupoouroeprata.com,5e6d98b698de020001c9022e,Maicon,Go***t,Financial Supervisor,True,Yes,2026-02-15T04:19:06.000+00:00
+Grupo Ouro e Prata,grupoouroeprata.com,http://www.grupoouroeprata.com,60c3a0d6f952d500012ec4ef,Luzandro,Ti***l,IT Manager,True,Yes,2026-01-30T18:05:30.332+00:00
+Grupo Ouro e Prata,grupoouroeprata.com,http://www.grupoouroeprata.com,54a31e3374686933189c7255,Alex,Du***a,Coordenador/Gerente de TI,True,Yes,2026-03-02T06:38:00.318+00:00
+CLI - Corredor Logística e Infraestrutura S.A.,cli-br.com,http://www.cli-br.com,655f175ee057e40001b79c72,Wilson,Go***y,M&A Manager,True,Yes,2026-02-27T12:06:38.000+00:00
+Pharmapele,pharmapele.com.br,http://www.pharmapele.com.br,6049b6851926670001011302,Wagner,Al***a,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-01T19:26:54.000+00:00
+Hirota Food Supermercados,hirotafood.com.br,http://www.hirotafood.com.br,611d60a534e3b500015300d0,Willian,Vi***a,Gerente de TI Sustentação.,True,Yes,2026-03-08T03:46:51.000+00:00
+M.A. Máquinas Agrícolas,mamaquinas.com.br,http://www.mamaquinas.com.br,68bb563b48cb01000173ecdc,Cleiber,Be***a,IT Manager,True,Yes,2026-02-27T12:32:56.000+00:00
+OrthoDontic,orthodonticbrasil.com.br,http://www.orthodonticbrasil.com.br,60b113e53612b80001250014,Andre,Ca***a,IT Manager,True,Yes,2026-03-04T15:06:21.342+00:00
+CONAB - Companhia Nacional de Abastecimento,,,6481bdc812b7bc000105896a,Cesar,Al***s,Encarregado de TI,True,Maybe: please request direct dial via people/bulk_match,2026-01-30T18:55:06.000+00:00
+Unimed São José dos Campos - Cooperativa de Trabalho Médico,,,60f871b8f47a2c0001d40ebe,Rafael,Mo***a,IT Manager,True,Yes,2026-02-28T05:37:45.000+00:00
+Guanabara,viajeguanabara.com.br,http://www.viajeguanabara.com.br,655263c101594c00012fc0ec,Diego,Ca***o,Gerente de T.I,True,Yes,2025-10-31T14:48:07.472+00:00
+Bob´s,bobs.com.br,http://www.bobs.com.br,60fb1e8e43cf21000134e6fe,Carlos,So***a,IT Manager,True,Yes,2026-02-03T18:57:05.627+00:00
+Empresas Revemar,empresasrevemar.com.br,http://www.empresasrevemar.com.br,635692b4636aec0001553505,Aline,Xa***r,Financial Administrative Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-25T03:04:08.000+00:00
+Empresas Revemar,empresasrevemar.com.br,http://www.empresasrevemar.com.br,54a518357468693b8c37767c,Ronan,Si***a,IT Infrastructure Manager,True,Yes,2026-02-27T23:10:14.346+00:00
+Empresas Revemar,empresasrevemar.com.br,http://www.empresasrevemar.com.br,6741e8221df65e0001975529,Luciana,Ma***s,Supervisor Administrativo e Financeiro,True,Maybe: please request direct dial via people/bulk_match,2026-02-14T11:01:41.000+00:00
+Copasul - Cooperativa Agrícola Sul-Mato-Grossense,,,611c0465c2d9cb0001f98c48,Leo,Ya***a,IT Manager,True,Yes,2026-02-15T06:37:57.000+00:00
+Copasul - Cooperativa Agrícola Sul-Mato-Grossense,,,611a7d017db8cf0001699f6a,Alan,Ri***o,Financial Administrative Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T16:31:57.000+00:00
+Super Lagoa - MWN COMERCIAL DE ALIMENTOS LTDA,,,60cc4d0450cdef0001608ef2,Rafael,Fi***o,IT Manager,True,Yes,2026-02-05T20:57:52.000+00:00
+UnidaSul Distribuidora Alimentícia S/A.,unidasul.com.br,http://www.unidasul.com.br,54a2dad87468693318687941,Luis,Fe***a,IT Manager,True,Yes,2026-02-13T21:09:13.000+00:00
+Unimed Londrina,unimedlondrina.com.br,http://www.unimedlondrina.com.br,611d2fd716e4bd000125649a,Marcus,Ca***s,Information Technology Manager,True,Yes,2026-03-09T14:49:42.363+00:00
+Unimed Londrina,unimedlondrina.com.br,http://www.unimedlondrina.com.br,6921f812e02b0400014c513d,Vinicius,Al***s,Gestão de Tecnologia da Informação,True,Maybe: please request direct dial via people/bulk_match,2026-02-14T12:36:43.000+00:00
+Unimed João Pessoa,,,54a2c8167468693a7e5eb23c,Walter,Ma***r,Information Technology Manager,True,Yes,2026-03-02T15:44:22.804+00:00
+TK Logística do Brasil,tklogistica.com.br,http://www.tklogistica.com.br,54a20ba47468693825990008,Rafael,Me***o,IT Manager,True,Yes,2026-02-13T00:03:54.000+00:00
+MILIUM,milium.com.br,http://www.milium.com.br,610c205dc453ef00016bff95,Leonardo,Fr***n,IT Manager,True,Yes,2026-02-04T18:51:30.532+00:00
+Oniz Distribuidora Ltda,oniz.com.br,http://www.oniz.com.br,63554e6dea52d30001e8483a,Franciele,Ma***o,Supervisora Financiera,True,Yes,2026-02-13T18:09:18.000+00:00
+GoodBom Supermercados,goodbom.com.br,http://www.goodbom.com.br,57d4578aa6da98539680a726,Clayton,Le***e,IT Manager,True,Yes,2026-02-13T15:57:29.000+00:00
+Cia Muller de Bebidas,ciamuller.com.br,http://www.ciamuller.com.br,69383b7e7dbbbe0001a8a805,Alexandre,Sa***s,Gerente de Informática,True,Yes,2026-02-04T14:44:52.867+00:00
+ACP Bioenergia,acpbioenergia.com.br,http://www.acpbioenergia.com.br,55708f08736964670f3f1e00,Julio,Vi***a,Gerente FP&A e RI,True,Maybe: please request direct dial via people/bulk_match,2026-02-15T00:23:10.256+00:00
+Transpedrosa S.A.,transpedrosa.com.br,http://www.transpedrosa.com.br,6561f8b3aab5520001ff668a,Douglas,Sa***s,Financial Supervisor,True,Yes,2026-02-13T22:52:27.000+00:00
+Nagem,nagem.com.br,http://www.nagem.com.br,61973cad52e63e0001eff077,Gabriel,Co***o,Financial Services Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-14T00:02:37.000+00:00
+Unimed Teresina,,,62b1ea95d2baf300018d362a,Tiago,Co***o,IT Manager,True,Yes,2026-02-13T10:59:28.000+00:00
+Intermarítima Portos e Logística S.A.,intermaritima.com.br,http://www.intermaritima.com.br,5fc6abcaa75d330001c69388,Eros,Ma***l,IT Manager,True,Yes,2026-02-19T18:49:34.677+00:00
+Unimed Bauru,unimedbauru.com.br,http://www.unimedbauru.com.br,66f2f4ccd1e2490001e05c6b,Antonio,Ne***o,IT Manager,True,Yes,2026-02-21T16:09:35.000+00:00
+Asun Supermercados,asun.com.br,http://www.asun.com.br,63f90754849faa0001bd0463,Antonio,Ma***s,Gerente T.I.,True,Yes,2026-02-27T11:21:18.591+00:00
+Hospital Evangélico,he.org.br,http://www.he.org.br,65688c49073b4200019653f5,Caio,Me***o,IT Manager,True,Yes,2026-02-09T10:15:07.000+00:00
+Super Terminais,superterminais.com.br,http://www.superterminais.com.br,54a1cf1374686945faf98512,Felinto,Ba***o,IT Manager,True,Yes,2026-02-28T18:09:16.969+00:00
+Jazam Alimentos,jazam.com.br,http://www.jazam.com.br,54a420277468692fa294682e,Jancleidson,Li***o,IT Manager,True,Yes,2026-02-05T20:13:45.752+00:00
+CAMDA - Cooperativa Agropecuária,camda.com.br,http://www.camda.com.br,61b1820ee3aa140001b63491,Eduardo,Sa***o,IT Manager,True,Yes,2026-02-04T18:17:19.749+00:00
+Grupo Jorlan,grupojorlan.com.br,http://www.grupojorlan.com.br,6113ff84f7ed710001e562c6,Ronivon,Cr***z,IT Manager,True,Yes,2026-02-27T23:29:13.000+00:00
+OAKBERRY,oakberry.com,http://www.oakberry.com,6720962f682f5400018719b4,Joao,Fr***s,FP&A Manager,True,Yes,2026-03-04T05:26:48.000+00:00
+Agroinsumos,agroinsumosmt.com.br,http://www.agroinsumosmt.com.br,612a257e4ca5a500018635fc,Thiago,So***s,IT Manager,True,Yes,2026-02-26T10:19:44.000+00:00
+Morada Transportes,morada.com.br,http://www.morada.com.br,611191c8a7eda50001972666,William,Ri***o,IT Manager,True,Yes,2026-02-08T15:39:40.000+00:00
+Fockink,fockink.ind.br,http://www.fockink.ind.br,611c3504f66db30001d04c71,Fabio,Gh***i,IT Manager,True,Yes,2026-03-05T21:23:55.219+00:00
+Fockink,fockink.ind.br,http://www.fockink.ind.br,54aab3537468690377937813,Alessandro,Go***s,Financial Administrative Supervisor,True,Yes,2026-02-27T02:23:13.000+00:00
+Casa Di Conti,casadiconti.com.br,http://www.casadiconti.com.br,5fd6d5fddc70890001934245,Francieli,Ol***a,Financial Supervisor,True,Yes,2026-02-13T23:07:58.000+00:00
+Casa Di Conti,casadiconti.com.br,http://www.casadiconti.com.br,6203b78c1056480001733d45,Gilberto,Ca***o,Head of Technology | Information Technology Manager | Projetos Sap | Projetos Salesforce,True,Yes,2026-02-27T15:57:02.900+00:00
+CELESC - Centrais Elétricas de Santa Catarina,celesc.com.br,http://www.celesc.com.br,66a46c4cb4f47500014429be,Guilherme,Pa***s,IT Process Manager,True,Yes,2026-02-27T12:27:39.000+00:00
+Casas Pedro,casaspedro.com.br,http://www.casaspedro.com.br,654ca755b5d1fb000150429d,Bruno,Li***a,IT Manager,True,Yes,2026-02-13T15:45:31.000+00:00
+Rede Cooper,cooper.coop.br,http://www.cooper.coop.br,60ea04732a6a5b0001d7bdf3,Lucio,Fe***a,IT Manager,True,Yes,2026-02-13T11:57:30.000+00:00
+Grupo Carone,carone.com.br,http://www.carone.com.br,6050f6d8a0c15a00013d855f,Fernando,Ma***o,"Responsável Pela TI, GC, Supply Chain, Ecommerce, Pricing, CD e Lab.",True,Yes,2026-03-01T19:23:08.294+00:00
+Casa Freitas,casafreitas.com.br,http://www.casafreitas.com.br,6716aa45dcb337000104988c,Iara,Ma***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-15T23:55:57.000+00:00
+"TACO - Roupas, Moda / Varejo",taco.com.br,http://www.taco.com.br,67208f3c5c366b0001415538,Diego,Fe***a,IT Manager,True,Yes,2026-02-26T03:36:01.000+00:00
+Unimed Piracicaba,unimedpiracicaba.com.br,http://www.unimedpiracicaba.com.br,60ee695576ac6600014a67c4,Rodrigo,Ca***o,IT Manager,True,Yes,2026-02-05T15:08:43.712+00:00
+Dalben Supermercados,superdalben.com.br,http://www.superdalben.com.br,5e70eedd08143c000146175d,Israel,Ro***s,IT Manager,True,Yes,2026-02-04T17:28:13.547+00:00
+Dalben Supermercados,superdalben.com.br,http://www.superdalben.com.br,6033e0e5d4a8940001a9600d,Thiago,Mi***l,IT Manager,True,Yes,2026-02-22T13:57:25.984+00:00
+Hospital Porto Dias,hpd.com.br,http://www.hpd.com.br,60e87db08d8ddb0001f60ed1,Danilo,Sa***o,Information Technology Manager,True,Yes,2026-02-27T23:35:24.000+00:00
+TECMAR Transporte & Logística,tecmartransportes.com.br,http://www.tecmartransportes.com.br,5d59ef5bf65125e6684c954f,Rodrigo,Ca***o,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-02T18:47:11.680+00:00
+TECMAR Transporte & Logística,tecmartransportes.com.br,http://www.tecmartransportes.com.br,662fb198e275e20007aaf2cc,Guilherme,Go***o,IT Manager,True,Yes,2026-03-03T13:29:39.000+00:00
+TECMAR Transporte & Logística,tecmartransportes.com.br,http://www.tecmartransportes.com.br,63c59d197e181b0001ae23dc,Mauricio,Th***i,Gerente de FP&A e Inteligência do Negócio,True,Yes,2026-02-16T17:32:40.000+00:00
+Asa Branca Indl. Coml. e Importadora LTDA,asabranca.ind.br,http://www.asabranca.ind.br,60c79d31eed0d4000115af4d,Alan,Ol***a,IT Manager,True,Yes,2026-02-03T14:23:10.000+00:00
+Grupo Olfar,olfar.ind.br,http://www.olfar.ind.br,613bb1089978cd000187fadf,Elisete,Bo***e,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-14T04:58:49.000+00:00
+Supermercados Avenida,supermercadosavenida.com.br,http://www.supermercadosavenida.com.br,610957ab77ab4800016d9892,Welliton,Si***a,Financial Supervisor,True,Yes,2026-02-24T17:05:58.331+00:00
+Economart Atacadista,economart.com.br,http://www.economart.com.br,55cc23b2f3e5bb32620034fa,Reginaldo,Co***a,IT Manager,True,Yes,2026-02-13T21:21:39.000+00:00
+RZK Agro,rzkagro.com.br,http://www.rzkagro.com.br,60f5c08f7131570001c34423,Elton,Ca***n,IT Manager,True,Yes,2026-02-14T14:52:42.000+00:00
+Grupo Canopus,grupocanopus.com.br,http://www.grupocanopus.com.br,54a4c8a07468692fa2d16663,Carlos,Pr***i,Information Technology Application Manager,True,Yes,2026-02-26T05:32:24.000+00:00
+Cotribá Cooperativa Agrícola Mista General Osório,cotriba.com.br,http://www.cotriba.com.br,54a13baf69702d048679b001,Jorge,Sp***r,Gestor TI,True,Yes,2025-12-12T15:59:47.055+00:00
+Grupo Jacomar,jacomar.com.br,http://www.jacomar.com.br,61117b9778efda00017e75dc,Cleber,Fe***a,IT Infrastructure Manager,True,Yes,2026-02-27T18:24:18.840+00:00
+Globoaves,globoaves.com.br,http://www.globoaves.com.br,60f89ad95249950001a83445,Fernando,Ca***o,IT Manager,True,Yes,2026-02-03T13:02:59.994+00:00
+GGF em Campo,ggfbrasil.com,http://www.ggfbrasil.com,644c1bc2bf1fb900014bf3dd,Patric,Ca***i,IT Infrastructure Manager,True,Yes,2026-02-28T21:35:53.404+00:00
+Prezunic Supermercados,prezunic.com.br,http://www.prezunic.com.br,54a829a8746869682948be63,Valdineia,Gu***e,Gerenciadora TI,True,Maybe: please request direct dial via people/bulk_match,2026-02-15T02:40:30.000+00:00
+Sertran Transportes,sertran.com.br,http://www.sertran.com.br,5d0a39de8582830bce3ec989,Tiago,Ol***a,Gerente de Suprimentos | Facilities | TI,True,Yes,2026-02-03T03:22:22.000+00:00
+Delta Supermercados,deltasuper.com.br,http://www.deltasuper.com.br,54a6fddc746869705a042d0b,Robson,Hi***i,IT Manager,True,Yes,2026-02-12T18:16:48.408+00:00
+Delta Supermercados,deltasuper.com.br,http://www.deltasuper.com.br,54a30a6f7468693318939e4f,Jefferson,Be***o,IT Manager,True,Yes,2026-03-03T17:24:32.000+00:00
+Barcelos,portalbarcelos.com.br,http://www.portalbarcelos.com.br,68b1f8537203430001fbb80a,Charles,Ca***s,IT Manager,True,Yes,2026-02-20T21:12:06.528+00:00
+COPERCAMPOS,copercampos.com.br,http://www.copercampos.com.br,6201454a07c94c000177a17d,Alessandro,Sc***r,IT Manager,True,Yes,2026-02-17T05:47:56.000+00:00
+Unimed Manaus,unimedmanaus.com.br,http://www.unimedmanaus.com.br,6604165ae156b80007516977,Gabriel,Ra***o,IT Manager,True,Yes,2026-03-05T05:29:28.000+00:00
+Grupo Triunfante,triunfante.com.br,http://www.triunfante.com.br,669e6d65e1076600011b16e8,Pierre,Mo***a,IT Manager,True,Yes,2026-02-05T12:44:02.621+00:00
+Unimed Cuiabá,,,66f94cc183ba0c000145a4ff,Carlos,Ra***y,Gerente de TI - Inovações e Projetos,True,Yes,2026-02-14T00:23:27.000+00:00
+Usina de Laticinios Jussara S/A,leitejussara.com.br,http://www.leitejussara.com.br,67ef0c7a92b4640001adc583,Pedro,Bo***s,IT Manager,True,Yes,2026-03-03T21:25:18.000+00:00
+Hospital São Francisco,,,5dccfdcc2c126f0001e53dc3,Alex,Do***s,IT Manager,True,Yes,2026-02-14T00:59:48.000+00:00
+Hospital São Francisco,,,6720bbb9910cbd000163c636,TI,Fr***o,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-11T10:18:30.202+00:00
+Hospital São Francisco,,,57d4338ba6da98536ed8b263,Glenysson,Ar***o,Gestor de Tecnologia da Informação,True,Yes,2026-02-16T11:42:27.000+00:00
+CCPR,ccpr.coop.br,http://www.ccpr.coop.br,5f0df1cc87115b0001d09d33,Ramiro,Na***o,Head of IT | CIO | IT Manager,True,Yes,2026-02-28T15:03:07.345+00:00
+Dismelo distribuidora,dismelo.com.br,http://www.dismelo.com.br,61a8dbd39ffc2800012fc9a3,Marcos,Mi***a,IT Manager,True,Yes,2026-02-03T17:43:45.307+00:00
+Viação Garcia,viacaogarcia.com.br,http://www.viacaogarcia.com.br,6086ed414761980001860bec,Widson,Fi***o,Corporate IT and Project Manager,True,Yes,2026-02-20T18:00:02.759+00:00
+Água de Coco,aguadecoco.com.br,http://www.aguadecoco.com.br,6459629f1403960001a69e0f,Marcus,Al***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T02:45:12.000+00:00
+Agrivale Ltda.,agrivale.com,http://www.agrivale.com,5e7f15b53123df00018224d2,Daniel,Li***a,IT Manager,True,Yes,2026-02-27T13:05:56.000+00:00
+FUJIOKA ELETRO IMAGEM S/A,fujioka.com.br,http://www.fujioka.com.br,54a5047c74686938ac2f3c76,Ailton,Sa***s,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-24T12:10:23.000+00:00
+Grupo Sinosserra,gruposinosserra.com.br,http://www.gruposinosserra.com.br,5f87345f75239a00016c60c2,Diego,Mo***s,IT Manager,True,Yes,2026-02-28T19:52:34.651+00:00
+Grupo Sinosserra,gruposinosserra.com.br,http://www.gruposinosserra.com.br,5f0c4e5edb15560001b4dc55,Paola,Ca***o,Financial Administrative Supervisor,True,Yes,2026-02-01T19:29:09.000+00:00
+Mobyan,mobyan.com.br,http://www.mobyan.com.br,60f0669fff3d2600012c89a8,Claudia,Fu***a,IT Project Manager,True,Yes,2026-02-15T09:29:29.000+00:00
+Mobyan,mobyan.com.br,http://www.mobyan.com.br,696baacd2dfbad00014a3479,Daniel,B,IT Infrastructure and Services Manager,True,Yes,2026-02-09T09:44:59.000+00:00
+Grupo Coutinho,grupocoutinho.com,http://www.grupocoutinho.com,609c1fa9ee62a900012ccdeb,Vitor,Ve***a,Information Technology Manager,True,Yes,2026-03-09T11:19:00.000+00:00
+Madeiranit,madeiranit.com.br,http://www.madeiranit.com.br,60edd06e2a6baa0001e57938,Marcelo,Mi***n,IT Manager,True,Yes,2026-03-06T06:48:33.638+00:00
+Grupo UniHealth,unihealth.com.br,http://www.unihealth.com.br,611d0550d702010001ffe3fb,Elson,Nu***s,IT Manager,True,Yes,2026-02-11T21:31:59.641+00:00
+Sepetiba Tecon,sepetibatecon.com.br,http://www.sepetibatecon.com.br,60f129743e788e00019e2f09,Fabio,Bo***a,FP&A and Budget Planning Manager,True,Yes,2026-02-12T06:11:30.000+00:00
+Sepetiba Tecon,sepetibatecon.com.br,http://www.sepetibatecon.com.br,57d3793bf651252c29f147f3,Vitor,Va***s,IT Project Manager,True,Yes,2026-03-05T07:17:18.000+00:00
+Sepetiba Tecon,sepetibatecon.com.br,http://www.sepetibatecon.com.br,62038a335174fc0001be88e3,Taciana,Li***a,M&A and Strategic Planning Manager,True,Yes,2026-03-06T09:47:47.056+00:00
+NM ENGENHARIA E CONSTRUÇÕES LTDA.,nmengenharia.com.br,http://www.nmengenharia.com.br,608abc082c6b7b000148945b,Thiago,Ca***i,IT Manager,True,Yes,2026-02-13T22:10:25.000+00:00
+Companhia Athletica,ciaathletica.com.br,http://www.ciaathletica.com.br,613a1ae7fc933f0001519e54,Daniel,Sc***g,IT Manager,True,Yes,2026-02-14T11:47:07.000+00:00
+Companhia Athletica,ciaathletica.com.br,http://www.ciaathletica.com.br,5aadda6da6da98c384b6577a,Marcelo,Go***s,IT Manager,True,Yes,2026-02-14T11:19:57.000+00:00
+Companhia Athletica,ciaathletica.com.br,http://www.ciaathletica.com.br,57d4f9a9a6da98537a45af4e,Givanildo,Sa***s,IT Manager,True,Yes,2026-03-02T23:07:37.829+00:00
+Companhia Athletica,ciaathletica.com.br,http://www.ciaathletica.com.br,66f816782273520001fe1484,Wallace,Fo***a,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T23:55:20.839+00:00
+PIZZATTOLOG,pizzattolog.com.br,http://www.pizzattolog.com.br,5ae79d29a6da9841d2640e13,Alex,Mo***a,"Projetos, Marketing & TI",True,Yes,2026-02-17T07:12:42.000+00:00
+Flamboyant,flamboyant.com.br,http://www.flamboyant.com.br,557050e27369643f51021400,Cemy,Co***a,IT Manager,True,Yes,2026-03-01T23:24:03.407+00:00
+Grupo Cargo Polo,grupocargopolo.com.br,http://www.grupocargopolo.com.br,66a4c5315c95ac000176948a,Carina,Al***s,Financial Supervisor,True,Yes,2026-02-04T18:34:48.000+00:00
+CURA grupo,salvo.com.br,http://www.salvo.com.br,64edde46565abb0001ed4548,Fernanda,Re***s,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-25T06:47:40.000+00:00
+Luz da Lua,luzdalua.com.br,http://www.luzdalua.com.br,6254809c31acee00017a6272,Sergio,Sa***s,IT Manager,True,Yes,2026-02-27T14:34:31.707+00:00
+De Nigris,denigris.com.br,http://www.denigris.com.br,54a53fca74686934425fda88,Luis,Ma***o,IT Manager,True,Yes,2026-02-19T17:42:08.868+00:00
+De Nigris,denigris.com.br,http://www.denigris.com.br,54a23eb17468693318ad1819,Robson,Mo***a,IT Manager,True,Yes,2026-02-20T20:15:57.039+00:00
+De Nigris,denigris.com.br,http://www.denigris.com.br,54a1fdb97468693cdd6e8803,Antonio,Pi***o,Encarregado de TI,True,Yes,2026-02-14T00:13:29.000+00:00
+Companhia Melhoramentos Norte do Paraná,cmnp.com.br,http://www.cmnp.com.br,60da096275b74300011b5873,Eduardo,Nu***s,IT Manager,True,Yes,2026-02-27T14:03:13.033+00:00
+Produtiva Sementes,sementesprodutiva.com.br,http://www.sementesprodutiva.com.br,5dd30564de2d4a0001f32c00,Lorraine,Co***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-30T15:14:36.000+00:00
+Supermercado Pinheiro Oficial,supermercadopinheiro.com.br,http://www.supermercadopinheiro.com.br,66045ae287efce00079fef16,George,Me***s,IT Manager,True,Yes,2026-03-02T15:01:45.166+00:00
+Serviço Social do Comércio - SESC PR,sescpr.com.br,http://www.sescpr.com.br,557093ea7369646647244f00,Alan,Ol***a,Gerente de TI | Gerência de Tecnologia da Informação | Sesc Paraná,True,Yes,2026-03-08T14:58:30.498+00:00
+Gelnex Gelatin,,,60eb0092a8b0b00001144494,Mauro,To***i,"Analista de TI, Gestor de TI",True,Yes,2026-02-21T16:59:20.551+00:00
+Supermercado Super do Povo,solides.jobs,http://www.solides.jobs,54a801907468696829eb6f5b,Waldecy,Ju***r,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-22T13:25:14.203+00:00
+Objetiva,modaobjetiva.com.br,http://www.modaobjetiva.com.br,54ebbba7746869444c5c8a18,Claudio,Ga***i,IT Manager,True,Yes,2026-01-27T19:43:21.517+00:00
+Grupo Alvorada,galvorada.com,http://www.galvorada.com,66f54e70c14266000126f974,Diony,Ru***o,IT Manager,True,Yes,2026-02-28T23:33:48.026+00:00
+Costa Atacadão,costaatacadao.com.br,http://www.costaatacadao.com.br,60118d4a1c1a7700015b4c1b,Glicejo,Lo***s,IT Manager,True,Yes,2026-02-04T18:05:36.752+00:00
+Víssimo Group,vissimo.com.br,http://www.vissimo.com.br,54aaf1697468690b75313c1c,Micael,Am***m,FP&A Manager,True,Yes,2026-02-03T09:41:05.000+00:00
+Mary Kay do Brasil,marykay.com.br,http://www.marykay.com.br,54a5af4c7468693676072fa0,Eduardo,Os***o,Senior Information Technology Manager,True,Yes,2026-02-17T06:35:25.000+00:00
+Sinter,sinterfutura.com.br,http://www.sinterfutura.com.br,5ffebc26746aa5000138e106,Valdemar,Ne***s,IT Manager,True,Yes,2026-02-26T20:07:41.000+00:00
+Sinter,sinterfutura.com.br,http://www.sinterfutura.com.br,54a3ee1a7468693676908f1e,Natanael,Fa***s,Gerente de Transformação Digital e TI na Sinter Futura,True,Yes,2026-02-27T12:19:50.000+00:00
+FM Logistic Brasil,fmlogistic.com.br,http://www.fmlogistic.com.br,57d99f6ba6da9872166706ec,Eduardo,St***a,IT Manager,True,Yes,2026-03-05T07:07:26.469+00:00
+Moinhos Cruzeiro do Sul,mcs.com.br,http://www.mcs.com.br,6480966e014dcb0001c17650,Paulo,Ne***s,Supervisor Contábil Financeiro,True,Yes,2026-01-30T14:14:46.000+00:00
+Viação Santa Brigida Ltda,santabrigida.com.br,http://www.santabrigida.com.br,640b2367c622c40001b530d0,Luciana,Ma***o,IT Manager,True,Yes,2026-02-25T03:08:00.000+00:00
+Jaú Serve Supermercados,jauserve.com.br,http://www.jauserve.com.br,60ec83c045ba74000112d8e9,Gustavo,Za***i,IT Manager,True,Yes,2026-03-06T08:26:09.470+00:00
+Companhia de Água e Esgoto do Ceará - Cagece,cagece.com.br,http://www.cagece.com.br,54a220eb7468693a7e730f0f,Mirko,Mo***s,IT Manager,True,Yes,2026-02-05T20:27:10.193+00:00
+Unimed Araçatuba,unimedaracatuba.coop.br,http://www.unimedaracatuba.coop.br,66629c1a05cf2100016555a9,Thiago,Lo***o,IT Manager,True,Yes,2026-02-27T00:20:14.806+00:00
+TranspoTech Equipamentos,transpotech.com.br,http://www.transpotech.com.br,57d5b67da6da9853b6b2e6ae,Elke,Ne***e,Financial Supervisor,True,Yes,2026-02-16T17:56:11.000+00:00
+TranspoTech Equipamentos,transpotech.com.br,http://www.transpotech.com.br,54a47cda7468692cf037474b,Antonio,Ju***r,Gerente de T.I,True,Yes,2026-02-14T09:33:10.000+00:00
+Buddha Spa,buddhaspa.com.br,http://www.buddhaspa.com.br,66f3f7d4e85b3000013a661f,Raphael,Ca***o,IT Manager,True,Yes,2026-03-06T19:23:35.000+00:00
+Andrade Distribuidor LTDA,andradedistribuidor.com.br,http://www.andradedistribuidor.com.br,54a4edad74686936766b636e,Marcio,Me***o,IT Manager,True,Yes,2026-02-13T15:52:22.738+00:00
+Unimed Sergipe,unimedse.coop.br,http://www.unimedse.coop.br,57dfc475a6da980b024ef99e,Bruno,Fr***s,IT Manager,True,Yes,2026-02-16T01:45:05.000+00:00
+Nater Coop,nater.coop.br,http://www.nater.coop.br,660f8b418d84ce0007a858f8,Fredy,Ho***z,IT Manager,True,Yes,2026-03-10T16:41:00.640+00:00
+BIO EXTRATUS COSMÉTIC NATURAL,bioextratus.com.br,http://www.bioextratus.com.br,68bf456e92c91c0001f08051,Maycon,Ma***s,Gestão de Tecnologia da Informação,True,Maybe: please request direct dial via people/bulk_match,2026-01-24T12:20:12.000+00:00
+Montreal Moda e Casa,montrealmodaecasa.com.br,http://www.montrealmodaecasa.com.br,57d73726a6da98646070f5d8,Maicolm,Bu***o,IT Manager,True,Yes,2026-02-19T15:56:34.456+00:00
+Real Distribuidora e Logística,,,5d6387a680f93e47b5505a8c,Luciano,Vi***a,IT Manager,True,Yes,2026-02-01T07:50:22.000+00:00
+Real Distribuidora e Logística,,,57d995bba6da98723a1d5558,Eden,Ma***s,IT Manager,True,Yes,2026-02-03T18:00:56.146+00:00
+Nordil,nordil.com.br,http://www.nordil.com.br,54a6e66d7468696829797502,Jonathas,Na***o,IT Manager,True,Yes,2026-02-27T03:50:36.000+00:00
+Avatim,avatim.com.br,http://www.avatim.com.br,66d696d2e01d780001dc535e,Andre,Lu***s,Encarregado de TI,True,Maybe: please request direct dial via people/bulk_match,2026-02-13T16:02:24.000+00:00
+Lojas Marabraz,marabraz.com.br,http://www.marabraz.com.br,66f2e64fc892210001b92cc3,Gerson,Na***o,IT Manager,True,Yes,2026-02-15T07:30:30.057+00:00
+Conservas Oderich S/A,oderich.com.br,http://www.oderich.com.br,60e721a3f43ada0001c8fd0a,Celestino,Du***i,IT Manager,True,Yes,2026-02-16T12:09:40.000+00:00
+A Nossa Drogaria - Nossa paixão é servir você,anossadrogaria.com.br,http://www.anossadrogaria.com.br,60e5b1a267e83c00012f9596,Renato,Fu***y,IT Infrastructure Manager,True,Yes,2026-02-27T03:42:56.000+00:00
+A Nossa Drogaria - Nossa paixão é servir você,anossadrogaria.com.br,http://www.anossadrogaria.com.br,6100420dc48f350001bc3174,Roberto,Gu***s,Gerente de Logística e TI,True,Yes,2026-01-25T16:11:48.000+00:00
+Café Iguaçu,iguacu.com.br,http://www.iguacu.com.br,671579775d28080001ce0c1e,Carlos,Ve***s,"IT Manager, Planning and Facilities",True,Yes,2026-02-21T16:36:01.000+00:00
+SuperPrix,superprix.com.br,http://www.superprix.com.br,60f1a4a8829128000124d650,Julio,Fi***s,IT Manager,True,Yes,2026-03-03T01:31:35.249+00:00
+Unimed Caruaru,,,611a8c8baa1dc200015982f0,Daniel,Ju***r,Information Technology Manager,True,Yes,2026-02-28T20:37:23.561+00:00
+Chama Supermercados,grupochama.com.br,http://www.grupochama.com.br,5be3bc7280f93edc7ed2ed43,Thiago,So***a,IT Manager,True,Yes,2026-02-23T19:30:02.668+00:00
+Potiguar Home Center,apotiguar.com.br,http://www.apotiguar.com.br,62f6b53d70a2260001f6016f,Marcos,Ro***s,IT Manager,True,Yes,2026-03-04T23:53:30.000+00:00
+Potiguar Home Center,apotiguar.com.br,http://www.apotiguar.com.br,64806a16ef2b1200017342f5,Cynthia,Du***e,Financial Services Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T18:14:24.442+00:00
+Grupo Vanguarda,grupovanguarda.com,http://www.grupovanguarda.com,6353cbd21dc5b60001a83a80,Daniela,Cr***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-28T14:38:29.000+00:00
+Grupo Vanguarda,grupovanguarda.com,http://www.grupovanguarda.com,60d338e0f5e94a00018ccccf,Christiam,Do***o,IT Manager,True,Yes,2026-02-04T14:26:45.567+00:00
+Central Brazil Transport Company,brasilcentral.com.br,http://www.brasilcentral.com.br,6517cad5a44af6000135848f,Jose,Se***s,IT Manager,True,Yes,2026-02-24T17:26:19.000+00:00
+Grupo MiniPreço,minipreco.com.br,http://www.minipreco.com.br,66fb24edce89690001ce4d35,Ricardo,Se***a,IT Manager,True,Yes,2026-02-13T21:09:22.000+00:00
+Auto Peças Padre Cícero,pecicero.com.br,http://www.pecicero.com.br,6482022cb816e10001cbf224,Paulo,Ca***o,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-13T23:22:01.000+00:00
+Auto Peças Padre Cícero,pecicero.com.br,http://www.pecicero.com.br,6481f4735f57b8000164bb63,Levi,Li***a,Financial Administrative Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-17T03:20:36.000+00:00
+Lontano Transportes,lontano.com.br,http://www.lontano.com.br,65c2619bdc98bd000105bd86,Danilo,Si***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-02T15:57:13.942+00:00
+Lontano Transportes,lontano.com.br,http://www.lontano.com.br,61b49e558021e7000155967c,Giuliano,Gi***o,Information Technology Manager,True,Yes,2026-02-15T04:48:21.000+00:00
+Santa Casa de Maringá,santacasamaringa.com.br,http://www.santacasamaringa.com.br,667f1f9e9696a2000135186b,Marcelo,We***r,IT Manager,True,Yes,2026-02-16T04:20:13.000+00:00
+GTS,gtsdobrasil.ind.br,http://www.gtsdobrasil.ind.br,6925fc1f927a040001bcf994,Julio,Za***t,IT Manager,True,Yes,2026-02-23T17:22:27.892+00:00
+Ayumi Supermercados,ayumi.com.br,http://www.ayumi.com.br,693d65aa3d89160001df02b8,Luciano,To***e,Gerente T.I,True,Yes,2026-02-04T16:18:08.976+00:00
+Casa Santa Luzia,santaluzia.com.br,http://www.santaluzia.com.br,61142c595662150001c0e1fb,Eduardo,La***r,Gerente de Projetos e Tecnologia da Informação,True,Yes,2026-02-14T00:15:47.000+00:00
+Casa do Pão de Queijo,casadopaodequeijo.com.br,http://www.casadopaodequeijo.com.br,54a54c3574686938ac70088d,Erenilton,Vi***a,IT Manager,True,Yes,2026-02-09T12:59:06.449+00:00
+Rede Natus Farma,natusfarma.com.br,http://www.natusfarma.com.br,67e1b5a5434e8d0001743f52,Everaldo,Li***s,IT Manager,True,Yes,2026-02-22T12:17:43.000+00:00
+Recco Lingerie,recco.com.br,http://www.recco.com.br,5c9743d4f65125aa91ff5560,Daniel,Ba***o,IT Manager,True,Yes,2026-02-15T19:25:41.000+00:00
+Rede Schumann,schumann.com.br,http://www.schumann.com.br,57d3aca8a6da9853ee8fdf92,Rodrigo,Mo***a,Gerente de ti - Desenvolvimento / bi,True,Yes,2026-01-29T00:09:53.000+00:00
+CESAN,cesan.com.br,http://www.cesan.com.br,60060db43e97ac00018ef5d6,Andrea,Ro***i,Gestão de Tecnologia da Informação,True,Yes,2026-02-16T03:22:46.000+00:00
+Rede Marajó,redemarajo.com.br,http://www.redemarajo.com.br,66f96fb32cc2e900010a506f,Cristina,Di***s,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-29T13:45:47.000+00:00
+Rede Marajó,redemarajo.com.br,http://www.redemarajo.com.br,54fa50887468692627962200,Marley,No***o,Information Technology Delivery Manager,True,Yes,2026-02-03T21:32:41.000+00:00
+Nova Piratininga,novapiratininga.com,http://www.novapiratininga.com,6520f10e34cdc60001aa2cc2,Geovane,Pr***s,IT Manager,True,Yes,2026-03-05T04:26:01.000+00:00
+Sertão,sertao.com.br,http://www.sertao.com.br,54a3a64b7468692abf496f07,Antonio,Ga***a,IT Manager,True,Yes,2026-02-16T01:13:32.000+00:00
+Casas da Água Materiais de Construção e Eletrodomésticos,casasdaagua.com.br,http://www.casasdaagua.com.br,61003b7c424e890001efccdd,Marcio,Sa***s,IT Manager,True,Yes,2026-02-27T23:28:31.000+00:00
+Iquegami Supermercados,iquegami.com.br,http://www.iquegami.com.br,65673a3d05114e000104fa14,Marcos,Ch***o,Gerente Comercial e TI,True,Yes,2026-01-13T19:52:45.718+00:00
+Agricola Famosa SA,,,610d8893eabba30001e5feb8,Elisandro,Sa***a,IT Manager,True,Yes,2026-02-09T12:56:39.767+00:00
+Promofarma,promofarma.com.br,http://www.promofarma.com.br,54a4a25e746869320931d656,Mauri,Si***a,IT Manager,True,Yes,2026-02-21T20:43:40.209+00:00
+AFECC - Hospital Santa Rita de Cássia,,,671ce4bf9f00ec0001a6fe97,Sebastiao,Si***a,IT Manager,True,Yes,2026-02-22T11:02:45.000+00:00
+Sanepar,,,685c4e4e5355450001f75cf2,Luiz,Co***o,IT Manager,True,Yes,2026-02-25T00:14:39.235+00:00
+Grupo MundialMix,grupomundialmix.com.br,http://www.grupomundialmix.com.br,60e33ed78c7f330001e69d4d,Alexandre,Li***a,IT Manager,True,Yes,2026-03-03T18:24:24.734+00:00
+Eletrosom S/A,eletrosom.com,http://www.eletrosom.com,63a1b2e5d2591100013520be,Daniel,Be***o,IT Project Manager,True,Yes,2026-02-12T03:18:30.000+00:00
+Impacto Prime,impactoprime.com.br,http://www.impactoprime.com.br,5aa9811aa6da987e62c0e061,Jefferson,Ma***s,Financial Services Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-13T20:29:36.000+00:00
+Cassems,cassems.com.br,http://www.cassems.com.br,60cb2dc8c40c0d0001a44fcb,Guilherme,Vi***o,IT Manager,True,Yes,2026-02-24T15:56:12.000+00:00
+Companhia Municipal de Limpeza Urbana - COMLURB,rio.rj.gov.br,http://www.rio.rj.gov.br,611412a2f014fe0001177060,Igor,Al***a,IT Manager,True,Yes,2026-01-26T19:59:50.000+00:00
+Palato Supermercado,palato.com.br,http://www.palato.com.br,61e996284bca040001809933,Antonio,Go***s,IT Manager,True,Yes,2026-02-15T02:35:55.000+00:00
+HCI Group,hcigroup.com,http://www.hcigroup.com,6167f508e43aa100019da1a7,Roseneide,Sa***s,Sup.financeira,True,Maybe: please request direct dial via people/bulk_match,2026-02-14T21:06:00.000+00:00
+BISCOITOS BELA VISTA (CILASI ALIMENTOS S.A),belavista.com.br,http://www.belavista.com.br,5d2b28baf6512502f73fe67c,Reginaldo,Sa***s,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T11:25:04.000+00:00
+BISCOITOS BELA VISTA (CILASI ALIMENTOS S.A),belavista.com.br,http://www.belavista.com.br,662b4cd70266fc0007bbbc89,Mauricio,Ri***o,IT Manager/ CIO,True,Yes,2026-02-03T17:50:43.525+00:00
+Unimed Vale do Aço,unimedvaledoaco.coop.br,http://www.unimedvaledoaco.coop.br,60f72f9035f27c0001ab984c,Eloi,Me***o,IT Manager,True,Yes,2026-03-04T13:31:57.393+00:00
+Frilog Transportes,frilog.com.br,http://www.frilog.com.br,610c2eaf29d2fa0001f542ed,Gabriel,An***s,IT Manager,True,Yes,2026-02-17T20:14:35.000+00:00
+Coelba,coelba.com.br,http://www.coelba.com.br,54a42c4a74686938ac049732,Olivia,Me***o,FP&A Manager,True,Yes,2026-02-17T06:20:29.000+00:00
+Coelba,coelba.com.br,http://www.coelba.com.br,610c20b5f690eb00015f5abe,Natalia,Co***i,IT Manager,True,Yes,2026-02-13T12:25:37.000+00:00
+Coelba,coelba.com.br,http://www.coelba.com.br,66f3130d3091f80001969fb3,Rodrigo,Da***a,IT Infrastructure Manager,True,Yes,2026-02-12T11:16:24.000+00:00
+Coelba,coelba.com.br,http://www.coelba.com.br,57e06942a6da981c05c8547c,Tais,To***o,Gerente FP&A,True,Yes,2026-02-16T17:40:52.000+00:00
+Coelba,coelba.com.br,http://www.coelba.com.br,68d0ca52809eeb000185321c,Leonardo,Mo***a,Gerente de Planejamento e Controle | FP&A,True,Maybe: please request direct dial via people/bulk_match,2026-02-09T10:55:56.000+00:00
+Armarinhos Fernando,armarinhosfernandooficial.com.br,http://www.armarinhosfernandooficial.com.br,66f6b1820c27bf0001e5be10,Valdecir,Nb***o,IT Manager,True,Yes,2026-02-14T04:51:17.812+00:00
+Engeselt,,,54abcbb3746869332dad150e,Demesio,Ol***a,IT Manager,True,Yes,2026-02-04T19:05:33.000+00:00
+Della Via Pneus,dellavia.com.br,http://www.dellavia.com.br,54a7c769746869730a26b251,Fabiano,Ma***s,IT Infrastructure Manager,True,Yes,2026-02-04T19:44:22.000+00:00
+GDL - Solução em Movimento,gdllogistica.com.br,http://www.gdllogistica.com.br,62460ad4d794710001cb4ceb,Carlos,Ba***a,IT Manager,True,Yes,2026-02-04T15:35:33.172+00:00
+Umuarama Concessionárias,umuaramaconcessionarias.com.br,http://www.umuaramaconcessionarias.com.br,55de4673f3e5bb1696005182,Rodrigo,Li***e,IT Manager,True,Yes,2026-02-16T01:43:01.000+00:00
+Univale Transportes Ltda,univale.com,http://www.univale.com,683608a49186cf0001befa8e,Andre,Ol***a,Encarregado de TI,True,Yes,2026-01-28T18:32:02.043+00:00
+Nipponflex,nipponflex.com,http://www.nipponflex.com,681e395591a5100001a86a78,Carlos,Bu***i,IT Project Manager,True,Yes,2026-02-25T19:28:03.846+00:00
+NEOgás,neogas.com.br,http://www.neogas.com.br,54a98d647468693399a78214,Jerri,Go***o,IT Manager,True,Yes,2026-03-01T18:11:11.959+00:00
+Santa Casa de Maceió,santacasademaceio.com.br,http://www.santacasademaceio.com.br,679776c27edf420001ec3589,Jose,Ju***r,IT Manager,True,Yes,2026-02-14T09:29:35.000+00:00
+Santa Casa de Maceió,santacasademaceio.com.br,http://www.santacasademaceio.com.br,5c4bbda8a3ae6110c438695f,Marcus,Au***o,IT Manager,True,Yes,2026-02-13T16:37:59.000+00:00
+Atacadão Centro Sul,centro-sul.com,http://www.centro-sul.com,60fb0b71e3ece00001339194,Stephan,Ma***s,IT Manager,True,Yes,2026-02-03T14:20:46.867+00:00
+TVLAR,tvlar.com.br,http://www.tvlar.com.br,60ddc2fb8383ec000112afbe,Franklin,Fe***s,IT Manager & Innovation,True,Yes,2026-02-13T11:44:50.000+00:00
+Translog Transportes,translogtransportes.com.br,http://www.translogtransportes.com.br,6598ec859e8d670001fb9b2a,Gabriel,Fr***s,IT Manager,True,Yes,2026-02-12T16:19:45.000+00:00
+Grupo Berlanda,grupoberlanda.com.br,http://www.grupoberlanda.com.br,6059713d97b04f00019cba8b,Lorivaldo,De***r,Information Technology Manager,True,Yes,2026-01-30T14:02:31.000+00:00
+Deltasul Utilidades,deltasul.com.br,http://www.deltasul.com.br,54a269357468693318689720,Augusto,He***r,IT Manager,True,Yes,2026-02-13T15:21:07.000+00:00
+AQUAMAR,eaquamar.com.br,http://www.eaquamar.com.br,64adbcadde5ca20001752a37,Alexandre,Ba***a,IT Manager,True,Yes,2026-03-04T23:28:52.072+00:00
+Supermercados Imperatriz,supermercadosimperatriz.com.br,http://www.supermercadosimperatriz.com.br,60e33ed78c7f330001e69d4d,Alexandre,Li***a,IT Manager,True,Yes,2026-03-03T18:24:24.734+00:00
+Moinho Estrela,alimentosestrelaltda.com,http://www.alimentosestrelaltda.com,5e8afe19742e1000014eace6,Flavio,Ar***z,IT Manager,True,Yes,2026-03-09T13:26:59.453+00:00
+Santa Casa de Misericórdia de Barra Mansa,scbm.org.br,http://www.scbm.org.br,66b60ec785ca1f00010cb032,Joao,Pe***a,Information Technology Manager,True,Yes,2026-02-14T02:39:03.000+00:00
+Grupo Grazziotin,grazziotin.com.br,http://www.grazziotin.com.br,57da4669a6da984a44daf209,Leizi,Lo***o,Financial Supervisor,True,Yes,2026-02-14T23:27:16.000+00:00
+Grupo Grazziotin,grazziotin.com.br,http://www.grazziotin.com.br,54a28f9574686935bea5d22b,Marcos,So***a,"Gerente Infraestrutura - TI - Infraestrutura, Suporte e Gestão",True,Yes,2026-02-26T23:24:18.190+00:00
+Fundação Cristiano Varella,fcv.org.br,http://www.fcv.org.br,66f6a74aa3fccf0001e44029,Laert,Bo***o,IT Manager,True,Yes,2026-03-09T03:42:11.673+00:00
+Arco-Mix,arcomix.com.br,http://www.arcomix.com.br,6902675bb950c700018759ec,Andressa,Si***a,IT Manager,True,Yes,2026-02-17T17:10:20.000+00:00
+Transzilli Expresso e Logística,transzilli.com.br,http://www.transzilli.com.br,60d8ff064e3f4900017532dc,Adelton,He***e,IT Infrastructure Manager,True,Yes,2026-02-09T13:00:32.980+00:00
+Cia Beal de Alimentos,,,6426d1b55912030001103160,Leandro,Ta***s,IT Manager,True,Yes,2026-02-15T23:09:01.000+00:00
+Supermercados Big Compra,supermercadosbigcompra.com.br,http://www.supermercadosbigcompra.com.br,5e2b4239a328e5009981ebe9,Vitor,Ma***s,IT Manager,True,Yes,2026-02-25T03:42:23.000+00:00
+Drogarias Campeã,drogariascampea.com.br,http://www.drogariascampea.com.br,61080085662a420001e49738,Reinaldo,Fi***o,Gerente T.I,True,Yes,2026-02-14T19:37:49.000+00:00
+Bigmais Supermercados,bigmaisemcasa.com.br,http://www.bigmaisemcasa.com.br,611fdd74c3dc2200017a8219,Ariane,Te***a,IT Manager,True,Yes,2026-02-03T20:49:31.402+00:00
+Super Adega,superadega.com.br,http://www.superadega.com.br,54a38cec7468692abf2c4402,Vinicius,Fa***a,IT Manager,True,Yes,2026-02-15T23:30:18.000+00:00
+GP Combustiveis,gpcombustiveis.com.br,http://www.gpcombustiveis.com.br,639c031ab59a2e0001a97b18,Eliandro,Ba***e,Gerente de TI e Automação de Processos,True,Yes,2026-02-14T02:38:09.000+00:00
+beMais Supermarkets Network,bemaissupermercados.com.br,http://www.bemaissupermercados.com.br,54a3a3417468693209f9c806,Thiago,Na***o,IT Manager,True,Yes,2026-03-01T23:10:33.598+00:00
+Osmar Nicolini Comércio e Distribuição SA,supernicolini.com.br,http://www.supernicolini.com.br,5eb97980eb10d900c276e679,Alexandre,Av***a,IT Manager,True,Yes,2026-02-12T06:12:05.000+00:00
+Osmar Nicolini Comércio e Distribuição SA,supernicolini.com.br,http://www.supernicolini.com.br,57d6eebfa6da985439715613,Jonny,Me***s,IT Infrastructure Manager,True,Yes,2026-03-01T12:27:46.000+00:00
+Shoebiz Oficial,shoebiz.com.br,http://www.shoebiz.com.br,60ad44b879a14b0001a6248b,Helton,Fo***a,IT Manager,True,Yes,2026-02-22T21:55:25.000+00:00
+Jampac Alimentos,jampac.com.br,http://www.jampac.com.br,68910cd7103c6700010587af,Werner,So***a,IT Manager,True,Yes,2026-02-21T00:15:51.097+00:00
+Cybelar,cybelar.com.br,http://www.cybelar.com.br,60dc791820c6df00018795c3,Aguilar,Si***n,Information Technology Manager,True,Yes,2026-02-13T20:37:52.000+00:00
+Comercial Ivaiporã,comercialivaipora.com.br,http://www.comercialivaipora.com.br,5e73deef8247690001d16ad3,Fernando,Pe***a,IT Manager,True,Yes,2026-01-29T17:55:44.905+00:00
+Hospital Amaral Carvalho,amaralcarvalho.org.br,http://www.amaralcarvalho.org.br,65e76dd4b3bb1400071a7f92,Milena,Go***s,Gerente de Tecnologia da Informação e Sustentabilidade,True,Yes,2026-02-16T20:32:40.017+00:00
+Comercial Buffon Combustiveis e Transportes Ltda,buffon.com.br,http://www.buffon.com.br,54aaba557468690630cfd115,Silvio,Ca***o,IT Manager,True,Yes,2026-01-22T16:30:41.486+00:00
+Rimatur Transportes,rimatur.com.br,http://www.rimatur.com.br,57d4ebd3a6da98537ed54799,Antonio,Ri***i,IT Manager,True,Yes,2026-02-26T04:22:43.000+00:00
+Grupo Sobrancelhas Design,sobrancelhasdesign.com.br,http://www.sobrancelhasdesign.com.br,6687db50a351d800010ca8ab,Luana,Fe***e,Financial Supervisor,True,Yes,2026-02-15T18:11:58.000+00:00
+Grupo Tesoura de Ouro,grupotesouradeouro.com.br,http://www.grupotesouradeouro.com.br,5570aac97369641863a33b00,Hugo,So***a,IT Manager,True,Yes,2026-02-16T03:10:10.000+00:00
+Lojas Edmil,,,609c1f4eaaaa960001d4276d,Francislene,Be***o,IT Manager,True,Yes,2026-02-12T13:20:08.000+00:00
+Mahle Rede de Postos,postosmahle.com.br,http://www.postosmahle.com.br,6499cd0d41fdfe0001f71160,William,Ma***i,IT Manager,True,Yes,2026-02-04T13:00:55.773+00:00
+Grupo Peralta,grupoperalta.com.do,http://www.grupoperalta.com.do,60f5b447a6535a0001819a9a,Adoniran,Bo***s,IT Manager,True,Yes,2026-02-09T13:31:18.983+00:00
+Camicado,camicado.com.br,http://www.camicado.com.br,67a8e6f339c95c000124261e,Adriana,Ra***s,IT Manager,True,Yes,2026-02-24T09:26:34.000+00:00
+BIG BOX,bigboxdelivery.com.br,http://www.bigboxdelivery.com.br,636d4d8b9c599900012f2b84,Elias,Di***s,IT Manager,True,Yes,2026-02-27T12:23:15.394+00:00
+Grupo Pérola,perolagrupo.com.br,http://www.perolagrupo.com.br,60943e0a96af5000018c85f9,Joao,Lo***o,IT Manager,True,Yes,2026-02-25T03:15:38.000+00:00
+Unimed Vale do Caí,unimedvaledocai.com.br,http://www.unimedvaledocai.com.br,54c175637468697af709c911,Carlos,Sc***r,IT Manager,True,Yes,2026-02-22T16:54:38.276+00:00
+Reval,reval.net,http://www.reval.net,60d60fdf2e1faf0001054684,Luiz,Ma***o,IT Manager,True,Yes,2026-02-26T10:36:20.195+00:00
+NARCISO ENXOVAIS,narcisoenxovais.com.br,http://www.narcisoenxovais.com.br,54ab6b0b746869084b56af06,Rodrigo,Me***s,IT Manager,True,Yes,2026-02-12T11:05:04.000+00:00
+Unimed Vale do São Francisco,unimedvsf.coop.br,http://www.unimedvsf.coop.br,60d2ec99a734c8000172aa55,Marcos,Fe***a,IT Manager,True,Yes,2026-02-23T23:10:25.308+00:00
+Instituto Federal do Mato Grosso (IFMT),,,66a7017f9dd0cc00015e5ac1,Monica,Si***a,Gestão de Tecnologia da Informação,True,Maybe: please request direct dial via people/bulk_match,2026-01-26T08:18:47.000+00:00
+Governo Federal,,,603cb84e7abae10001df4c0f,Aluizio,Fi***o,Gestor em Tecnologia da Informação,True,Yes,2026-02-20T23:15:56.600+00:00
+Supermercados Gricki,supermercadosgricki.com.br,http://www.supermercadosgricki.com.br,695a44d940722000017a11d2,Marcia,Al***s,Financial Supervisor,True,Yes,2026-02-12T20:27:56.000+00:00
+Prefeitura Municipal de Passo Fundo,pmpf.rs.gov.br,http://www.pmpf.rs.gov.br,54a48ea77468692cf063b450,Alexandre,Si***a,IT Project Manager,True,Yes,2026-02-16T00:29:42.000+00:00
+NOSSO Atacarejo,,,6477f70ba23e2d0001808553,Jurasildo,Ol***a,IT Infrastructure Manager,True,Yes,2026-02-09T14:07:53.395+00:00
+Grupo Rondelli,rondelli.com.br,http://www.rondelli.com.br,5f510a701a851700c8a6d247,Ueslei,Mi***a,IT Manager,True,Yes,2026-02-15T23:30:42.000+00:00
+COGRAN - Cooperativa dos Granjeiros do Oeste de Minas,cogran.com.br,http://www.cogran.com.br,5b1c8e7aa6da9806fcd39bc9,Rogerio,Co***o,IT Manager,True,Yes,2026-02-09T13:38:14.900+00:00
+Drogarias Tamoio,redetamoio.com.br,http://www.redetamoio.com.br,68a626fcfa399e000173e9e2,Wagner,Li***a,IT Manager,True,Yes,2026-01-28T12:28:56.000+00:00
+Supermercados BigLar,biglar.com.br,http://www.biglar.com.br,67248571588b1400011fc17e,Pedro,Fe***a,IT Manager,True,Yes,2026-03-08T08:21:12.397+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,55710acb7369646652710300,Kauan,Si***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-03T15:05:47.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,66fd16b417e513000132e6d7,Daniel,Ip***o,FP&A Manager,True,Yes,2026-02-28T07:58:33.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a8bcb474686930ad476404,Andre,Es***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-04T11:25:05.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,65a1525d2d06920001a03367,Pedro,Si***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-04T15:57:08.653+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6306511ac6a67700019de970,Philippe,Ga***r,FP&A Manager,True,Yes,2026-03-06T07:40:58.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54ec4bae746869444c966679,Fernanda,Ag***r,FP&A Manager,True,Yes,2026-02-24T11:20:21.205+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5b65e183f874f70365ba8494,Tosveena,Th***s,FP&A Manager,True,Yes,2026-02-28T07:11:03.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5e87c6e5b4146e0001753171,Ahmed,Ab***b,FP&A Manager,True,Yes,2026-02-12T16:09:09.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6717f5270a32d300019769bf,Alexander,So***e,FP&A Manager,True,Yes,2026-02-15T12:01:02.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a13ac769702dac84640d01,Jonathan,Ga***n,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-28T05:20:46.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a2d3247468693fda71773f,Serene,Toh,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-05T10:26:27.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57d4ce5fa6da9853d625fc7f,Toral,Mo***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-14T18:53:52.362+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5e7fb7025ed3250001a84d95,Dino,Be***r,FP&A Manager,True,Yes,2026-02-26T04:00:53.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,66e536961a065f00014899da,Evan,Ro***t,FP&A Manager,True,Yes,2026-03-01T17:29:03.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5b3683e9a6da980c752ace88,Ignacio,Ma***z,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T14:26:52.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6252f24bfb133600010f7adf,Grzegorz,Gl***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-03T20:11:36.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,631dbea8c06f180001e31540,Wyatt,Mi***r,FP&A Manager,True,Yes,2026-03-05T11:54:26.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5b8f6e9ff874f74e680a70b2,Ashley,Co***t,FP&A Manager,True,Yes,2026-03-06T16:51:17.427+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5f4cd9883c83a600013a3ce0,Shipra,Ki***y,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T16:14:33.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,68d389996ac13400014476e5,Sofie,Wo***s,FP&A Manager,True,Yes,2026-03-03T20:23:20.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5d57f335a3ae61ce67b27680,Christopher,Ro***e,FP&A Manager,True,Yes,2026-03-04T05:04:39.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,60309b890322d80001148167,Valeria,Af***o,FP&A Manager,True,Yes,2026-02-16T19:10:39.010+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,63206e4b17f3b40001e486e1,Kyran,At***d,FP&A Manager,True,Yes,2026-03-04T07:12:28.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,67261d413bd9e000015cea37,Eduardo,Do***z,FP&A Manager,True,Yes,2026-03-05T10:01:07.834+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,67ea2046326eae00012066d7,Mark,Ka***n,FP&A Manager,True,Yes,2026-02-28T00:39:03.948+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5f4cd9883c83a600013a3ce0,Shipra,Ki***y,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T16:14:33.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57e19220a6da987d9c4927ba,Subhajit,Be***a,FP&A Manager,True,Yes,2026-03-05T06:43:12.459+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,67261d413bd9e000015cea37,Eduardo,Do***z,FP&A Manager,True,Yes,2026-03-05T10:01:07.834+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,63a6e6a467c7640001f83f98,Pedro,Fi***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T20:50:44.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,67ea2046326eae00012066d7,Mark,Ka***n,FP&A Manager,True,Yes,2026-02-28T00:39:03.948+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,564f5b69a6da982f430043de,Yehia,Th***t,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-05T05:45:56.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a3fc997468692abffaa222,Wojciech,Kr***k,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-27T00:25:25.785+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6197274f0a1f810001c8584d,Florian,Di***d,FP&A Manager,True,Yes,2026-02-09T10:14:35.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,570efb6df3e5bb78e60be506,Brian,Ha***e,FP&A Manager,True,Yes,2026-02-08T19:31:43.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6107ae0b4a47370001f45e46,Silvana,Vaz,FP&A Manager,True,Yes,2026-01-27T14:48:38.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5f761adae35a8200013fa5a2,Ethan,Ha***n,FP&A Manager,True,Yes,2026-03-04T07:54:34.724+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57d81cbba6da9809ee491a1f,Nitin,Si***h,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T06:25:44.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,610ab8be0098960001cdafb2,Alysson,Sa***s,FP&A Manager,True,Yes,2026-03-01T23:07:47.323+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6199a7b969fe770001d7816e,Thomas,La***e,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T10:06:15.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,611477f03aba8200019b6cd3,Jack,Be***n,FP&A Manager,True,Yes,2026-02-09T20:42:11.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6364f1d1ceb2e100016f2fdc,Joseph,Me***e,FP&A Manager,True,Yes,2026-02-09T10:05:04.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,67282ff45781e30001ad24db,Ayush,Jo***i,FP&A Manager,True,Yes,2026-03-05T08:40:07.102+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57d5c15fa6da9853bedc6cb3,Cesar,Ni***i,FP&A Manager,True,Yes,2026-02-21T09:05:29.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,66f84f727a9fc20001196e23,Tony,Ho***g,FP&A Manager,True,Yes,2026-03-07T17:09:02.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5dfd46c72f06ac00011b8c4c,Maggie,Pa***s,FP&A Manager,True,Yes,2026-02-18T10:15:13.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5f5c45ea6ec2900001b2ba77,Giulia,Ru***e,FP&A Manager,True,Yes,2026-03-04T07:56:49.756+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,60ce42b000bb85000162faf4,Allison,Ba***n,FP&A Manager,True,Yes,2026-02-24T11:02:00.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a3c9ff7468693b8c7dc512,Kyle,Da***y,FP&A Manager,True,Yes,2026-02-24T04:23:55.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57d7bd9ba6da9809ce6f8763,Barbara,Pa***m,FP&A Manager,True,Yes,2026-02-27T11:52:39.109+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,684661a1651a3a0001267074,Rotem,Gh***z,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T11:01:12.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,636c2ad1c34e2d0001cc76dd,Ruben,Go***z,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-04T08:36:58.083+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57d81cbba6da9809ee491a1f,Nitin,Si***h,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T06:25:44.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,609282dd15eab90001cb0327,Chris,Ma***h,FP&A Manager,True,Yes,2026-03-08T23:37:43.523+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a4bec47468692abf3a0960,Ghazi,Lu***i,FP&A Manager,True,Yes,2026-02-09T06:16:24.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a1c74674686942d33c6e10,Cynthia,Mi***u,FP&A Manager,True,Yes,2026-03-03T17:53:31.150+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5dfd46c72f06ac00011b8c4c,Maggie,Pa***s,FP&A Manager,True,Yes,2026-02-18T10:15:13.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a554097468692cf0fd318f,Carlo,Be***n,FP&A Manager,True,Yes,2026-02-15T16:37:50.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5d4596e3a3ae6131cff0210f,Claudia,Pa***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-25T20:10:30.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,562fd5d1a6da9846280000f3,David,Me***a,FP&A Manager,True,Yes,2026-02-26T18:41:57.675+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,61936183ffc721000183b1ee,Reilly,Hi***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-22T00:28:35.872+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54c1c5107468691639599743,Karson,Ko***e,FP&A Manager,True,Yes,2026-02-27T07:20:42.194+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5de42380c6005f0001d21dd0,Izabela,Ja***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-17T16:54:50.326+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a3c9ff7468693b8c7dc512,Kyle,Da***y,FP&A Manager,True,Yes,2026-02-24T04:23:55.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,60db2b1065c0110001da4cbc,Michal,Sa***z,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T14:23:00.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,66fe745360afa50001c83ec5,Magdalena,Ga***k,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-24T10:19:40.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,63df2d032997c50001a3959c,Anna,Be***a,FP&A Manager,True,Yes,2026-03-07T06:54:41.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6044d1f024b3750001216505,Junab,Ali,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-04T18:45:20.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57d3cc36a6da9853d61bd175,Richard,Ma***o,FP&A Manager,True,Yes,2026-02-03T17:09:47.245+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,64cd747951132100010e7018,Nicolas,Wa***k,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-04T15:29:00.244+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,562e8263a6da9825930051fd,Agnieszka,Sz***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-28T03:06:43.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6742cff37d4630000156f31e,Carlos,Ma***z,FP&A Manager,True,Yes,2026-02-24T04:18:37.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5be9a091f651255e783f1af7,Nazzar,Ma***f,FP&A Manager,True,Yes,2026-02-28T08:02:41.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54ebd347746869444c509c2d,Fernando,Lu***o,FP&A Manager,True,Yes,2026-01-30T12:03:03.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a7446a74686965d92aad24,Leandro,Ki***o,FP&A Manager,True,Yes,2026-02-15T20:13:22.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,61388f4eea28310001933e8b,Ruairi,Mc***n,FP&A Manager,True,Yes,2026-02-21T06:32:36.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,562fd5d1a6da9846280000f3,David,Me***a,FP&A Manager,True,Yes,2026-02-26T18:41:57.675+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,61936183ffc721000183b1ee,Reilly,Hi***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-22T00:28:35.872+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,60a40d8bc201db0001ee4261,Mark,Az***n,FP&A Manager,True,Yes,2026-02-28T19:01:02.848+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,557147ce73696458a4942800,Ramy,Wi***m,FP&A Manager,True,Yes,2026-02-16T04:51:08.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54c1c5107468691639599743,Karson,Ko***e,FP&A Manager,True,Yes,2026-02-27T07:20:42.194+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5fbe217dce624700011911bd,Elaine,Ga***r,FP&A Manager,True,Yes,2026-03-05T07:34:24.068+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54c1789f74686916396ba912,Celina,How,FP&A Manager,True,Yes,2026-02-18T20:22:17.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a4bec47468692abf3a0960,Ghazi,Lu***i,FP&A Manager,True,Yes,2026-02-09T06:16:24.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57d949b3a6da9872729be36b,Sikandar,Ha***d,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-05T05:09:09.433+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5570942a73696465c3555100,Nir,Ze***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-09T22:19:32.558+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5dd545b9932ee100019a1d1d,Andrea,Pi***u,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-27T13:48:13.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57d49b75a6da98537ed287cc,Will,Pa***y,FP&A Manager,True,Yes,2026-03-01T17:05:29.373+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,55cd3522f3e5bb05db0048ce,Jennifer,Ts***i,FP&A Manager,True,Yes,2026-02-28T09:22:14.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,61222628bf66b800019b7f0b,Jessie,So***g,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-03T16:02:43.106+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,56456da0a6da984f9700ecdf,Marcel,Cr***g,FP&A Manager,True,Yes,2026-02-21T03:17:57.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57e125f9a6da987d7c323431,Mehtap,Te***r,FP&A Manager,True,Yes,2026-02-12T01:26:35.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5e7c280771f7e90001bb0df3,Dayo,Ba***e,FP&A Manager,True,Yes,2026-03-05T09:57:53.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,66fc4729d924850001147d5f,Giffin,Ge***e,FP&A Manager,True,Yes,2026-02-16T08:27:49.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a811cd746869705a55475f,Toyin,Ol***e,FP&A Manager,True,Yes,2026-03-05T08:50:32.919+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,60594cd041643e0001ddb174,Abigail,Kn***t,FP&A Manager,True,Yes,2026-02-28T06:40:55.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57db4f46a6da9815437c24a9,Colin,Wo***s,FP&A Manager,True,Yes,2026-02-21T06:35:00.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57d5cf9ca6da98537edbcccf,Davy,Gr***o,FP&A Manager,True,Yes,2026-02-24T10:57:18.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57da9321a6da984a5cd5c791,Hursh,Ag***l,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-25T00:19:53.565+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a554097468692cf0fd318f,Carlo,Be***n,FP&A Manager,True,Yes,2026-02-15T16:37:50.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5d146315a3ae61cca9937f35,Iago,Al***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-28T04:00:31.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a4bec47468692abf3a0960,Ghazi,Lu***i,FP&A Manager,True,Yes,2026-02-09T06:16:24.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5570942a73696465c3555100,Nir,Ze***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-09T22:19:32.558+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5f508e3a3af6e400019fc8aa,Nathan,Az***o,FP&A Manager,True,Yes,2026-03-03T04:02:03.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57d49b75a6da98537ed287cc,Will,Pa***y,FP&A Manager,True,Yes,2026-03-01T17:05:29.373+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,55cd3522f3e5bb05db0048ce,Jennifer,Ts***i,FP&A Manager,True,Yes,2026-02-28T09:22:14.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,61222628bf66b800019b7f0b,Jessie,So***g,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-03T16:02:43.106+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,56456da0a6da984f9700ecdf,Marcel,Cr***g,FP&A Manager,True,Yes,2026-02-21T03:17:57.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5dd545b9932ee100019a1d1d,Andrea,Pi***u,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-27T13:48:13.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5e7c280771f7e90001bb0df3,Dayo,Ba***e,FP&A Manager,True,Yes,2026-03-05T09:57:53.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,66fc4729d924850001147d5f,Giffin,Ge***e,FP&A Manager,True,Yes,2026-02-16T08:27:49.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,60594cd041643e0001ddb174,Abigail,Kn***t,FP&A Manager,True,Yes,2026-02-28T06:40:55.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,630edf1f3f83d60001888e20,Iqra,Bu***t,FP&A Manager,True,Yes,2026-02-13T04:35:41.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57db4f46a6da9815437c24a9,Colin,Wo***s,FP&A Manager,True,Yes,2026-02-21T06:35:00.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,60ef1059d70839000113eeb7,Juan,Vi***l,FP&A Manager,True,Yes,2026-02-28T07:08:42.759+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57e125f9a6da987d7c323431,Mehtap,Te***r,FP&A Manager,True,Yes,2026-02-12T01:26:35.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,674d9bfb4f51fa000198f239,Anderson,Ol***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-19T19:16:44.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57df8f24a6da980b414aabaf,Emily,Ho***h,FP&A Manager,True,Yes,2026-02-10T18:30:49.080+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57d5cf9ca6da98537edbcccf,Davy,Gr***o,FP&A Manager,True,Yes,2026-02-24T10:57:18.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57daa304a6da984a44dd8dd3,Jessica,De***y,FP&A Manager,True,Yes,2026-03-05T09:27:15.955+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a811cd746869705a55475f,Toyin,Ol***e,FP&A Manager,True,Yes,2026-03-05T08:50:32.919+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a554097468692cf0fd318f,Carlo,Be***n,FP&A Manager,True,Yes,2026-02-15T16:37:50.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,64f6e85b60b9380001c78889,CA,Jh***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-10T19:02:35.019+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,625866bd9e5175000159a12f,Iasmym,Ki***r,FP&A Manager,True,Yes,2026-02-03T05:14:50.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5f6314d0b1d1be000129ef79,Julia,Fl***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-02T07:45:20.604+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5fcb1a26d745010001e62cc7,Tom,Le***d,FP&A Manager,True,Yes,2026-02-24T12:14:31.467+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,604986eeac2d2a000191aa7b,Naynesh,Th***r,FP&A Manager,True,Yes,2026-02-27T19:26:17.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,66f6c2191f450800010a2992,Axel,Ba***t,FP&A Manager,True,Yes,2026-03-06T05:57:55.590+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,61080e1b8be2270001201c44,Stuart,Da***r,FP&A Manager,True,Yes,2026-03-05T05:23:22.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5d69375df6512509127325ee,Laura,Zo***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-04T13:39:32.188+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57dae0f1a6da984a6c6f0952,Katherine,Bl***l,FP&A Manager,True,Yes,2026-02-23T13:15:10.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5e86aebb6f862a000143469f,Stefano,Ra***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T18:05:03.604+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,55de36bff3e5bb16b1002490,Antonio,Gu***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-23T10:20:33.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6368f87f630fe80001e0244b,Olivier,Du***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-23T15:56:56.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,564dcb46a6da984ff700c120,Shahar,Mo***h,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-18T09:47:30.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,61b8e9b44f28cb0001e9d3da,Leonardo,Yo***e,FP&A Manager,True,Yes,2026-02-09T06:14:39.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57da96c7a6da984aabc3c086,Craig,Li***e,FP&A Manager,True,Yes,2026-02-26T21:10:45.455+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a29ad37468693a7e5d892f,Christian,Gi***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-25T22:36:07.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,67654f5a9cf8110001929570,Harrison,Hu***g,FP&A Manager,True,Yes,2026-03-02T12:45:00.330+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a8165d7468696220f5df5f,Leonardo,Pe***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-09T07:26:26.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a3b78f7468693b8c7e120d,Bryon,Ho***d,FP&A Manager,True,Yes,2026-03-03T07:04:15.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5f4de23f970ec3000148e63c,Tiantian,Su,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-03T11:21:51.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a9b15d746869334a69b917,Didier,Le***e,FP&A Manager,True,Yes,2026-02-10T20:00:30.054+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5d5dd27180f93ef0ce199baf,Tyler,Ba***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-03T13:49:49.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,672e660364817200011154e0,Oscar,Va***z,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-11T10:02:15.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,626f87287dbeea0001eb8d4c,Alexandra,Se***a,FP&A Manager,True,Yes,2026-02-24T10:00:06.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57dadf32a6da984a74d2e6a9,Brad,Wa***r,FP&A Manager,True,Yes,2026-02-03T08:06:37.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57db895da6da98687b45e3c3,Jonathan,He***a,FP&A Manager,True,Yes,2026-02-28T22:02:58.924+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5d555d23f65125c15a37dea5,Janine,Gi***i,FP&A Manager,True,Yes,2026-02-14T09:39:43.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,562ed481a6da98688c000bee,Corentin,Ge***e,FP&A Manager,True,Yes,2026-03-03T19:13:35.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57d83d3ba6da980a3d7b2672,Marco,Gu***n,FP&A Manager,True,Yes,2026-02-06T20:53:13.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,674d9bfb4f51fa000198f239,Anderson,Ol***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-19T19:16:44.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a335b87468693825b7a85c,Javier,Ar***o,FP&A Manager,True,Yes,2026-03-07T05:37:59.901+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,679da7e732093c000107453e,Mani,Do***d,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T14:56:59.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,63b4863bbbceb60001bc8db3,Charles,Ge***i,FP&A Manager,True,Yes,2026-03-03T11:54:01.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5d36c7b9a3ae61504d03d726,Ivan,Be***n,FP&A Manager,True,Yes,2026-03-04T23:55:28.397+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,658a5969c195ff0001af7abc,Parth,Sh***h,FP&A Manager,True,Yes,2026-03-04T04:35:13.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,63a30220f92fa70001bf0527,Shiang,Lin,FP&A Manager,True,Yes,2026-03-04T10:11:23.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54ec3776746869444ca8bf67,Kelly,Do***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-05T08:52:44.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5efab68ab7c46b000197a21a,Renan,Ar***s,FP&A Manager,True,Yes,2026-02-06T17:01:18.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6610caebbc395600073b7632,Mateusz,Cy***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-07T01:51:57.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,680abb03f2473c00012fa775,Justin,Hu***t,FP&A Manager,True,Yes,2026-03-03T11:28:52.109+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,61f38223a5c7f100019c98ff,Emma,Te***o,FP&A Manager,True,Yes,2026-02-09T08:13:42.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,613302171e71cd0001bd15d3,Patrick,Vi***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-05T10:01:37.250+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,613308f47099910001e105ce,Cristina,Ro***u,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T09:13:41.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5b2f7883a6da982cac1d2be1,Jim,Mu***n,FP&A Manager,True,Yes,2026-02-28T14:07:30.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6099dd990d1b9c0001d11044,Soo,Mi***g,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-04T20:06:18.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5d40ede0a3ae61519c67cd1c,Balazs,Be***e,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-28T06:38:21.660+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57dfb13ca6da980b4a0aa761,Wieslaw,Bi***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-26T18:34:18.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54ab5dac7468690ae6e16a04,Carolyn,Br***n,FP&A Manager,True,Yes,2026-02-24T03:28:31.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57da392aa6da984a384add8d,Valentina,Ti***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-05T08:42:23.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57deeb91a6da987b6db50a93,Vitor,Ca***o,FP&A Manager,True,Yes,2026-02-12T12:24:37.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5f5a7f90a3f9b10001d5d6b5,Kaitlyn,Br***y,FP&A Manager,True,Yes,2026-02-23T03:23:39.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,610aae3c1bffa0000109e1b9,Matteus,Ba***o,FP&A Manager,True,Yes,2026-02-14T05:52:22.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57dfcec7a6da980b5c79616d,Manuel,Ba***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T11:22:06.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5fcb1a26d745010001e62cc7,Tom,Le***d,FP&A Manager,True,Yes,2026-02-24T12:14:31.467+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5f5a7f90a3f9b10001d5d6b5,Kaitlyn,Br***y,FP&A Manager,True,Yes,2026-02-23T03:23:39.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,610aae3c1bffa0000109e1b9,Matteus,Ba***o,FP&A Manager,True,Yes,2026-02-14T05:52:22.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57dfcec7a6da980b5c79616d,Manuel,Ba***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T11:22:06.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,660f817a05e02700078d56d7,Gabby,Sa***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-09T03:28:26.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a3a0627468693676b8d705,Leonardo,Br***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T03:54:27.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5cd2f26bf65125eb2f8789ec,Shelly,Tr***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T07:52:19.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57d9282ea6da987292813e04,Paul,Cr***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-27T20:40:55.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,671a97c225cd780001fbc42e,Mark,Wi***s,FP&A - Manager,True,Yes,2026-02-09T10:57:19.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5c5464c8a3ae61e859e41bd7,Jae,Kim,Fp&a Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T13:46:29.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57de99cca6da987b1877f9a3,Gerardo,Be***a,FP&A Manager,True,Yes,2026-02-16T14:56:56.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,55712fc57369645322110500,Brett,Na***u,FP&A Manager,True,Yes,2026-03-05T10:19:37.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5f4e5a65091cf40001e32de3,Alia,Ca,FP&A Manager,True,Yes,2026-03-03T04:45:39.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5aa75cfea6da98c3f9902c87,Jose,Da***a,FP&A Manager,True,Yes,2026-03-04T14:13:08.297+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a4ad3974686938ace99f5a,Julio,Ga***a,FP&A Manager,True,Yes,2026-02-26T15:56:37.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5b1f0adfa6da98e234d3ec88,Marina,To***s,FP&A Manager,True,Yes,2026-02-14T09:01:43.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,63a71261ff0673000141e767,Lorna,St***r,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-25T22:46:21.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a3b78f7468693b8c7e120d,Bryon,Ho***d,FP&A Manager,True,Yes,2026-03-03T07:04:15.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5f508e3a3af6e400019fc8aa,Nathan,Az***o,FP&A Manager,True,Yes,2026-03-03T04:02:03.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5aadf50fa6da98c33b3ab593,Paulina,Ba***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-27T03:21:56.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,657c8ced24ea44000196c817,Alger,To***s,FP&A Manager,True,Yes,2026-02-04T02:47:54.696+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,66f7fa0744866a0001db0c5d,Michelle,Wo***g,FP&A Manager,True,Yes,2026-02-26T17:04:45.961+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,611b99b00504e30001c12cf1,Krista,He***n,FP&A Manager,True,Yes,2026-03-03T12:10:44.275+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,619769921f1e33000164f59e,Nara,Vi***a,FP&A Manager,True,Yes,2026-02-19T11:23:51.603+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,63f871075998c70001a20dfb,Megan,Yu,FP&A Manager,True,Yes,2026-03-04T02:51:58.663+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,670118d123d9e00001c3806b,Matthew,Go***h,FP&A Manager,True,Yes,2026-03-03T11:58:33.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5d36c7b9a3ae61504d03d726,Ivan,Be***n,FP&A Manager,True,Yes,2026-03-04T23:55:28.397+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,619769921f1e33000164f59e,Nara,Vi***a,FP&A Manager,True,Yes,2026-02-19T11:23:51.603+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,63f871075998c70001a20dfb,Megan,Yu,FP&A Manager,True,Yes,2026-03-04T02:51:58.663+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,614d73da78c990000153e2b8,Jackson,Mc***y,FP&A Manager,True,Yes,2026-03-01T04:31:21.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6110e3d91cfb190001bb5051,Fahmid,Ah***d,FP&A Manager,True,Yes,2026-03-05T05:55:09.393+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5f5a7f90a3f9b10001d5d6b5,Kaitlyn,Br***y,FP&A Manager,True,Yes,2026-02-23T03:23:39.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,610fd4e97055a1000166788a,Clara,Pe***m,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-27T03:38:44.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57dfcec7a6da980b5c79616d,Manuel,Ba***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T11:22:06.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,61011157af362a0001249797,Tomek,Gr***i,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-20T17:35:29.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,618b57af99ba8800016b1a65,Philippe,Ca***a,FP&A Manager,True,Yes,2026-02-17T08:48:49.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57d9c751a6da987fbdb002e8,Patrick,Be***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-03T13:48:36.517+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,601512400d4c42000138acea,Marcelo,Sa***s,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-02T23:56:37.562+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5cd2f26bf65125eb2f8789ec,Shelly,Tr***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T07:52:19.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a8e4bb7468692d1c390f08,Fahad,Kh***n,FP&A Manager,True,Yes,2026-02-26T02:00:46.138+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,610144b592bc8100010d1548,Eleanor,Fox,FP&A Manager,True,Yes,2026-02-24T10:38:42.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,671a97c225cd780001fbc42e,Mark,Wi***s,FP&A - Manager,True,Yes,2026-02-09T10:57:19.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,67065cad77028a00010bcb7c,Jaime,Lu***a,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-10T13:01:01.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,66f6b03930b4dd00016a4a78,Chiara,Ca***i,FP&A Manager,True,Yes,2026-02-18T23:08:55.625+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a62f9d7468693b8ca689c9,Ivan,Sp***v,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-26T17:50:32.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a5cdd5746869320914eea9,Guillermo,Or***s,FP&A Manager,True,Yes,2026-02-19T09:25:30.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a54a337468693676330d8c,Danielle,Fo***y,FP&A Manager,True,Yes,2026-02-21T09:41:27.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,66ed5a9d4f71600001f3006b,Sourabh,Pa***l,FP&A Manager,True,Yes,2026-02-03T07:23:59.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,60ef5f763d01ce0001d74ec1,Dina,At***h,FP&A Manager,True,Yes,2026-03-06T21:15:15.149+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a539237468693b8c7a0b87,Guy,Gr***s,FP&A Manager,True,Yes,2026-02-28T05:14:21.078+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,60656acf659808000197d6c6,Alice,Ki***e,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2025-11-21T13:31:24.228+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,648c7a3963bfd20001a2940c,Gerald,Th***e,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-20T11:43:19.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5aba07eca6da98407a9bead5,Lan,Yao,FP&A Manager,True,Yes,2026-02-24T04:24:20.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54c1dca67468697af7c90a54,Hazel,Tan,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-03T17:09:59.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,62ba23cb7dd1890001b54b08,Paul,So***f,FP&A Manager,True,Yes,2026-02-09T08:31:37.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,65979dfc4df5f600015bb463,Alexandre,Ze***n,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-12T04:51:59.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5d6990ac80f93e6b2667a2e7,Jana,Ku***r,FP&A Manager,True,Yes,2026-02-26T19:05:43.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,64ce8a33b8e65e00012e7b0b,Bennett,Fe***n,FP&A Manager,True,Yes,2026-03-05T03:45:16.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,65bb3704d84de9000106cf3d,Kyle,Be***n,FP&A Manager,True,Yes,2026-02-24T07:21:21.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6110480048ce220001b1210f,Stoyan,Hr***v,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-28T05:05:11.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5d6d6f6080f93edc6ea7d75e,Priscilla,Wo***g,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-21T04:25:05.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57de4e68a6da987b4d97f811,Chris,Fa***y,FP&A Manager,True,Yes,2026-03-02T05:39:15.854+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5ff9de720e78dd0001a7ecd1,Elliott,Sm***h,FP&A Manager,True,Yes,2026-03-07T17:51:23.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6013435c450e2d00018b4c2b,Eduardo,Gr***i,FP&A Manager,True,Yes,2026-02-03T14:47:46.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5acc541ea6da98745e978ba6,David,Ro***e,FP&A Manager,True,Yes,2026-03-08T21:52:37.045+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6640a21dcc6dfc000127538f,Aoife,Ta***y,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-17T17:17:42.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54c1d5317468691639e2f44d,Geeyan,Ts***g,FP&A Manager,True,Yes,2026-02-28T05:42:45.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6429de18f7db1700011e6cc6,Erika,Ba***e,"FP&A, Manager",True,Maybe: please request direct dial via people/bulk_match,2026-02-07T17:08:02.679+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,57d54d22a6da9853b6afe8d9,Alexander,Vo***n,FP&A Manager,True,Yes,2026-03-11T07:51:06.733+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,61567effd98d550001825f72,Quang,Vu,FP&A Manager,True,Yes,2026-02-28T04:15:29.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,61f37bab64f2680001cceef3,Jennifer,Re***e,FP&A Manager,True,Yes,2026-02-25T12:43:08.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a21cee7468693a7e509f0d,Mark,Gu***p,FP&A Manager,True,Yes,2026-03-07T04:59:10.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,54a284fe7468693fda683f29,Charu,Tak,FP&A Manager,True,Yes,2026-03-02T12:57:04.564+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,562e79b2a6da98233f0057b5,Carlos,Ca***o,FP&A Manager,True,Yes,2026-02-05T05:51:20.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,6167f35f5a671300012dacc0,Yufei,Sh***n,FP&A Manager,True,Yes,2026-02-17T06:07:02.000+00:00
+EMATER-RS/ASCAR,tche.br,http://www.tche.br,5b93d9dcf874f7431b0ad68b,Karan,Sh***h,FP&A Manager,True,Yes,2026-02-05T13:47:16.000+00:00
+Secretaria Municipal de Saúde Manaus,,,60369043fc388b0001afc123,Saymon,Er***n,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-03T16:48:17.041+00:00
+SEFA,sefaz.ba.gov.br,http://www.sefaz.ba.gov.br,57d3e6dba6da9853967bdf6c,Rommel,Ar***o,IT Manager,True,Yes,2026-02-04T13:16:21.365+00:00
+Laser Eletro-Master Eletrônica de Brinquedos LTDA,lasereletro.com.br,http://www.lasereletro.com.br,54a3a7a37468692fa2a72108,Vinnicius,Jo***p,IT Manager,True,Yes,2026-02-14T05:44:41.000+00:00
+Rancho Bom Supermercados,ranchobom.com.br,http://www.ranchobom.com.br,611bf71ff7586200014e4b7f,Lucas,Al***i,IT Manager,True,Yes,2026-02-04T19:23:10.467+00:00
+Althoff Supermercados,althoff.com.br,http://www.althoff.com.br,6024426aa2afdf0001b86f8b,Fernando,Am***m,Gerente de Tecnologia da Informação e Inteligência de Dados,True,Yes,2026-02-13T21:23:59.000+00:00
+Supermercado Moranguinho,supermoranguinho.com.br,http://www.supermoranguinho.com.br,687a50cfdb37e300018291f5,Junior,Va***s,IT Project Manager,True,Yes,2026-02-15T10:11:12.016+00:00
+Caçula,cacula.com,http://www.cacula.com,699f251238b6ea00011bf00a,Michel,Lo***s,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-23T18:08:16.741+00:00
+Supermercados Machado,redemachado.com.br,http://www.redemachado.com.br,618c1462603766000148bcc5,Marcos,Re***o,IT Manager,True,Yes,2026-02-05T22:27:10.000+00:00
+Estrela Lojas,estrelalojas.com.br,http://www.estrelalojas.com.br,69a8690b4364d200013ad20c,Carlos,Ma***l,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-29T22:36:54.000+00:00
+Antonelli Supermercados Oficial,smantonelli.com.br,http://www.smantonelli.com.br,6101732af7d3170001a092ed,Ricardo,Si***a,Gerente de T.I,True,Yes,2026-01-23T17:26:08.834+00:00
+Distribuidora Coimbra,dcoimbra.com.br,http://www.dcoimbra.com.br,62c84865101a16000144a712,Ewerton,Bo***e,IT Manager,True,Yes,2026-02-14T07:46:20.000+00:00
+União Supermercados,,,610bf698f030b00001b8de87,Jefferson,Li***a,Gerente T.i,True,Yes,2026-02-15T22:22:24.000+00:00
+Grupo Ramiro Campelo,lojasguaibim.com.br,http://www.lojasguaibim.com.br,6361685bd0735e0001a12799,Norberto,Pa***s,IT Manager,True,Yes,2026-01-30T00:08:00.000+00:00
+Elmo Calcados,elmo.com.br,http://www.elmo.com.br,65f9ea5d4d860f0007e4fa6b,Cristiano,Me***o,IT Manager,True,Yes,2026-01-29T12:55:20.000+00:00
+Rede Dom Pedro de Postos,rededompedro.com,http://www.rededompedro.com,5c60502fa3ae616c4169c264,Aline,So***a,IT Manager,True,Yes,2026-02-13T17:19:37.800+00:00
+RN,rntintas.com.br,http://www.rntintas.com.br,54aba3767468692a6b996a02,Rafaella,Ar***s,Financial Services Supervisor,True,Yes,2026-02-11T07:08:05.755+00:00
+Sempre Vale Supermercados,semprevale.com.br,http://www.semprevale.com.br,67fbc2bd6676f10001d2afe6,Luan,Ol***a,IT Manager,True,Yes,2026-03-06T15:48:46.961+00:00
+Supervi Distribuidor de Alimentos,supervi.com.br,http://www.supervi.com.br,6029ec23a7d9940001f6a774,Fernando,Lu***z,Gerente de T.I.,True,Yes,2026-02-12T14:35:40.000+00:00
+SAAE,saaebm.rj.gov.br,http://www.saaebm.rj.gov.br,54a3f5837468692cf078ae20,Willon,Sm***h,IT Manager,True,Yes,2026-01-30T15:32:04.868+00:00
+Terra Viva,,,663e81370974130001ee4a2b,Fabio,Ca***i,IT Manager,True,Yes,2026-02-13T10:22:36.000+00:00
+Transportadora Figueiredo LTDA,transportadorafigueiredo.com,http://www.transportadorafigueiredo.com,613a2f38cbb3de0001c8b7c3,Janaina,Mo***a,"Gerente de Logística, Marketing e TI",True,Yes,2026-02-20T14:12:27.230+00:00
+São Jorge Shopping da Construção,saojorgeshopping.com.br,http://www.saojorgeshopping.com.br,60be20367fb4c00001c90a10,Alessandro,Ad***o,IT Manager,True,Yes,2026-02-21T17:10:38.583+00:00
+Lojas Noroeste,noroestecalcados.com.br,http://www.noroestecalcados.com.br,63dce42c13e3370001c4f09b,Rogean,Vi***a,IT Infrastructure Manager,True,Yes,2026-02-28T23:39:17.947+00:00
+Supermercado Barbosa,supermercadobarbosa.com.br,http://www.supermercadobarbosa.com.br,5c36d6f4a3ae61097018ec87,Marcos,Ba***a,IT Manager,True,Yes,2026-02-15T18:21:33.000+00:00
+USIBRAS,,,66efff79620a9f000187bd25,Divine,Al***o,"IT Manager, Network Administrator",True,Yes,2026-02-16T12:03:05.989+00:00
+Elizeu Martins Supermercados,elizeumartins.com.br,http://www.elizeumartins.com.br,671d736642ba260001bd8f68,Brenno,Mo***a,IT Manager,True,Yes,2026-02-27T22:05:28.000+00:00
+Grupo Novalar,novalar.com.br,http://www.novalar.com.br,66f6a87fa3fccf0001e4a8dd,David,Co***o,IT Manager,True,Yes,2026-02-03T12:43:32.000+00:00
+Prefeitura de Aracruz,aracruz.es.gov.br,http://www.aracruz.es.gov.br,697f0859891eae00017c7b3e,Marcelo,Fa***i,IT Manager,True,Yes,2026-01-30T11:47:12.000+00:00
+Sergas,,,66fe93a0fcf9a80001498a9a,Sarfaraj,Ho***r,IT Manager,True,Yes,2026-02-28T01:46:31.000+00:00
+Sergas,,,65a666587562b80001d8e176,Noorul,Huq,Group Information Technology Manager,True,Yes,2026-02-20T23:45:51.727+00:00
+A&D,assembleiadedeusbh.com,http://www.assembleiadedeusbh.com,630df8a660030800015d8528,Bishop,Co***n,I am a Welder and I Have Experience in Industrial Cleaner,True,Maybe: please request direct dial via people/bulk_match,2026-02-28T00:01:34.000+00:00
+Confecção,,,54a47dce7468693b8c947d4b,Wagner,Fr***e,IT Manager,True,Yes,2026-01-29T18:48:36.020+00:00
+Casa dos Parafusos,casadosparafusos.com.br,http://www.casadosparafusos.com.br,54a90fcb74686933992fbc0b,Eloi,Si***a,IT Manager,True,Yes,2026-01-30T15:09:38.000+00:00
+Prefeitura Municipal de Macatuba,macatuba.sp.gov.br,http://www.macatuba.sp.gov.br,54a9e530746869334a25641b,Jose,Pa***i,Gestor de Tecnologia da Informação,True,Yes,2026-02-15T02:59:36.000+00:00
+TESte,,,54c1635e7468697af7103606,Nick,Ur***a,IT Manager,True,Yes,2026-01-23T02:46:31.295+00:00
+TESte,,,66f906c160e65000017cde20,Florian,Vi***l,Group IT Manager,True,Yes,2026-02-26T17:26:47.000+00:00
+Empresa,,,618a10b0fd624300018ed2d4,Antonio,Mo***a,IT Manager,True,Yes,2026-02-15T20:38:39.000+00:00
+Empresa,,,5fae76d5ff2144000182c125,Jorge,Va***a,IT Manager,True,Yes,2026-02-22T17:22:03.189+00:00
+Empresa,,,608abc7b68455b000175ce35,Sergio,Gr***o,IT Manager,True,Yes,2026-01-29T18:41:24.599+00:00
+Empresa,,,66a0b870d70a510001b04381,Israel,Za***a,IT Manager,True,Yes,2026-01-30T09:24:04.000+00:00
+Empresa,,,54a1d3dd7468694f8f80a414,Saul,Di***z,IT Manager,True,Yes,2026-03-02T03:41:30.000+00:00
+Empresa,,,647b376e847705000119d6e5,Fabio,Go***s,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-29T15:25:59.000+00:00
+Empresa,,,5f3f1e62cd8fe900be214a34,Williams,Si***a,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-26T03:46:09.000+00:00
+Empresa,,,6070bcc4d288960001efcc52,Bruno,Ri***o,IT Manager,True,Yes,2026-02-06T21:04:41.000+00:00
+Empresa,,,651f8eb41d1b510001dfd66b,Lucas,Ri***s,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-26T21:58:11.000+00:00
+Empresa,,,64a80861695b9000014bc440,Eduardo,Ma***a,IT Manager,True,Yes,2026-03-03T18:06:51.000+00:00
+Empresa,,,611899dd18298a000112dbf1,Albert,Or***z,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-16T19:08:41.811+00:00
+Empresa,,,54a606a17468693b8c0598bc,Alberto,Bu***i,IT Manager,True,Yes,2026-01-30T13:11:45.000+00:00
+Empresa,,,5ad3e895a6da98672fcc173f,Gustavo,Fa***a,IT Manager,True,Yes,2026-02-14T05:59:45.000+00:00
+Empresa,,,54a1c81b7468694f8f96bf10,Saint,Go***z,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-04T01:19:11.000+00:00
+Empresa,,,6951de7582138f0001552140,Sergio,Br***o,IT Manager,True,Yes,2026-02-15T06:22:35.000+00:00
+Empresa,,,54a77f217468696829f21c3a,Jhon,Vi***s,IT Manager,True,Yes,2025-11-19T23:04:47.534+00:00
+Empresa,,,607f2ee4826c50000161c1c4,Wenceslao,Va***k,IT Manager,True,Yes,2026-02-15T22:00:57.000+00:00
+Empresa,,,61d70a4252073200015bd753,Juan,Mo***o,IT Manager,True,Yes,2026-02-27T18:47:48.475+00:00
+Empresa,,,6104d2fa882efa00012aa3f6,Diego,Va***a,IT Manager,True,Yes,2026-03-07T13:02:31.000+00:00
+Empresa,,,614ce5fab3e1c7000127cad0,Daniel,Ba***o,IT Manager,True,Yes,2026-02-12T04:37:36.000+00:00
+Empresa,,,5636af19a6da987cb200098d,Marcelo,Pi***o,IT Manager,True,Yes,2026-03-03T15:30:26.281+00:00
+Empresa,,,647e0a1e84536c0001d96e2c,Eduardo,Av***o,IT Manager,True,Yes,2025-10-30T13:24:42.760+00:00
+Empresa,,,5b28aa10a6da98c3860c725b,Thiago,Mo***o,IT Manager,True,Yes,2026-02-27T12:52:04.000+00:00
+Empresa,,,5c6ea335f651255361c20e57,Carlos,Cr***z,IT Manager,True,Yes,2026-02-08T00:14:36.000+00:00
+Empresa,,,665364bfb0589b00010d85bf,Daniel,Al***o,IT Project Manager,True,Yes,2026-02-14T23:26:37.000+00:00
+Empresa,,,54a1afed74686945fafb0508,Daniel,Ro***z,IT Project Manager,True,Yes,2026-02-16T02:59:14.000+00:00
+Empresa,,,6644c84301f83e000192b47a,Flavio,Le***e,IT General Manager,True,Yes,2026-02-12T21:12:36.000+00:00
+Empresa,,,5d503e8bf65125c98f67c321,Carlos,Yu***e,IT Project Manager,True,Maybe: please request direct dial via people/bulk_match,2026-01-23T12:41:25.000+00:00
+Empresa,,,60d4dc15dad70a0001d7b942,Jose,Si***a,Gerente de TI / PMO e Processos,True,Yes,2026-02-26T16:59:12.189+00:00
+Empresa,,,685175024c1e2100015206cf,Jessica,Va***z,People and Culture Manager en Readiness IT Latam,True,Yes,2026-02-15T00:58:56.000+00:00
+Empresa,,,635692b4636aec0001553505,Aline,Xa***r,Financial Administrative Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-25T03:04:08.000+00:00
+Empresa,,,55707ffd7369642e4b402400,Diego,Ar***a,IT Project Manager,True,Yes,2026-02-24T13:29:59.000+00:00
+Empresa,,,54a518357468693b8c37767c,Ronan,Si***a,IT Infrastructure Manager,True,Yes,2026-02-27T23:10:14.346+00:00
+Empresa,,,54c1d2cf746869163971704c,Sandra,Gu***z,IT Project Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-13T19:27:23.000+00:00
+Empresa,,,54a2a131746869382566cf31,Jonathan,Or***a,IT Project Manager,True,Yes,2026-02-14T13:38:54.000+00:00
+Empresa,,,57d8d25fa6da9872625cfed3,Cristian,Vi***n,IT Project Manager,True,Yes,2026-02-04T04:09:34.282+00:00
+Empresa,,,54a511767468693b8c523d7a,Alan,Ar***e,IT Project Manager,True,Yes,2026-02-11T22:44:28.114+00:00
+Empresa,,,6689eeba379b590001210a29,Alberto,Ca***z,"Gerente Financiero, Administrativo y TIC",True,Yes,2026-03-03T15:47:29.885+00:00
+Empresa,,,65415fbde4f6610001901ba9,Victor,Me***a,IT Project Manager,True,Yes,2026-02-05T19:06:48.208+00:00
+Empresa,,,6167c3db751a600001463bad,Hector,Ba***s,Jefe de Informática en Induvar S.A,True,Maybe: please request direct dial via people/bulk_match,2025-11-12T03:18:20.573+00:00
+Empresa,,,56287fcfa6da9824680011b4,Jose,Ro***z,Jefe de TI,True,Yes,2026-01-13T13:53:40.041+00:00
+Empresa,,,5f4e86914c93380001f7c365,Misael,Ca***o,Responsable Unidad de TI,True,Maybe: please request direct dial via people/bulk_match,2026-02-24T05:49:18.378+00:00
+Empresa,,,5cd19cc8f651256d24980039,Rui,Go***s,Chefe TI,True,Maybe: please request direct dial via people/bulk_match,2026-01-20T19:08:29.000+00:00
+Empresa,,,66f6311a6b1549000120d6f7,Rui,Ma***s,"CIO, Project Management, IT Management & Support",True,Yes,2026-02-01T21:21:12.718+00:00
+Empresa,,,679c72e86c2f8200019d2386,Jaime,Si***a,Sub Gerente de Operaciones y TIC,True,Yes,2026-02-27T02:29:44.000+00:00
+Empresa,,,6514860377fbec0001085fd8,Pablo,Pa***a,Jefe TI & Transformación Digital,True,Yes,2026-02-13T13:04:24.000+00:00
+Empresa,,,60f6f8ebf5d53d00019954e3,Claudia,Pa***a,Subgerente IT,True,Yes,2026-03-10T14:49:09.356+00:00
+Empresa,,,61a4f3fa085e95000198cfb9,Sandro,Po***e,Jefe Informatica,True,Yes,2026-02-25T16:50:49.186+00:00
+Empresa,,,6741e8221df65e0001975529,Luciana,Ma***s,Supervisor Administrativo e Financeiro,True,Maybe: please request direct dial via people/bulk_match,2026-02-14T11:01:41.000+00:00
+Empresa,,,64a99bc1d8ab57000112da8d,Joan,Fl***o,Encargado de Tecnologías de la Información,True,Maybe: please request direct dial via people/bulk_match,2025-12-14T18:39:32.000+00:00
+Empresa,,,60f9d608f9305100019d2740,Masao,Ya***a,Subgerente TI,True,Yes,2026-03-06T08:51:18.000+00:00
+Empresa,,,60d4d9551715050001578735,Bruno,Gn***o,Gerente Corporativo TI,True,Yes,2026-03-06T08:57:43.000+00:00
+Empresa,,,68e0f6b2c83c8e0001034562,Cesar,Ca***a,IT Technology Leader,True,Yes,2026-03-03T10:30:25.000+00:00
+Empresa,,,54a4807d7468692cf0b6684c,Javier,Ra***o,Gerente de Tecnologias de Información,True,Yes,2026-02-16T08:49:30.015+00:00
+Empresa,,,5e68adc26913d50001f7f068,Ana,Ca***n,Responsable de IT,True,Yes,2026-03-07T23:14:47.000+00:00
+Empresa,,,54a39ccb74686938acdc0805,Lillian,Ga***a,Computer Manager,True,Maybe: please request direct dial via people/bulk_match,2026-03-02T22:12:06.000+00:00
+Empresa,,,618a427ebd46f00001f8d152,Alvaro,Re***o,Gestor de Disponibilidad y Riesgos de TI,True,Yes,2026-02-19T23:44:13.407+00:00
+Empresa,,,627ac83ce8991c0001af9f5b,Marco,Re***a,Encargado de IT,True,Yes,2026-02-28T05:16:27.967+00:00
+NIKS,,,63c8eedd52cc5b0001178ade,Akshaya,Ch***i,Asst. IT Manager,True,Yes,2026-03-02T01:58:16.595+00:00
+Mateus,,,66d2d0ebab0a5a0001f61a19,Jorge,Na***o,IT Manager,True,Yes,2026-02-15T08:16:51.662+00:00
+Mateus,,,6645daa7e1f2dd0001cf35b7,Igor,Lu***a,CPD | T.i,True,Maybe: please request direct dial via people/bulk_match,2026-02-26T00:42:47.000+00:00
+Elektro Eletricidade e Serviços S.A.,neoenergiaelektro.com.br,http://www.neoenergiaelektro.com.br,54a42c4a74686938ac049732,Olivia,Me***o,FP&A Manager,True,Yes,2026-02-17T06:20:29.000+00:00
+Elektro Eletricidade e Serviços S.A.,neoenergiaelektro.com.br,http://www.neoenergiaelektro.com.br,610c20b5f690eb00015f5abe,Natalia,Co***i,IT Manager,True,Yes,2026-02-13T12:25:37.000+00:00
+Elektro Eletricidade e Serviços S.A.,neoenergiaelektro.com.br,http://www.neoenergiaelektro.com.br,66f3130d3091f80001969fb3,Rodrigo,Da***a,IT Infrastructure Manager,True,Yes,2026-02-12T11:16:24.000+00:00
+Elektro Eletricidade e Serviços S.A.,neoenergiaelektro.com.br,http://www.neoenergiaelektro.com.br,57e06942a6da981c05c8547c,Tais,To***o,Gerente FP&A,True,Yes,2026-02-16T17:40:52.000+00:00
+Elektro Eletricidade e Serviços S.A.,neoenergiaelektro.com.br,http://www.neoenergiaelektro.com.br,68d0ca52809eeb000185321c,Leonardo,Mo***a,Gerente de Planejamento e Controle | FP&A,True,Maybe: please request direct dial via people/bulk_match,2026-02-09T10:55:56.000+00:00
+LOJÃO,,,5f4ecf1837260c00014627be,Ricardo,Ba***s,IT Manager,True,Yes,2026-01-26T16:20:46.000+00:00
+LOJÃO,,,61118924bf6ff5000135ee29,Solon,Mo***a,Gestão de TI,True,Yes,2026-03-02T01:38:37.419+00:00
+Girassol,,,6739d94b1417500001cd1ffb,Jussara,Te***o,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-14T12:16:20.000+00:00
+Serrana,,,54a2747e74686935be6b3e24,Wagner,St***e,IT Manager,True,Yes,2026-02-05T19:21:15.000+00:00
+Cuiabá,,,61975c92b4b521000140ab98,Kallil,Bo***o,IT Manager,True,Yes,2026-02-13T23:00:03.000+00:00
+Cuiabá,,,66f94cc183ba0c000145a4ff,Carlos,Ra***y,Gerente de TI - Inovações e Projetos,True,Yes,2026-02-14T00:23:27.000+00:00
+Ceará,,,54a3ed2a7468693b8c60f41d,Robson,Ca***o,IT Manager,True,Yes,2026-02-15T08:13:50.000+00:00
+Ceará,,,54a557cf7468692cf0656e90,Ademir,Fr***s,IT Manager,True,Yes,2026-02-15T01:00:41.000+00:00
+Ceará,,,57d8cf2fa6da9872625cc9a2,Celio,Li***a,IT Manager,True,Yes,2026-01-14T09:37:41.547+00:00
+Ceará,,,68a559808f543600016d0a45,Daniel,Bo***n,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-12T03:30:06.000+00:00
+Ceará,,,66154aaa45a5cf0008d1ffae,Natasha,Fa***s,IT Manager,True,Yes,2026-02-13T11:01:40.000+00:00
+Ceará,,,54a220eb7468693a7e730f0f,Mirko,Mo***s,IT Manager,True,Yes,2026-02-05T20:27:10.193+00:00
+Ceará,,,63278ab3e58e3800013a9f53,Mario,Ar***o,IT Manager,True,Yes,2026-03-02T23:40:49.864+00:00
+Ceará,,,6951de7582138f0001552140,Sergio,Br***o,IT Manager,True,Yes,2026-02-15T06:22:35.000+00:00
+Ceará,,,64d22d141e40240001ca9eb9,Victor,Al***r,IT Manager,True,Yes,2026-02-14T02:52:18.000+00:00
+Ceará,,,5f0eb3a99343ec0001eaea34,Moacir,Sa***s,IT Manager,True,Yes,2026-01-23T15:07:03.109+00:00
+Ceará,,,671580bd9525d200015c5040,Nicole,Ch***s,IT Project Manager,True,Yes,2026-02-12T16:52:21.000+00:00
+Ceará,,,63a0c52f30b167000190a8a4,Lanna,Li***a,IT Project Manager,True,Yes,2025-06-13T06:46:23.635+00:00
+Ceará,,,57df2404a6da9839a759e630,Flavia,Mo***s,IT Project Manager,True,Yes,2026-03-05T07:34:04.848+00:00
+Ceará,,,5c2fb0a080f93ee2abb04de1,Rodrigo,Mo***o,Gestor De Tic,True,Yes,2026-01-27T18:43:21.116+00:00
+Ceará,,,5f0aa222d658bb00016e8de0,Marcia,No***e,Gestora de TI,True,Yes,2026-02-15T21:35:09.000+00:00
+Pães,,,6426d6a55e45c40001af23cf,Thatiane,Al***s,Financial Supervisor,True,Yes,2026-01-30T16:08:26.000+00:00
+Pães,,,67aa2661c96f600001349c30,Davide,To***i,IT Manager,True,Yes,2026-01-13T16:22:08.762+00:00
+Pães,,,5aca7259a6da9840fc221f90,Jonathan,Ca***r,IT Manager,True,Yes,2026-02-17T15:13:30.000+00:00
+Pães,,,60c2fce6c9dec200018574e5,Jason,Mo***r,IT Manager,True,Yes,2026-01-27T22:11:00.162+00:00
+Pães,,,5b89a711f874f773f26d7e84,Andre,Do***s,IT Manager,True,Yes,2026-02-11T03:52:31.000+00:00
+Pães,,,67c154d2faca3b00016e2146,Siddaramaiah,Mb,IT Manager,True,Yes,2026-02-07T04:38:16.000+00:00
+Pães,,,629de7e95dde1000015f2dcb,Patrick,Oj***g,IT Manager,True,Yes,2026-02-16T19:57:26.000+00:00
+Pães,,,66f824d76a60a5000159234e,Aaron,Gu***z,IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-02T12:17:04.000+00:00
+Pães,,,54ebbdc974686943114e8e1a,Christian,Ke***y,UK IT Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-04T14:29:16.755+00:00
+Pães,,,60b1c6966ffd2e000152ca2b,Jose,Di***s,Regional IT Manager,True,Yes,2026-03-02T00:16:57.257+00:00
+Pães,,,54ec2966746869431185715c,Vanessa,Re***s,Finance Supervisor and Head of Consolidation,True,Yes,2026-01-27T11:42:38.209+00:00
+Pães,,,5d55232da3ae61bc0563a58d,Diogo,Ca***o,IT Manager - Enterprise Architecture & Integrations,True,Yes,2026-02-24T11:27:03.414+00:00
+Pães,,,5d42a9caa3ae6130344b61ee,Ana,Pi***s,"Finance Supervisor, Business Controller",True,Maybe: please request direct dial via people/bulk_match,2026-01-23T10:47:40.000+00:00
+Pães,,,5f5dcf2d5efcf50001444511,Caroline,Ka***i,IT & Infrastructure Manager,True,Yes,2026-02-16T20:31:15.000+00:00
+Pães,,,65616877c303760001dc5fee,Paul,Ng***a,Information Communication Technology Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-17T22:46:17.000+00:00
+Pães,,,66f12e5604e016000156ed08,Elthon,Si***a,IT Project Manager,True,Yes,2026-02-03T18:56:15.000+00:00
+Pães,,,6242a58223a5210001c4e752,Jim,Em***e,IT Systems Manager,True,Yes,2026-02-24T15:09:18.000+00:00
+Pães,,,66fd54a8ad2fc10001089cbf,Manuel,Du***e,IT Project Manager,True,Yes,2026-02-21T15:30:12.000+00:00
+Pães,,,54a742577468696de754e123,Dana,Co***e,Information Technology Development Manager,True,Yes,2026-02-14T06:51:31.000+00:00
+Pães,,,564a52bfa6da98479200a932,Tristan,Wo***k,M&A Manager,True,Yes,2026-02-17T12:57:20.809+00:00
+Pães,,,63ff3df9b5366f0001de6a81,Agnes,Uw***e,IT Assistant Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-26T13:09:26.533+00:00
+Pães,,,640f663934416100012b7df0,Laura,Co***a,Finance Business Controller Supervisor,True,Maybe: please request direct dial via people/bulk_match,2025-04-15T20:06:48.711+00:00
+Pães,,,57d33930a6da9865a04f3912,Tania,Ta***s,Finance Business Controller Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-03-01T05:57:01.082+00:00
+Pães,,,6349987c7df25d00018b382f,Rainer,Ro***r,"Senior Sales Manager D,a,ch,i",True,Yes,2026-02-26T10:55:26.144+00:00
+Pães,,,63b5bd3b07cf080001d2ddea,Andres,Eg***a,Responsable de TI,True,Yes,2026-02-22T17:29:01.998+00:00
+Pães,,,6125f88330a3720001e3330e,Nuno,Gr***a,Information Technology Executive,True,Maybe: please request direct dial via people/bulk_match,2026-02-11T07:39:54.000+00:00
+Arezzo Industria e Comercio SA,arezzo.com.br,http://www.arezzo.com.br,5d62a04cf65125b9fbfe94bd,Nathalia,La***n,Sr. Finance and FP&A Manager,True,Yes,2026-02-27T11:38:58.656+00:00
+Arezzo Industria e Comercio SA,arezzo.com.br,http://www.arezzo.com.br,614ed831d2f78300018d0b85,Rafael,Va***s,IT Infrastructure Manager,True,Yes,2026-02-25T17:42:21.512+00:00
+Arezzo Industria e Comercio SA,arezzo.com.br,http://www.arezzo.com.br,60f85d54c5b69100014e2d85,Denis,Vo***i,Sr. IT and Operations Manager,True,Yes,2026-03-11T06:09:08.444+00:00
+Fagundes,,,54a3d3067468692cf000d415,Diego,St***n,IT Manager,True,Yes,2026-02-27T01:47:55.000+00:00
+BRK Ambiental,brkambiental.com.br,http://www.brkambiental.com.br,5e5cc7dbb3aa2b00013ce562,Nathalia,Li***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-13T15:40:10.000+00:00
+BRK Ambiental,brkambiental.com.br,http://www.brkambiental.com.br,64808e187d78110001053e74,Tayana,So***s,Financial Supervisor,True,Yes,2026-02-21T23:18:39.559+00:00
+BRK Ambiental,brkambiental.com.br,http://www.brkambiental.com.br,60898f8e1d8f750001b0d33d,Lazaro,Sa***s,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-27T22:38:30.000+00:00
+BRK Ambiental,brkambiental.com.br,http://www.brkambiental.com.br,66cd74a02c2e120001706419,Debora,Fr***s,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-30T19:00:56.000+00:00
+BRK Ambiental,brkambiental.com.br,http://www.brkambiental.com.br,5e875873397a1400010969af,Sandra,Fu***i,Information Technology Application Manager,True,Yes,2026-02-21T02:51:23.779+00:00
+BRK Ambiental,brkambiental.com.br,http://www.brkambiental.com.br,6018041aff05d500015094ff,Marcelo,Ca***o,IT Infrastructure Manager,True,Yes,2026-02-28T00:02:27.000+00:00
+BRK Ambiental,brkambiental.com.br,http://www.brkambiental.com.br,611571c84848f6000157bbff,Douglas,Pe***a,Gerente de TI | Head of Data & Analytics,True,Yes,2026-03-09T07:18:47.000+00:00
+EDP Brasil,,,6116a605b4de3f0001468f39,Adriana,Mo***a,IT Manager Senior-Strategy Projects,True,Yes,2026-03-11T14:37:37.906+00:00
+EDP Brasil,,,54a496e07468693209945553,Simone,Ma***a,IT Program Project Manager,True,Yes,2026-02-25T03:21:29.000+00:00
+Ambipar,ambipar.com,http://www.ambipar.com,57dce405a6da987da02f5154,Alexandre,Ca***e,Senior IT Manager,True,Yes,2026-03-11T01:11:09.366+00:00
+Ambipar,ambipar.com,http://www.ambipar.com,5e8dfb532cd72f000153161c,Marcos,Ba***s,Financial Services Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-03-04T13:56:32.229+00:00
+OceanPact Serviços Marítimos,oceanpact.com,http://www.oceanpact.com,54a2f49c74686935be7d8349,Jessica,To***o,Controllership and FP&A Manager,True,Yes,2026-03-01T23:56:24.076+00:00
+OceanPact Serviços Marítimos,oceanpact.com,http://www.oceanpact.com,60f565ca6d74f300012268a7,Christina,Po***o,Senior IT Manager,True,Yes,2026-02-18T23:20:37.374+00:00
+OceanPact Serviços Marítimos,oceanpact.com,http://www.oceanpact.com,60e2aae7f960a00001b985ed,Vinicius,Ma***s,IT Project Manager,True,Yes,2026-03-02T23:00:44.864+00:00
+OceanPact Serviços Marítimos,oceanpact.com,http://www.oceanpact.com,5f7cc7b1762ebc0001f9b394,Anderson,Di***s,Information Security & IT Operations Manager,True,Yes,2026-02-21T17:52:08.446+00:00
+Ambipar | Brasil,,,63b33078ab2ffb00012e9dac,Caroline,La***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-01-29T22:58:50.000+00:00
+Veolia | Brasil,,,6611514935bc9b0007f88be2,Jonas,Fo***r,M&A and Business Development Manager,True,Yes,2026-02-06T12:57:59.109+00:00
+Orizon Valorização de Resíduos,orizonvr.com.br,http://www.orizonvr.com.br,54a3dbde7468692abf874918,Magda,So***a,Financial Supervisor,True,Yes,2026-01-26T20:38:46.000+00:00
+Matrix Energia,matrixenergia.com,http://www.matrixenergia.com,68cf5c3a5225d5000145f45e,Renata,Fu***m,Corporate and M&A Legal Manager,True,Yes,2026-02-13T19:52:22.000+00:00
+GS Inima Brasil,gsinimabrasil.com.br,http://www.gsinimabrasil.com.br,62a39d9d4f16590001dbab4f,Juliana,Li***a,Financial Supervisor,True,Maybe: please request direct dial via people/bulk_match,2025-10-07T17:20:30.062+00:00
+GS Inima Brasil,gsinimabrasil.com.br,http://www.gsinimabrasil.com.br,6060abe3b871620001b30d1b,Cristina,Go***z,Financial Supervisor,True,Yes,2026-02-13T14:27:32.000+00:00
+GS Inima Brasil,gsinimabrasil.com.br,http://www.gsinimabrasil.com.br,682e0cd12227f200011589ab,Wilson,Ju***r,IT Manager,True,Yes,2026-02-18T04:17:21.000+00:00
+GS Inima Brasil,gsinimabrasil.com.br,http://www.gsinimabrasil.com.br,611d627deeccf50001e953ec,Marcus,Ol***a,IT Manager,True,Yes,2026-02-28T23:48:34.363+00:00
+GS Inima Brasil,gsinimabrasil.com.br,http://www.gsinimabrasil.com.br,54a50c3e74686938ac2ec878,Eduardo,Az***o,Supervisor Administrativo e Financeiro,True,Yes,2026-02-08T03:33:36.000+00:00
+Solví Essencis Ambiental,solvi.com.br,http://www.solvi.com.br,5c46feafa3ae61eb008ced0a,Jose,Ol***a,Financial Administrative Supervisor,True,Maybe: please request direct dial via people/bulk_match,2026-02-15T02:57:09.000+00:00
+Cetrel,cetrel.com.br,http://www.cetrel.com.br,57db62b2a6da985e68974324,Silvia,Me***s,Responsável TI,True,Yes,2026-02-13T15:14:33.000+00:00
+Grupo BBF,,,615d2a26db03340001daaa31,Caio,Mo***o,FP&A Manager,True,Maybe: please request direct dial via people/bulk_match,2026-02-03T18:19:30.829+00:00
+Grupo BBF,,,5d4326c5dcb0470c25862532,Marcelo,Be***o,IT Manager,True,Yes,2026-03-04T18:17:30.690+00:00
+Grupo Multilixo,multilixo.com.br,http://www.multilixo.com.br,54a5b0c87468693209db05a1,Paulo,In***e,IT Manager,True,Yes,2026-03-06T13:00:40.254+00:00
+Sustentare Saneamento S/A,sustentaresaneamento.com.br,http://www.sustentaresaneamento.com.br,5ddabde91569be000195998a,Jose,Ap***o,Gerente de T.I.,True,Yes,2026-01-31T10:27:23.000+00:00
+CAESB - Companhia de Saneamento Ambiental do Distrito Federal,caesb.df.gov.br,http://www.caesb.df.gov.br,62ced50a81bc6c0001265919,Wellington,Le***e,Information Technology Manager,True,Yes,2026-01-23T18:30:00.769+00:00
+Ambiental Limpeza Urbana e Saneamento Ltda.,ambiental.sc,http://www.ambiental.sc,54a414267468693209b3082b,Leonardo,Fe***o,IT Manager,True,Yes,2026-02-16T03:56:43.000+00:00
+Companhia Catarinense de Águas e Saneamento - Casan,casan.com.br,http://www.casan.com.br,60cce9e2a200bb0001d58fbf,Helton,Kr***s,Information Technology Manager,True,Yes,2026-02-03T03:18:31.000+00:00
+Companhia Catarinense de Águas e Saneamento - Casan,casan.com.br,http://www.casan.com.br,61082aad193ad40001ea26a0,Sandro,Am***l,Chefe de TI Casan,True,Yes,2026-01-25T18:41:24.000+00:00
+COPASA,,,61155d848f447000012cc304,Eduardo,Ne***o,IT Manager,True,Yes,2026-02-22T11:32:53.000+00:00
+CAERN - Companhia de Águas e Esgotos do Rio Grande do Norte,caern.rn.gov.br,http://www.caern.rn.gov.br,60ccce932776530001aa4776,Bruno,Go***s,Information Technology Manager,True,Yes,2026-02-16T12:53:25.000+00:00
